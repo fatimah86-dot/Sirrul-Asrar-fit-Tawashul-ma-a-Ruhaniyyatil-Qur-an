@@ -5566,3 +5566,897 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 **[TIDAK ADA RAJAH - TERVERIFIKASI DARI GAMBAR SCAN]** (Halaman ini hanya berisi teks; tidak ada wafaq, tabel gambar, atau rajah.)
 
 ---
+## HALAMAN 399 — Lanjutan «فوائد البسملة» (butir t–z)
+
+**AR:** …لَهُ ذَلِكَ مِنْ جَلْبِ الْخَيْرِ اَوْ دَفْعِ شَرٍّ فَتُقْضَى حَاجَتُهُ بِاِذْنِ اللَّهِ تَعَالَى .
+
+**LAT:** …lahu dhālika min jalbi al-khayri aw daf‘i sharrin fa-tuqḍā ḥājatuhu bi-idhni Allāhi ta‘ālā.
+
+**ID:** “…(akan terlaksana) baginya hal itu, baik berupa menarik kebaikan maupun menolak keburukan, maka hajatnya akan ditunaikan dengan izin Allah Ta‘ala.” (Sambungan langsung dari halaman 398: «…على نية أي أمر كان، تمّ … له ذلك».)
+
+**AR:** ت- لِلْاَمْنِ
+
+**LAT:** t — li-al-amn.
+
+**ID:** “t. Untuk keamanan.”
+
+**AR:** وَمَنْ قَرَاَ الْبَسْمَلَةَ عِنْدَ النَّوْمِ (١٢) مَرَّةً آمَنَهُ اللَّهُ تَعَالَى فِي تِلْكَ اللَّيْلَةِ مِنَ الشَّيْطَانِ ، وَمِنَ السَّرِقَةِ وَمِنْ مَوْتِ الْفَجْاَةِ ، وَيَدْفَعُ عَنْهُ كُلَّ بَلَاءٍ .
+
+**LAT:** wa-man qara’a al-basmalata ‘inda al-nawmi (12) marratan āmanahu Allāhu ta‘ālā fī tilka al-laylati mina al-shayṭāni, wa-mina al-sariqati wa-min mawti al-faj’ati, wa-yadfa‘u ‘anhu kulla balā’in.
+
+**ID:** “Dan siapa membaca basmalah menjelang tidur **(12) kali**, Allah Ta‘ala mengamankannya pada malam itu dari setan, dari pencurian, dan dari kematian mendadak; dan (basmalah) itu menolak darinya segala bencana.”
+
+**AR:** ث- لِاِذْلَالِ الظَّالِمِ
+
+**LAT:** th — li-idhlāli al-ẓālim.
+
+**ID:** “ts. Untuk merendahkan orang zalim.”
+
+**AR:** وَاِذَا قَرَاْتَ الْبَسْمَلَةَ فِي وَجْهِ ظَالِمٍ عَدَدَ (50) مَرَّةٍ اَذَلَّهُ اللَّهُ .
+
+**LAT:** wa-idhā qara’ta al-basmalata fī wajhi ẓālimin ‘adada (50) marratin adhallahu Allāhu.
+
+**ID:** “Dan apabila engkau membaca basmalah di wajah orang zalim sebanyak **(50) kali**, Allah akan merendahkannya.”
+
+**AR:** ج- لِزَوَالِ الْوَجَعِ
+
+**LAT:** j — li-zawāli al-waja‘.
+
+**ID:** “j. Untuk hilangnya rasa sakit.”
+
+**AR:** وَاِذَا قَرَاْتَ الْبَسْمَلَةَ عَلَى اَيِّ وَجَعٍ كَانَ (١٠٠) مَرَّةٍ مُدَّةَ ثَلَاثَةِ اَيَّامٍ زَالَ الْوَجَعُ بِاِذْنِ اللَّهِ تَعَالَى .
+
+**LAT:** wa-idhā qara’ta al-basmalata ‘alā ayyi waja‘in kāna (100) marratin muddata thalāthati ayyāmin zāla al-waja‘u bi-idhni Allāhi ta‘ālā.
+
+**ID:** “Dan apabila engkau membaca basmalah atas rasa sakit apa pun sebanyak **(100) kali** selama tiga hari, rasa sakit itu akan hilang dengan izin Allah Ta‘ala.”
+
+**AR:** ح- لِلْمَحَبَّةِ
+
+**LAT:** ḥ — li-al-maḥabbah.
+
+**ID:** “ḥ. Untuk mahabbah (cinta).”
+
+**AR:** وَمَنْ تَلَاهَا (الْبَسْمَلَة) بِعَدَدِهَا وَهُوَ (٧٨٦) مَرَّةً عَلَى قَدَحٍ مِنَ الْمَاءِ وَسَقَاهُ لِمَنْ شَاءَ اَحَبَّهُ حُبًّا شَدِيدًا .
+
+**LAT:** wa-man talāhā (al-basmalah) bi-‘adadihā wa-huwa (786) marratan ‘alā qadaḥin mina al-mā’i wa-saqāhu li-man shā’a aḥabbahu ḥubban shadīdan.
+
+**ID:** “Dan siapa membacanya (basmalah) dengan jumlahnya, yaitu **(786) kali**, di atas segelas air lalu memberikannya minum kepada siapa yang ia kehendaki, maka orang itu akan mencintainya dengan cinta yang sangat kuat.”
+
+**AR:** خ- لِلْحِفْظِ وَالذَّكَاءِ
+
+**LAT:** kh — li-al-ḥifẓi wa-al-dhakā’.
+
+**ID:** “kh. Untuk hafalan dan kecerdasan.”
+
+**AR:** وَمَنْ تَلَاهَا (الْبَسْمَلَة) عَلَى مَاءٍ بِعَدَدِهَا (٧٨٦) مَرَّةً وَشَرِبَ مِنْهُ بَلِيدُ الْفَهْمِ عِنْدَ طُلُوعِ الشَّمْسِ مُدَّةَ سَبْعَةِ اَيَّامٍ ، زَالَتْ بَلَادَتُهُ وَحَفِظَ كُلَّ مَا سَمِعَهُ بِاِذْنِ اللَّهِ تَعَالَى .
+
+**LAT:** wa-man talāhā (al-basmalah) ‘alā mā’in bi-‘adadihā (786) marratan wa-shariba minhu balīdu al-fahmi ‘inda ṭulū‘i al-shamsi muddata sab‘ati ayyāmin, zālat balādatuhu wa-ḥafiẓa kulla mā sami‘ahu bi-idhni Allāhi ta‘ālā.
+
+**ID:** “Dan siapa membacanya (basmalah) di atas air dengan jumlahnya **(786) kali**, lalu air itu diminum oleh orang yang lamban pemahamannya pada waktu matahari terbit selama tujuh hari, maka kebodohannya akan hilang dan ia akan menghafal segala yang didengarnya dengan izin Allah Ta‘ala.”
+
+**AR:** د- لِمَنْ لَا يَعِيشُ اَوْلَادُهَا
+
+**LAT:** d — li-man lā ya‘īshu awlāduhā.
+
+**ID:** “d. Bagi perempuan yang anak-anaknya tidak hidup.” (Cetakan: «أولادها» dengan hā’ — dipertahankan.)
+
+**AR:** وَاِذَا كُتِبَتْ (الْبَسْمَلَة) (١٦) مَرَّةً وَحَمَلَتْهَا مَنْ لَا يَعِيشُ اَوْلَادُهَا ، عَاشُوا بِاِذْنِ اللَّهِ تَعَالَى .
+
+**LAT:** wa-idhā kutibat (al-basmalah) (16) marratan wa-ḥamalathā man lā ya‘īshu awlāduhā, ‘āshū bi-idhni Allāhi ta‘ālā.
+
+**ID:** “Dan apabila (basmalah) dituliskan **(16) kali** lalu dikenakan (dibawa) oleh perempuan yang anak-anaknya tidak hidup, maka anak-anaknya akan hidup dengan izin Allah Ta‘ala.”
+
+**AR:** ذ- لِحِفْظِ الزَّرْعِ وَالْبَرَكَةِ فِيهِ
+
+**LAT:** dh — li-ḥifẓi al-zar‘i wa-al-barakati fīhi.
+
+**ID:** “dz. Untuk menjaga tanaman dan keberkahannya.”
+
+**AR:** اِذَا كُتِبَتْ (الْبَسْمَلَة) فِي وَرَقَةٍ (١٠١) مَرَّةً وَدُفِنَتْ فِي الزَّرْعِ اَخْصَبَ ذَلِكَ الزَّرْعُ ، وَحُفِظَ مِنْ جَمِيعِ الْآفَاتِ وَحَصَلَتْ فِيهِ الْبَرَكَةُ .
+
+**LAT:** idhā kutibat (al-basmalah) fī waraqatin (101) marratan wa-dufinat fī al-zar‘i akhṣaba dhālika al-zar‘u, wa-ḥufiẓa min jamī‘i al-āfāti wa-ḥaṣalat fīhi al-barakatu.
+
+**ID:** “Apabila (basmalah) dituliskan pada selembar kertas **(101) kali** lalu ditanam di tengah tanaman, tanaman itu akan menjadi subur, terjaga dari segala hama, dan keberkahan akan muncul padanya.”
+
+**AR:** ر- لِصَيْدِ السَّمَكِ
+
+**LAT:** r — li-ṣaydi al-samak.
+
+**ID:** “r. Untuk menangkap ikan.”
+
+**AR:** وَاِذَا كُتِبَتْ (الْبَسْمَلَة) فِي لَوْحٍ مِنَ الرَّصَاصِ ، وَوُضِعَتْ فِي شَبَكَةِ صَيَّادٍ ، اِجْتَمَعَ اِلَيْهِ السَّمَكُ مِنْ كُلِّ مَكَانٍ .
+
+**LAT:** wa-idhā kutibat (al-basmalah) fī lawḥin mina al-raṣāṣi, wa-wuḍi‘at fī shabakati ṣayyādin, ijtama‘a ilayhi al-samaku min kulli makānin.
+
+**ID:** “Dan apabila (basmalah) dituliskan pada lempeng timah (raṣāṣ), lalu diletakkan di dalam jaring seorang penangkap ikan, ikan akan berkumpul kepadanya dari segala tempat.”
+
+**AR:** ز- لِلسَّلَامَةِ فِي الْحَرْبِ
+
+**LAT:** z — li-al-salāmati fī al-ḥarb.
+
+**ID:** “z. Untuk keselamatan dalam peperangan.”
+
+**AR:** وَاِذَا كُتِبَ اسْمُ اللَّهِ تَعَالَى (الرَّحِيم) فِي وَرَقَةٍ (١٩٠) مَرَّةً وَحَمَلَهَا الْمُحَارِبُ وَدَخَلَ بِهَا مَعْرَكَةَ الْحَرْبِ ، لَا يَعْمَلُ فِيهِ سِلَاحٌ ، وَلَا يَحْصُلُ لَهُ ضَرَرٌ .
+
+**LAT:** wa-idhā kutiba ismu Allāhi ta‘ālā (al-Raḥīm) fī waraqatin (190) marratan wa-ḥamalahā al-muḥāribu wa-dakhala bihā ma‘rakata al-ḥarbi, lā ya‘malu fīhi silāḥun, wa-lā yaḥṣulu lahu ḍararun.
+
+**ID:** “Dan apabila nama Allah Ta‘ala «(الرحيم)» dituliskan pada selembar kertas **(190) kali** lalu dibawa oleh pejuang dan ia masuk dengannya ke medan perang, senjata tidak akan melukainya dan ia tidak akan mengalami bahaya.”
+
+**Keterangan halaman.** Halaman ini melengkapi daftar khasiat basmalah yang dimulai pada halaman 398 (butir «أ- للهيبة» 150×, «ب- لجلب الخير ودفع الشر» 786×). Butir yang tercetak di halaman ini berurutan dengan huruf abjad Arab: **ت** (keamanan, 12×), **ث** (merendahkan orang zalim, 50×), **ج** (hilangnya rasa sakit, 100×), **ح** (mahabbah, 786× di atas air), **خ** (hafalan & kecerdasan, 786× di atas air), **د** (perempuan yang anaknya tidak hidup, 16× ditulis), **ذ** (menjaga tanaman, 101× ditulis lalu ditanam), **ر** (menangkap ikan, ditulis pada lempeng timah), **ز** (keselamatan perang, 190×). Sasaran tiap amalan disebut jelas: cinta, kecerdasan, keturunan, tanaman, ikan, dan peperangan. Tidak ada wafaq, tabel angka, atau thilasm pada halaman ini — hanya angka jumlah bacaan/penulisan.
+
+**Angka pada halaman ini (dibaca dari scan 200 DPI + crop per angka 2000 DPI).**
+
+| Butir | Kegunaan | Angka |
+|---|---|---|
+| ت | Keamanan (baca sebelum tidur) | ١٢ (12×) |
+| ث | Merendahkan orang zalim | 50 (50×) |
+| ج | Hilangnya rasa sakit (3 hari) | ١٠٠ (100×) |
+| ح | Mahabbah lewat air minum | ٧٨٦ (786×) |
+| خ | Hafalan & kecerdasan (7 hari) | ٧٨٦ (786×) |
+| د | Keturunan yang hidup | ١٦ (16×) |
+| ذ | Menjaga tanaman | ١٠١ (101×) |
+| ر | Menangkap ikan | — (tanpa angka) |
+| ز | Keselamatan dalam perang | ١٩٠ (190×) |
+
+**[TIDAK JELAS - HALAMAN 399]** (1) Halaman ini **mencampur dua sistem angka**: sebagian angka ditulis dengan angka Arab-Hindi («١٢»، «١٠٠»، «٧٨٦»، «١٦»، «١٠١»، «١٩٠») dan sebagian dengan angka Latin («50»). Keduanya dipertahankan sebagaimana tercetak dan tidak diseragamkan. (2) Angka Latin «(50)» pada butir «ث» terbaca jelas; angka «(50)» ini juga dipakai pada halaman 398 dengan huruf Latin. (3) Baris pertama halaman adalah **sambungan kalimat** dari halaman 398 («…تمّ») dan diberi penanda elipsis di awal; tanpa halaman sebelumnya kalimat ini tidak utuh. (4) Kata «الْبَسْمَلَة» di dalam tanda kurung pada butir ح/خ/د/ذ/ر ditulis lengkap oleh penyusun sebagai penjelas, bukan bagian dari kalimat asli — tetapi tanda kurung itu **ada pada cetakan** dan dipertahankan. (5) Pada butir «د» subjeknya perempuan («مَنْ لَا يَعِيشُ اَوْلَادُهَا») tetapi `حَمَلَتْهَا` memakai dhamir mu’annath — susunan ini sesuai cetakan. (6) Tidak ada citra tertanam pada halaman ini menurut `get_image_info()`, dan pada scan 200 DPI tidak terlihat gambar, wafaq, atau tabel cetak (tabel di atas adalah tabel bantu transkripsi).
+
+**[TIDAK ADA RAJAH - TERVERIFIKASI DARI GAMBAR SCAN]** (Halaman ini hanya berisi teks butir-butir khasiat beserta angka; tidak ada rajah, wafaq, atau thilasm.)
+
+---
+## HALAMAN 400 — «س- للصداع» dan «دعاء البسملة في الطريقة القادرية العلية»
+
+**AR:** كِتَابُ سِرِّ الْأَسْرَارِ فِي التَّوَاصُلِ مَعَ رُوحَانِيَّاتِ الْقُرْآنِ — شَيْخُ الرُّوحَانِيِّينَ الشَّيْخُ عَطِيَّةُ عَبْدُ الْحَمِيدِ
+
+**LAT:** kitābu sirri al-asrāri fī al-tawāṣuli ma‘a rūḥāniyyāti al-qur’āni — shaykhu al-rūḥāniyyīna al-shaykhu ‘Aṭiyyatu ‘Abdu al-Ḥamīdi
+
+**ID:** “Kitab «Sirr al-Asrār fī al-Tawāṣul ma‘a Rūḥāniyyāt al-Qur’ān» — Syaikh para ruhaniyyin, Syaikh ‘Aṭiyyah ‘Abd al-Ḥamīd.” (Kepala halaman.)
+
+**AR:** س- لِلصُّدَاعِ
+
+**LAT:** s — li-al-ṣudā‘.
+
+**ID:** “s. Untuk sakit kepala.” (Butir terakhir daftar khasiat yang dimulai pada hlm. 398–399.)
+
+**AR:** وَمَنْ كَتَبَ (الْبَسْمَلَة) فِي وَرَقَةٍ (١٢) مَرَّةً وَعَلَّقَهَا عَلَى صَاحِبِ الصُّدَاعِ ، زَالَ بِاِذْنِ اللَّهِ تَعَالَى .
+
+**LAT:** wa-man kataba (al-basmalah) fī waraqatin (12) marratan wa-‘allaqahā ‘alā ṣāḥibi al-ṣudā‘i, zāla bi-idhni Allāhi ta‘ālā.
+
+**ID:** “Dan siapa menuliskan (basmalah) pada selembar kertas **(12) kali** lalu menggantungkannya pada orang yang menderita sakit kepala, (sakit itu) akan hilang dengan izin Allah Ta‘ala.”
+
+**AR:** دُعَاءُ الْبَسْمَلَةِ فِي الطَّرِيقَةِ الْقَادِرِيَّةِ الْعَلِيَّةِ
+
+**LAT:** du‘ā’u al-basmalati fī al-ṭarīqati al-qādiriyyati al-‘aliyyati.
+
+**ID:** “Doa basmalah dalam ṭarīqah Qādiriyyah ‘Aliyyah.” (Judul bagian baru.)
+
+**AR:** مُقَدِّمَةٌ عَنِ الدُّعَاءِ: اِعْلَمْ اَخِي السَّالِكِ اَنَّ دُعَاءَ الْبَسْمَلَةِ هُوَ مِنْ اَعْظَمِ الْاَدْعِيَةِ وَالْاَوْرَادِ فِي الطَّرِيقَةِ الْقَادِرِيَّةِ الْعَلِيَّةِ وَلَهُ مِنَ الْفَضَائِلِ مَا لَا يَعْلَمُهَا اِلَّا اللَّهُ وَهُوَ مِنَ الْاَدْعِيَةِ الْمُجَرَّبَةِ الَّذِي ظَهَرَ نَفْعُهُ لِكُلِّ مَنْ عَمِلَ بِهِ
+
+**LAT:** muqaddimatun ‘ani al-du‘ā’i: i‘lam akhī al-sālik anna du‘ā’a al-basmalati huwa min a‘ẓami al-ad‘iyati wa-al-awrādi fī al-ṭarīqati al-qādiriyyati al-‘aliyyati wa-lahu mina al-faḍā’ili mā lā ya‘lamuhā illā Allāhu wa-huwa mina al-ad‘iyati al-mujarrabati alladhī ẓahara naf‘uhu li-kulli man ‘amila bihi
+
+**ID:** “Pengantar tentang doa: ketahuilah, saudaraku salik, bahwa doa basmalah termasuk doa dan wirid yang paling agung dalam ṭarīqah Qādiriyyah ‘Aliyyah; ia memiliki keutamaan yang tidak diketahui kecuali oleh Allah, dan ia termasuk doa-doa yang sudah teruji yang manfaatnya nyata bagi siapa saja yang mengamalkannya.”
+
+**AR:** وَمِنْ اَهَمِّ فَوَائِدِهِ (قُوَّةُ الْبَصِيرَة) وَالْكَشْفِ . الْقَبُولِ وَالْمَحَبَّةِ بَيْنَ النَّاسِ . اِجَابَةِ الدَّعْوَةِ . الْهَدْوُءِ وَالرَّاحَةِ . الْحَالِ الْجَمَالِي . قُوَّةِ الدَّعْوَةِ اِلَى اللَّهِ فَهُوَ يَجْعَلُكَ مَقْبُولًا بَيْنَ النَّاسِ . تَزْكِيَةِ الْهَيْبَةِ بَيْنَ النَّاسِ . تَزْكِيَةِ النَّفْسِ (
+
+**LAT:** wa-min ahammi fawā’idihi (quwwatu al-baṣīrah) wa-al-kashfi. al-qabūli wa-al-maḥabbati bayna al-nāsi. ijābati al-da‘wati. al-hudū’i wa-al-rāḥati. al-ḥāli al-jamālī. quwwati al-da‘wati ilā Allāhi fa-huwa yaj‘aluka maqbūlan bayna al-nāsi. tazkiyati al-haybati bayna al-nāsi. tazkiyati al-nafsi.
+
+**ID:** “Dan di antara faedah terpentingnya: (kekuatan bashīrah) dan kasyf; penerimaan dan cinta di antara manusia; dikabulkannya seruan; ketenangan dan ketenteraman; keadaan yang indah (al-ḥāl al-jamālī); kekuatan menyeru kepada Allah sehingga Ia menjadikanmu diterima di tengah manusia; penyucian kewibawaan di hadapan manusia; penyucian jiwa.” (Cetakan: «الْهَدْوُءِ» — dipertahankan.)
+
+**AR:** وَاِلَيْكَ اَخِي السَّالِكِ كَيْفِيَّةَ اسْتِخْدَامِهِ كَمَا اَخَذْنَاهُ عَنْ مَشَايِخِنَا بِالْاِذْنِ وَالْاِجَازَةِ
+
+**LAT:** wa-ilayka akhī al-sāliki kayfiyyata istikhdāmihi kamā akhadhnāhu ‘an mashāyikhinā bi-al-idhni wa-al-ijāzati
+
+**ID:** “Dan kepada engkau, saudaraku salik, (berikut) tata cara penggunaannya sebagaimana kami terima dari para syaikh kami dengan izin dan ijazah.”
+
+**AR:** 1- الْوِرْدُ الْيَوْمِيُّ: تَقْرَاُ بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ (٧٨٦) مَرَّةً وَتُصَلِّي عَلَى النَّبِيِّ (١٩٩) مَرَّةً ثُمَّ تَدْعُو بِالدُّعَاءِ مَرَّةً
+
+**LAT:** 1 — al-wirdu al-yawmiyyu: taqra’u bismi Allāhi al-Raḥmāni al-Raḥīmi (786) marratan wa-tuṣallī ‘alā al-nabiyyi (199) marratan thumma tad‘ū bi-al-du‘ā’i marratan
+
+**ID:** “1. Wirid harian: engkau membaca «بسم الله الرحمن الرحيم» **(786) kali**, bershalawat kepada Nabi **(199) kali**, kemudian berdoa dengan (doa itu) satu kali.”
+
+**AR:** 2- فِي الْخَلْوَةِ: تَقْرَاُ بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ تِسْعَةَ عَشَرَ اَلْفَ مَرَّةٍ فِي الْيَوْمِ بَعْدَ كُلِّ اَلْفِ رَكْعَتَيْنِ ثُمَّ الدُّعَاءُ مَرَّةً
+
+**LAT:** 2 — fī al-khalwati: taqra’u bismi Allāhi al-Raḥmāni al-Raḥīmi tis‘ata ‘ashara alfa marratin fī al-yawmi ba‘da kulli alfi rak‘atayni thumma al-du‘ā’u marratan
+
+**ID:** “2. Dalam khalwat: engkau membaca «بسم الله الرحمن الرحيم» **sembilan belas ribu kali** dalam sehari; setelah setiap seribu (bacaan) dua rakaat, kemudian doa satu kali.”
+
+**AR:** وَيَجُوزُ لَكَ اَنْ تَزِيدَ فِي الْوِرْدِ الْيَوْمِيِّ اِلَى (١٠٠٠) مَرَّةٍ فَالزَمْ هَذَا الدُّعَاءَ تَنَالُ الْخَيْرَ وَالْبَرَكَاتِ وَهَذَا هُوَ الدُّعَاءُ :
+
+**LAT:** wa-yajūzu laka an tazīda fī al-wirdi al-yawmiyyi ilā (1000) marratin fa-alzam hādhā al-du‘ā’a tanāl al-khayra wa-al-barakāti wa-hādhā huwa al-du‘ā’u:
+
+**ID:** “Dan boleh bagimu menambah wirid harian hingga **(1000) kali**; maka tekunilah doa ini, engkau akan memperoleh kebaikan dan keberkahan-keberkahan. Dan inilah doanya:”
+
+**AR:** بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ . اللَّهُمَّ اِنِّي اَسْاَلُكَ بِحَقِّ بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ وَبِحُرْمَةِ بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ وَبِفَضْلِ بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ وَبِعَظَمَةِ بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ وَبِجَلَالِ بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ وَبِجَمَالِ بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ وَبِكَمَالِ بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ وَبِنِيَّتِهِ بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ وَبِمَنْزِلَةِ بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ وَبِمَلَكُوتِ بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ وَبِجَبَرُوتِ بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ وَبِكِبْرِيَاءِ بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ وَبِثَنَاءِ بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ وَبِبَهَاءِ بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ وَبِكَرَامَةِ بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ وَبِسُلْطَانِ بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ وَبِبَرَكَةِ بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ وَبِعِزَّةِ بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ وَبِقُوَّةِ بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ ، وَبِقُدْرَةِ بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ ، نَسْاَلُكَ اللَّهُمَّ اَنْ تَرْفَعَ قَدْرَ شَيْخِنَا وَاَتْبَاعَهُ فِي الطَّرِيقِ وَالسُّلُوكِ وَقَدْرَنَا . وَاشْرَحْ صَدْرَهُ وَصَدْرَنَا . وَيَسِّرْ اَمْرَهُ وَاَمْرَنَا . وَارْزُقْهُ وَارْزُقْنَا مِنْ حَيْثُ نَحْتَسِبْ وَمِنْ حَيْثُ لَا نَحْتَسِبْ . وَنَسْاَلُكَ اللَّهُمَّ لَهُ وَلَنَا
+
+**LAT:** bismi Allāhi al-Raḥmāni al-Raḥīmi. Allāhumma innī as’aluka bi-ḥaqqi bismi Allāhi al-Raḥmāni al-Raḥīmi wa-bi-ḥurmati bismi Allāhi al-Raḥmāni al-Raḥīmi wa-bi-faḍli bismi Allāhi al-Raḥmāni al-Raḥīmi wa-bi-‘aẓamati bismi Allāhi al-Raḥmāni al-Raḥīmi wa-bi-jalāli bismi Allāhi al-Raḥmāni al-Raḥīmi wa-bi-jamāli bismi Allāhi al-Raḥmāni al-Raḥīmi wa-bi-kamāli bismi Allāhi al-Raḥmāni al-Raḥīmi wa-bi-niyyatihi bismi Allāhi al-Raḥmāni al-Raḥīmi wa-bi-manzilati bismi Allāhi al-Raḥmāni al-Raḥīmi wa-bi-malakūti bismi Allāhi al-Raḥmāni al-Raḥīmi wa-bi-jabarūti bismi Allāhi al-Raḥmāni al-Raḥīmi wa-bi-kibriyā’i bismi Allāhi al-Raḥmāni al-Raḥīmi wa-bi-thanā’i bismi Allāhi al-Raḥmāni al-Raḥīmi wa-bi-bahā’i bismi Allāhi al-Raḥmāni al-Raḥīmi wa-bi-karāmati bismi Allāhi al-Raḥmāni al-Raḥīmi wa-bi-sulṭāni bismi Allāhi al-Raḥmāni al-Raḥīmi wa-bi-barakati bismi Allāhi al-Raḥmāni al-Raḥīmi wa-bi-‘izzati bismi Allāhi al-Raḥmāni al-Raḥīmi wa-bi-quwwati bismi Allāhi al-Raḥmāni al-Raḥīmi, wa-bi-qudrati bismi Allāhi al-Raḥmāni al-Raḥīmi, nas’aluka Allāhumma an tarfa‘a qadra shaykhinā wa-atbā‘ahu fī al-ṭarīqi wa-al-sulūki wa-qadranā. wa-ishraḥ ṣadrahu wa-ṣadranā. wa-yassir amrahu wa-amranā. wa-urzuqhu wa-urzuqnā min ḥaythu naḥtasibu wa-min ḥaythu lā naḥtasibu. wa-nas’aluka Allāhumma lahu wa-lanā
+
+**ID:** “«Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang. Ya Allah, aku memohon kepada-Mu dengan hak «بسم الله الرحمن الرحيم», dengan kehormatan «بسم الله الرحمن الرحيم», dengan keutamaan «بسم الله الرحمن الرحيم», dengan keagungan «بسم الله الرحمن الرحيم», dengan kemuliaan «بسم الله الرحمن الرحيم», dengan keindahan «بسم الله الرحمن الرحيم», dengan kesempurnaan «بسم الله الرحمن الرحيم», dengan niat-Nya «بسم الله الرحمن الرحيم», dengan kedudukan «بسم الله الرحمن الرحيم», dengan malakūt «بسم الله الرحمن الرحيم», dengan jabarūt «بسم الله الرحمن الرحيم», dengan kibriyā’ «بسم الله الرحمن الرحيم», dengan pujian «بسم الله الرحمن الرحيم», dengan cahaya «بسم الله الرحمن الرحيم», dengan karāmah «بسم الله الرحمن الرحيم», dengan kesultanan «بسم الله الرحمن الرحيم», dengan keberkahan «بسم الله الرحمن الرحيم», dengan keperkasaan «بسم الله الرحمن الرحيم», dengan kekuatan «بسم الله الرحمن الرحيم», dan dengan kekuasaan «بسم الله الرحمن الرحيم» — kami memohon kepada-Mu, ya Allah, agar Engkau mengangkat derajat syaikh kami dan para pengikutnya di jalan dan suluk, serta derajat kami; lapangkanlah dadanya dan dada kami; mudahkanlah urusannya dan urusan kami; berilah rezeki kepadanya dan kepada kami dari arah yang kami duga maupun yang tidak kami duga. Dan kami memohon kepada-Mu, ya Allah, untuknya dan untuk kami…»” (Doa **terpotong di akhir halaman** dan bersambung ke halaman 401.)
+
+**Keterangan halaman.** Halaman ini menutup daftar khasiat basmalah dengan butir terakhir **«س- للصداع»** (sakit kepala, 12× ditulis lalu digantungkan pada penderita), lalu membuka **bagian baru**: «دعاء البسملة في الطريقة القادرية العلية» — yaitu doa basmalah versi ṭarīqah Qādiriyyah ‘Aliyyah. Susunannya: (1) judul bagian; (2) «مقدمة عن الدعاء» — keutamaan doa ini dan daftar tujuh faedahnya (kekuatan bashīrah & kasyf, penerimaan dan mahabbah di antara manusia, dikabulkannya seruan, ketenangan, al-ḥāl al-jamālī, kekuatan dakwah, kewibawaan, tazkiyah jiwa); (3) tata cara penggunaan «sebagaimana diterima dari para syaikh dengan izin dan ijazah»: **wirid harian** 786× basmalah + 199× shalawat + doa 1×; **khalwat** 19.000× basmalah per hari, tiap 1000 bacaan dua rakaat, lalu doa; boleh menambah wirid harian hingga 1000×; (4) teks doa panjang dengan pola «بحق/وبحرمة/وبفضل/… بسم الله الرحمن الرحيم» yang sama dengan doa pada halaman 396, tetapi bagian penutupnya berbeda: di sini doa ditutup dengan permohonan untuk **syaikh dan para pengikutnya** (bukan untuk khādim). Doa berlanjut ke halaman berikutnya.
+
+**Angka pada halaman ini (dibaca dari scan + crop per angka 2000 DPI).** ١٢ (12×, butir sakit kepala), ٧٨٦ (786×, wirid harian), ١٩٩ (199×, shalawat), ١٩٠٠٠ (19.000×, khalwat — tertulis «تسعة عشر ألف»), ١٠٠٠ (1000×, batas penambahan wirid).
+
+**[TIDAK JELAS - HALAMAN 400]** (1) Angka «(١٩٩)» pada shalawat wirid harian terbaca jelas pada crop, tetapi **lapisan teks PDF mengekstraknya sebagai «٩٩١»** (terbalik); yang dipakai adalah pembacaan dari gambar. (2) Angka «(١٠٠٠)» juga diekstrak terbalik («٠٠٠١») oleh lapisan teks; dipakai pembacaan dari gambar. (3) Kata «الْهَدْوُءِ» tercetak dengan «و» di tengah — **[TEKS ASLI DIJAGA]**, tidak dikoreksi menjadi «الهدوء». (4) Daftar faedah pada «مقدمة عن الدعاء» tercetak menyambung dengan titik pemisah, bukan bernomor; urutannya disalin apa adanya. (5) Frasa «تَزْكِيَةِ الْهَيْبَةِ بَيْنَ النَّاسِ . تَزْكِيَةِ النَّفْسِ» — kata «تزكية» terulang dua kali dalam cetakan. (6) Pada doa tercetak «مِنْ حَيْثُ نَحْتَسِبْ» (dengan sukun pada «ب») — dipertahankan. (7) Doa **terpotong di akhir halaman** («ونسألك اللهم له ولنا»); lanjutannya ada di halaman 401 dan ditandai sambungan. (8) Tidak ada citra tertanam pada halaman ini menurut `get_image_info()`.
+
+**[TIDAK ADA RAJAH - TERVERIFIKASI DARI GAMBAR SCAN]** (Halaman ini hanya berisi teks butir khasiat, pengantar, tata cara, dan doa; tidak ada rajah, wafaq, atau thilasm.)
+
+---
+## HALAMAN 401 — Penutup doa basmalah Qādiriyyah
+
+**AR:** …اِيْمَانًا دَائِمًا . وَيَقِينًا صَادِقًا . وَقَلْبًا خَاشِعًا . وَعَمَلًا صَالِحًا مُتَقَبَّلًا . وَرِزْقًا حَلَالًا طَيِّبًا مُبَارَكًا . وَجَوَارِحَ مُطِيعَةً . وَبِفَضْلِكَ وَكَرَمِكَ وَاِحْسَانِكَ يَا مُحْسِنُ يَا مُتَفَضِّلُ ارْحَمْنَا
+
+**LAT:** …īmānan dā’iman. wa-yaqīnan ṣādiqan. wa-qalban khāshi‘an. wa-‘amalan ṣāliḥan mutaqabbalan. wa-rizqan ḥalālan ṭayyiban mubārakan. wa-jawāriḥa muṭī‘atan. wa-bi-faḍlika wa-karimka wa-iḥsānika yā muḥsinu yā mutafaḍḍilu irḥamnā
+
+**ID:** “…iman yang tetap, keyakinan yang benar, hati yang khusyuk, amal saleh yang diterima, rezeki halal yang baik lagi berkah, dan anggota badan yang taat. Dan dengan keutamaan, kemurahan, serta kebaikan-Mu, wahai Yang Maha Berbuat Baik, wahai Yang Maha Melimpahkan — rahmatilah kami.”
+
+**AR:** بِرَحْمَتِكَ يَا رَحِيمُ وَلَا تُحَمِّلْنَا مَا لَا نُطِيقُ اِنَّكَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ . يَا اللَّهُ يَا مُنَوِّرُ يَا فَتَّاحُ . نَوِّرْ قَلْبَهُ وَقُلُوبَنَا وَجَوَارِحَهُ كُلَّهَا وَجَوَارِحَنَا بِنُورِ مَعْرِفَتِكَ وَفُتُوحَاتِكَ وَمَوَاهِبِكَ اللَّدُنِّيَةِ . وَافْتَحْ لَهُ وَلَنَا اَبْوَابَ حِكْمَتِكَ وَطَرِيقَ الْوُصُولِ اِلَيْكَ . وَانْشُرْ عَلَيْهِ وَعَلَيْنَا خَزَائِنَ رَحْمَتِكَ . اِنَّكَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ . بِفَضْلِكَ وَكَرَمِكَ يَا مَنْ هُوَ
+
+**LAT:** bi-raḥmatika yā raḥīmu wa-lā tuḥammilnā mā lā nuṭīqu innaka ‘alā kulli shay’in qadīrun. yā Allāhu yā munawwiru yā fattāḥu. nawwir qalbahu wa-qulūbanā wa-jawāriḥahu kullahā wa-jawāriḥanā bi-nūri ma‘rifatika wa-futūḥātika wa-mawāhibika al-ladunniyyati. wa-aftaḥ lahu wa-lanā abwāba ḥikmatika wa-ṭarīqa al-wuṣūli ilayka. wa-anshur ‘alayhi wa-‘alaynā khazā’ina raḥmatika. innaka ‘alā kulli shay’in qadīrun. bi-faḍlika wa-karimka yā man huwa
+
+**ID:** “Dengan rahmat-Mu, wahai Yang Maha Penyayang, dan janganlah Engkau membebani kami dengan apa yang tidak kami sanggupi; sesungguhnya Engkau Mahakuasa atas segala sesuatu. Ya Allah, wahai Yang Maha Menerangi, wahai Yang Maha Membuka — terangilah hatinya dan hati kami, serta seluruh anggota badannya dan anggota badan kami, dengan cahaya pengenalan-Mu, pembukaan-pembukaan-Mu, dan anugerah-anugerah ladunni-Mu. Bukalah baginya dan bagi kami pintu-pintu hikmah-Mu dan jalan untuk sampai kepada-Mu. Dan bentangkanlah atasnya dan atas kami perbendaharaan rahmat-Mu. Sesungguhnya Engkau Mahakuasa atas segala sesuatu. Dengan keutamaan dan kemurahan-Mu, wahai Yang Dia adalah…”
+
+**AR:** . الَّلهُ لَا اِلَهَ اِلَّا هُوَ . اَلَمْ . الْمَصْ . الْر . الْمَر . كَهِيَعَص . طَس . طَسْم . حَم . ص . حَمَعْسَق . ن . ق . اَللَّهُ لَا اِلَهَ اِلَّا هُوَ الْحَيُّ الْقَيُّومُ لَا تَاخُذُهُ سِنَةٌ وَلَا نَوْمٌ لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْاَرْضِ مَنْ ذَا الَّذِي يَشْفَعُ عِنْدَهُ اِلَّا بِاِذْنِهِ يَعْلَمُ مَا بَيْنَ اَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلَا يُحِيطُونَ بِشَيْءٍ مِنْ عِلْمِهِ اِلَّا بِمَا شَاءَ وَسِعَ كُرْسِيُّهُ السَّمَاوَاتِ وَالْاَرْضَ وَلَا يَئُودُهُ حِفْظُهُمَا وَهُوَ الْعَلِيُّ الْعَظِيمُ . نَسْاَلُكَ يَا
+
+**LAT:** . Allāhu lā ilāha illā huwa. alif lām mīm. alif lām mīm ṣād. alif lām rā. alif lām mīm rā. kāf hā’ yā’ ‘ayn ṣād. ṭā’ sīn. ṭā’ sīn mīm. ḥā’ mīm. ṣād. ḥā’ mīm ‘ayn sīn qāf. nūn. qāf. Allāhu lā ilāha illā huwa al-Ḥayyu al-Qayyūmu lā ta’khudhuhu sinatun wa-lā nawmun lahu mā fī al-samāwāti wa-mā fī al-arḍi man dhā alladhī yashfa‘u ‘indahu illā bi-idhnihi ya‘lamu mā bayna aydīhim wa-mā khalfahum wa-lā yuḥīṭūna bi-shay’in min ‘ilmihi illā bimā shā’a wasi‘a kursiyyuhu al-samāwāti wa-al-arḍa wa-lā ya’ūduhu ḥifẓuhumā wa-huwa al-‘Aliyyu al-‘Aẓīmu. nas’aluka yā
+
+**ID:** “…Allah, tiada tuhan selain Dia. Alif Lām Mīm. Alif Lām Mīm Ṣād. Alif Lām Rā. Alif Lām Mīm Rā. Kāf Hā’ Yā’ ‘Ayn Ṣād. Ṭā’ Sīn. Ṭā’ Sīn Mīm. Ḥā’ Mīm. Ṣād. Ḥā’ Mīm ‘Ayn Sīn Qāf. Nūn. Qāf. Allah, tiada tuhan selain Dia, Yang Mahahidup, Yang Maha Berdiri Sendiri; Dia tidak mengantuk dan tidak tidur. Milik-Nya segala yang ada di langit dan di bumi. Siapakah yang akan memberi syafaat di hadapan-Nya tanpa izin-Nya? Dia mengetahui apa yang di hadapan mereka dan apa yang di belakang mereka, dan mereka tidak mengetahui sesuatu apa pun dari ilmu-Nya kecuali apa yang Dia kehendaki. Kursi-Nya meliputi langit dan bumi, dan Dia tidak merasa berat memelihara keduanya; Dialah Yang Mahatinggi lagi Mahaagung. Kami memohon kepada-Mu, wahai…” (Ayat al-Kursī, Q.S. al-Baqarah [2]: 255; pada cetakan awal ayat tercetak «الَّلهُ» dan «اَلَمْ» — dipertahankan.)
+
+**AR:** رَبِّ بِجَلَالِ الْعِزَّةِ وَجَلَالِ الْهَيْبَةِ وَبِعِزَّةِ الْقُوَّةِ وَبِكِبْرِيَاءِ الْعَظَمَةِ وَبِجَبَرُوتِ الْقُدْرَةِ يَا اللَّهُ يَا اَرْحَمَ الرَّاحِمِينَ . اَنْ تَجْعَلَهُ وَتَجْعَلْنَا مِنْ عِبَادِكَ الصَّالِحِينَ الَّذِينَ لَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ . وَاَنْ تَنْفَحَهُ وَتَنْفَحْنَا بِنَفْحَةِ تَوْحِيدِكَ الَّتِي مَنَنْتَ بِهَا عَلَى عِبَادِكَ الْمُخْتَارِينَ .
+
+**LAT:** rabbi bi-jalāli al-‘izzati wa-jalāli al-haybati wa-bi-‘izzati al-quwwati wa-bi-kibriyā’i al-‘aẓamati wa-bi-jabarūti al-qudrati yā Allāhu yā arḥama al-rāḥimīna. an taj‘alahu wa-taj‘alanā min ‘ibādika al-ṣāliḥīna alladhīna lā khawfun ‘alayhim wa-lā hum yaḥzanūna. wa-an tanfaḥahu wa-tanfaḥanā bi-nafḥati tawḥīdika allatī mananta bihā ‘alā ‘ibādika al-mukhtārīna.
+
+**ID:** “Wahai Tuhanku, dengan keagungan keperkasaan, keagungan kewibawaan, keperkasaan kekuatan, kebesaran keagungan, dan jabarūt kekuasaan — ya Allah, wahai Yang Maha Pengasih di antara para pengasih — jadikanlah dia dan jadikanlah kami termasuk hamba-hamba-Mu yang saleh, yang tidak ada rasa takut atas mereka dan tidak pula mereka bersedih. Dan tiupkanlah kepadanya dan kepada kami tiupan tauhid-Mu yang dengan itu Engkau berkenan kepada hamba-hamba-Mu yang terpilih.”
+
+**AR:** وَاَنْ تُفَرِّجَ عَنْهُ وَعَنَّا كُلَّ ضِيقٍ وَلَا تُحَمِّلْنَا مَا لَا نُطِيقُ . يَا مُجِيبَ السَّائِلِينَ نَسْاَلُكَ بِدَوَامِ الْبَقَاءِ . وَضِيَاءِ النُّورِ . وَحُسْنِ الْبَهَاءِ . وَبِاِشْرَاقِ وَجْهِكَ الْكَرِيمِ . يَا اَرْحَمَ الرَّاحِمِينَ
+
+**LAT:** wa-an tufarrija ‘anhu wa-‘annā kulla ḍīqin wa-lā tuḥammilnā mā lā nuṭīqu. yā mujība al-sā’ilīna nas’aluka bi-dawāmi al-baqā’i. wa-ḍiyā’i al-nūri. wa-ḥusni al-bahā’i. wa-bi-ishrāqi wajhika al-karīmi. yā arḥama al-rāḥimīna
+
+**ID:** “Dan lapangkanlah darinya dan dari kami setiap kesempitan, dan janganlah Engkau membebani kami dengan apa yang tidak kami sanggupi. Wahai Yang Maha Mengabulkan para pemohon, kami memohon kepada-Mu dengan (sifat) kekalnya keberadaan, cahaya yang bersinar, keindahan yang memesona, dan dengan bersinarnya wajah-Mu yang mulia — wahai Yang Maha Pengasih di antara para pengasih.”
+
+**AR:** نَسْاَلُكَ لَهُ وَلَنَا فُتُوحَاتِ الْاَنْبِيَاءِ وَالْمُرْسَلِينَ . وَاَوْلِيَائِكَ وَالصَّالِحِينَ . وَالْاَقْطَابِ وَالْمَدْرِكِينَ . وَهَبْ لَنَا مَا وَهَبْتَهُمْ وَاكْشِفْ عَنْ بَصِيرَتِنَا . اللَّهُمَّ اِنَّا نَسْاَلُكَ بِحَقِّ اسْمِكَ
+
+**LAT:** nas’aluka lahu wa-lanā futūḥāti al-anbiyā’i wa-al-mursalīna. wa-awliyā’ika wa-al-ṣāliḥīna. wa-al-aqṭābi wa-al-mudrikīna. wa-hab lanā mā wahabb-tahum wa-ikshif ‘an baṣīratinā. Allāhumma innā nas’aluka bi-ḥaqqi ismika
+
+**ID:** “Kami memohon kepada-Mu untuknya dan untuk kami pembukaan-pembukaan (futūḥāt) para nabi dan rasul, para wali-Mu dan orang-orang saleh, serta para aqṭāb dan orang-orang yang telah mencapai (ma‘rifat). Anugerahkanlah kepada kami apa yang Engkau anugerahkan kepada mereka, dan singkapkanlah dari bashīrah (mata batin) kami. Ya Allah, kami memohon kepada-Mu dengan hak nama-Mu…”
+
+**AR:** بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ الَّذِي لَا اِلَهَ اِلَّا هُوَ عَالِمُ الْغَيْبِ وَالشَّهَادَةِ هُوَ الرَّحْمَنُ الرَّحِيمُ اَلَمْ اللَّهُ لَا اِلَهَ اِلَّا هُوَ الْحَيُّ الْقَيُّومُ الَّذِي مَلَئَتْ عَظَمَتُهُ السَّمَاوَاتِ وَالْاَرْضَ وَبِاسْمِكَ الْاَعْظَمِ بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ الْحَيُّ الْقَيُّومُ الَّذِي عَنَتْ لَهُ الْوُجُوهُ وَخَشَعَتْ لَهُ الْاَصْوَاتُ وَوَجِلَتْ مِنْهُ الْقُلُوبُ اللَّهُ اللَّهُ اللَّهُ اَنْ تُصَلِّيَ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى الِ سَيِّدِنَا مُحَمَّدٍ وَاَنْ تَتَقَبَّلَ دَعْوَتَنَا وَتُوَفِّقَنَا لِمَا تُحِبُّهُ وَتَرْضَاهُ وَلَا تَقْطَعَنَا عَنْ تَوْحِيدِكَ يَا اَرْحَمَ الرَّاحِمِينَ . سَخِّرْ لَنَا خُدَّامَ اسْمِكَ الْعَظِيمِ الْاَعْظَمِ وَخُدَّامَ بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ يَكُونُوا لَنَا عَوْنًا وَمُطِيعِينَ وَمُسَخَّرِينَ فِي كُلِّ وَقْتٍ وَحِينٍ وَاقْضِ حَاجَاتِنَا .
+
+**LAT:** bismi Allāhi al-Raḥmāni al-Raḥīmi alladhī lā ilāha illā huwa ‘ālimu al-ghaybi wa-al-shahādati huwa al-Raḥmānu al-Raḥīmu alam Allāhu lā ilāha illā huwa al-Ḥayyu al-Qayyūmu alladhī mala’at ‘aẓamatuhu al-samāwāti wa-al-arḍa wa-bi-ismika al-a‘ẓami bismi Allāhi al-Raḥmāni al-Raḥīmi al-Ḥayyu al-Qayyūmu alladhī ‘anat lahu al-wujūhu wa-khasha‘at lahu al-aṣwātu wa-wajilat minhu al-qulūbu Allāhu Allāhu Allāhu an tuṣalliya ‘alā sayyidinā Muḥammadin wa-‘alā āli sayyidinā Muḥammadin wa-an tataqabbala da‘watanā wa-tuwaffiqanā limā tuḥibbuhu wa-tarḍāhu wa-lā taqṭa‘anā ‘an tawḥīdika yā arḥama al-rāḥimīna. sakhkhir lanā khuddāma ismika al-‘aẓīmi al-a‘ẓami wa-khuddāma bismi Allāhi al-Raḥmāni al-Raḥīmi yakūnū lanā ‘awnan wa-muṭī‘īna wa-musakhkharīna fī kulli waqtin wa-ḥīnin wa-iqḍi ḥājātinā.
+
+**ID:** “«…dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang, yang tiada tuhan selain Dia, Yang Mengetahui yang gaib dan yang nyata; Dialah Yang Maha Pengasih lagi Maha Penyayang. Alif Lām Mīm. Allah, tiada tuhan selain Dia, Yang Mahahidup, Yang Maha Berdiri Sendiri, yang keagungan-Nya memenuhi langit dan bumi. Dan dengan nama-Mu yang paling agung «بسم الله الرحمن الرحيم», Yang Mahahidup, Yang Maha Berdiri Sendiri, yang kepada-Nya tunduk segala wajah, yang kepada-Nya sunyi segala suara, dan yang karena-Nya gemetar segala hati — Allah, Allah, Allah — (kami memohon) agar Engkau melimpahkan shalawat kepada junjungan kami Muhammad dan kepada keluarga junjungan kami Muhammad, agar Engkau menerima doa kami, memberi kami taufik kepada apa yang Engkau cintai dan ridhai, dan tidak memutuskan kami dari tauhid kepada-Mu, wahai Yang Maha Pengasih di antara para pengasih. Tundukkanlah bagi kami para khādim nama-Mu yang agung dan paling agung, serta para khādim «بسم الله الرحمن الرحيم», agar mereka menjadi penolong bagi kami, taat, dan tertundukkan pada setiap waktu dan saat; dan tunaikanlah hajat-hajat kami».”
+
+**AR:** وَنَسْاَلُكَ اللَّهُمَّ جَلْبَ الْقُلُوبِ وَالنُّفُوسِ وَالْمُلُوكِ وَالْحُكَّامِ وَجَمِيعِ بَنِي اَدَمَ وَبَنَاتِ حَوَّاءَ الصَّغِيرِ وَالْكَبِيرِ الْحُرِّ وَالْعَبْدِ وَالْاِنْسِ وَالْجِنِّ مِنْ جَمِيعِ مَلْكِكَ شِبْرًا بِشِبْرٍ وَذِرَاعًا بِذِرَاعٍ اِلَى شَيْخِنَا وَطَرِيقَتِهِ وَسُلُوكِهَا مَعَ التَّسْخِيرِ الْكَامِلِ . وَنَسْاَلُكَ اللَّهُمَّ بِسِرِّ
+
+**LAT:** wa-nas’aluka Allāhumma jalba al-qulūbi wa-al-nufūsi wa-al-mulūki wa-al-ḥukkāmi wa-jamī‘i banī Ādama wa-banāti Ḥawwā’a al-ṣaghīri wa-al-kabīri al-ḥurri wa-al-‘abdi wa-al-insi wa-al-jinni min jamī‘i mulkika shibran bi-shibrin wa-dhirā‘an bi-dhirā‘in ilā shaykhinā wa-ṭarīqatihi wa-sulūkihā ma‘a al-taskhīri al-kāmili. wa-nas’aluka Allāhumma bi-sirri
+
+**ID:** “Dan kami memohon kepada-Mu, ya Allah, (untuk) menarik hati dan jiwa, para raja dan para hakim, serta seluruh anak Adam dan anak perempuan Hawa — yang kecil maupun yang besar, yang merdeka maupun yang hamba, manusia maupun jin — dari seluruh kerajaan-Mu, sejengkal demi sejengkal dan sehasta demi sehasta, kepada syaikh kami, ṭarīqahnya, dan suluknya, dengan penundukan yang sempurna. Dan kami memohon kepada-Mu, ya Allah, dengan rahasia…”
+
+**AR:** هَذِهِ الْاَسْرَارِ وَبِحَقِّ كَرَمِكَ الْخَفِيِّ وَبِحَقِّ اسْمِكَ الْعَظِيمِ الْاَعْظَمِ اَنْ تَرْفَعَ الْحُجُبَ بَيْنَنَا وَبَيْنَكَ وَبَيْنَنَا وَبَيْنَ حَبِيبِكَ الْمُصْطَفَى صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ اِنَّكَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ . وَصَلَّى اللَّهُ عَلَى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ النَّبِيِّ الْاُمِّيِّ وَعَلَى الِهِ وَصَحْبِهِ وَسَلَّمَ تَسْلِيمًا كَثِيرًا . اِلَى يَوْمِ الدِّينِ وَالْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ
+
+**LAT:** hādhihi al-asrāri wa-bi-ḥaqqi karimika al-khafiyyi wa-bi-ḥaqqi ismika al-‘aẓīmi al-a‘ẓami an tarfa‘a al-ḥujuba baynanā wa-baynaka wa-baynanā wa-bayna ḥabībika al-Muṣṭafā ṣallā Allāhu ‘alayhi wa-sallama innaka ‘alā kulli shay’in qadīrun. wa-ṣallā Allāhu ‘alā sayyidinā wa-mawlānā Muḥammadini al-nabiyyi al-ummiyyi wa-‘alā ālihi wa-ṣaḥbihi wa-sallama taslīman kathīran. ilā yawmi al-dīni wa-al-ḥamdu lillāhi rabbi al-‘ālamīna
+
+**ID:** “…rahasia-rahasia ini, dan dengan hak kemurahan-Mu yang tersembunyi, dan dengan hak nama-Mu yang agung dan paling agung — (kami memohon) agar Engkau mengangkat hijab antara kami dengan-Mu, dan antara kami dengan kekasih-Mu al-Muṣṭafā ﷺ; sesungguhnya Engkau Mahakuasa atas segala sesuatu. Dan semoga Allah melimpahkan shalawat kepada junjungan dan pelindung kami Muhammad, nabi yang ummi, serta kepada keluarga dan para sahabatnya, dan semoga Dia memberi keselamatan yang banyak — sampai hari kiamat. Dan segala puji bagi Allah, Tuhan seluruh alam.”
+
+**Keterangan halaman.** Halaman ini adalah **penutup doa basmalah ṭarīqah Qādiriyyah ‘Aliyyah** yang dimulai pada halaman 400. Urutannya: (1) lanjutan permohonan dari halaman sebelumnya (iman, keyakinan, hati khusyuk, amal saleh, rezeki halal, anggota badan yang taat); (2) permohonan cahaya ma‘rifat, futūḥāt, dan mawāhib ladunniyyah bagi syaikh dan para pembaca; (3) deret **huruf muqaṭṭa‘ah** yang ditulis berurutan: «الم . المص . الر . المر . كهيعص . طس . طسم . حم . ص . حمعسق . ن . ق»; (4) **Ayat al-Kursī** lengkap (Q.S. 2: 255) dalam tulisan berharakat; (5) permohonan dengan deret «بجلال العزة وجلال الهيبة…» dan permohonan agar dijadikan hamba saleh; (6) permohonan pembukaan para nabi/rasul/awliyā’/aqṭāb dan penyingkapan bashīrah; (7) **pengulangan blok doa basmalah** yang sama dengan halaman 396 & 400 («بسم الله الرحمن الرحيم الذي لا إله إلا هو عالم الغيب والشهادة…» sampai «واقض حاجاتنا»); (8) permohonan khusus «جلب القلوب والنفوس والملوك والحكام… شبرا بشبر وذراعا بذراع إلى شيخنا وطريقته وسلوكها مع التسخير الكامل» — yaitu **taskhīr bertahap** (sejengkal demi sejengkal, sehasta demi sehasta) untuk menarik hati manusia dan jin kepada syaikh dan ṭarīqah; (9) penutup: permohonan diangkatnya hijab, shalawat, dan hamdalah. Halaman ini juga menutup rangkaian panjang risalah basmalah (hlm. 392–401).
+
+**[TIDAK JELAS - HALAMAN 401]** (1) Deret huruf muqaṭṭa‘ah tercetak dengan pemisah titik dan **susunan yang tidak mengikuti urutan mushaf** («الم . المص . الر . المر . كهيعص . طس . طسم . حم . ص . حمعسق . ن . ق»); **[TEKS ASLI DIJAGA]** — disalin persis, tidak diurutkan ulang. (2) Ayat al-Kursī tercetak dengan **harakat lengkap** dan berbeda dari penulisan pada halaman 396/400 (yang tanpa harakat); keduanya dibiarkan sesuai cetakan masing-masing. (3) Pada awal ayat tercetak «الَّلهُ» (dengan tasydid ganda) dan «اَلَمْ» dengan harakat — dipertahankan. (4) Kata «وَهَبْتَهُمْ» tercetak «وَهَبْتَهُمْ» namun pada baris yang sama tampak «وَهَبْتَهُمْ»/«وَهَبْتَهُمْ» bertumpuk pada scan; dibaca «وهبتهم» dan dipertahankan. (5) Frasa «وَالْمَدْرِكِينَ» (bentuk jamak dari «مُدرِك») dipertahankan sesuai cetakan. (6) Baris pertama halaman adalah **sambungan** dari halaman 400 («…ونسألك اللهم له ولنا» → «إيمانا دائما…»), ditandai elipsis. (7) Tidak ada citra tertanam pada halaman ini menurut `get_image_info()`.
+
+**[TIDAK ADA RAJAH - TERVERIFIKASI DARI GAMBAR SCAN]** (Halaman ini hanya berisi teks doa; tidak ada rajah, wafaq, atau thilasm. Deret huruf muqaṭṭa‘ah di sini adalah **teks doa**, bukan rajah bertulis tangan.)
+
+---
+## HALAMAN 402 — «دعوة والضحى الى الذين لا يحبون السريانية»
+
+**AR:** كِتَابُ سِرِّ الْأَسْرَارِ فِي التَّوَاصُلِ مَعَ رُوحَانِيَّاتِ الْقُرْآنِ — شَيْخُ الرُّوحَانِيِّينَ الشَّيْخُ عَطِيَّةُ عَبْدُ الْحَمِيدِ
+
+**LAT:** kitābu sirri al-asrāri fī al-tawāṣuli ma‘a rūḥāniyyāti al-qur’āni — shaykhu al-rūḥāniyyīna al-shaykhu ‘Aṭiyyatu ‘Abdu al-Ḥamīdi
+
+**ID:** “Kitab «Sirr al-Asrār fī al-Tawāṣul ma‘a Rūḥāniyyāt al-Qur’ān» — Syaikh para ruhaniyyin, Syaikh ‘Aṭiyyah ‘Abd al-Ḥamīd.” (Kepala halaman.)
+
+**AR:** دَعْوَةُ وَالضُّحَى اِلَى الَّذِينَ لَا يُحِبُّونَ السُّرْيَانِيَّةَ
+
+**LAT:** da‘watu wa-al-ḍuḥā ilā alladhīna lā yuḥibbūna al-suryāniyyata.
+
+**ID:** “Dakwah (penggunaan) «wa-al-Ḍuḥā» bagi mereka yang tidak menyukai (bacaan) Suryani.” (Judul bagian.)
+
+**AR:** الْحَمْدُ لِلَّهِ وَكَفَى وَصَلَاةٌ وَسَلَامٌ عَلَى عِبَادِهِ الَّذِينَ اصْطَفَى . اَمَّا بَعْدُ......
+
+**LAT:** al-ḥamdu lillāhi wa-kafā wa-ṣalātun wa-salāmun ‘alā ‘ibādihi alladhīna iṣṭafā. ammā ba‘du......
+
+**ID:** “Segala puji bagi Allah, dan cukuplah (Dia); shalawat dan salam atas hamba-hamba-Nya yang Dia pilih. Amma ba‘du…”
+
+**AR:** اِعْلَمْ اَيُّهَا الطَّالِبُ اَنَّ سُورَةَ وَالضُّحَى يَخْدِمُهَا سَبْعُ مُلُوكٍ عِلْوِيِّينَ اِثْنَيْنِ مِنْهُمْ مَعَ السَّحَابِ الْمُسَخَّرِ بَيْنَ السَّمَاءِ وَالْاَرْضِ وَاِثْنَيْنِ مِنْهُمْ طَيَّارَيْنِ مَعَ الرِّيَاحِ وَاِثْنَيْنِ مِنْهُمْ سَاكِنِينَ فِي الْبُحُورِ وَمَلِكٌ وَاحِدٌ يَحْكُمُ عَلَى السِّتَّةِ الْآخَرِينَ وَعَلَى الْجِهَاتِ الْاَرْبَعِ وَيَحْكُمُ عَلَى مُلُوكِ الْجَانِّ الْمُوَكَّلُونَ بِالْكُنُوزِ فِي مَشَارِقِ الْاَرْضِ وَمَغَارِبِهَا
+
+**LAT:** i‘lam ayyuhā al-ṭālibu anna sūrata wa-al-ḍuḥā yakhdimuhā sab‘u mulūkin ‘ilwiyyīna ithnayni minhum ma‘a al-saḥābi al-musakhkhari bayna al-samā’i wa-al-arḍi wa-ithnayni minhum ṭayyārayni ma‘a al-riyāḥi wa-ithnayni minhum sākinīna fī al-buḥūri wa-malikun wāḥidun yaḥkumu ‘alā al-sittati al-ākharīna wa-‘alā al-jihāti al-arba‘i wa-yaḥkumu ‘alā mulūki al-jānni al-muwakkalūna bi-al-kunūzi fī mashāriqi al-arḍi wa-maghāribihā
+
+**ID:** “Ketahuilah, wahai penuntut, bahwa surah «Wa al-Ḍuḥā» dilayani oleh **tujuh malaikat (mulūk) ‘ilwiyyīn**: dua di antaranya bersama awan yang ditundukkan antara langit dan bumi, dua di antaranya terbang bersama angin, dua di antaranya berdiam di lautan, dan satu malaikat (raja) yang memerintah atas keenam lainnya, atas empat penjuru, dan memerintah atas para raja jin yang ditugaskan dengan perbendaharaan di timur dan barat bumi.” (Cetakan: «الْمُوَكَّلُونَ» dengan «و» — dipertahankan.)
+
+**AR:** وَاعْلَمْ اَنَّ الْمَلَكَيْنِ اَصْحَابِ السَّحَابِ هُمْ: مَعْصِيَائِيل وَدَعْيَائِيل
+
+**LAT:** wa-i‘lam anna al-malakayni aṣḥābi al-saḥābi hum: Ma‘ṣiyā’īl wa-Da‘yā’īl
+
+**ID:** “Dan ketahuilah bahwa dua malaikat pemilik awan adalah: **Ma‘ṣiyā’īl** dan **Da‘yā’īl**.”
+
+**AR:** وَ اَصْحَابُ الرِّيَاحِ هُمْ: عَصْيَائِيل وَ طَهْبِيَائِيل
+
+**LAT:** wa-aṣḥābu al-riyāḥi hum: ‘Aṣyā’īl wa-Ṭahbiyā’īl
+
+**ID:** “Dan para pemilik angin adalah: **‘Aṣyā’īl** dan **Ṭahbiyā’īl**.”
+
+**AR:** وَ اَصْحَابُ الْبِحَارِ هُمْ: طُوبِيَائِيل وَ الثَّانِى رُوبِيَائِيل
+
+**LAT:** wa-aṣḥābu al-biḥāri hum: Ṭūbiyā’īl wa-al-thānī Rūbiyā’īl
+
+**ID:** “Dan para pemilik lautan adalah: **Ṭūbiyā’īl** dan yang kedua **Rūbiyā’īl**.”
+
+**AR:** وَ الْمَلِكُ الْحَاكِمُ عَلَيْهِمْ جَمِيعًا هُوَ: طَهْكَفْيَائِيل
+
+**LAT:** wa-al-maliku al-ḥākimu ‘alayhim jamī‘an huwa: Ṭahkafyā’īl
+
+**ID:** “Dan malaikat (raja) yang memerintah atas mereka semua adalah: **Ṭahkafyā’īl**.”
+
+**AR:** وَ اِيْضًا يَخْدِمُهَا جَمِيعُ مَلَائِكَةِ السَّمَاءِ الْخَامِسَةِ وَهُمْ اَهْلُ فَلَكِ الْمَرِيخِ وَالْمُقَدَّمُ عَلَيْهِمْ جَمِيعًا هُوَ السَّيِّدُ سَمْسَمَائِيل
+
+**LAT:** wa-ayḍan yakhdimuhā jamī‘u malā’ikati al-samā’i al-khāmisati wa-hum ahlu falaki al-Marīkhi wa-al-muqaddamu ‘alayhim jamī‘an huwa al-sayyidu Samsamā’īl
+
+**ID:** “Dan juga dilayani oleh seluruh malaikat langit kelima, yaitu penghuni falak Marikh (Mars), dan yang diutamakan atas mereka semua adalah **al-Sayyid Samsamā’īl**.”
+
+**AR:** وَ يَخْدِمُهَا مِنَ الْجِنِّ الْاَرْضَيْنِ الْمَلِكُ الْاَحْمَر صَاحِبُ يَوْمِ الثُّلَاثَاءِ بِجَمِيعِ اَهْلِ مَمْلَكَتِهِ وَ خُدَّامِهِ وَ اَعْوَانِهِ .
+
+**LAT:** wa-yakhdimuhā mina al-jinni al-arḍayni al-maliku al-aḥmaru ṣāḥibu yawmi al-thulāthā’i bi-jamī‘i ahli mamlakatihi wa-khuddāmihi wa-a‘wānihi.
+
+**ID:** “Dan (surah ini) dilayani dari golongan jin dua bumi oleh **al-Malik al-Aḥmar**, pemilik hari Selasa, bersama seluruh penghuni kerajaannya, para khādim, dan para pembantunya.” (Cetakan: «الْاَرْضَيْنِ» — dipertahankan.)
+
+**AR:** وَ لِلسُّورَةِ خَوَاصُّ جَلِيلَةٌ وَمَعَانٍ شَرِيفَةٌ فَابْتَدِىء الْقَوْلَ فَاَقُولُ اِنَّ مِنْ خَوَاصِّ السُّورَةِ اَنَّ مَنْ قَرَاَهَا كُلَّ يَوْمٍ سَبْعَ مَرَّاتٍ عِنْدَ طُلُوعِ الشَّمْسِ وَعِنْدَ غُرُوبِهَا لَمْ يَضِعْ لَهُ ضَائِعٌ وَلَا يَهْرَبُ مِنْ بَيْتِهِ هَارِبٌ وَلَا يَسْرِقُ بَيْتَهُ سَارِقٌ وَيُصْبِحُ مَحْفُوظًا وَلَا يُطْرِقُ سَاحَتَهُ طَارِقٌ بَشَرٌ وَلَا يَدْخُلُ بَيْتَهُ فَسَادٌ وَلَا وَبَاءٌ وَلَا طَاعُونٌ وَلَا سَارِقٌ .
+
+**LAT:** wa-li-al-sūrati khawāṣṣu jalīlatun wa-ma‘ānin sharīfatun fa-abtadi’u al-qawla fa-aqūlu anna min khawāṣṣi al-sūrati anna man qara’ahā kulla yawmin sab‘a marrātin ‘inda ṭulū‘i al-shamsi wa-‘inda ghurūbihā lam yaḍi‘ lahu ḍā’i‘un wa-lā yahrabu min baytihi hāribun wa-lā yasriqu baytahu sāriqun wa-yuṣbiḥu maḥfūẓan wa-lā yuṭriqu sāḥatahu ṭāriqun basharun wa-lā yadkhulu baytahu fasādun wa-lā wabā’un wa-lā ṭā‘ūnun wa-lā sāriqun.
+
+**ID:** “Surah ini memiliki khasiat-khasiat yang mulia dan makna-makna yang luhur. Maka aku mulai perkataan (ini) dan aku katakan: di antara khasiat surah ini, siapa yang membacanya setiap hari **tujuh kali** pada waktu matahari terbit dan terbenam, tidak akan hilang barang miliknya, tidak akan kabur orang yang melarikan diri dari rumahnya, tidak akan mencuri rumahnya seorang pencuri; ia akan berada dalam keadaan terjaga, tidak akan datang ke pekarangannya seorang tamu (pendatang) manusia, tidak akan masuk ke rumahnya kerusakan, wabah, tha‘ūn, atau pencuri.”
+
+**AR:** وَمَنْ ضَاعَ لَهُ ضَائِعٌ اَوْ سُرِقَ مِنْهُ سَرِقَةٌ فَلْيُصَلِّ الضُّحَى ثَمَانِ رَكَعَاتٍ يَوْمَ الْجُمُعَةِ يَقْرَاُ فِي كُلِّ رَكْعَةٍ سُورَةَ الضُّحَى ثَلَاثًا ثُمَّ اِذَا فَرَغَ مِنَ الصَّلَاةِ يَقْرَاُ السُّورَةَ سَبْعًا ثُمَّ يَقُولُ سَبْعًا:
+
+**LAT:** wa-man ḍā‘a lahu ḍā’i‘un aw suriqa minhu sariqatun fa-l-yuṣalli al-ḍuḥā thamāna rak‘ātin yawma al-jumu‘ati yaqra’u fī kulli rak‘atin sūrata al-ḍuḥā thalāthan thumma idhā faragha mina al-ṣalāti yaqra’u al-sūrata sab‘an thumma yaqūlu sab‘an:
+
+**ID:** “Dan siapa yang kehilangan sesuatu atau kecurian, hendaklah ia shalat «al-Ḍuḥā» **delapan rakaat** pada hari Jumat, pada setiap rakaat membaca surah al-Ḍuḥā **tiga kali**; kemudian setelah selesai shalat ia membaca surah itu **tujuh kali**, lalu mengucapkan (doa) **tujuh kali**:”
+
+**AR:** يَا جَامِعَ الْعَجَائِبِ يَا رَادَّ كُلِّ غَائِبٍ يَا جَامِعَ الشَّتَاتِ يَا مَنْ مَقَالِيدُ الْاُمُورِ بِيَدِهِ اِجْمَعْ عَلَى ضَالَّتِى اَوْ سَرِقَتِى لَا جَامِعَ لَهُ الَّا اَنْتَ .
+
+**LAT:** yā jāmi‘a al-‘ajā’ibi yā rādda kulli ghā’ibin yā jāmi‘a al-shatāti yā man maqālīdu al-umūri bi-yadihi ijma‘ ‘alā ḍāllatī aw sariqatī lā jāmi‘a lahu illā anta.
+
+**ID:** “«Wahai Yang Menghimpun segala keajaiban, wahai Yang Mengembalikan segala yang hilang, wahai Yang Mengumpulkan yang tercerai-berai, wahai Yang kunci-kunci segala urusan berada di tangan-Nya — kumpulkanlah (kembali) barangku yang hilang atau yang dicuri, tiada yang dapat mengumpulkannya kecuali Engkau».” (Cetakan: «ضَالَّتِى» dan «سَرِقَتِى» dengan «ى» tanpa titik dua — dipertahankan.)
+
+**AR:** وَ مَنْ قَرَاَهَا كُلَّ يَوْمٍ وَقْتِ الضُّحَى ٢٠٠ مَرَّةً وَ وَاظَبَ عَلَيْهَا اَطْلَعَهُ اللَّهُ عَلَى عَجَائِبِ الْمَلَكُوتِ وَ غَرَائِبِ الْاَسْرَارِ وَ صَارَ مِنْ اَوْلِيَاءِ اللَّهِ .
+
+**LAT:** wa-man qara’ahā kulla yawmin waqti al-ḍuḥā 200 marratan wa-wāẓaba ‘alayhā aṭla‘ahu Allāhu ‘alā ‘ajā’ibi al-malakūti wa-gharā’ibi al-asrāri wa-ṣāra min awliyā’i Allāhi.
+
+**ID:** “Dan siapa membacanya setiap hari pada waktu ḍuḥā **200 kali** dan menekuninya, Allah akan memperlihatkan kepadanya keajaiban-keajaiban malakūt dan keanehan-keanehan rahasia, dan ia akan menjadi termasuk para wali Allah.”
+
+**AR:** وَ مَنْ تَعَسَّرَ عَلَيْهِ الْحِفْظُ فَلْيَصُمْ سَبْعَ اَيَّامٍ وَ يَكْتُبْهَا كُلَّ يَوْمٍ فِي اِنَاءٍ اَبْيَضَ لَا رُسُومَ وَ لَا كِتَابَةً فِيهِ وَ الْكِتَابَةُ بِالْحِبْرِ الرُّوحَانِيِّ ثُمَّ يَمْحُوهَا وَ يُفْطِرْ بِهَا فَاِنَّهُ يَتَيَسَّرُ عَلَيْهِ الْحِفْظُ بِبَرَكَتِهَا .
+
+**LAT:** wa-man ta‘assara ‘alayhi al-ḥifẓu fa-l-yaṣum sab‘a ayyāmin wa-yaktubhā kulla yawmin fī inā’in abyaḍa lā rusūma wa-lā kitābatan fīhi wa-al-kitābatu bi-al-ḥibri al-rūḥāniyyi thumma yamḥūhā wa-yufṭir bihā fa-innahu yatayassaru ‘alayhi al-ḥifẓu bi-barakātihā.
+
+**ID:** “Dan siapa yang sulit menghafal, hendaklah ia berpuasa **tujuh hari** dan menulisnya setiap hari pada sebuah wadah putih yang tidak ada gambar dan tulisan padanya — penulisan dengan tinta ruhani — kemudian ia menghapusnya (dengan air) dan berbuka dengan (air) itu; maka hafalan akan menjadi mudah baginya berkat (surah) itu.”
+
+**Keterangan halaman.** Halaman ini memulai bagian baru: **«دعوة والضحى»** — amalan surah al-Ḍuḥā (Q.S. 93) yang ditujukan «kepada mereka yang tidak menyukai (bacaan) Suryani», yaitu alternatif bagi pengamal yang tidak memakai basmalah Suryani. Susunannya: (1) judul dan hamdalah; (2) **hierarki tujuh mulūk ‘ilwiyyīn** yang melayani surah ini — dua bersama awan, dua bersama angin, dua di lautan, satu raja yang memerintah keenam lainnya, empat penjuru, dan para raja jin penjaga perbendaharaan timur-barat; (3) **daftar nama malaikat** per tugas: pemilik awan «معصيائيل و دعيائيل», pemilik angin «عصيائيل و طهبيائيل», pemilik lautan «طوبيائيل و الثاني روبيائيل», raja pemimpin «طهكفيائيل»; (4) tambahan: seluruh malaikat langit kelima (penghuni falak Marikh) dipimpin «السيد سمسماييل»; (5) pelayan dari jin: «الملك الاحمر صاحب يوم الثلاثاء»; (6) khasiat surah: 7× saat terbit dan terbenam matahari → keamanan rumah dari kehilangan, pencuri, wabah, tha‘ūn; (7) amalan barang hilang/kecurian: shalat 8 rakaat hari Jumat, tiap rakaat 3× al-Ḍuḥā, lalu 7× surah dan 7× doa «يا جامع العجائب…»; (8) 200× setiap waktu ḍuḥā → kasyf malakūt dan menjadi wali; (9) amalan menghafal: puasa 7 hari, menulis surah pada wadah putih dengan tinta ruhani, menghapusnya lalu berbuka dengannya.
+
+**Angka pada halaman ini (dibaca dari scan + crop 2500 DPI).** ٧ (tujuh mulūk; tujuh kali bacaan; tujuh hari puasa), ٢ (dua per kelompok — disebut dengan kata «اثنين»), ١ (satu raja — «ملك واحد»), ٤ (empat penjuru — «الجهات الاربع»), ٨ (delapan rakaat), ٣ (tiga kali per rakaat), ٢٠٠ (200× waktu ḍuḥā).
+
+**[TIDAK JELAS - HALAMAN 402]** (1) **Nama-nama malaikat** pada halaman ini («معصيائيل»، «دعيائيل»، «عصيائيل»، «طهبيائيل»، «طوبيائيل»، «روبيائيل»، «طهكفيائيل»، «سمسماييل») tercetak tanpa vokalisasi konsisten dan sebagian hurufnya bertumpuk; **[TEKS ASLI DIJAGA]** — semuanya disalin menurut bentuk huruf yang terbaca, tanpa diterka maknanya dan tanpa dinormalisasi. (2) Judul «دعوة و الضحى» tercetak dengan «و» berdiri sendiri (bukan bagian dari kata) — dipertahankan. (3) Kata «الْاَرْضَيْنِ» (dua bumi) adalah bentuk tatsniyah yang tidak lazim; dipertahankan. (4) «الْمَرِيخ» (Marikh/Mars) ditulis dengan «ي» dan tanpa hamzah; dipertahankan. (5) «لَا يُطْرِقُ سَاحَتَهُ» tercetak dengan «ط» (bukan «يطرق» sebagaimana lazim) — dipertahankan. (6) Pada amalan barang hilang tercetak «ثَلَاثًا» (tiga kali) lalu «سَبْعًا» (tujuh kali) untuk surah dan doa; angka-angka ini jelas pada scan. (7) Angka **٢٠٠** terbaca jelas pada perbesaran 2500 DPI (lapisan teks PDF mengekstraknya «٠٠٢»). (8) Tidak ada citra tertanam pada halaman ini menurut `get_image_info()`.
+
+**[TIDAK ADA RAJAH - TERVERIFIKASI DARI GAMBAR SCAN]** (Halaman ini hanya berisi teks; tidak ada rajah, wafaq, tabel angka, atau thilasm.)
+
+---
+## HALAMAN 403 — Lanjutan «دعوة والضحى» (khasiat dengan amalan khatam)
+
+**AR:** كِتَابُ سِرِّ الْأَسْرَارِ فِي التَّوَاصُلِ مَعَ رُوحَانِيَّاتِ الْقُرْآنِ — شَيْخُ الرُّوحَانِيِّينَ الشَّيْخُ عَطِيَّةُ عَبْدُ الْحَمِيدِ
+
+**LAT:** kitābu sirri al-asrāri fī al-tawāṣuli ma‘a rūḥāniyyāti al-qur’āni — shaykhu al-rūḥāniyyīna al-shaykhu ‘Aṭiyyatu ‘Abdu al-Ḥamīdi
+
+**ID:** “Kitab «Sirr al-Asrār fī al-Tawāṣul ma‘a Rūḥāniyyāt al-Qur’ān» — Syaikh para ruhaniyyin, Syaikh ‘Aṭiyyah ‘Abd al-Ḥamīd.” (Kepala halaman.)
+
+**AR:** وَ اَمَّا خَوَاصُّ السُّورَةِ مَعَ الدَّعْوَةِ اَنَّ مَنْ اَرَادَ اَنْ يَعْرِفَ سِرًّا مِنَ الْاَسْرَارِ اَوْ عِلْمًا مِنَ الْعُلُومِ فَلْيَصُمْ مِنْ اَوَّلِ يَوْمٍ مِنَ الشَّهْرِ الْعَرَبِى وَ بَعْدَ صَلَاةِ الْعِشَاءِ تُصَلِّى اَرْبَعَ رَكَعَاتٍ الْاُولَى بِالْفَاتِحَةِ وَ سُورَةِ الشَّمْسِ وَ الثَّانِيَةِ بِالْفَاتِحَةِ وَ اللَّيْلِ وَ الثَّالِثَةِ بِالْفَاتِحَةِ وَ الضُّحَى وَ الرَّابِعَةِ بِالْفَاتِحَةِ وَ التِّينِ
+
+**LAT:** wa-ammā khawāṣṣu al-sūrati ma‘a al-da‘wati anna man arāda an ya‘rifa sirran mina al-asrāri aw ‘ilman mina al-‘ulūmi fa-l-yaṣum min awwali yawmin mina al-shahri al-‘arabiyyi wa-ba‘da ṣalāti al-‘ishā’i tuṣallī arba‘a rak‘ātin al-ūlā bi-al-fātiḥati wa-sūrati al-shamsi wa-al-thāniyata bi-al-fātiḥati wa-al-layli wa-al-thālithata bi-al-fātiḥati wa-al-ḍuḥā wa-al-rābi‘ata bi-al-fātiḥati wa-al-tīni
+
+**ID:** “Dan adapun khasiat surah (al-Ḍuḥā) bersama «da‘wah»-nya: siapa yang ingin mengetahui suatu rahasia dari rahasia-rahasia atau suatu ilmu dari ilmu-ilmu, hendaklah ia berpuasa sejak hari pertama bulan Arab (Hijriah); dan setelah shalat ‘Isyā’ ia shalat **empat rakaat** — rakaat pertama dengan al-Fātiḥah dan surah al-Syams, kedua dengan al-Fātiḥah dan «al-Layl», ketiga dengan al-Fātiḥah dan al-Ḍuḥā, keempat dengan al-Fātiḥah dan al-Tīn.”
+
+**AR:** ثُمَّ بَعْدَ فَرَاغِ الصَّلَاةِ يُصَلِّى عَلَى النَّبِى صَلَاى اللَّهُ عَلَيْهِ وَ سَلَّمَ ٤٠ مَرَّةً وَ يَقْرَاُ الدَّعْوَةَ سَبْعَ مَرَّاتٍ ثُمَّ لِيَقُلْ:
+
+**LAT:** thumma ba‘da farāghi al-ṣalāti yuṣallī ‘alā al-nabiyyi ṣallā Allāhu ‘alayhi wa-sallama 40 marratan wa-yaqra’u al-da‘wata sab‘a marrātin thumma li-yaqul:
+
+**ID:** “Kemudian setelah selesai shalat ia bershalawat kepada Nabi ﷺ **40 kali** dan membaca «da‘wah» (doa) itu **tujuh kali**, lalu hendaklah ia mengucapkan:” (Cetakan: «صَلَاى» — dipertahankan.)
+
+**AR:** اَللَّهُمَّ يَسِّرْ عَلَىَّ فِى السِّرِّ الَّذِى يَسَّرْتَهُ عَلَى كَثِيرٍ مِنْ عِبَادِكَ وَ اَغْنِنِى بِهِ عَمَّنْ سِوَاك .
+
+**LAT:** allāhumma yassir ‘alayya fī al-sirri alladhī yassartahu ‘alā kathīrin min ‘ibādika wa-aghninī bihi ‘amman siwāk.
+
+**ID:** “«Ya Allah, mudahkanlah bagiku rahasia yang telah Engkau mudahkan bagi banyak hamba-Mu, dan cukupkanlah aku dengannya dari selain Engkau».”
+
+**AR:** وَ قَبْلَ الْقِرَاءَةِ تَكُونُ قَدْ كَتَبْتَ الْخَاتِمَ وَ تَضْعَهُ تَحْتَ رَأْسِكَ وَ تَنَامُ وَ اَنْتَ تَقْرَاُ السُّورَةَ وَ تَظَلُّ هَكَذَا كُلَّ لَيْلَةٍ مَعَ الصِّيَامِ حَتَّى يَبْعَثَ اللَّهُ لَكَ مَنْ يُعَلِّمُكَ مَا تُرِيدُ اِلْهَامًا اَوْ مَنَامًا .
+
+**LAT:** wa-qabla al-qirā’ati takūnu qad katabta al-khātima wa-taḍa‘uhu taḥta ra’sika wa-tanāmu wa-anta taqra’u al-sūrata wa-taẓallu hākadhā kulla laylatin ma‘a al-ṣiyāmi ḥattā yab‘atha Allāhu laka man yu‘allimuka mā turīdu ilhāman aw manāman.
+
+**ID:** “Dan sebelum membaca, hendaklah engkau telah menulis «al-khātim» (wafaq/cap) itu, lalu meletakkannya di bawah kepalamu; dan engkau tidur sambil membaca surah itu, dan engkau terus demikian setiap malam beserta puasa, sampai Allah mengutus bagimu orang yang mengajarimu apa yang engkau inginkan — melalui ilham atau mimpi.”
+
+**AR:** وَ مَنْ اَرَادَ مَعْرِفَةَ مَكَانِ ضَائِعٍ اَوْ مَسْرُوقٍ اَوْ مِنَ السَّارِقِ اَوْ عَنْ غَائِبٍ طَالَتْ غَيْبَتُهُ حَى اَوْ مَيِّتٌ فَلْيَصُمْ يَوْمَهُ مَعَ الرِّيَاضَةِ وَ قَبْلَ النَّوْمِ يَكْتُبُ الْخَاتِمَ وَ يُبَخِّرُ بِبَخُورِ الدَّعْوَةِ وَ يَقْرَاُ الدَّعْوَةَ سَبْعًا وَ يُوَكِّلُ ثُمَّ يَنَامُ قَارِئًا لِلسُّورَةِ فَاِنَّهُ يَقِفُ عَلَيْهِ مَنْ يُخْبِرُهُ بِمَا يُرِيدُ فِى الْمَنَامِ .
+
+**LAT:** wa-man arāda ma‘rifata makāni ḍā’i‘in aw masrūqin aw mina al-sāriqi aw ‘an ghā’ibin ṭālat ghaybatuhu ḥayyin aw mayyitin fa-l-yaṣum yawmahu ma‘a al-riyāḍati wa-qabla al-nawmi yaktubu al-khātima wa-yubakhkhiru bi-bakhūri al-da‘wati wa-yaqra’u al-da‘wata sab‘an wa-yuwakkilu thumma yanāmu qāri’an li-al-sūrati fa-innahu yaqifu ‘alayhi man yukhbiruhu bimā yurīdu fī al-manāmi.
+
+**ID:** “Dan siapa yang ingin mengetahui tempat barang yang hilang atau yang dicuri, atau (mengetahui) tentang pencurinya, atau tentang orang yang lama tidak hadir — hidup maupun mati — hendaklah ia berpuasa pada harinya disertai «riyāḍah», dan sebelum tidur ia menulis «al-khātim» dan membakar dupa «bakhūr al-da‘wah», membaca doa itu **tujuh kali**, lalu melakukan tawkil; kemudian ia tidur sambil membaca surah itu, maka ia akan didatangi (dalam mimpi) oleh orang yang memberitahukan kepadanya apa yang ia inginkan.”
+
+**AR:** وَ مَنْ كَتَبَ الْخَاتِمَ وَ قَرَاَ عَلَيْهِ وَ طَلَبَ الْبَرَكَةَ ثُمَّ وَضْعَهُ فِى مَالٍ اَوْ تِجَارَةٍ اَوْ فِى مَخْزِنِ غَلَّةٍ اَوْ حَبُوبٍ نَزَلَتْ فِيهِ الْبَرَكَةُ وَ يُحْفَظُ مَا فِيهِ مِنَ السُّوسِ وَ الْآفَاتِ وَ عَلَيْكَ اَنْ تُبَخِّرَ سَاعَةَ التَّلَاوَةِ بِالْبَخُورِ .
+
+**LAT:** wa-man kataba al-khātima wa-qara’a ‘alayhi wa-ṭalaba al-barakata thumma waḍa‘ahu fī mālin aw tijāratin aw fī makhzini ghallatin aw ḥubūbin nazalat fīhi al-barakatu wa-yuḥfaẓu mā fīhi mina al-sūsi wa-al-āfāti wa-‘alayka an tubakhkhira sā‘ata al-tilāwati bi-al-bakhūri.
+
+**ID:** “Dan siapa yang menulis «al-khātim» lalu membacakan (doa) padanya dan memohon keberkahan, kemudian meletakkannya di dalam harta, atau dagangan, atau di gudang hasil panen, atau biji-bijian — maka turunlah keberkahan padanya, dan terjagalah apa yang ada di dalamnya dari kutu (sūs) dan hama; dan wajib atasmu membakar dupa pada saat pembacaan.”
+
+**AR:** وَ مَنْ كَتَبَ الْخَاتِمَ وَ بَخَّرَهُ بِالْبَخُورِ وَ قَرَاَ عَلَيْهِ الدَّعْوَةَ سَبْعًا وَ وَكَّلَ بِالْقَبُولِ وَ يَكُونُ ذَلِكَ فِى يَوْمِ الْخَمِيسِ اَوْ يَوْمِ الِاثْنَيْنِ وَ ذَلِكَ بَعْدَ الصِّيَامِ لِلْيَوْمِ وَ الْقَمَرُ زَائِدُ النُّورِ وَ تَضْعَهُ فِى عِمَامَتِكَ اَوْ تَحْمِلُهُ مَعَكَ فَاِنَّهُ يَكُونُ قَبُولًا لَكَ عِنْدَ الْاَكَابِرِ وَ الْعُظَمَاءِ .
+
+**LAT:** wa-man kataba al-khātima wa-bakhkharahu bi-al-bakhūri wa-qara’a ‘alayhi al-da‘wata sab‘an wa-wakkala bi-al-qabūli wa-yakūnu dhālika fī yawmi al-khamīsi aw yawmi al-ithnayni wa-dhālika ba‘da al-ṣiyāmi li-al-yawmi wa-al-qamaru zā’idu al-nūri wa-taḍa‘uhu fī ‘imāmatika aw taḥmiluhu ma‘aka fa-innahu yakūnu qabūlan laka ‘inda al-akābiri wa-al-‘uẓamā’i.
+
+**ID:** “Dan siapa yang menulis «al-khātim» lalu membakarnya dengan dupa dan membacakan doa itu **tujuh kali** serta melakukan tawkil untuk «penerimaan», dan hal itu dilakukan pada hari Kamis atau Senin — yaitu setelah puasa pada hari itu — sedangkan bulan sedang bertambah cahayanya; lalu ia meletakkannya di sorban/tutup kepalanya atau membawanya bersamanya, maka itu menjadi sebab ia diterima di hadapan para pembesar dan orang-orang besar.”
+
+**AR:** وَ مَنْ اَرَادَ الْاِخْفَاءَ عَنْ اَعْيُنِ النَّاسِ فَلْيَكْتُبِ الْخَاتِمَ عَلَى طَاقِيَّةٍ مِنْ رَقِّ الْغَزَالِ الْمَدْبُوغِ وَ الْكِتَابَةُ يَوْمَ الْاَحَدِ الْاَوَّلِ مِنَ الشَّهْرِ الْعَرَبِى وَ قَبْلَ طُلُوعِ الشَّمْسِ وَ بَعْدَ اَنْ تُصَلِّى الظُّهْرَ تَقِفُ فِى الشَّمْسِ وَ تُطْلِقُ الْبَخُورَ وَ تَقْرَاُ الدَّعْوَةَ وَ الطَّاقِيَّةَ عَلَى رَأْسِكَ حَتَّى يَخْتَفِى ظِلُّكَ فَاِنْ اِخْتَفَى فَاعْلَمْ اَنَّكَ قَدْ اِخْتَفَيْتَ فَامْضِى حَيْثُ شِئْتَ فَاِنَّهُ لَا يَرَاكَ اَحَدٌ مَا دَامَتِ الطَّاقِيَّةُ عَلَى رَأْسِكَ
+
+**LAT:** wa-man arāda al-ikhfā’a ‘an a‘yuni al-nāsi fa-l-yaktubi al-khātima ‘alā ṭāqiyyatin min raqqi al-ghazāli al-madbūghi wa-al-kitābatu yawma al-aḥadi al-awwali mina al-shahri al-‘arabiyyi wa-qabla ṭulū‘i al-shamsi wa-ba‘da an tuṣallī al-ẓuhra taqifu fī al-shamsi wa-tuṭliqu al-bakhūra wa-taqra’u al-da‘wata wa-al-ṭāqiyyata ‘alā ra’sika ḥattā yakhtafiya ẓilluka fa-in ikhtafā fa-i‘lam annaka qad ikhtafayta fa-imḍi ḥaythu shi’ta fa-innahu lā yarāka aḥadun mā dāmati al-ṭāqiyyatu ‘alā ra’sika
+
+**ID:** “Dan siapa yang ingin menyembunyikan diri dari pandangan manusia, hendaklah ia menulis «al-khātim» pada sebuah peci (ṭāqiyyah) dari kulit rusa yang disamak; penulisannya pada hari Ahad pertama bulan Arab (Hijriah), sebelum matahari terbit. Dan setelah engkau shalat Zuhur, engkau berdiri di bawah sinar matahari, melepaskan dupa, dan membaca doa itu — sedangkan peci itu di atas kepalamu — sampai bayang-bayangmu hilang. Maka jika (bayangan) itu telah hilang, ketahuilah bahwa engkau telah (benar-benar) menghilang; maka berjalanlah ke mana saja engkau kehendaki, sebab tidak seorang pun akan melihatmu selama peci itu masih di atas kepalamu.”
+
+**AR:** وَ اعْلَمْ اَنَّهُ يَجِبُ عَلَيْكَ اَنْ تَتَرَيَّضْ بِصِيَامِ ثَلَاثَةِ اَيَّامٍ قَبْلَ يَوْمِ الْعَمَلِ وَ تَتَرَيَّضْ بِصِيَامٍ اَيْضًا فِى يَوْمِ الْعَمَلِ .
+
+**LAT:** wa-i‘lam annahu yajibu ‘alayka an tatarayyaḍ bi-ṣiyāmi thalāthati ayyāmin qabla yawmi al-‘amali wa-tatarayyaḍ bi-ṣiyāmin ayḍan fī yawmi al-‘amali.
+
+**ID:** “Dan ketahuilah bahwa wajib atasmu melakukan «riyāḍah» dengan puasa **tiga hari** sebelum hari amalan, dan juga ber-riyāḍah dengan puasa pada hari amalan itu sendiri.”
+
+**AR:** وَ مَنْ اَرَادَ هَلَاكَ ظَالِمٍ فَلْيَأْخُذْ رَقَّ غَزَالٍ وَ يَكْتُبْ عَلَيْهِ الْخَاتِمَ يَوْمَ السَّبْتِ وَ تُخَيَّطُ الرَّقُّ عَلَى شَكْلِ قِرْبَةٍ وَ يَكُونُ التَّخْيِيطُ بِحَيْثُ تَكُونَ الْخَاتِمُ مِنَ الدَّاخِلِ وَ لَا تَجْعَلِ الْخِيَاطَةَ تُؤَثِّرُ عَلَى الْخَاتِمِ وَ لَا تَظُولَهُ فَاِذَا جَنَّ اللَّيْلُ فَخُذْ قَضِيبًا مِنَ الرُّمَّانِ الْحَامِضِ وَ بَخِّرْ وَ اقْرَاِ الدَّعْوَةَ ٤٠ مَرَّةً وَ فِى كُلِّ مَرَّةٍ تَضْرِبُ الْقِرْبَةَ وَ اَنْتَ تُوَكِّلُ فَاِنَّ الضَّرْبَ يَكُونُ عَلَى الظَّالِمِ كَالسِّيَاطِ وَ يَظْهَرُ اَثَرُ ضَرْبِكَ عَلَى ظَهْرِهِ وَ بَطْنِهِ كَمَا ضَرَبْتَ اَنْتَ
+
+**LAT:** wa-man arāda halāka ẓālimin fa-l-ya’khudh raqqa ghazālin wa-yaktub ‘alayhi al-khātima yawma al-sabti wa-tukhayyaṭu al-raqqu ‘alā shakli qirbatin wa-yakūnu al-takhyīṭu bi-ḥaythu takūnu al-khātimu mina al-dākhili wa-lā taj‘ali al-khiyāṭata tu’aththiru ‘alā al-khātimi wa-lā taẓūlahu fa-idhā janna al-laylu fa-khudh qaḍīban mina al-rummāni al-ḥāmiḍi wa-bakhkhir wa-aqra’i al-da‘wata 40 marratan wa-fī kulli marratin taḍribu al-qirbata wa-anta tuwakkilu fa-inna al-ḍarba yakūnu ‘alā al-ẓālimi ka-al-siyāṭi wa-yaẓharu atharu ḍarbika ‘alā ẓahrihi wa-baṭnihi kamā ḍarabta anta
+
+**ID:** “Dan siapa yang menghendaki kebinasaan seorang zalim, hendaklah ia mengambil kulit rusa dan menuliskan «al-khātim» padanya pada hari Sabtu; lalu kulit itu dijahit dalam bentuk «qirbah» (kantung air), dengan jahitan sedemikian rupa sehingga «al-khātim» berada di dalam, dan jangan jadikan jahitan itu mempengaruhi «al-khātim» dan jangan menutupinya. Maka apabila malam datang, ambillah sebatang ranting delima asam, bakar dupa, dan bacalah doa itu **40 kali**; dan pada setiap kali engkau memukul kantung itu sambil melakukan tawkil — sebab pukulan itu akan mengenai si zalim seperti cambuk, dan bekas pukulanmu akan tampak pada punggung dan perutnya sebagaimana engkau memukul.” (Kalimat terpotong di akhir halaman dan bersambung ke halaman 404.)
+
+**Keterangan halaman.** Halaman ini melanjutkan bagian «دعوة والضحى» dengan amalan-amalan yang memakai **«الخاتم»** (khātim — wafaq/cap yang ditulis sendiri oleh pengamal, tidak dicetak sebagai gambar pada halaman ini). Susunannya: (1) amalan mengetahui rahasia/ilmu: puasa sejak 1 bulan Hijriah, shalat 4 rakaat setelah ‘Isyā’ dengan surah al-Syams, al-Layl, al-Ḍuḥā, al-Tīn, lalu shalawat 40×, doa 7×, dan doa «اللهم يسر علي…»; khātim ditulis dan diletakkan di bawah kepala, tidur sambil membaca surah setiap malam sampai Allah mengirim pengajar lewat ilham atau mimpi; (2) amalan mengetahui tempat barang hilang/pencuri/orang hilang: puasa + riyāḍah, menulis khātim, dupa «bakhūr al-da‘wah», doa 7×, tawkil, lalu tidur membaca surah; (3) amalan keberkahan harta/dagangan/gudang hasil panen; (4) amalan «penerimaan» di hadapan pembesar — Kamis/Senin setelah puasa, bulan bertambah cahaya, khātim dibawa di sorban; (5) amalan **menghilang dari pandangan manusia**: khātim ditulis pada peci kulit rusa, Ahad pertama bulan Hijriah sebelum matahari terbit, berdiri di bawah matahari sampai bayangan hilang; (6) syarat riyāḍah puasa 3 hari + hari amalan; (7) amalan membinasakan orang zalim: khātim pada kulit rusa dijahit seperti kantung, dipukul dengan ranting delima asam 40× sambil tawkil.
+
+**Angka pada halaman ini (dibaca dari scan + crop 1600 DPI).** ٤ (empat rakaat), ٤٠ (40× shalawat), ٧ (tujuh kali doa), ٣ (tiga hari puasa), ٤٠ (40× pukulan dan bacaan pada amalan terakhir).
+
+**[TIDAK JELAS - HALAMAN 403]** (1) **«الخاتم»** pada halaman ini adalah **wafaq/cap yang harus ditulis sendiri oleh pengamal** — tidak ada gambar, tidak ada angka wafaq yang tercetak, dan tidak ada petunjuk bentuknya di halaman ini; karena itu tidak ada rajah yang dapat di-crop dan tidak ada angka wafaq yang dapat diklaim. (2) Kata «صَلَاى» (pada «صَلَاى اللَّهُ عَلَيْهِ») tercetak dengan «ى» — **[TEKS ASLI DIJAGA]**, tidak dikoreksi menjadi «صلى». (3) Angka «٤٠» tercetak dengan angka Arab-Hindi dan pada lapisan teks PDF terekstrak terbalik («٠٤»); yang dipakai adalah pembacaan dari gambar (40). (4) «يَتَرَيَّضْ»/«تَتَرَيَّضْ» dan «الرِّيَاضَة» ditulis dengan «ض» ganda (bukan «رياضة» yang lazim) — dipertahankan. (5) «لَا تَظُولَهُ» dan «حَى اَوْ مَيِّتٌ» tercetak janggal; dipertahankan. (6) Baris terakhir halaman terpotong («كما ضربت انت») dan bersambung ke halaman 404. (7) Tidak ada citra tertanam pada halaman ini menurut `get_image_info()`.
+
+**[TIDAK ADA RAJAH - TERVERIFIKASI DARI GAMBAR SCAN]** (Tidak ada citra tertanam; «الخاتم» yang disebut berulang kali adalah objek yang ditulis pembaca, bukan rajah tercetak.)
+
+---
+## HALAMAN 404 — Lanjutan «دعوة والضحى» (amalan kenz/terpendam + awal teks doa)
+
+**AR:** كِتَابُ سِرِّ الْأَسْرَارِ فِي التَّوَاصُلِ مَعَ رُوحَانِيَّاتِ الْقُرْآنِ — شَيْخُ الرُّوحَانِيِّينَ الشَّيْخُ عَطِيَّةُ عَبْدُ الْحَمِيدِ
+
+**LAT:** kitābu sirri al-asrāri fī al-tawāṣuli ma‘a rūḥāniyyāti al-qur’āni — shaykhu al-rūḥāniyyīna al-shaykhu ‘Aṭiyyatu ‘Abdu al-Ḥamīdi
+
+**ID:** “Kitab «Sirr al-Asrār fī al-Tawāṣul ma‘a Rūḥāniyyāt al-Qur’ān» — Syaikh para ruhaniyyin, Syaikh ‘Aṭiyyah ‘Abd al-Ḥamīd.” (Kepala halaman.)
+
+**AR:** الْقِرْبَةُ فَاِنْ اَطْلَتِ الضَّرْبَ فَاِنَّهُ قَدْ يَمُوتُ فَاتَّقِ اللَّهَ فَاِنَّ مَنْ قُتِلَ بِدَعْوَةٍ كَمَنْ قُتِلَ بِالسِّكِّينِ سَوَاءً بِسَوَاء .
+
+**LAT:** al-qirbatu fa-in aṭlati al-ḍarba fa-innahu qad yamūtu fa-ittaqi Allāha fa-inna man qutila bi-da‘watin ka-man qutila bi-al-sikkīni sawā’an bi-sawā’.
+
+**ID:** “…(kantung) itu; maka jika engkau memperpanjang pukulan, ia bisa mati. Maka bertakwalah kepada Allah, sebab siapa yang terbunuh karena doa (amalan) sama seperti yang terbunuh oleh pisau — sama persis.” (Sambungan dari halaman 403.)
+
+**AR:** وَ اِذَا اَرَدْتَ مَعْرِفَةَ كَنْزٍ اَوْ اَحْوَالِ مَكَانٍ مُعَيَّنٍ وَ هَلْ فِيهِ شَىءٌ مِنَ الْكُنُوزِ وَ الْمَوَانِعِ فَخُذْ حَرِيرَةً خَضْرَاءَ وَ اكْتُبْ فِيهَا الْخَاتِمَ وَ خُذْ مِنَ الْمَكَانِ الْمَتْهُومِ بَعْضَ التُّرَابِ وَ ضَعْهُ فِى الْحَرِيرَةِ وَ تَتَرَيَّضْ بِصِيَامِ يَوْمِ الْعَمَلِ وَ اِذَا جَنَّ اللَّيْلُ اَطْلِقِ الْبَخُورَ وَ اقْرَاِ الدَّعْوَةَ سَبْعًا عَلَى الْحَرِيرَةِ ثُمَّ ضَعْهَا تَحْتَ رَأْسِكَ وَ اقْرَاِ السُّورَةَ حَتَّى يَغْلِبَكَ النَّوْمُ فَاِنَّ الْخَادِمَ يَقِفُ عَلَيْكَ وَ يُخْبِرُكَ بِمَا تُرِيدُ وَ اِنْ لَمْ يَكُنْ مِنْ اَوَّلِ لَيْلَةٍ فَاَعِدِ الْعَمَلَ ثَانِيًا وَ ثَالِثًا فَنَّهُ يُجِيبُكَ لَا مَحَالَةَ وَ يُخْبِرُكَ بِمَا فِى الْمَكَانِ مِنَ الْكُنُوزِ اَوِ الدَّفَائِنِ وَ كَيْفَ تَسْتَخْرِجُهَا .
+
+**LAT:** wa-idhā aradta ma‘rifata kanzin aw aḥwāli makānin mu‘ayyanin wa-hal fīhi shay’un mina al-kunūzi wa-al-mawāni‘i fa-khudh ḥarīratan khaḍrā’a wa-uktub fīhā al-khātima wa-khudh mina al-makāni al-mathūmi ba‘ḍa al-turābi wa-ḍa‘hu fī al-ḥarīrati wa-tatarayyaḍ bi-ṣiyāmi yawmi al-‘amali wa-idhā janna al-laylu aṭliqi al-bakhūra wa-aqra’i al-da‘wata sab‘an ‘alā al-ḥarīrati thumma ḍa‘hā taḥta ra’sika wa-aqra’i al-sūrata ḥattā yaghlibaka al-nawmu fa-inna al-khādima yaqifu ‘alayka wa-yukhbiruka bimā turīdu wa-in lam yakun min awwali laylatin fa-a‘idi al-‘amala thāniyan wa-thālithan fa-innahu yujībuka lā maḥālata wa-yukhbiruka bimā fī al-makāni mina al-kunūzi awi al-dafā’ini wa-kayfa tastakhrijuhā.
+
+**ID:** “Dan apabila engkau ingin mengetahui (keberadaan) kenz (harta terpendam) atau keadaan suatu tempat tertentu — dan apakah di dalamnya ada sesuatu dari perbendaharaan serta penghalang-penghalangnya — maka ambillah kain sutra hijau, tuliskan «al-khātim» padanya, ambil sebagian tanah dari tempat yang dicurigai, dan letakkan di dalam sutra itu. Lalu engkau ber-riyāḍah dengan puasa pada hari amalan. Apabila malam tiba, lepaskan dupa dan bacalah doa itu **tujuh kali** di atas sutra tersebut; kemudian letakkan di bawah kepalamu dan bacalah surah itu sampai engkau tertidur. Maka sesungguhnya sang khādim akan berdiri di hadapanmu dan memberitahukan apa yang engkau inginkan. Jika tidak terjadi pada malam pertama, ulangi amalan kedua dan ketiga kalinya — maka ia pasti akan menjawabmu dan memberitahukan harta terpendam atau timbunan yang ada di tempat itu, serta cara mengeluarkannya.”
+
+**AR:** وَ الدَّعْوَةُ لَهَا تَصَارِيفُ شَتَّى فِى كُلِّ شَىءٍ وَ اِنْ اَرَدْتَ الْعِلَاجَ اَوِ الصَّرْعَ فَاكْتُبِ الْخَاتِمَ عَلَى يَدِ الْمَرِيضِ اَوِ اكْتُبْهُ فِى رَقٍّ وَ ضَعْهُ عَلَى رَأْسِهِ وَ اقْرَاْ وَ وَكِّلْ بِجَلْبِ الْعَارِضِ اَوْ بِالتَّلْبِيسِ فَاِنَّهُ يَكُونُ وَ هِىَ دَعْوَةٌ لَهَا عَجَائِبُ وَ غَرَائِبُ وَ لَيْسَ لَهَا شُرُوطٌ اِلَّا التَّقْوَى وَ عَدَمُ التَّعَدِّى عَلَى الْخَلْقِ
+
+**LAT:** wa-al-da‘watu lahā taṣārīfu shattā fī kulli shay’in wa-in aradta al-‘ilāja awi al-ṣar‘a fa-uktubi al-khātima ‘alā yadi al-marīḍi awi uktubhu fī raqqin wa-ḍa‘hu ‘alā ra’sihi wa-aqra’ wa-wakkil bi-jalbi al-‘āriḍi aw bi-al-talbīsi fa-innahu yakūnu wa-hiya da‘watun lahā ‘ajā’ibu wa-gharā’ibu wa-laysa lahā shurūṭun illā al-taqwā wa-‘adamu al-ta‘addī ‘alā al-khalqi
+
+**ID:** “Dan doa ini memiliki «taṣārīf» (berbagai penggunaan) yang bermacam-macam dalam segala hal. Jika engkau menghendaki pengobatan atau (mengatasi) kesurupan, tulislah «al-khātim» pada tangan orang sakit, atau tulis pada kulit lalu letakkan di atas kepalanya, bacalah (doanya), dan lakukan tawkil untuk mendatangkan «al-‘āriḍ» (penyebab gangguan) atau untuk «talbīs» (merasuki) — maka hal itu akan terjadi. Doa ini memiliki keajaiban-keajaiban dan keanehan-keanehan, dan tidak ada syarat baginya kecuali takwa dan tidak melampaui batas terhadap makhluk.”
+
+**AR:** وَ اعْلَمْ اَنَّ بَخُورَ الدَّعْوَةِ مُطْلَقًا هُوَ اللُّبَانُ وَ السِّنْدَرُوسُ وَ الْجَاوِى وَ الْمُسْتَكِى يُسْحَقُوا وَ يُعْجَنُوا بِمَاءِ الْوَرْدِ وَ يُجَفَّفُوا فِى الظِّلِّ وَ يُرْفَعُوا لِوَقْتِ الْحَاجَةِ وَ يُسْتَحْسَنُ زِيَادَةُ الْعُودِ اِلَى اللُّبَانِ وَ الْجَاوِى وَ الْمُسْتَكِى وَ السِّنْدَرُوسِ
+
+**LAT:** wa-i‘lam anna bakhūra al-da‘wati muṭlaqan huwa al-lubbānu wa-al-sindarūsu wa-al-jāwī wa-al-mustakī yusḥaqū wa-yu‘janū bi-mā’i al-wardi wa-yujaffafū fī al-ẓilli wa-yurfa‘ū li-waqti al-ḥājati wa-yustaḥsanu ziyādatu al-‘ūdi ilā al-lubbāni wa-al-jāwī wa-al-mustakī wa-al-sindarūsi
+
+**ID:** “Dan ketahuilah bahwa «bakhūr al-da‘wah» secara umum adalah **lubān** (kemenyan), **sindarūs**, **jāwī**, dan **mustakī**: digerus, diuleni dengan air mawar, dikeringkan di tempat teduh, lalu disimpan untuk saat diperlukan. Dan disunnahkan (dianjurkan) menambahkan **‘ūd** pada lubān, jāwī, mustakī, dan sindarūs.”
+
+**AR:** وَ الدَّعْوَةُ لَا تَحْوِى اَىَّ اَسْمَاءٍ سُرْيَانِيَّةٍ وَ هِىَ صَالِحَةٌ لِلْمُبْتَدِىءِ وَ الْمُنْتَهَى وَ الْمُحْتَرِفِ وَ لَا خُطُورَةَ مِنْهَا اَبَدًا وَ اَنَا اَوْرَدْتُهَا خَصِيصًا لِلْاَعْضَاءِ الَّذِينَ يَرْتَابُونَ مِنَ الْاَسْمَاءِ السُّرْيَانِيَّةِ وَ يَقُولُونَ لَا نَعْلَمُ صِحَّتَهَا مِنْ تَحْرِيفِهَا وَ لَيْسَ فِيهَا حَتَّى اسْمَ مَلَكٍ مِنْ مُلُوكِ الْجِنِّ اِنَّمَا هِىَ كُلُّهَا دَعَوَاتُ اللَّهِ لَا ارْتِيَابَ وَ لَا شَكَّ فِيهَا وَ هَذِهِ هِىَ الدَّعْوَةُ:
+
+**LAT:** wa-al-da‘watu lā taḥwī ayya asmā’in suryāniyyatin wa-hiya ṣāliḥatun li-al-mubtadi’i wa-al-muntahā wa-al-muḥtarifi wa-lā khuṭūratan minhā abadan wa-anā awradtuhā khaṣīṣan li-al-a‘ḍā’i alladhīna yartābūna mina al-asmā’i al-suryāniyyati wa-yaqūlūna lā na‘lamu ṣiḥḥatahā min taḥrīfihā wa-laysa fīhā ḥattā ismu malakin min mulūki al-jinni innamā hiya kulluhā da‘awātu Allāhi lā irtiyāba wa-lā shakka fīhā wa-hādhihi hiya al-da‘watu:
+
+**ID:** “Dan doa ini tidak memuat nama-nama Suryani sama sekali; ia cocok bagi pemula, (pengamal) tingkat akhir, maupun yang profesional, dan tidak ada bahaya darinya sama sekali. Aku mengutipnya secara khusus untuk anggota (pembaca) yang meragukan nama-nama Suryani dan berkata «kami tidak mengetahui keabsahannya dari (kemungkinan) penyimpangannya»; padahal di dalamnya tidak ada bahkan nama satu malaikat pun dari raja-raja jin — semuanya hanyalah doa-doa kepada Allah, tanpa keraguan dan tanpa syak. Dan inilah doanya:” (Cetakan: «خَصِيصًا» dan «الَّذِينَ» — dipertahankan.)
+
+**AR:** بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ اَللَّهُمَّ اِنِّى اَسْأَلُكَ بِاسْمِكَ الْعَظِيمِ الْاَعْظَمِ الَّذِى هُوَ مَخْزُونٌ بَيْنَ الْكَافِ وَ النُّونِ وَ بِالسِّرِّ الْمَكْنُونِ الْمَخْزُونِ الَّذِى كَانَ بَيْنَكَ وَ بَيْنَ حَبِيبِكَ مُحَمَّدٍ صَلَّى اللَّهُ عَلَيْهِ وَ سَلَّمَ لَيْلَةَ الْاِسْرَاءِ وَ بِسِرِّ الْاَسْرَارِ وَ نُورِ الْاَنْوَارِ الَّذِى اَوْدَعْتَهُ فِى قُلُوبِ الْاَنْبِيَاءِ وَ الصِّدِّيقِينَ وَ الشُّهَدَاءِ وَ الصَّالِحِينَ (يَا اللَّهُ ٣) يَا رَحْمَنُ يَا رَحِيمُ يَا مَلِكُ يَا قُدُّوسُ يَا نُورُ يَا حَىُّ يَا قَيُّومُ يَا وَهَّابُ يَا سَرِيعُ يَا قَرِيبُ يَا مُجِيبُ يَا خَيْرَ الْوَارِثِينَ يَا اَرْحَمَ الرَّاحِمِينَ يَا سَمِيعُ يَا سَامِعَ الدُّعَاءِ يَا وَاحِدُ يَا اَحَدُ يَا فَرْدُ يَا صَمَدُ يَا اَوَّلُ يَا آخِرُ يَا ظَاهِرُ يَا بَاطِنُ يَا ذَا الطُّولِ يَا حَنَّانُ يَا مَنَّانُ يَا دَيَّانُ يَا سُلْطَانُ يَا بَدِيعَ السَّمَاوَاتِ وَ الْاَرْضِ يَا ذَا الْجَلَالِ وَ الْاِكْرَامِ اَسْأَلُكَ بِحَقِّ هَذِهِ السُّورَةِ الْجَلِيلَةِ وَ بِحَقِّ مَنْ اُنْزِلَتْ عَلَيْهِ وَ بِمَا اَوْدَعْتَ فِيهَا مِنَ السِّرِّ وَ الْاَسْرَارِ وَ النُّورِ وَ الْاَنْوَارِ يَا نُورَ الْاَنْوَارِ يَا مُفَتِّحَ الْاَبْصَارِ يَا وَاحِدُ يَا اَحَدُ يَا قَهَّارُ يَا عَزِيزُ يَا غَفَّارُ اَللَّهُمَّ اِنِّى اَسْأَلُكَ بِحَقِّ هَذِهِ السُّورَةِ الشَّرِيفَةِ سُورَةِ وَ الضُّحَى وَ اللَّيْلِ اِذَا سَجَى بِسْمِ اللَّهِ الْعَلِىِّ الْعَظِيمِ الَّذِى قَامَتْ بِهِ السَّمَاوَاتُ بِلَا عَمَدٍ وَ بَسَطَ بِهِ الْاَرْضَ عَلَى الْهَوَى بِلَا اَرْكَانٍ وَ عَلَى مَاءٍ جَمْدٍ وَ سَجَدَتْ
+
+**LAT:** bismi Allāhi al-Raḥmāni al-Raḥīmi allāhumma innī as’aluka bi-ismika al-‘aẓīmi al-a‘ẓami alladhī huwa makhzūnun bayna al-kāfi wa-al-nūni wa-bi-al-sirri al-maknūni al-makhzūni alladhī kāna baynaka wa-bayna ḥabībika Muḥammadin ṣallā Allāhu ‘alayhi wa-sallama laylata al-isrā’i wa-bi-sirri al-asrāri wa-nūri al-anwāri alladhī awda‘tahu fī qulūbi al-anbiyā’i wa-al-ṣiddīqīna wa-al-shuhadā’i wa-al-ṣāliḥīna (yā Allāhu 3) yā Raḥmānu yā Raḥīmu yā Maliku yā Quddūsu yā Nūru yā Ḥayyu yā Qayyūmu yā Wahhābu yā Sarī‘u yā Qarību yā Mujību yā Khayra al-wārithīna yā Arḥama al-rāḥimīna yā Samī‘u yā Sāmi‘a al-du‘ā’i yā Wāḥidu yā Aḥadu yā Fardu yā Ṣamadu yā Awwalu yā Ākhiru yā Ẓāhiru yā Bāṭinu yā Dhā al-ṭūli yā Ḥannānu yā Mannānu yā Dayyānu yā Sulṭānu yā Badī‘a al-samāwāti wa-al-arḍi yā Dhā al-jalāli wa-al-ikrāmi as’aluka bi-ḥaqqi hādhihi al-sūrati al-jalīlati wa-bi-ḥaqqi man unzilat ‘alayhi wa-bimā awda‘ta fīhā mina al-sirri wa-al-asrāri wa-al-nūri wa-al-anwāri yā Nūra al-anwāri yā Mufattiḥa al-abṣāri yā Wāḥidu yā Aḥadu yā Qahhāru yā ‘Azīzu yā Ghaffāru allāhumma innī as’aluka bi-ḥaqqi hādhihi al-sūrati al-sharīfati sūrati wa-al-ḍuḥā wa-al-layli idhā sajā bismi Allāhi al-‘aliyyi al-‘aẓīmi alladhī qāmat bihi al-samāwātu bilā ‘amadin wa-basaṭa bihi al-arḍa ‘alā al-hawā bilā arkānin wa-‘alā mā’in jamdin wa-sajadat
+
+**ID:** “«Dengan nama Allah Yang Maha Pengasih, Maha Penyayang. Ya Allah, aku memohon kepada-Mu dengan nama-Mu yang agung, yang paling agung, yang tersimpan antara al-Kāf dan al-Nūn, dan dengan rahasia yang terpelihara lagi tersimpan yang ada antara Engkau dan kekasih-Mu Muḥammad ﷺ pada malam Isrā’, dan dengan rahasia segala rahasia serta cahaya segala cahaya yang Engkau titipkan dalam hati para nabi, para ṣiddīq, para syuhada, dan orang-orang saleh — (ya Allah, 3 kali) — ya Raḥmān, ya Raḥīm, ya Malik, ya Quddūs, ya Nūr, ya Ḥayy, ya Qayyūm, ya Wahhāb, ya Sarī‘, ya Qarīb, ya Mujīb, ya Khayra al-wārithīn, ya Arḥama al-rāḥimīn, ya Samī‘, ya Sāmi‘a al-du‘ā’, ya Wāḥid, ya Aḥad, ya Fard, ya Ṣamad, ya Awwal, ya Ākhir, ya Ẓāhir, ya Bāṭin, ya Dhā al-ṭūl, ya Ḥannān, ya Mannān, ya Dayyān, ya Sulṭān, ya Badī‘a al-samāwāti wa-al-arḍ, ya Dhā al-jalāli wa-al-ikrām — aku memohon kepada-Mu dengan hak surah yang mulia ini, dan dengan hak (nabi) yang kepadanya ia diturunkan, dan dengan apa yang Engkau titipkan di dalamnya berupa rahasia, cahaya, dan aneka nur; ya Nūra al-anwār, ya Mufattiḥa al-abṣār, ya Wāḥid, ya Aḥad, ya Qahhār, ya ‘Azīz, ya Ghaffār. Ya Allah, aku memohon kepada-Mu dengan hak surah yang mulia ini — surah «Wa al-Ḍuḥā» dan «Wa al-Layli idhā sajā» — dengan nama Allah Yang Mahatinggi lagi Mahaagung, yang dengannya tegak langit-langit tanpa tiang, yang dengannya bumi dibentangkan di atas kekosongan tanpa penopang, dan di atas air yang membeku, dan bersujudlah…»” (Kalimat terputus di akhir halaman dan bersambung ke halaman 405.)
+
+**Keterangan halaman.** Halaman ini menutup rangkaian amalan «دعوة والضحى» yang memakai «الخاتم», lalu **memasuki teks doa («الدعوة») itu sendiri**. Susunannya: (1) sambungan peringatan agar tidak memperpanjang pukulan pada amalan pembinasaan zalim — «siapa yang terbunuh karena doa seperti yang terbunuh oleh pisau»; (2) amalan mengetahui kenz/keadaan tempat: sutra hijau + khātim + tanah tempat yang dicurigai, puasa hari amalan, dupa, doa 7×, diletakkan di bawah kepala, dibaca surah sampai tertidur; khādim memberi tahu letak harta dan cara mengeluarkannya — diulang sampai tiga malam; (3) penggunaan doa untuk pengobatan/kesurupan («جلب العارض» / «التلبيس»); (4) **resep «bakhūr al-da‘wah»**: lubān, sindarūs, jāwī, mustakī — digerus, diuleni air mawar, dikeringkan di tempat teduh; dianjurkan menambah ‘ūd; (5) **pernyataan penulis**: doa ini tidak memuat nama Suryani, tidak ada nama malaikat/jin di dalamnya, cocok untuk pemula sampai profesional, dikutip khusus bagi pembaca yang meragukan keabsahan nama-nama Suryani; (6) **teks doa** — pembuka basmalah, tawassul dengan «الاسم الأعظم المخزون بين الكاف والنون», rahasia malam Isrā’, nur yang dititipkan pada hati para nabi/ṣiddīqīn/syuhadā’/ṣāliḥīn, deret asma «يا رحمن يا رحيم… يا ذا الجلال والإكرام», lalu tawassul dengan surah al-Ḍuḥā dan «والليل إذا سجى» dan «بسم الله العلي العظيم الذي قامت به السماوات بلا عمد…».
+
+**Angka pada halaman ini (dibaca dari scan + crop 1400 DPI).** ٧ (tujuh kali bacaan doa), ٢/٣ (malam kedua dan ketiga pengulangan amalan), ٣ (keterangan «يا الله ٣» — dibaca tiga kali).
+
+**[TIDAK JELAS - HALAMAN 404]** (1) Keterangan **«(يَا اللَّهُ ٣)»** tercetak di tengah deret asma, dengan angka ٣ di dalam kurung sesudah «يا الله» — **[TEKS ASLI DIJAGA]**; dibaca sebagai perintah mengulang «يا الله» tiga kali, namun tanda baca cetakannya tidak baku. (2) «يُخْبِرُكَ» pada lapisan teks PDF terekstrak terpisah («يخ برك») — hanya artefak ekstraksi, bukan cacat cetak; teks ditulis utuh. (3) «فَنَّهُ» (seharusnya «فَإِنَّهُ») tercetak tanpa hamzah dan dengan «ن» ganda — dipertahankan. (4) «خَصِيصًا» (seharusnya «خُصُوصًا») tercetak demikian — dipertahankan. (5) «الْمَتْهُومِ» (tempat yang dicurigai) adalah bentuk tak lazim — dipertahankan. (6) Nama-nama wangi-wangian («اللبان»، «السندروس»، «الجاوى»، «المستكى») disalin menurut cetakan tanpa normalisasi ejaan. (7) Doa berakhir terpotong pada «وَسَجَدَتْ» dan bersambung ke halaman 405. (8) Tidak ada citra tertanam pada halaman ini menurut `get_image_info()`.
+
+**[TIDAK ADA RAJAH - TERVERIFIKASI DARI GAMBAR SCAN]** (Halaman ini hanya teks; «الخاتم» yang disebut adalah objek yang ditulis pengamal, bukan rajah tercetak.)
+
+---
+## HALAMAN 405 — Lanjutan teks «دعوة والضحى» (deret tawassul dan permohonan)
+
+**AR:** كِتَابُ سِرِّ الْأَسْرَارِ فِي التَّوَاصُلِ مَعَ رُوحَانِيَّاتِ الْقُرْآنِ — شَيْخُ الرُّوحَانِيِّينَ الشَّيْخُ عَطِيَّةُ عَبْدُ الْحَمِيدِ
+
+**LAT:** kitābu sirri al-asrāri fī al-tawāṣuli ma‘a rūḥāniyyāti al-qur’āni — shaykhu al-rūḥāniyyīna al-shaykhu ‘Aṭiyyatu ‘Abdu al-Ḥamīdi
+
+**ID:** “Kitab «Sirr al-Asrār fī al-Tawāṣul ma‘a Rūḥāniyyāt al-Qur’ān» — Syaikh para ruhaniyyin, Syaikh ‘Aṭiyyah ‘Abd al-Ḥamīd.” (Kepala halaman.)
+
+**AR:** لَكَ الْاطْيَارُ وَ الشُّمُوسُ وَ الْاقْمَارُ وَ الْمَلَائِكَةُ الْابْرَارُ وَ الْوُحُوشُ فِى الْقِفَارِ وَ الْحُوتُ فِى ظُلُمَاتِ الْبِحَارِ مُكَوِّرُ اللَّيْلِ عَلَى النَّهَارِ الَّذِى دَحَى الْارْضَ وَ اَخْرَجَ مِنْهَا الْاثْمَارَ وَ النَّبَاتَ وَ الْاشْجَارَ فَالِقُ الْحَبِّ وَ النَّوَى عَالِمُ الْاسْرَارِ وَ الْاجْهَارِ يَا مَنْ لَا تُدْرِكُهُ الْابْصَارُ وَ هُوَ يُدْرِكُ الْابْصَارَ وَ هُوَ الْوَاحِدُ الْقَهَّارُ
+
+**LAT:** laka al-aṭyāru wa-al-shumūsu wa-al-aqmāru wa-al-malā’ikatu al-abrāru wa-al-wuḥūshu fī al-qifāri wa-al-ḥūtu fī ẓulumāti al-biḥāri mukawwiru al-layli ‘alā al-nahāri alladhī daḥā al-arḍa wa-akhraja minhā al-athmāra wa-al-nabāta wa-al-ashjāra fāliqu al-ḥabbi wa-al-nawā ‘ālimu al-asrāri wa-al-ajhāri yā man lā tudrikuhu al-abṣāru wa-huwa yudriku al-abṣāra wa-huwa al-wāḥidu al-qahhāru
+
+**ID:** “…(bersujud) kepada-Mu burung-burung, matahari-matahari, bulan-bulan, para malaikat yang berbakti, binatang-binatang buas di padang, dan ikan-ikan di dalam gelapnya lautan; (Engkau) Yang menggulung malam atas siang, Yang menghamparkan bumi dan mengeluarkan darinya buah-buahan, tumbuh-tumbuhan, dan pepohonan; Yang membelah biji dan batu buah; Yang mengetahui segala rahasia dan yang terang; wahai Yang tidak dapat dijangkau oleh penglihatan, sedangkan Dia menjangkau segala penglihatan, dan Dia-lah Yang Maha Esa lagi Maha Memaksa.” (Sambungan langsung dari halaman 404 «…وَ سَجَدَتْ».)
+
+**AR:** اَسْأَلُكَ اللَّهُمَّ اَنْ تُحْىِ قَلْبِى بِنُورِكَ وَ تُوَفِّقَنِى اِلَى طَاعَتِكَ وَ تُسْبِلَ عَلَىَّ سُرَادِقَاتِ سِتْرِكَ وَ تُعْطِيَنِى قَصْدِى وَ تَجْبُرَ كَسْرِى وَ تُعْطِيَنِى سُؤَالِى وَ تَحُولَ بَيْنِى وَ بَيْنَ مَنْ يُرِيدُ قَهْرِى وَ ضُرِّى وَ تُلْبِسَنِى تَاجَ الْكَرَامَةِ وَ تَرُدَّنِى بِرِدَاءِ الْعِزِّ وَ السَّلَامَةِ وَ تُوضَعَ فِى قَلْبِى الِاسْمُ الْاعْظَمُ
+
+**LAT:** as’aluka allāhumma an tuḥyiya qalbī bi-nūrika wa-tuwaffiqanī ilā ṭā‘atika wa-tusbila ‘alayya surādiqāti sitrika wa-tu‘ṭiyanī qaṣdī wa-tajbura kasrī wa-tu‘ṭiyanī su’ālī wa-taḥūla baynī wa-bayna man yurīdu qahrī wa-ḍurrī wa-tulbisanī tāja al-karāmati wa-taruddanī bi-ridā’i al-‘izzi wa-al-salāmati wa-tūḍa‘a fī qalbī al-ismu al-a‘ẓamu
+
+**ID:** “Aku memohon kepada-Mu, ya Allah, agar Engkau menghidupkan hatiku dengan cahaya-Mu, menuntunku kepada ketaatan kepada-Mu, menurunkan atap-atap penutup-Mu atasku, memberikan apa yang aku tuju, memperbaiki (menyambung) yang patah padaku, memberikan permintaanku, menghalangi antara aku dan orang yang menghendaki kehinaan serta keburukan bagiku, memakaikan kepadaku mahkota kemuliaan, mengembalikanku dengan selendang kemuliaan dan keselamatan, dan meletakkan **al-Ism al-A‘ẓam** di dalam hatiku…”
+
+**AR:** يَا مَنْ قَالَ وَ قَوْلُهُ الْحَقُّ مَا وَدَّعَكَ رَبُّكَ وَ مَا قَلَى اَسْأَلُكَ اللَّهُمَّ بِالسِّرِّ الْمَخْزُونِ الْمَكْنُونِ الْمَأْمُولِ الَّذِى اَوْدَعْتَهُ فِى التَّوْرَاةِ وَ الْاِنْجِيلِ وَ الزَّبُورِ وَ صُحُفِ مُوسَى وَ اِبْرَاهِيمَ عَلَيْهِمُ السَّلَامُ وَ الْفُرْقَانِ الْعَظِيمِ اَنْ تَرْزُقَنِى رِضَاكَ وَ تَجْعَلَنِى فِى حِمَاكَ وَ تَرْزُقَنِى الْقَبُولَ وَ الْمَوَدَّةَ وَ الرَّأْفَةَ وَ الرَّحْمَةَ وَ الْهَيْبَةَ فِى سَائِرِ عِبَادِكَ مِنْ مَلِكٍ وَ وَزِيرٍ وَ قَاضٍ وَ اَمِيرٍ وَ صَغِيرٍ وَ كَبِيرٍ
+
+**LAT:** yā man qāla wa-qawluhu al-ḥaqqu mā wadda‘aka rabbuka wa-mā qalā as’aluka allāhumma bi-al-sirri al-makhzūni al-maknūni al-ma’mūli alladhī awda‘tahu fī al-tawrāti wa-al-injīli wa-al-zabūri wa-ṣuḥufi Mūsā wa-Ibrāhīma ‘alayhimu al-salāmu wa-al-furqāni al-‘aẓīmi an tarzuqanī riḍāka wa-taj‘alanī fī ḥimāka wa-tarzuqanī al-qabūla wa-al-mawaddata wa-al-ra’fata wa-al-raḥmata wa-al-haybata fī sā’iri ‘ibādika min malikin wa-wazīrin wa-qāḍin wa-amīrin wa-ṣaghīrin wa-kabīrin
+
+**ID:** “Wahai Yang telah berfirman — dan firman-Nya adalah kebenaran — «Tuhanmu tidak meninggalkanmu dan tidak (pula) membencimu». Aku memohon kepada-Mu, ya Allah, dengan rahasia yang tersimpan, terpelihara, dan yang diharapkan, yang Engkau titipkan dalam Taurat, Injil, Zabur, suhuf Musa dan Ibrahim — semoga salam atas mereka — serta al-Furqān yang agung: agar Engkau menganugerahkan keridhaan-Mu kepadaku, menjadikanku dalam perlindungan-Mu, dan menganugerahkan kepadaku penerimaan, kasih sayang, kelembutan, rahmat, dan wibawa di hadapan seluruh hamba-Mu — raja, wazir, qadhi, amir, yang kecil maupun yang besar.”
+
+**AR:** وَ اَنْ تُسَخِّرَ لِى عِبَادَكَ وَ سَائِرَ الْمُلُوكِ الْعِلْوِيَّةِ وَ السُّفْلِيَّةِ وَ اجْعَلْنِى عَلَيْهِمْ قَادِرًا غَالِبًا غَيْرَ مَغْلُوبٍ وَ قَاهِرًا غَيْرَ مَقْهُورٍ وَ لَا تَجْعَلْ لِلظَّالِمِينَ عَلَىَّ سَبِيلًا وَ تَوَفَّنِى مُسْلِمًا مُؤْمِنًا وَ اَجِرْنِى مِنَ الشَّكِّ وَ الشِّرْكِ يَا وَلِىُّ يَا وَدُودُ يَا غَفُورُ يَا شَكُورُ يَا رَحْمَنَ الدُّنْيَا وَ رَحِيمَ الْآخِرَةِ ارْحَمْنِى رَحْمَةً اَنَالُ بِهَا الزُّلْفَى فِى الدُّنْيَا وَ الْآخِرَةِ فَاِنَّكَ قُلْتَ وَ قَوْلُكَ الْحَقُّ وَ لَلْآخِرَةُ خَيْرٌ لَكَ مِنَ الْاُولَى وَ لَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَى
+
+**LAT:** wa-an tusakhkhira lī ‘ibādaka wa-sā’ira al-mulūki al-‘ilwiyyati wa-al-sufliyyati wa-ij‘alnī ‘alayhim qādiran ghāliban ghayra maghlūbin wa-qāhiran ghayra maqhūrin wa-lā taj‘al li-al-ẓālimīna ‘alayya sabīlan wa-tawaffanī musliman mu’minan wa-ajirnī mina al-shakki wa-al-shirki yā Waliyyu yā Wadūdu yā Ghafūru yā Shakūru yā Raḥmāna al-dunyā wa-Raḥīma al-ākhirati irḥamnī raḥmatan anālu bihā al-zulfā fī al-dunyā wa-al-ākhirati fa-innaka qulta wa-qawluka al-ḥaqqu wa-la-al-ākhiratu khayrun laka mina al-ūlā wa-la-sawfa yu‘ṭīka rabbuka fa-tarḍā
+
+**ID:** “Dan agar Engkau menundukkan hamba-hamba-Mu serta seluruh raja-raja ‘ulwiyyah dan sufliyyah untukku; jadikanlah aku atas mereka berkuasa, menang, tidak dikalahkan, menundukkan dan tidak ditundukkan; jangan jadikan jalan (peluang) bagi orang-orang zalim atas diriku; wafatkanlah aku dalam keadaan muslim lagi mukmin; dan lindungilah aku dari syak dan syirik. Wahai Yang Maha Melindungi, Maha Mengasihi, Maha Pengampun, Maha Pembalas (syukur), Yang Maha Pengasih di dunia dan Maha Penyayang di akhirat — rahmatilah aku dengan rahmat yang membuatku memperoleh kedekatan di dunia dan akhirat; sebab Engkau telah berfirman, dan firman-Mu adalah kebenaran: «Dan sesungguhnya akhirat itu lebih baik bagimu daripada dunia, dan sesungguhnya Tuhanmu akan memberimu (karunia) sehingga engkau ridha».”
+
+**AR:** يَا كَافِى يَا غَنِىُّ يَا فَتَّاحُ يَا رَزَّاقُ يَا وَهَّابُ يَا كَرِيمُ يَا ذَا الطُّولِ يَا مُغْنِىَ الْفُقَرَاءِ يَا كَنْزَ الضُّعَفَاءِ اَغْنِنِى بِحَلَالِكَ عَنْ حَرَامِكَ وَ بِطَاعَتِكَ عَنْ مَعْصِيَتِكَ وَ بِفَضْلِكَ عَمَّنْ سِوَاكَ وَ اَعْطِنِى مِنْ فَضْلِكَ وَ جُودِكَ وَ كَرَمِكَ وَ اِحْسَانِكَ مِنْ فَوْقِ اَرْضِكَ وَ مِنْ تَحْتِهَا الْاَرْزَاقَ الدَّارَّةَ وَ الْخَيْرَاتِ السَّارَّةَ مَا لَا عَيْنٌ رَاَتْ وَ لَا اُذُنٌ سَمِعَتْ وَ لَا خَطَرَ عَلَى قَلْبِ بَشَرٍ
+
+**LAT:** yā Kāfī yā Ghaniyyu yā Fattāḥu yā Razzāqu yā Wahhābu yā Karīmu yā Dhā al-ṭūli yā Mughniya al-fuqarā’i yā Kanza al-ḍu‘afā’i aghninī bi-ḥalālika ‘an ḥarāmika wa-bi-ṭā‘atika ‘an ma‘ṣiyatika wa-bi-faḍlika ‘amman siwāka wa-a‘ṭinī min faḍlika wa-jūdika wa-karamika wa-iḥsānika min fawqi arḍika wa-min taḥtihā al-arzāqa al-dārrati wa-al-khayrāti al-sārrati mā lā ‘aynun ra’at wa-lā udhunun sami‘at wa-lā khaṭara ‘alā qalbi basharin
+
+**ID:** “Wahai Yang Maha Mencukupi, Maha Kaya, Maha Pembuka, Maha Pemberi rezeki, Maha Pemberi karunia, Maha Mulia, Yang memiliki kelebihan (anugerah), Yang mengayakan orang-orang fakir, Yang menjadi perbendaharaan orang-orang lemah — kayakanlah aku dengan yang halal dari-Mu daripada yang haram, dengan ketaatan kepada-Mu daripada kemaksiatan, dan dengan karunia-Mu daripada (bergantung pada) selain Engkau. Berilah aku dari karunia, kedermawanan, kemuliaan, dan kebaikan-Mu — dari atas bumi-Mu dan dari bawahnya — rezeki-rezeki yang mengalir dan kebaikan-kebaikan yang menyenangkan; (yakni) apa yang belum pernah dilihat mata, belum pernah didengar telinga, dan belum pernah terlintas dalam hati manusia.”
+
+**AR:** يَا خَالِقُ يَا بَارِىءُ يَا مُصَوِّرُ يَا مُعْطِى يَا سَلَامُ يَا مُؤْمِنُ يَا مُهَيْمِنُ يَا عَزِيزُ يَا جَبَّارُ يَا مُتَكَبِّرُ سَخِّرْ لِى رُوحَانِيَّةَ هَذِهِ السُّورَةِ الْجَلِيلَةِ وَ اجْلِبْ لِى الْاَرْزَاقَ حَيْثُ كَانَتْ وَ اظْهِرْ لِى مَا خَفِىَ تَحْتَ الْاَرْضِ وَ مَا ضَاعَ وَ مَا غَابَ عَنِّى وَ اكْشِفْ لِى الْاَسْرَارَ وَ تَدْمِيرَ كُلِّ ظَالِمٍ وَ جَبَّارٍ يَا نَاصِرُ يَا قَوِىُّ يَا قَرِيبُ يَا قَادِرُ يَا مُعْطِى يَا مَكِينُ
+
+**LAT:** yā Khāliqu yā Bāri’u yā Muṣawwiru yā Mu‘ṭī yā Salāmu yā Mu’minu yā Muhayminu yā ‘Azīzu yā Jabbāru yā Mutakabbiru sakhkhir lī rūḥāniyyata hādhihi al-sūrati al-jalīlati wa-ijlub lī al-arzāqa ḥaythu kānat wa-aẓhir lī mā khafiya taḥta al-arḍi wa-mā ḍā‘a wa-mā ghāba ‘annī wa-ikshif lī al-asrāra wa-tadmīra kulli ẓālimin wa-jabbārin yā Nāṣiru yā Qawiyyu yā Qarību yā Qādiru yā Mu‘ṭī yā Makīnu
+
+**ID:** “Wahai Yang Maha Pencipta, Maha Pengadakan, Maha Pembentuk, Maha Pemberi, Maha Sejahtera, Maha Pemberi keamanan, Maha Pemelihara, Maha Perkasa, Maha Memaksa, Maha Megah — tundukkanlah kepadaku ruhaniyyah surah yang mulia ini; datangkanlah rezeki-rezeki kepadaku di mana pun ia berada; tampakkanlah kepadaku apa yang tersembunyi di bawah bumi, apa yang hilang, dan apa yang tidak ada (jauh) dariku; dan singkapkanlah kepadaku rahasia-rahasia serta kehancuran setiap orang zalim dan sewenang-wenang. Wahai Yang Maha Menolong, Maha Kuat, Maha Dekat, Maha Kuasa, Maha Pemberi, Maha Kokoh…”
+
+**AR:** قَالَ وَ قَوْلُهُ الْحَقُّ اَلَمْ يَجِدْكَ يَتِيمًا فَآوَى وَ وَجَدَكَ ضَالًّا فَهَدَى اَللَّهُمَّ يَا جَابِرَ الْعَظْمِ الْكَسِيرِ يَا مُغْنِىَ الْبَائِسِ الْفَقِيرِ يَا رَازِقَ الطِّفْلِ الصَّغِيرِ يَا رَحْمَ الشَّيْخِ الْكَبِيرِ يَا مُطْلِقَ الْمُقَيَّدِ الْاَسِيرِ يَا مَنْ لَهُ الْحُكْمُ وَ التَّدْبِيرُ يَا وَاسِعَ الْكَنَفِ وَ يَا عَالِىَ الشَّرَفِ ارْدُدْ عَلَىَّ ضَالَّتِى وَ رُدَّ عَلَىَّ مَا شَرَدَ مِنِّى وَ عَرِّفْنِى بِاسْمِكَ الْمَخْزُونِ الْمَكْنُونِ اِنَّكَ عَلَى كُلِّ شَىْءٍ قَدِيرٌ
+
+**LAT:** qāla wa-qawluhu al-ḥaqqu a-lam yajidka yatīman fa-āwā wa-wajadaka ḍāllan fa-hadā allāhumma yā jābira al-‘aẓmi al-kasīri yā mughniya al-bā’isi al-faqīri yā rāziqa al-ṭifli al-ṣaghīri yā rāḥima al-shaykhi al-kabīri yā muṭliqa al-muqayyadi al-asīri yā man lahu al-ḥukmu wa-al-tadbīru yā wāsi‘a al-kanafi wa-yā ‘āliya al-sharafi urdud ‘alayya ḍāllatī wa-rudda ‘alayya mā sharada minnī wa-‘arrifnī bi-ismika al-makhzūni al-maknūni innaka ‘alā kulli shay’in qadīrun
+
+**ID:** “Dia telah berfirman, dan firman-Nya adalah kebenaran: «Bukankah Dia mendapatimu sebagai yatim, lalu Dia melindungimu; dan Dia mendapatimu sebagai orang yang tersesat, lalu Dia memberi petunjuk». Ya Allah, wahai Yang menyambung tulang yang patah, Yang mengayakan orang yang sengsara lagi fakir, Yang memberi rezeki kepada anak kecil, Yang menyayangi orang tua yang lanjut usia, Yang membebaskan orang yang terikat lagi tertawan, Yang memiliki segala hukum dan pengaturan, Yang luas perlindungan-Nya dan tinggi kedudukan-Nya — kembalikanlah kepadaku barangku yang hilang, kembalikanlah apa yang terlepas dariku, dan kenalkanlah aku dengan nama-Mu yang tersimpan lagi terpelihara; sesungguhnya Engkau Mahakuasa atas segala sesuatu.” (Cetakan: «يَا رَحْمَ الشَّيْخِ» — dipertahankan sebagaimana tercetak.)
+
+**AR:** يَا مَنْ قَالَ وَ قَوْلُهُ الْحَقُّ وَ وَجَدَكَ عَائِلًا فَاَغْنَى اَللَّهُمَّ اِنِّى اَسْأَلُكَ بِسِرِّكَ الْاَعْلَى يَا عَالِمَ السِّرِّ وَ اَخْفَى يَا مُعْطِىَ الْبَرَايَا وَ يَا قَابِلَ الشَّكَايَا اَسْأَلُكَ بِحَقِّ خَفِىِّ لُطْفِكَ وَ نُورِ وَجْهِكَ وَ بِعِزِّ عِزِّ كِبْرِيَاءِ جَلَالِكَ الْكَرِيمِ وَ جَمَالِكَ الْقَدِيمِ اَنْ تُغْنِيَنِى بِغِنَاكَ الشَّامِلِ وَ تَعْطِفَ عَلَىَّ بِفَضْلِكَ الْكَامِلِ وَ تُخْفِيَنِى بِكَمَالِكَ عَنْ اَعْيُنِ النَّاظِرِينَ وَ اَبْصَارِ الْحَاسِدِينَ
+
+**LAT:** yā man qāla wa-qawluhu al-ḥaqqu wa-wajadaka ‘ā’ilan fa-aghnā allāhumma innī as’aluka bi-sirrika al-a‘lā yā ‘ālima al-sirri wa-akhfā yā mu‘ṭiya al-barāyā wa-yā qābila al-shakāyā as’aluka bi-ḥaqqi khafiyyi luṭfika wa-nūri wajhika wa-bi-‘izzi ‘izzi kibriyā’i jalālika al-karīmi wa-jamālika al-qadīmi an tughniyanī bi-ghināka al-shāmili wa-ta‘ṭifa ‘alayya bi-faḍlika al-kāmili wa-tukhfiyanī bi-kamālika ‘an a‘yuni al-nāẓirīna wa-abṣāri al-ḥāsidīna
+
+**ID:** “Wahai Yang telah berfirman — dan firman-Nya adalah kebenaran: «dan Dia mendapatimu sebagai orang yang kekurangan, lalu Dia mengayakanmu». Ya Allah, aku memohon kepada-Mu dengan rahasia-Mu yang paling tinggi, wahai Yang Mengetahui yang tersembunyi dan yang lebih tersembunyi, Yang memberi kepada seluruh makhluk, Yang menerima segala pengaduan. Aku memohon kepada-Mu dengan hak kelembutan-Mu yang tersembunyi, cahaya wajah-Mu, dan kemuliaan keagungan-Mu yang Maha Mulia serta keindahan-Mu yang Qadīm: agar Engkau mengayakanku dengan kekayaan-Mu yang menyeluruh, mencondongkan (kasih) kepadaku dengan karunia-Mu yang sempurna, dan menyembunyikanku dengan kesempurnaan-Mu dari pandangan mata orang-orang yang melihat dan dari mata orang-orang yang dengki.”
+
+**AR:** يَا مَنْ قَالَ وَ قَوْلُهُ الْحَقُّ وَ فَمَا الْيَتِيمَ فَلَا تَقْهَرْ وَ اَمَّا السَّائِلَ فَلَا تَنْهَرْ اَسْأَلُكَ اللَّهُمَّ بِحَقِّ مَنْ سَجَدَ لَكَ وَ بِحَقِّ السَّاجِدِينَ وَ بِحَقِّ عِبَادِكَ
+
+**LAT:** yā man qāla wa-qawluhu al-ḥaqqu wa-fa-mā al-yatīma fa-lā taqhar wa-ammā al-sā’ila fa-lā tanhar as’aluka allāhumma bi-ḥaqqi man sajada laka wa-bi-ḥaqqi al-sājidīna wa-bi-ḥaqqi ‘ibādika
+
+**ID:** “Wahai Yang telah berfirman — dan firman-Nya adalah kebenaran: «Maka terhadap anak yatim janganlah engkau berlaku sewenang-wenang, dan terhadap orang yang meminta-minta janganlah engkau menghardik» — aku memohon kepada-Mu, ya Allah, dengan hak siapa saja yang bersujud kepada-Mu, dengan hak orang-orang yang bersujud, dan dengan hak hamba-hamba-Mu…” (Kalimat berlanjut ke halaman 406.)
+
+**Keterangan halaman.** Seluruh halaman ini adalah **lanjutan teks «الدعوة»** yang dimulai pada halaman 404 — tanpa judul baru dan tanpa amalan baru; hanya doa yang mengalir. Alurnya: (1) sambungan tauhid «لَكَ الْاطْيَارُ…» (segala makhluk bersujud kepada-Mu) dan deret sifat Ilahi; (2) permohonan menghidupkan hati dengan cahaya, ketaatan, «al-Ism al-A‘ẓam» dalam hati, mahkota kemuliaan, selendang keselamatan; (3) tawassul dengan «السِّرّ المخزون» yang dititipkan dalam Taurat, Injil, Zabur, suhuf Musa dan Ibrahim, serta al-Furqān; (4) permohonan keridhaan, penerimaan, wibawa di hadapan raja/wazir/qadhi/amir; (5) permohonan menundukkan «الملوك العلوية والسفلية» dan dilindungi dari kezaliman; (6) deret asma «يا كافى… يا كنز الضعفاء» dan permohonan rezeki halal serta «ما لا عين رأت»; (7) «يا خالق… يا متكبر» — permohonan menundukkan **ruhaniyyah surah ini** dan menampakkan harta di bawah bumi; (8) kutipan ayat-ayat surah al-Ḍuḥā sebagai tawassul: «ألم يجدك يتيما فآوى…», «ووجدك عائلا فأغنى», «فأما اليتيم فلا تقهر…»; ditutup dengan permohonan mengembalikan barang yang hilang dan permohonan «tutupi aku dari mata orang yang melihat dan dengki».
+
+**Angka pada halaman ini.** Tidak ada angka (bilangan) yang tercetak pada halaman ini; seluruhnya teks doa.
+
+**[TIDAK JELAS - HALAMAN 405]** (1) Kata «وَ فَمَا الْيَتِيمَ» tercetak dengan «و» dan «ما» (ayat aslinya «فَأَمَّا الْيَتِيمَ») — **[TEKS ASLI DIJAGA]**, tidak dikoreksi. (2) «يَا رَحْمَ الشَّيْخِ» tercetak dengan «رحم» (bukan «راحم») — dipertahankan. (3) «الدَّارَّةَ»/«السَّارَّةَ» dan «الزُّلْفَى» disalin menurut cetakan. (4) Beberapa kata terpisah pada lapisan teks PDF («الْاَرْزَاقَ الدَّار ة» dan «الْخَيْرَاتِ السَّار ة») hanya artefak ekstraksi; teks ditulis utuh. (5) Kalimat berakhir dengan «و بحق عبادك» dan berlanjut ke halaman 406. (6) Tidak ada citra tertanam menurut `get_image_info()`.
+
+**[TIDAK ADA RAJAH - TERVERIFIKASI DARI GAMBAR SCAN]** (Halaman ini hanya berisi teks doa; tidak ada rajah, wafaq, tabel, atau thilasm.)
+
+---
+## HALAMAN 406 — Penutup «دعوة والضحى» + «خاتم الدعوة» + awal «روحانية اية الكرسي وصفاتها»
+
+**AR:** كِتَابُ سِرِّ الْأَسْرَارِ فِي التَّوَاصُلِ مَعَ رُوحَانِيَّاتِ الْقُرْآنِ — شَيْخُ الرُّوحَانِيِّينَ الشَّيْخُ عَطِيَّةُ عَبْدُ الْحَمِيدِ
+
+**LAT:** kitābu sirri al-asrāri fī al-tawāṣuli ma‘a rūḥāniyyāti al-qur’āni — shaykhu al-rūḥāniyyīna al-shaykhu ‘Aṭiyyatu ‘Abdu al-Ḥamīdi
+
+**ID:** “Kitab «Sirr al-Asrār fī al-Tawāṣul ma‘a Rūḥāniyyāt al-Qur’ān» — Syaikh para ruhaniyyin, Syaikh ‘Aṭiyyah ‘Abd al-Ḥamīd.” (Kepala halaman.)
+
+**AR:** الْعَابِدِينَ وَ بِحَقِّ الْوَعْدِ الْقَرِيبِ وَ الْمُقَرَّبِينَ وَ بِحَقِّ الْاَوْلِيَاءِ وَ الْاَصْفِيَاءِ وَ الصَّالِحِينَ يَا رَازِقَ الْيَتَامَى وَ الضُّعَفَاءِ وَ السَّائِلِينَ ارْزُقْنِى مَنَافِعَ اسْمَائِكَ الْعِظَامِ وَ سَخِّرْ لِى رُوحَانِيَّةَ هَذِهِ السُّورَةِ الْجَلِيلَةِ فِى جَلْبِ الْاَرْزَاقِ وَ دَفْعِ الْمَضَارِّ عَنِّى وَ احْجُبْنِى مِنْ كُلِّ ضُرٍّ وَ سُقْمٍ وَ اَلَمٍ
+
+**LAT:** al-‘ābidīna wa-bi-ḥaqqi al-wa‘di al-qarībi wa-al-muqarrabīna wa-bi-ḥaqqi al-awliyā’i wa-al-aṣfiyā’i wa-al-ṣāliḥīna yā rāziqa al-yatāmā wa-al-ḍu‘afā’i wa-al-sā’ilīna urzuqnī manāfi‘a asmā’ika al-‘iẓāmi wa-sakhkhir lī rūḥāniyyata hādhihi al-sūrati al-jalīlati fī jalbi al-arzāqi wa-daf‘i al-maḍārri ‘annī wa-iḥjubnī min kulli ḍurrin wa-suqmin wa-alamin
+
+**ID:** “…orang-orang yang beribadah; dan dengan hak janji yang dekat, orang-orang yang didekatkan, para wali, orang-orang pilihan, dan orang-orang saleh. Wahai Yang memberi rezeki kepada anak-anak yatim, orang-orang lemah, dan para peminta — anugerahkanlah kepadaku manfaat-manfaat dari nama-nama-Mu yang agung, tundukkanlah kepadaku ruhaniyyah surah yang mulia ini dalam menarik rezeki dan menolak segala bahaya dariku; dan hijabkanlah aku dari setiap bahaya, penyakit, dan rasa sakit…”
+
+**AR:** وَ الْاَلَمِ وَ مِنْ شَرِّ الْاَشْرَارِ وَ كَيْدِ الْفُجَّارِ بِكَ حَوْلِى وَ قُوَّتِى يَا اللَّهُ عَلَى قَهْرِ كُلِّ ظَالِمٍ مَارِقٍ وَ سَارِقٍ وَ طَارِقٍ وَ غَاشِمٍ وَ مُتَكَبِّرٍ وَ فَاجِرٍ وَ بَاغٍ وَ حَاسِدٍ وَ شَيْطَانٍ وَ مَارِدٍ حَسْبِىَ اللَّهُ وَحْدَهُ اَلَيْسَ اللَّهُ بِكَافٍ عَبْدَهُ فَسَيَكْفِيكَهُمُ اللَّهُ وَ هُوَ السَّمِيعُ الْعَلِيمُ يَا مَنْ هُوَ هُوَ يَا كَافِى يَا فَاطِرُ يَا كَبِيرُ يَا مَلِكُ يَا عَظِيمُ يَا سَلَامُ اكْفِنِى شَرَّ مَا اَخَافُ
+
+**LAT:** wa-al-amali wa-min sharri al-ashrāri wa-kaydi al-fujjāri bika ḥawlī wa-quwwatī yā Allāhu ‘alā qahri kulli ẓālimin māriqin wa-sāriqin wa-ṭāriqin wa-ghāshimin wa-mutakabbirin wa-fājirin wa-bāghin wa-ḥāsidin wa-shayṭānin wa-māridin ḥasbiya Allāhu waḥdahu a-laysa Allāhu bi-kāfin ‘abdahu fa-sayakfīkahumu Allāhu wa-huwa al-samī‘u al-‘alīmu yā man huwa huwa yā Kāfī yā Fāṭiru yā Kabīru yā Maliku yā ‘Aẓīmu yā Salāmu ikfinī sharra mā akhāfu
+
+**ID:** “…dan rasa sakit; dan (lindungilah aku) dari kejahatan orang-orang jahat serta tipu daya orang-orang durjana. Dengan (kekuatan)-Mu jualah gerak dan kekuatanku, ya Allah, untuk menundukkan setiap zalim yang menyimpang, pencuri, pendatang (di malam hari), perampas, orang sombong, pendurhaka, pemberontak, pendengki, setan, dan jin yang membangkang. Cukuplah Allah bagiku, Dia-lah satu-satunya; «Bukankah Allah cukup untuk melindungi hamba-Nya? Maka Allah akan memeliharamu dari mereka, dan Dia-lah Yang Maha Mendengar, Maha Mengetahui». Wahai Yang Dia-lah Dia, wahai Yang Maha Mencukupi, Maha Pencipta, Maha Besar, Maha Raja, Maha Agung, Maha Sejahtera — cukupkanlah aku (terlindung) dari kejahatan yang aku takutkan.”
+
+**AR:** يَا مَنْ قَالَ وَ قَوْلُهُ الْحَقُّ وَ اَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ اَللَّهُمَّ اِنِّى اَسْأَلُكَ (يَا اللَّهُ ٣) يَا عَزِيزُ يَا عَلِىُّ يَا غَفَّارُ يَا قَهَّارُ يَا عَلِيمُ يَا عَلِىُّ يَا عَظِيمُ يَا ذَا الْحُجَّةِ الْبَالِغَةِ يَا ذَا النِّعْمَةِ الشَّامِلَةِ يَا رَحْمَنَ الدُّنْيَا وَ الْآخِرَةِ يَا خَيْرَ مَنْ سُئِلَ وَ يَا اكْرَمَ مَنْ اَعْطَى
+
+**LAT:** yā man qāla wa-qawluhu al-ḥaqqu wa-ammā bi-ni‘mati rabbika fa-ḥaddith allāhumma innī as’aluka (yā Allāhu 3) yā ‘Azīzu yā ‘Aliyyu yā Ghaffāru yā Qahhāru yā ‘Alīmu yā ‘Aliyyu yā ‘Aẓīmu yā Dhā al-ḥujjati al-bālighati yā Dhā al-ni‘mati al-shāmilati yā Raḥmāna al-dunyā wa-al-ākhirati yā Khayra man su’ila wa-yā Akrama man a‘ṭā
+
+**ID:** “Wahai Yang telah berfirman — dan firman-Nya adalah kebenaran: «Dan terhadap nikmat Tuhanmu, maka hendaklah engkau menyebut-nyebutnya». Ya Allah, aku memohon kepada-Mu — (ya Allah, **3 kali**) — ya ‘Azīz, ya ‘Alī, ya Ghaffār, ya Qahhār, ya ‘Alīm, ya ‘Alī, ya ‘Aẓīm, ya Dhā al-ḥujjah al-bālighah, ya Dhā al-ni‘mah al-shāmilah, ya Raḥmāna al-dunyā wa-al-ākhirah, ya Khayra man su’ila, ya Akrama man a‘ṭā…”
+
+**AR:** اَسْأَلُكَ بِالْآيَاتِ الْبَيِّنَاتِ وَ الذِّكْرِ الْحَكِيمِ وَ بِمُحْكَمِ كِتَابِكَ الْعَزِيزِ الْقَدِيمِ اَنْ تَجْعَلَ لِى مِنْ اَمْرِى فَرَجًا وَ مَخْرَجًا وَ تَعْرِفَنِى بِسِرِّ سِرِّكَ الْعَظِيمِ الَّذِى اَخْفَيْتَهُ عَنْ كَثِيرٍ مِنْ عِبَادِكَ وَ اَنْ تَكْشِفَ عَنِّى حِجَابَ الْغَفْلَةِ حَتَّى اُشَاهِدَ نُورَ جَلَالِكَ وَ كَمَالِكَ اِنَّكَ عَلَى كُلِّ شَىْءٍ قَدِيرٌ وَ تُلْحِقَنِى بِاَوْلِيَائِكَ وَ اَصْفِيَائِكَ وَ سَخِّرْ لِى رُوحَانِيَّةَ هَذِهِ السُّورَةِ الْجَلِيلَةِ يَكُونُوا عَوْنًا لِى عَلَى مَا اُرِيدُ مِنْ اُمُورِ الدُّنْيَا وَ الْآخِرَةِ وَ وَفِّقْنِى اِلَى طَرِيقِ الْعِبَادَةِ وَ الرَّشَادِ وَ الزُّهْدِ وَ النُّهَى وَ الْاِخْلَاصِ وَ الصَّبْرِ
+
+**LAT:** as’aluka bi-al-āyāti al-bayyināti wa-al-dhikri al-ḥakīmi wa-bi-muḥkami kitābika al-‘azīzi al-qadīmi an taj‘ala lī min amrī farajan wa-makhrajan wa-ta‘rifanī bi-sirri sirrika al-‘aẓīmi alladhī akhfaytahu ‘an kathīrin min ‘ibādika wa-an takshifa ‘annī ḥijāba al-ghaflati ḥattā ushāhida nūra jalālika wa-kamālika innaka ‘alā kulli shay’in qadīrun wa-tulḥiqanī bi-awliyā’ika wa-aṣfiyā’ika wa-sakhkhir lī rūḥāniyyata hādhihi al-sūrati al-jalīlati yakūnū ‘awnan lī ‘alā mā urīdu min umūri al-dunyā wa-al-ākhirati wa-waffiqnī ilā ṭarīqi al-‘ibādati wa-al-rashādi wa-al-zuhdi wa-al-nuhā wa-al-ikhlāṣi wa-al-ṣabri
+
+**ID:** “Aku memohon kepada-Mu dengan ayat-ayat yang nyata, al-Dzikr al-Ḥakīm, dan dengan kitab-Mu yang muhkam, Maha Perkasa lagi Qadīm: jadikanlah bagiku jalan keluar dan jalan lepas dari urusanku; kenalkanlah aku dengan rahasia dari rahasia-Mu yang agung yang Engkau sembunyikan dari banyak hamba-Mu; singkapkanlah dariku hijab kelalaian sehingga aku dapat menyaksikan cahaya keagungan dan kesempurnaan-Mu — sesungguhnya Engkau Mahakuasa atas segala sesuatu; dan gabungkanlah aku dengan para wali dan orang-orang pilihan-Mu. Tundukkanlah kepadaku ruhaniyyah surah yang mulia ini agar mereka menjadi penolongku atas apa yang aku kehendaki dari urusan dunia dan akhirat, serta tuntunlah aku ke jalan ibadah, kebenaran, zuhud, kecerdasan (nuhā), keikhlasan, dan kesabaran.”
+
+**AR:** يَا جَلِيلُ يَا جَمِيلُ كُنْ لِى حَافِظًا وَ نَاصِرًا فِى الْمَقَامِ وَ الرَّحِيلِ يَا مَنْ قَالَ وَ قَوْلُهُ الْحَقُّ اُدْعُونِى اَسْتَجِبْ لَكُمْ دَعَوْنَاكَ كَمَا اَمَرْتَنَا فَاسْتَجِبْ لَنَا كَمَا وَعَدْتَنَا اِنَّكَ لَا تُخْلِفُ الْمِيعَادَ يَا مَنْ هُوَ عَلَى كُلِّ شَىْءٍ قَدِيرٌ وَ بِالْاِجَابَةِ جَدِيرٌ
+
+**LAT:** yā Jalīlu yā Jamīlu kun lī ḥāfiẓan wa-nāṣiran fī al-maqāmi wa-al-raḥīli yā man qāla wa-qawluhu al-ḥaqqu ud‘ūnī astajib lakum da‘awnāka kamā amartanā fa-stajib lanā kamā wa‘adtanā innaka lā tukhlifu al-mī‘āda yā man huwa ‘alā kulli shay’in qadīrun wa-bi-al-ijābati jadīrun
+
+**ID:** “Wahai Yang Maha Agung, Maha Indah — jadilah pelindung dan penolongku dalam menetap maupun dalam perjalanan. Wahai Yang telah berfirman — dan firman-Nya adalah kebenaran: «Berdoalah kepada-Ku, niscaya Aku perkenankan bagimu». Kami telah menyeru-Mu sebagaimana Engkau perintahkan, maka perkenankanlah kami sebagaimana Engkau janjikan; sesungguhnya Engkau tidak menyalahi janji. Wahai Yang Maha Kuasa atas segala sesuatu dan Yang layak mengabulkan.”
+
+**AR:** وَ صَلَّى اللَّهُ عَلَى سَيِّدِنَا مُحَمَّدٍ وَ عَلَى آلِهِ وَ صَحْبِهِ وَ سَلَّمَ آمِينَ . اَجِيبُونِى يَا رُوحَانِيَّةَ هَذِهِ السُّورَةِ وَ الدَّعْوَةِ الشَّرِيفَةِ وَ تَوَكَّلُوا بِكَذَا بَارَكَ اللَّهُ فِيكُمْ وَ عَلَيْكُمْ آمِينَ .
+
+**LAT:** wa-ṣallā Allāhu ‘alā sayyidinā Muḥammadin wa-‘alā ālihi wa-ṣaḥbihi wa-sallama āmīna. ajībūnī yā rūḥāniyyata hādhihi al-sūrati wa-al-da‘wati al-sharīfati wa-tawakkalū bi-kadhā bāraka Allāhu fīkum wa-‘alaykum āmīna.
+
+**ID:** “Semoga Allah melimpahkan shalawat atas junjungan kami Muḥammad, keluarganya, dan para sahabatnya, serta salam; āmīn. Jawablah (seruanku), wahai ruhaniyyah surah ini dan doa yang mulia ini; dan lakukanlah tawkil untuk (hajat) demikian — semoga Allah memberkati kalian dan atas kalian; āmīn.”
+
+**AR:** اَمَّا صَرْفُ الْخُدَّامِ فَهُوَ: ”بَخْ بَخْ اِنْصَرَفُوا بِسَلَامٍ آمِنِينَ بَارَكَ اللَّهُ فِيكُمْ وَ عَلَيْكُمْ“ سَبْعَ مَرَّاتٍ
+
+**LAT:** ammā ṣarfu al-khuddāmi fa-huwa: “bakh bakh inṣarafū bi-salāmin āminīna bāraka Allāhu fīkum wa-‘alaykum” sab‘a marrātin.
+
+**ID:** “Adapun «ṣarf al-khuddām» (pemulangan para khādim) adalah: «Bakh bakh, pulanglah kalian dengan selamat dan aman; semoga Allah memberkati kalian dan atas kalian» — dibaca **tujuh kali**.”
+
+**AR:** خَاتَمُ الدَّعْوَةِ
+
+**LAT:** khātamu al-da‘wati
+
+**ID:** “«Khātim (wafaq) doa».” (Judul penutup bagian.)
+
+**AR:** تَمَّتْ دَعْوَةُ سُورَةِ وَ الضُّحَى الشَّرِيفَةِ بِخَوَاصِّ السُّورَةِ وَ الدَّعْوَةِ وَ الْخَاتِمِ .
+
+**LAT:** tammat da‘watu sūrati wa-al-ḍuḥā al-sharīfati bi-khawāṣṣi al-sūrati wa-al-da‘wati wa-al-khātimi.
+
+**ID:** “Telah sempurna (penulisan) «doa surah Wa al-Ḍuḥā yang mulia» beserta khasiat-khasiat surah, doa, dan khātim (wafaq)-nya.”
+
+**AR:** رُوحَانِيَةُ ايَةِ الْكُرْسِى وَصِفَاتُهَا؟
+
+**LAT:** rūḥāniyyatu āyati al-kursī wa-ṣifātuhā?
+
+**ID:** “**Ruhaniyyah Ayat al-Kursī dan sifat-sifatnya?**” (Judul bagian baru — berbentuk pertanyaan, sebagaimana tercetak.)
+
+**AR:** رُوحَانِيَةُ ايَةِ الْكُرْسِى وَصِفَاتُهَا؟ بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ وَالْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ وَالصَّلَاةُ وَالسَّلَامُ عَلَى سَيِّدِنَا مُحَمَّدٍ خَاتِمِ الْأَنْبِيَاءِ وَالْمُرْسَلِينَ
+
+**LAT:** rūḥāniyyatu āyati al-kursī wa-ṣifātuhā? bismi Allāhi al-Raḥmāni al-Raḥīmi wa-al-ḥamdu lillāhi rabbi al-‘ālamīna wa-al-ṣalātu wa-al-salāmu ‘alā sayyidinā Muḥammadin khātimi al-anbiyā’i wa-al-mursalīna
+
+**ID:** “Ruhaniyyah Ayat al-Kursī dan sifat-sifatnya? Dengan nama Allah Yang Maha Pengasih, Maha Penyayang; segala puji bagi Allah, Tuhan semesta alam; shalawat dan salam atas junjungan kami Muḥammad, penutup para nabi dan rasul.”
+
+**AR:** تُعْتَبَرُ آيَةُ الْكُرْسِى مِنْ كِبَارِ الْآيَاتِ الَّتِى يَتِمُّ الْعِلَاجُ بِهَا فِى الْقُرْآنِ الْكَرِيمِ وَلَهَا خَوَاصُّ عَجِيبَةٌ وَسَرِيعَةٌ فِى الْاِسْتِجَابَةِ
+
+**LAT:** tu‘tabaru āyatu al-kursī min kibāri al-āyāti allatī yatimm al-‘ilāju bihā fī al-qur’āni al-karīmi wa-lahā khawāṣṣu ‘ajībatun wa-sarī‘atun fī al-istijābati
+
+**ID:** “Ayat al-Kursī dianggap termasuk ayat-ayat besar yang dengannya pengobatan sempurna dalam al-Qur’ān al-Karīm; ia memiliki khasiat-khasiat yang menakjubkan dan cepat dikabulkan.”
+
+**Keterangan halaman.** Halaman ini menutup rangkaian «دعوة والضحى» (dimulai halaman 402) dan **membuka bagian baru «روحانية اية الكرسي وصفاتها»**. Susunannya: (1) sambungan doa dari halaman 405 — deret tawassul para ‘ābidīn, wali dan aṣfiyā’, permohonan rezeki, penundukan ruhaniyyah surah, hijab dari penyakit; (2) deret asma «يا من هو هو يا كافى…», kutipan «أليس الله بكاف عبده…»; (3) kutipan «وأما بنعمة ربك فحدث» lalu «(يا الله ٣)» dan deret asma; (4) permohonan «فرجا ومخرجا», kasyf hijab kelalaian, dan penggabungan dengan para wali; (5) «يا جليل يا جميل…», kutipan «ادعوني أستجب لكم»; (6) **penutup**: shalawat, āmīn, seruan «اجيبونى يا روحانية هذه السورة… وتوكلوا بكذا», dan **«صرف الخدام»** — «بخ بخ انصرفوا بسلام آمنين…» **7×**; (7) **«خاتم الدعوة»** dan pernyataan «تمت دعوة سورة والضحى الشريفة بخواص السورة والدعوة والخاتم»; (8) judul baru **«روحانية اية الكرسي وصفاتها؟»** dengan basmalah, hamdalah, shalawat, dan muqaddimah: Ayat al-Kursī termasuk ayat-ayat besar untuk pengobatan, khasiatnya menakjubkan dan cepat dikabulkan.
+
+**Angka pada halaman ini (dibaca dari scan + crop 1600 DPI).** ٣ (pada «يا الله ٣» — dibaca tiga kali), ٧ (tujuh kali «صرف الخدام»).
+
+**[TIDAK JELAS - HALAMAN 406]** (1) Judul **«رُوحَانِيَةُ ايَةِ الْكُرْسِى وَصِفَاتُهَا؟»** tercetak **dua kali** — sekali sebagai baris judul tersendiri dan sekali lagi di awal paragraf pembuka — dan keduanya diakhiri tanda tanya; **[TEKS ASLI DIJAGA]**, keduanya ditulis. (2) Ejaan «رُوحَانِيَة» (bukan «روحانية») dan «ايَة» tanpa hamzah dipertahankan sebagaimana tercetak. (3) Bagian terakhir halaman ini memakai **jenis huruf yang berbeda** (lebih tipis/rangkaian harakat berbeda) dari halaman-halaman sebelumnya — ciri khas halaman-halaman re-typeset pada berkas ini; teks disalin apa adanya. (4) Kata «الْخُدَّامِ» (para khādim) dan «صَرْفُ» disalin menurut cetakan. (5) «سُورَةِ وَ الضُّحَى» tercetak dengan «و» berdiri (sebagaimana pada judul halaman 402) — dipertahankan. (6) Tidak ada citra tertanam menurut `get_image_info()`.
+
+**[TIDAK ADA RAJAH - TERVERIFIKASI DARI GAMBAR SCAN]** (Halaman ini menyebut «خاتم الدعوة» tetapi **tidak mencetak gambar wafaq/khātim**; tidak ada rajah, tabel angka, atau thilasm pada halaman ini.)
+
+---
+## HALAMAN 407 — «ومن خواصها…» khasiat Ayat al-Kursī dan sifat ruhaniyyah-nya
+
+**AR:** كِتَابُ سِرِّ الْأَسْرَارِ فِي التَّوَاصُلِ مَعَ رُوحَانِيَّاتِ الْقُرْآنِ — شَيْخُ الرُّوحَانِيِّينَ الشَّيْخُ عَطِيَّةُ عَبْدُ الْحَمِيدِ
+
+**LAT:** kitābu sirri al-asrāri fī al-tawāṣuli ma‘a rūḥāniyyāti al-qur’āni — shaykhu al-rūḥāniyyīna al-shaykhu ‘Aṭiyyatu ‘Abdu al-Ḥamīdi
+
+**ID:** “Kitab «Sirr al-Asrār fī al-Tawāṣul ma‘a Rūḥāniyyāt al-Qur’ān» — Syaikh para ruhaniyyin, Syaikh ‘Aṭiyyah ‘Abd al-Ḥamīd.” (Kepala halaman.)
+
+**AR:** وَمِنْ خَوَاصِّهَا الَّتِى تُسْتَعْمَلُ لِاَجْلِهَا هَذِهِ الْآيَاتِ الْكَرِيمَةِ الَّتِى نَزَلَتْ ضِمْنَ سُورَةِ الْبَقَرَةِ فِى الْقُرْآنِ الْكَرِيمِ:
+
+**LAT:** wa-min khawāṣṣihā allatī tusta‘malu li-ajlihā hādhihi al-āyāti al-karīmati allatī nazalat ḍimna sūrati al-baqarati fī al-qur’āni al-karīmi:
+
+**ID:** “Dan di antara khasiat-khasiatnya yang menjadi sebab ia digunakan — yaitu ayat-ayat mulia ini yang turun di dalam surah al-Baqarah dalam al-Qur’ān al-Karīm:”
+
+**AR:** اَنَّهَا تُبْعِدُ الْجِنَّ وَالشَّيَاطِينَ بِشَكْلٍ كَبِيرٍ
+
+**LAT:** annahā tub‘idu al-jinna wa-al-shayāṭīna bi-shaklin kabīrin
+
+**ID:** “(1) Bahwa ia **menjauhkan jin dan setan** secara besar-besaran.”
+
+**AR:** تُسَاعِدُ فِى بَقَاءِ الْجِنِّ بَعِيدًا عَنِ الْإِنْسَانِ وَعَنِ الْمَنْزِلِ
+
+**LAT:** tusā‘idu fī baqā’i al-jinni ba‘īdan ‘ani al-insāni wa-‘ani al-manzili
+
+**ID:** “(2) Membantu agar jin tetap jauh dari manusia dan dari rumah.” (Tercetak «بَقَاءِ» — lihat catatan.)
+
+**AR:** تُسَاعِدُ فِى الْقَضَاءِ عَلَى الْخَوْفِ الدَّاخِلِى لِلْإِنْسَانِ
+
+**LAT:** tusā‘idu fī al-qaḍā’i ‘alā al-khawfi al-dākhilī li-al-insāni
+
+**ID:** “(3) Membantu menghilangkan rasa takut yang ada di dalam diri manusia.”
+
+**AR:** تُسَاعِدُ بِشَكْلٍ كَبِيرٍ فِى طَرْدِ التَّابِعَةِ عَنِ النِّسَاءِ وَالْقَرِينِ عَنِ الرِّجَالِ
+
+**LAT:** tusā‘idu bi-shaklin kabīrin fī ṭardi al-tābi‘ati ‘ani al-nisā’i wa-al-qarīni ‘ani al-rijāli
+
+**ID:** “(4) Sangat membantu mengusir «tābi‘ah» (jin pendamping) dari perempuan dan «qarīn» dari laki-laki.”
+
+**AR:** تُسَاعِدُ فِى حِفْظِ الْأَمْوَالِ وَالْأَنْفُسِ
+
+**LAT:** tusā‘idu fī ḥifẓi al-amwāli wa-al-anfusi
+
+**ID:** “(5) Membantu menjaga harta dan jiwa.”
+
+**AR:** وَهُنَاكَ الْكَثِيرُ الْكَثِيرُ مِنْ خَوَاصِّهَا الَّتِى لَا تَنْتَهِى وَلَا يُمْكِنُ الْإِلْمَامُ بِهَا كُلِّهَا وَإِنَّمَا تَمَّ ذِكْرُ بَعْضِ هَذِهِ الْخَوَاصِّ لِلدَّلَالَةِ عَلَى عِظَمِ مَنْزِلَتِهَا
+
+**LAT:** wa-hunāka al-kathīru al-kathīru min khawāṣṣihā allatī lā tantahī wa-lā yumkinu al-ilmāmu bihā kullihā wa-innamā tamma dhikru ba‘ḍi hādhihi al-khawāṣṣi li-al-dalālati ‘alā ‘iẓami manzilihatā
+
+**ID:** “Dan masih ada sangat banyak khasiatnya yang tidak terbatas dan tidak dapat dihimpun seluruhnya; penyebutan sebagian khasiat ini hanyalah untuk menunjukkan besarnya kedudukannya.”
+
+**AR:** وَتَتَمَتَّعُ آيَةُ الْكُرْسِى بِرُوحَانِيَةٍ عَجِيبَةٍ وَمُتَصَرِّفَةٍ فِى كُلِّ شَىءٍ تَقْرِيبًا وَمَنْ اِسْتَطَاعَ اَنْ يُحَصِّلَ هَذَا السِّرَّ وَهَذِهِ الرُّوحَانِيَةَ فَقَدْ فُتِحَتْ لَهُ اَبْوَابُ الرِّزْقِ وَ اَبْوَابُ الْمُعَالَجَاتِ بِالْقُرْآنِ الْكَرِيمِ بِشَكْلٍ كَبِيرٍ
+
+**LAT:** wa-tatamatta‘u āyatu al-kursī bi-rūḥāniyyatin ‘ajībatin wa-mutaṣarrifatin fī kulli shay’in taqrīban wa-man istatā‘a an yuḥaṣṣila hādhā al-sirra wa-hādhihi al-rūḥāniyyata fa-qad futiḥat lahu abwābu al-rizqi wa-abwābu al-mu‘ālajāti bi-al-qur’āni al-karīmi bi-shaklin kabīrin
+
+**ID:** “Ayat al-Kursī memiliki ruhaniyyah yang menakjubkan dan (mampu) bertasarruf pada hampir segala hal. Siapa yang mampu memperoleh rahasia dan ruhaniyyah ini, maka terbukalah baginya pintu-pintu rezeki dan pintu-pintu pengobatan dengan al-Qur’ān al-Karīm secara besar-besaran.”
+
+**AR:** وَلَكِنْ يَجِبُ التَّنْبِيهُ عَلَى اَنَّ الْحُصُولَ عَلَى سِرِّ هَذِهِ الْآيَةِ وَسِرِّ هَذِهِ الرُّوحَانِيَةِ هُوَ مِنْ اَصْعَبِ الْاُمُورِ الَّتِى يُمْكِنُ تَحْصِيلُهَا وَهِىَ لَا تَتَمَثَّلُ اِلَّا بِاَشْكَالٍ مُعَيَّنَةٍ وَلِاُنَاسٍ مُحَدَّدِينَ جِدًّا جِدًّا
+
+**LAT:** wa-lākin yajibu al-tanbīhu ‘alā anna al-ḥuṣūla ‘alā sirri hādhihi al-āyati wa-sirri hādhihi al-rūḥāniyyati huwa min aṣ‘abi al-umūri allatī yumkinu taḥṣīluhā wa-hiya lā tatamaththalu illā bi-ashkālin mu‘ayyanatin wa-li-unāsin muḥaddadīna jiddan jiddan
+
+**ID:** “Akan tetapi perlu diingatkan bahwa memperoleh rahasia ayat ini dan rahasia ruhaniyyah ini termasuk perkara paling sulit yang dapat dicapai; ia tidak menampakkan diri kecuali dalam bentuk-bentuk tertentu dan kepada orang-orang tertentu sekali.”
+
+**AR:** وَمَنْ تَمَثَّلَتْ لَهُ هَذِهِ الرُّوحَانِيَةُ الْعَظِيمَةُ فَإِنَّهَا تَأْتِيهِ بِاَشْكَالٍ لَطِيفَةٍ وَرَقِيقَةٍ تَصِيبُ الْإِنْسَانَ بِالذُّهُولِ مِنْ فَرْطِ جَمَالِ الشَّكْلِ وَالرُّؤْيَةِ الَّتِى تَأْتِى بِهَا وَفِى الْعَادَةِ تَأْتِى هَذِهِ الرُّوحَانِيَةُ بِشَكْلِ شَيْخٍ جَلِيلِ الْقَدْرِ اَبْيَضِ الثِّيَابِ اَبْيَضِ غِطَاءِ الرَّأْسِ يَلْبَسُ مِئْزَرًا اَبْيَضَ وَيَشِعُّ النُّورُ مِنْ وَجْهِهِ وَعَلَيْهِ هَيْبَةٌ وَوَقَارٌ لَا يُمْكِنُ مُقَارَنَتُهُ بِاَىِّ شَىءٍ فِى حَيَاتِنَا الْعَادِيَةِ
+
+**LAT:** wa-man tamaththalat lahu hādhihi al-rūḥāniyyatu al-‘aẓīmatu fa-innahā ta’tīhi bi-ashkālin laṭīfatin wa-raqīqatin tuṣību al-insāna bi-al-dhuhūli min farṭi jamāli al-shakli wa-al-ru’yati allatī ta’tī bihā wa-fī al-‘ādati ta’tī hādhihi al-rūḥāniyyatu bi-shakli shaykhin jalīli al-qadri abyaḍi al-thiyābi abyaḍi ghiṭā’i al-ra’si yalbasu mi’zaran abyaḍa wa-yashi‘‘u al-nūru min wajhihi wa-‘alayhi haybatun wa-waqārun lā yumkinu muqāranatuhu bi-ayyi shay’in fī ḥayātinā al-‘ādiyati
+
+**ID:** “Dan siapa yang ruhaniyyah agung ini menampakkan diri kepadanya, maka ia datang dengan bentuk-bentuk yang lembut dan halus, yang membuat manusia tercengang karena begitu indahnya bentuk dan penglihatan yang dibawanya. Biasanya ruhaniyyah ini datang dalam bentuk **seorang syaikh yang agung kedudukannya, berpakaian putih, penutup kepala putih, memakai kain sarung (mi’zar) putih; cahaya memancar dari wajahnya, dan padanya ada wibawa serta ketenangan yang tidak dapat dibandingkan dengan apa pun dalam kehidupan kita sehari-hari**.”
+
+**AR:** وَمِنْ جَمَالِ الشَّكْلِ الَّذِى تَأْتِى بِهِ هَذِهِ الرُّوحَانِيَةُ هُوَ لَوْنُ عَيْنَىِ الشَّيْخِ الزَّرْقَاوَتَيْنِ بِلَوْنِ السَّمَاءِ الصَّافِيَةِ حَتَّى لَكَانَكَ تَرَى السَّمَاءَ فِيهِمَا
+
+**LAT:** wa-min jamāli al-shakli alladhī ta’tī bihi hādhihi al-rūḥāniyyatu huwa lawnu ‘aynayi al-shaykhi al-zarqāwatayni bi-lawni al-samā’i al-ṣāfiyati ḥattā la-ka-annaka tarā al-samā’a fīhimā
+
+**ID:** “Dan di antara keindahan bentuk yang dibawa ruhaniyyah ini adalah **warna kedua mata syaikh itu yang kebiru-biruan, sewarna langit yang jernih, sehingga seakan-akan engkau melihat langit di dalam keduanya**.”
+
+**AR:** وَمِنْ خَوَاصِّ الرُّوحَانِيَةِ إِذَا حَضَرَتْ سُرْعَةُ الْاِسْتِجَابَةِ وَسُرْعَةُ الْغَضَبِ وَسُرْعَةُ الرِّضَا وَالسُّرْعَةِ الْغَيْرِ مَعْقُولَةٍ فِى قَضَاءِ الْاُمُورِ وَالْقَضَاءِ عَلَى الْجِنِّ وَعُمَّارِ الْمَكَانِ وَهِىَ تُفِيدُ فِى التَّحْصِينِ بِشَكْلٍ لَا تَتَصُوَّرُونَهُ
+
+**LAT:** wa-min khawāṣṣi al-rūḥāniyyati idhā ḥaḍarat sur‘atu al-istijābati wa-sur‘atu al-ghaḍabi wa-sur‘atu al-riḍā wa-al-sur‘ati al-ghayri ma‘qūlatin fī qaḍā’i al-umūri wa-al-qaḍā’i ‘alā al-jinni wa-‘ummāri al-makāni wa-hiya tufīdu fī al-taḥṣīni bi-shaklin lā tataṣawwarūnahu
+
+**ID:** “Dan di antara khasiat ruhaniyyah (ini) apabila ia hadir: **cepatnya pengabulan**, cepatnya kemarahan, cepatnya keridhaan, dan kecepatan yang tidak masuk akal dalam menyelesaikan urusan serta dalam menundukkan jin dan penunggu tempat. Ia juga bermanfaat untuk perlindungan (taḥṣīn) dengan cara yang tidak dapat kalian bayangkan.”
+
+**AR:** وَلَكِنْ لَيْسَ بِشَكٍّ الْآيَةُ وَإِنَّمَا بِالشَّكْلِ الَّذِى تَتَمَثَّلُ بِهِ لِلْإِنْسَانِ
+
+**LAT:** wa-lākin laysa bi-shakkin al-āyatu wa-innamā bi-al-shakli alladhī tatamaththalu bihi li-al-insāni
+
+**ID:** “Akan tetapi (yang menjadi) persoalan bukanlah ayatnya — tidak ada keraguan (padanya) — melainkan bentuk (penampakan) yang dengannya ia menampakkan diri kepada manusia.”
+
+**AR:** فَمَنْ تَمَثَّلَتْ لَهُ الرُّوحَانِيَةُ لَا يَحْتَاجُ إِلَى اَىِّ تَحْصِينٍ آخَرَ فَمَتَى حَضَرَ الْجِنُّ الْمَجْلِسِ الَّذِى اَنْتَ فِيهِ كَانَتِ الرُّوحَانِيَةُ وَرَاءَكَ وَفَوْقَ رَاسِكَ وَبِدُونِ اَنْ تَسْتَدْعِيَهَا حَتَّى وَإِنَّمَا تَكُونُ حَاضِرَةً أَبَدًا لِحِمَايَتِكَ وَلَا يُمْكِنُ اَنْ يَتَجَاوَزَهَا جِنٌّ اَوْ شَيْطَانٌ الَّا احْتَرَقَ مِنْ فَوْرِهِ وَسَاعَتِهِ
+
+**LAT:** fa-man tamaththalat lahu al-rūḥāniyyatu lā yaḥtāju ilā ayyi taḥṣīnin ākhara fa-matā ḥaḍara al-jinnu al-majlisi alladhī anta fīhi kānati al-rūḥāniyyatu warā’aka wa-fawqa rāsika wa-bidūni an tastad‘iyahā ḥattā wa-innamā takūnu ḥāḍiratan abadan li-ḥimāyatika wa-lā yumkinu an yatajāwazahā jinnun aw shayṭānun illā iḥtaraqa min fawrihi wa-sā‘atihi
+
+**ID:** “Maka siapa yang ruhaniyyah (itu) telah menampakkan diri kepadanya, ia tidak memerlukan perlindungan (taḥṣīn) lain apa pun. Kapan saja jin hadir di majelis tempat engkau berada, ruhaniyyah itu ada di belakangmu dan di atas kepalamu — tanpa engkau harus memanggilnya; ia senantiasa hadir untuk melindungimu, dan tidak mungkin ada jin atau setan yang melewatinya kecuali ia terbakar seketika itu juga.”
+
+**AR:** وَاِنْ سَعَيْتَ فِى طَلَبِ اَىِّ اَمْرٍ مِنْ اَىِّ كَانَ فَاِنَّكَ تَرَى الرُّوحَانِيَةَ مُتَجَسِّدَةً اَمَامَكَ وَرَاءَ ذَلِكَ الشَّخْصِ وَهِىَ تَضَعُ فِى قَلْبِهِ سُرْعَةَ إِجَابَةِ طَلَبِكَ
+
+**LAT:** wa-in sa‘ayta fī ṭalabi ayyi amrin min ayyi kāna fa-innaka tarā al-rūḥāniyyata mutajassidatan amāmaka warā’a dhālika al-shakhṣi wa-hiya taḍa‘u fī qalbihi sur‘ata ijābati ṭalabika
+
+**ID:** “Dan jika engkau berusaha meminta suatu urusan dari siapa pun, engkau akan melihat ruhaniyyah itu berwujud di hadapanmu, di belakang orang (yang engkau minta) itu; dan ia menanamkan dalam hatinya (dorongan) untuk segera mengabulkan permintaanmu.”
+
+**AR:** وَهُنَاكَ الْكَثِيرُ مِنَ الْاُمُورِ الَّتِى تَخْتَلِفُ فِى حَيَاتِكَ اخْتِلَافًا جَذْرِيًّا بَعْدَ رُؤْيَتِكَ لِهَذِهِ الرُّوحَانِيَةِ وَتَجَسُّدِهَا لَكَ
+
+**LAT:** wa-hunāka al-kathīru mina al-umūri allatī takhtalifu fī ḥayātika ikhtilāfan jadhriyyan ba‘da ru’yatika li-hādhihi al-rūḥāniyyati wa-tajassudihā laka
+
+**ID:** “Dan masih banyak perkara yang akan berubah dalam hidupmu secara mendasar setelah engkau melihat ruhaniyyah ini dan penjelmaannya kepadamu.”
+
+**Keterangan halaman.** Lanjutan bagian **«روحانية اية الكرسي وصفاتها»** yang dibuka pada halaman 406. Halaman ini **tidak memuat doa atau amalan**, melainkan uraian (deskriptif) tentang: (1) **lima khasiat pokok** Ayat al-Kursī — menjauhkan jin/setan, menjauhkan jin dari manusia dan rumah, menghilangkan rasa takut, mengusir «tābi‘ah» dari perempuan dan «qarīn» dari lelaki, menjaga harta dan jiwa; (2) pernyataan bahwa khasiatnya tak terbatas; (3) ruhaniyyah Ayat al-Kursī bersifat «mutaṣarrifah» pada hampir segala hal, membuka pintu rezeki dan pengobatan Qur’ani; (4) **peringatan**: memperoleh rahasia dan ruhaniyyah ini termasuk yang paling sulit, hanya tampak dalam bentuk tertentu dan bagi orang tertentu; (5) **ciri penampakan**: seorang syaikh agung, pakaian dan penutup kepala serta mi’zar putih, cahaya memancar dari wajah, wibawa dan ketenangan, kedua mata kebiru-biruan seperti langit jernih; (6) khasiatnya saat hadir: cepat ijabah, cepat marah, cepat ridha, kecepatan tak masuk akal dalam menyelesaikan urusan dan menundukkan jin/penunggu tempat, serta taḥṣīn yang tak terbayangkan; (7) penegasan: yang menjadi persoalan bukan ayatnya, melainkan bentuk penampakannya; (8) siapa yang telah didatangi ruhaniyyah ini tidak perlu taḥṣīn lain — ruhaniyyah itu selalu hadir di belakang dan di atas kepalanya, dan jin/setan yang melewatinya terbakar seketika; (9) saat mengajukan permintaan kepada orang lain, ruhaniyyah itu tampak berwujud di belakang orang tersebut dan menanamkan dorongan agar permintaan lekas dikabulkan; (10) banyak perubahan mendasar dalam hidup setelah melihatnya.
+
+**Angka pada halaman ini.** Tidak ada angka (bilangan) yang tercetak pada halaman ini; urutan khasiat dinyatakan dengan kata sambung («تُسَاعِدُ» berulang), bukan dengan nomor.
+
+**[TIDAK JELAS - HALAMAN 407]** (1) Khasiat kedua tercetak «تُسَاعِدُ فِى بَقَاءِ الْجِنِّ بَعِيدًا عَنِ الْإِنْسَانِ» — secara makna janggal (membantu «keberadaan/kelangsungan» jin jauh dari manusia); **[TEKS ASLI DIJAGA]**, tidak diubah menjadi «إبعاد». (2) «وَلِاُنَاسٍ مُحَدَّدِينَ» tercetak dengan «لِ» + «أناس» — dipertahankan. (3) «بِاَىِّ شَىءٍ» dan «رَاسِكَ» (bukan «رأسك») serta «عُمَّارِ الْمَكَانِ» disalin menurut cetakan. (4) «وَالْقَضَاءِ عَلَى الْجِنِّ» berulang dua kali dalam satu kalimat («فى قضاء الأمور والقضاء على الجن») — dipertahankan. (5) «لَا تَتَصُوَّرُونَهُ» (seharusnya «تتصورونه») tercetak dengan tasydid — dipertahankan. (6) «فَمَتَى حَضَرَ الْجِنُّ الْمَجْلِسِ الَّذِى اَنْتَ فِيهِ» tercetak janggal secara nahwu; dipertahankan. (7) Baris «وَلَكِنْ لَيْسَ بِشَكٍّ الْآيَةُ…» tercetak tanpa «في» — dipertahankan. (8) Halaman ini memakai **jenis huruf re-typeset** yang sama dengan paruh akhir halaman 406. (9) Tidak ada citra tertanam menurut `get_image_info()`.
+
+**[TIDAK ADA RAJAH - TERVERIFIKASI DARI GAMBAR SCAN]** (Halaman ini hanya teks uraian; tidak ada rajah, wafaq, tabel angka, atau thilasm.)
+
+---
+## HALAMAN 408 — «فوائد آية الكرسي الشريفة» (huruf & faedah أ–ج)
+
+**AR:** كِتَابُ سِرِّ الْأَسْرَارِ فِي التَّوَاصُلِ مَعَ رُوحَانِيَّاتِ الْقُرْآنِ — شَيْخُ الرُّوحَانِيِّينَ الشَّيْخُ عَطِيَّةُ عَبْدُ الْحَمِيدِ
+
+**LAT:** kitābu sirri al-asrāri fī al-tawāṣuli ma‘a rūḥāniyyāti al-qur’āni — shaykhu al-rūḥāniyyīna al-shaykhu ‘Aṭiyyatu ‘Abdu al-Ḥamīdi
+
+**ID:** “Kitab «Sirr al-Asrār fī al-Tawāṣul ma‘a Rūḥāniyyāt al-Qur’ān» — Syaikh para ruhaniyyin, Syaikh ‘Aṭiyyah ‘Abd al-Ḥamīd.” (Kepala halaman.)
+
+**AR:** وَمِنْ اَرْوَعِ خَوَاصِّ هَذِهِ الرُّوحَانِيَةِ اَنَّهُ مَهْمَا كَانَ الْوَقْتُ وَالتَّعَبِ الَّذِى اَنْتَ فِيهِ فَاِنَّهُ بِمُجَرَّدِ إِطْلَاقِ الْاَذَانِ فَاِنَّهَا تَقُومُ بِاِيْقَاظِكَ بِرِفْقٍ وَرِقَّةٍ لِتَقُومَ عَلَى صَلَاتِكَ وَلَا يُمْكِنُ اَنْ يَتَجَاوَزَكَ صَوْتُ اَىِّ اَذَانٍ اَوْ تَكْبِيرٍ لِلَّهِ تَعَالَى
+
+**LAT:** wa-min arwa‘i khawāṣṣi hādhihi al-rūḥāniyyati annahu mahmā kāna al-waqtu wa-al-ta‘abu alladhī anta fīhi fa-innahu bi-mujarradi iṭlāqi al-adhāni fa-innahā taqūmu bi-īqāẓika bi-rifqin wa-riqqatin li-taqūma ‘alā ṣalātika wa-lā yumkinu an yatajāwazaka ṣawtu ayyi adhānin aw takbīrin lillāhi ta‘ālā
+
+**ID:** “Dan di antara khasiat ruhaniyyah ini yang paling menakjubkan: bagaimanapun keadaan waktu dan kelelahan yang engkau alami, begitu azan dikumandangkan, ia (ruhaniyyah itu) akan membangunkanmu dengan lembut dan halus agar engkau bangkit untuk shalat; dan suara azan atau takbir apa pun tidak akan dapat melewatimu.”
+
+**AR:** اَمَّا بِالنِّسْبَةِ لِاَعْدَادِهَا وَلِلطَّرِيقَةِ وَالْاَوْقَاتِ الَّتِى تُقْرَاُ فِيهَا هَذِهِ الْآيَاتُ فَهِىَ مَوْجُودَةٌ فِى بَابِ الدَّوْرَاتِ التَّعْلِيمِيَّةِ وَيَسْتَطِيعُ الْمُشَارِكُونَ مَعَنَا فِى تِلْكَ الدَّوْرَاتِ الْحُصُولَ عَلَى هَذِهِ الْمَعْلُومَاتِ بِالتَّفْصِيلِ حَسَبَ الدَّرَجَةِ الَّتِى يَصِلُونَ اِلَيْهَا وَكُلُّ شَىءٍ فِى وَقْتِهِ وَمِيعَادِهِ
+
+**LAT:** ammā bi-al-nisbati li-a‘dādihā wa-li-al-ṭarīqati wa-al-awqāti allatī tuqra’u fīhā hādhihi al-āyātu fa-hiya mawjūdatun fī bābi al-dawrāti al-ta‘līmiyyati wa-yastaṭī‘u al-mushārikūna ma‘anā fī tilka al-dawrāti al-ḥuṣūla ‘alā hādhihi al-ma‘lūmāti bi-al-tafṣīli ḥasaba al-darajati allatī yaṣilūna ilayhā wa-kullu shay’in fī waqtihi wa-mī‘ādihi
+
+**ID:** “Adapun mengenai bilangan (bacaannya), tata caranya, dan waktu-waktu pembacaan ayat-ayat ini, semuanya ada pada **bab «dawrāt ta‘līmiyyah» (kursus-kursus pengajaran)**; dan para peserta bersama kami dalam kursus-kursus itu dapat memperoleh informasi ini secara terperinci sesuai tingkat yang mereka capai — dan segala sesuatu ada pada waktunya dan janjinya.”
+
+**AR:** نَتَمَنَّى لِلْجَمِيعِ الْفَائِدَةَ هَذِهِ الْآيَاتِ الصَّغِيرَةِ الْحَجْمِ الْعَظِيمَةَ فِى مَفْعُولِهَا وَعَطَاءَاتِهَا
+
+**LAT:** natamannā li-al-jamī‘i al-fā’idati hādhihi al-āyāti al-ṣaghīrati al-ḥajmi al-‘aẓīmati fī maf‘ūlihā wa-‘aṭā’ātihā
+
+**ID:** “Kami mengharapkan manfaat bagi semua (pembaca) dari ayat-ayat ini — kecil ukurannya, besar pengaruh dan pemberiannya.”
+
+**AR:** فَوَائِدُ آيَةِ الْكُرْسِى الشَّرِيفَةِ
+
+**LAT:** fawā’idu āyati al-kursī al-sharīfati
+
+**ID:** “**Faedah-faedah Ayat al-Kursī yang mulia**.” (Judul bagian.)
+
+**AR:** رُوِىَ عَنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَآلِهِ اَنَّهُ قَالَ اَعْظَمُ آيَةٍ فِى الْقُرْآنِ آيَةُ الْكُرْسِى .
+
+**LAT:** ruwiya ‘an rasūli Allāhi ṣallā Allāhu ‘alayhi wa-ālihi annahu qāla a‘ẓamu āyatin fī al-qur’āni āyatu al-kursī.
+
+**ID:** “Diriwayatkan dari Rasulullah ﷺ bahwa beliau bersabda: «Ayat yang paling agung dalam al-Qur’ān adalah Ayat al-Kursī».”
+
+**AR:** وَاعْلَمْ اَنَّ عَدَدَ حُرُوفِ آيَةِ الْكُرْسِى (١٧٠) حَرْفًا ، وَكَلِمَاتُهَا (٥٠) كَلِمَة ، وَعَدَدُ فُصُولِهَا (٧) وَقِيلَ (١٧)
+
+**LAT:** wa-i‘lam anna ‘adada ḥurūfi āyati al-kursī (170) ḥarfan, wa-kalimātuhā (50) kalimatan, wa-‘adadu fuṣūlihā (7) wa-qīla (17)
+
+**ID:** “Dan ketahuilah bahwa jumlah huruf Ayat al-Kursī adalah **170 huruf**, kata-katanya **50 kata**, dan jumlah pasalnya (fuṣūl) **7** — dan ada yang mengatakan **17**.”
+
+**AR:** وَاِلَيْكَ بَعْضَ فَوَائِدِ آيَةِ الْكُرْسِى الشَّرِيفَةِ
+
+**LAT:** wa-ilayka ba‘ḍa fawā’idi āyati al-kursī al-sharīfati
+
+**ID:** “Dan berikut ini sebagian faedah Ayat al-Kursī yang mulia:”
+
+**AR:** ا- لِقَضَاءِ الْحَوَائِجِ
+
+**LAT:** a — li-qaḍā’i al-ḥawā’iji
+
+**ID:** “**a. Untuk memenuhi hajat-hajat.**”
+
+**AR:** مَنْ قَرَاَهَا فِى جَوْفِ اللَّيْلِ مُسْتَقْبِلًا الْقِبْلَةَ بَعِيدًا عَنِ الْاَصْوَاتِ (١٧٠) مَرَّةً وَسَأَلَ اللَّهُ تَعَالَى اَىَّ حَاجَةٍ قُضِيَتْ بِاِذْنِ اللَّهِ تَعَالَى .
+
+**LAT:** man qara’ahā fī jawfi al-layli mustaqbilan al-qiblata ba‘īdan ‘ani al-aṣwāti (170) marratan wa-sa’ala Allāhu ta‘ālā ayya ḥājatin quḍiyat bi-idhni Allāhi ta‘ālā.
+
+**ID:** “Siapa yang membacanya di tengah malam dengan menghadap kiblat, jauh dari suara-suara, **170 kali**, lalu memohon kepada Allah Ta‘ala hajat apa pun — maka hajat itu dipenuhi dengan izin Allah Ta‘ala.”
+
+**AR:** ب- لِقَضَاءِ الْحَاجَةِ اَيْضًا
+
+**LAT:** b — li-qaḍā’i al-ḥājati ayḍan
+
+**ID:** “**b. Untuk memenuhi hajat juga.**”
+
+**AR:** وَمَنْ قَرَاَهَا عَدَدَ الرُّسُلِ (٣١٣) مَرَّةً وَهُوَ عَدَدُ اَهْلِ بَدْرٍ وَاَصْحَابِ طَالُوتَ وَتَوَسَّلَ بِمُحَمَّدٍ وَآلِهِ الطَّاهِرِينَ وَسَأَلَ اللَّهُ تَعَالَى حَاجَتَهُ مِنْ اُمُورِ الدُّنْيَا وَالْآخِرَةِ قُضِيَتْ بِاِذْنِ اللَّهِ تَعَالَى .
+
+**LAT:** wa-man qara’ahā ‘adada al-rusuli (313) marratan wa-huwa ‘adadu ahli Badrin wa-aṣḥābi Ṭālūta wa-tawassala bi-Muḥammadin wa-ālihi al-ṭāhirīna wa-sa’ala Allāhu ta‘ālā ḥājatahu min umūri al-dunyā wa-al-ākhirati quḍiyat bi-idhni Allāhi ta‘ālā.
+
+**ID:** “Dan siapa yang membacanya sebanyak jumlah para rasul — **313 kali**, yaitu jumlah ahli Badar dan pasukan (Nabi) Ṭālūt — lalu bertawassul dengan Muḥammad dan keluarganya yang suci, serta memohon kepada Allah Ta‘ala hajatnya dari urusan dunia dan akhirat, maka hajat itu dipenuhi dengan izin Allah Ta‘ala.”
+
+**AR:** ت- لِذَهَابِ الْبَلْغَمِ
+
+**LAT:** t — li-dhahābi al-balghami
+
+**ID:** “**t. Untuk menghilangkan balgham (lendir/dahak).**”
+
+**AR:** وَمِنْ خَوَاصِّهَا لِلْبَلْغَمِ ، فَمَنْ اَرَادَ ذَهَابَهُ فَلْيَاْخُذْ سَبْعَ قِطَعٍ مِنْ صِغَارِ الْمِلْحِ الْاَبْيَضِ وَيَقْرَاُ عَلَى كُلِّ وَاحِدَةٍ مِنْهَا الْآيَةَ الشَّرِيفَةَ سَبْعَ مَرَّاتٍ وَيَسْتَعْمِلُ ذَلِكَ عَلَى الرِّيقِ سَبْعَةَ اَيَّامٍ ، فَاِنَّ اللَّهَ سُبْحَانَهُ وَتَعَالَى يُذْهِبُ مَا يَجِدُهُ مِنَ الْبَلْغَمِ .
+
+**LAT:** wa-min khawāṣṣihā li-al-balghami, fa-man arāda dhahābahu fa-l-ya’khudh sab‘a qiṭa‘in min ṣighāri al-milḥi al-abyaḍi wa-yaqra’u ‘alā kulli wāḥidatin minhā al-āyata al-sharīfata sab‘a marrātin wa-yasta‘milu dhālika ‘alā al-rīqi sab‘ata ayyāmin, fa-inna Allāha subḥānahu wa-ta‘ālā yudhhibu mā yajiduhu mina al-balghami.
+
+**ID:** “Dan di antara khasiatnya untuk balgham: siapa yang ingin menghilangkannya, hendaklah ia mengambil **tujuh potong garam putih kecil**, membaca Ayat al-Kursī yang mulia pada masing-masingnya **tujuh kali**, dan menggunakannya (memakannya) dalam keadaan perut kosong selama **tujuh hari**; maka Allah Subḥānahu wa-Ta‘ālā akan menghilangkan balgham yang ia rasakan.”
+
+**AR:** ث- لِذَهَابِ الْفَزَعِ فِى النَّوْمِ
+
+**LAT:** th — li-dhahābi al-faza‘i fī al-nawmi
+
+**ID:** “**th. Untuk menghilangkan rasa takut (faza‘) saat tidur.**”
+
+**AR:** اِذَا اَوَيْتَ اِلَى فِرَاشِكَ فَتَعَوَّذْ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيمِ ثَلَاثًا وَاقْرَاْ آيَةَ الْكُرْسِى ثَلَاثًا فَاِذَا وَصَلْتَ اِلَى قَوْلِهِ تَعَالَى [وَلَا يَئُودُهُ حِفْظُهُمَا وَهُوَ الْعَلِىُّ الْعَظِيمُ] كَرِّرْهَا ثَلَاثًا وَاَنْتَ فَاِنَّكَ تَاْمَنُ مِمَّا تَجِدُهُ فِى نَوْمِكَ اِنْشَاءَ اللَّهُ تَعَالَى .
+
+**LAT:** idhā awayta ilā firāshika fa-ta‘awwadh bi-Allāhi mina al-shayṭāni al-rajīmi thalāthan wa-aqra’ āyata al-kursī thalāthan fa-idhā waṣalta ilā qawlihi ta‘ālā [wa-lā ya’ūduhu ḥifẓuhumā wa-huwa al-‘aliyyu al-‘aẓīmu] karrirhā thalāthan wa-anta fa-innaka ta’manu mimmā tajiduhu fī nawmika inshā’a Allāhu ta‘ālā.
+
+**ID:** “Apabila engkau berbaring di tempat tidurmu, berlindunglah kepada Allah dari setan yang terkutuk **tiga kali**, dan bacalah Ayat al-Kursī **tiga kali**. Maka apabila engkau sampai pada firman-Nya «…dan tidak berat bagi-Nya memelihara keduanya, dan Dia-lah Yang Mahatinggi lagi Mahaagung», ulangilah (potongan itu) **tiga kali** — maka engkau akan aman dari apa yang engkau alami dalam tidurmu, insya Allah Ta‘ala.”
+
+**AR:** ج- لِاِفَاقَةِ الصَّرْعُ
+
+**LAT:** j — li-ifāqati al-ṣar‘u
+
+**ID:** “**j. Untuk menyadarkan orang yang kesurupan (ṣar‘).**” (Judul di akhir halaman; isi amalannya berlanjut ke halaman 409.)
+
+**Keterangan halaman.** Halaman ini menutup uraian sifat ruhaniyyah Ayat al-Kursī dan **memasuki bagian «فوائد آية الكرسي الشريفة»**. Susunannya: (1) sambungan dari halaman 407: khasiat ruhaniyyah membangunkan orang untuk shalat begitu azan dikumandangkan, sekalipun lelah, dan suara azan/takbir tak dapat melewatinya; (2) keterangan bahwa **bilangan, tata cara, dan waktu** pembacaan ayat-ayat ini hanya dijelaskan dalam **«باب الدورات التعليمية»** (kursus pengajaran) — bukan di halaman ini; (3) harapan manfaat bagi pembaca; (4) judul **«فوائد آية الكرسي الشريفة»**; (5) riwayat bahwa Ayat al-Kursī adalah ayat paling agung dalam al-Qur’ān; (6) **hitungan**: 170 huruf, 50 kata, 7 fuṣūl (atau 17 menurut pendapat lain); (7) **faedah أ–ج**: (أ) hajat — 170× tengah malam menghadap kiblat; (ب) hajat juga — 313× (jumlah rasul/ahli Badar/pasukan Ṭālūt) + tawassul dengan Nabi dan ahl bait; (ت) balgham — 7 potong garam putih kecil, ayat dibaca 7× pada masing-masing, dikonsumsi saat perut kosong 7 hari; (ث) faza‘ saat tidur — ta‘awwudz 3× + Ayat al-Kursī 3×, dan potongan «ولا يئوده حفظهما…» diulang 3×; (ج) ifāqah al-ṣar‘ — judul pembuka yang isinya berlanjut ke halaman 409.
+
+**Angka pada halaman ini (dibaca dari scan + crop 2200 DPI).** ١٧٠ (170 huruf; juga 170× bacaan pada faedah أ), ٥٠ (50 kata), ٧ (7 fuṣūl), ١٧ (17 menurut pendapat lain), ٣١٣ (313× — jumlah rasul/ahli Badar), ٧ (tujuh potong garam; tujuh kali bacaan; tujuh hari), ٣ (tiga kali ta‘awwudz; tiga kali Ayat al-Kursī; tiga kali pengulangan potongan akhir).
+
+**[TIDAK JELAS - HALAMAN 408]** (1) Angka pada lapisan teks PDF terekstrak **terbalik** («٠٧١» untuk 170, «٠٥» untuk 50, «٧١» untuk 17, «٣١٣» untuk 313); yang dipakai adalah pembacaan dari **gambar hasil crop 2200 DPI** — semuanya terkonfirmasi jelas. (2) «فُصُولِهَا» (pasal-pasal) untuk ayat adalah istilah tak lazim; **[TEKS ASLI DIJAGA]**. (3) «اَعْدَادِهَا» ditulis dengan «أ» + «عداد» — dipertahankan. (4) «نَتَمَنَّى لِلْجَمِيعِ الْفَائِدَةَ هَذِهِ الْآيَاتِ…» tersusun janggal secara nahwu (tanpa «من») — dipertahankan. (5) «لِاِفَاقَةِ الصَّرْعُ» tercetak dengan «الصرع» berharakat akhir dhammah (seharusnya majrur) — dipertahankan. (6) Potongan ayat pada faedah ث ditulis di dalam **tanda kurung siku** dan pada lapisan teks terekstrak dengan urutan huruf yang kacau karena harakat penuh; teks ditulis menurut bacaan yang benar dari gambar. (7) Faedah ج hanya berupa **judul di baris terakhir** halaman — isinya berlanjut ke halaman 409. (8) Tidak ada citra tertanam menurut `get_image_info()`.
+
+**[TIDAK ADA RAJAH - TERVERIFIKASI DARI GAMBAR SCAN]** (Halaman ini hanya teks dan daftar faedah; tidak ada rajah, wafaq, tabel angka, atau thilasm.)
+
+---
