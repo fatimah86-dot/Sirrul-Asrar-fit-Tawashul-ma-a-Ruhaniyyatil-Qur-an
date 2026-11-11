@@ -4507,3 +4507,343 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 **[TIDAK JELAS - HALAMAN 378]** (1) **Angka wafaq 4×4 pada halaman ini tidak diklaim secara rinci**: seluruh sel diawali «١٩١٨» namun dua angka terakhir pada setiap kotak tidak dapat dipastikan dari citra scan (tabel ditulis tangan miring dan garis sel berhimpit); angka sebenarnya dapat dibaca langsung pada rajah yang dilampirkan. (2) Tulisan pada lingkaran-lingkaran rajah (huruf-huruf terpisah dan nama-nama) sangat rapat dan sebagian saling menimpa; **[TEKS ASLI DIJAGA]** — hanya bentuk yang terbaca jelas yang dikutip, selebihnya tidak diterka. (3) Tulisan pada empat sudut bingkai tidak dapat dibaca utuh; tidak ditranskripsi. (4) Keterangan sumber «ص٢٨٩» (Kitab Ḍiyā’ al-Ṣāliḥīn halaman 289) disalin persis dari scan.
 
 **[ADA RAJAH]** — 1 crop: `assets/rajah/sirrul-asrar/hal-378-rajah-01.jpg`
+
+---
+
+## HALAMAN 379 — Judul «قسم يوم الثلاثاء»
+
+**AR:** قِسْمُ يَوْمِ الثُّلَاثَاءِ
+
+**LAT:** Qismu yawmi al-thulāthā’i.
+
+**ID:** “Bagian (amalan) hari Selasa.”
+
+**Keterangan halaman.** Halaman ini hampir seluruhnya kosong: hanya memuat judul «قسم يوم الثلاثاء» di bagian atas, sedangkan sisa halaman di bawahnya putih tanpa teks, tanpa garis, dan tanpa bingkai sampai akhir halaman. Teks isi bagian hari Selasa baru dimulai pada halaman 380.
+
+**[TIDAK JELAS - HALAMAN 379]** (1) Pada sumber, halaman ini tercetak hanya dengan judul tanpa badan teks; tidak ada tulisan yang terpotong di tepi kertas maupun di bagian bawah. (2) Tidak ada angka, tidak ada thilasm, dan tidak ada wafaq pada halaman ini.
+
+**[TIDAK ADA RAJAH - TERVERIFIKASI DARI GAMBAR SCAN]** (Tidak ada citra tertanam sama sekali pada halaman ini menurut `get_image_info()`.)
+
+---
+
+## HALAMAN 380 — «قسم يوم الثلاثاء» — lanjutan «قسم يوم الاثنين»
+
+**AR:** بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ ﴿قَالُوا اِنَّا تَطَيَّرْنَا بِكُمْ لَئِنْ لَمْ تَنْتَهُوا لَنَرْجُمَنَّكُمْ وَلَيَمَسَّنَّكُمْ مِنَّا عَذَابٌ الِيمٌ (١٨) قَالُوا طَائِرُكُمْ مَعَكُمْ ائِنْ ذُكِّرْتُمْ بَلْ انْتُمْ قَوْمٌ مُسْرِفُونَ (١٩) وَجَاءَ مِنْ اَقْصَى الْمَدِينَةِ رَجُلٌ يَسْعَى قَالَ يَا قَوْمِ اتَّبِعُوا الْمُرْسَلِينَ (٢٠) اتَّبِعُوا مَنْ لَا يَسْالُكُمْ اجْرًا وَهُمْ مُهْتَدُونَ (٢١) وَمَا لِىَ لَا اعْبُدُ الَّذِى فَطَرَنِى وَالَيْهِ تُرْجَعُونَ (٢٢) ااتَّخِذُ مِنْ دُونِهِ الِهَةً اِنْ يُرِدْنِ الرَّحْمَنُ بِضُرٍّ لَا تُغْنِ عَنِّى شَفَاعَتُهُمْ شَيْئًا وَلَا يُنْقِذُونِ (٢٣) اِنِّى اِذًا لَفِى ضَلَالٍ مُبِينٍ (٢٤) اِنِّى آمَنْتُ بِرَبِّكُمْ فَاسْمَعُونِ (٢٥) قِيلَ ادْخُلِ الْجَنَّةَ قَالَ يَا لَيْتَ قَوْمِى يَعْلَمُونَ (٢٦) بِمَا غَفَرَ لِى رَبِّى وَجَعَلَنِى مِنَ الْمُكْرَمِينَ (٢٧)﴾ [يس: ١٨-٢٧].
+
+**LAT:** Bismi Allāhi al-Raḥmāni al-Raḥīmi “qālū innā taṭayyarnā bikum la-in lam tantahū la-narjumannakum wa-la-yamassannakum minnā ‘adhābun alīmun (18) qālū ṭā’irukum ma‘akum a-in dhukkirtum bal antum qawmun musrifūna (19) wa-jā’a min aqṣā al-madīnati rajulun yas‘ā qāla yā qawmi ittabi‘ū al-mursalīna (20) ittabi‘ū man lā yas’alukum ajran wahum muhtadūna (21) wa-mā liya lā a‘budu alladhī faṭaranī wa-ilayhi turja‘ūna (22) a-attakhidhu min dūnihi ālihatan in yuridni al-Raḥmānu bi-ḍurrin lā tughni ‘annī shafā‘atuhum shay’an wa-lā yunqidhūni (23) innī idhan lafī ḍalālin mubīnin (24) innī āmantu bi-rabbikum fa-isma‘ūni (25) qīla udkhuli al-jannata qāla yā layta qawmī ya‘lamūna (26) bimā ghafara lī rabbī wa-ja‘alanī mina al-mukramīna (27)” [Yā Sīn: 18–27].
+
+**ID:** “Dengan nama Allah Yang Maha Pengasih, Maha Penyayang. ‘Mereka berkata: sesungguhnya kami mendapat kesialan karena kalian; jika kalian tidak berhenti (mencela kami), sungguh kami akan merajam kalian, dan kalian pasti akan ditimpa azab yang pedih dari kami (18). Mereka berkata: kesialan kalian itu (akibat perbuatan) kalian sendiri; apakah jika kalian diberi peringatan (lalu kalian menganggapnya sial)? Sebenarnya kalian adalah kaum yang melampaui batas (19). Dan datanglah dari ujung kota seorang laki-laki dengan bergegas, ia berkata: wahai kaumku, ikutilah para rasul itu (20), ikutilah orang yang tidak meminta imbalan kepada kalian, dan mereka adalah orang-orang yang mendapat petunjuk (21). Dan mengapa aku tidak menyembah (Tuhan) yang telah menciptakanku, dan kepada-Nyalah kalian dikembalikan? (22) Apakah aku akan menyembah tuhan-tuhan selain Dia? Jika Yang Maha Pengasih menghendaki (suatu) bencana padaku, syafaat mereka tidak berguna sama sekali bagiku, dan mereka tidak dapat menyelamatkanku (23). Sesungguhnya aku, jika demikian, benar-benar dalam kesesatan yang nyata (24). Sesungguhnya aku telah beriman kepada Tuhanmu, maka dengarkanlah (pengakuan iman)-ku (25). Dikatakan (kepadanya): masuklah ke dalam surga. Ia berkata: alangkah baiknya seandainya kaumku mengetahui (26), (tentang) apa yang menyebabkan Tuhanku mengampuniku dan menjadikanku termasuk orang-orang yang dimuliakan (27).’”
+
+**AR:** يَا مَالِكَ يَوْمِ الدِّينِ يَا مُقَلِّبَ الْقُلُوبِ اجِبْ ابي مِحْرَزَ الْاَحْمَرَ سَامِعًا مُطِيعًا بِحَقِّ مُقَلِّبَ الْقُلُوبِ وَالْاَبْصَارِ وَبِحَقِّ الْمَلِكِ الْغَالِبِ عَلَيْكَ امْرُهُ مِسْمَاسَائِيلَ وَبِحَقِّ فَهْطِيطِيلَ فَاِذَا جَاءَ وَعْدُ رَبِّى جَعَلَهُ دَكًّا وَكَانَ وَعْدُ رَبِّى حَقًّا اقْسَمْتُ عَلَيْكَ بِحَقِّ الْمَلِكِ اِلَى مَحْرَزِ الْاَحْمَرِ وَبِحَقِّ كَطَلْعِيُوس سُبْحَانَ الْمُفَرِّجِ عَنْ كُلِّ مَحْزُونٍ سُبْحَانَ مَنْ اجْرَى الْمَاءَ فِي الْبِحَارِ وَالْعُيُونِ سُبْحَانَ مَنْ خَزَائِنُهُ بَيْنَ الْكَافِ وَالنُّونِ سُبْحَانَ مَنْ اذَا ارَادَ شَيْئًا انْ يَقُولَ لَهُ كُنْ فَيَكُونُ، اللَّهُمَّ سَخِّرْ لِي خَادِمَ هَذَا الْيَوْمِ كَمَا سَخَّرْتَ الْبَحْرَ لِمُوسَى وَالنَّارَ لِاِبْرَاهِيمَ وَالْجِبَالَ وَالْحَدِيدَ لِدَاوُدَ وَالْجِنَّ وَالْاِنْسَ لِسُلَيْمَانَ وَالشَّمْسَ وَالْقَمَرَ وَالنُّجُومَ وَجَمِيعَ الْاَشْيَاءِ الَى مُحَمَّدٍ ﷺ وَجَمِيعِ الْاَنْبِيَاءِ وَسَلَّمَ، اللَّهُمَّ سَخِّرْ لِي خَادِمَ هَذَا الْيَوْمِ يَاتِى اِلَيَّ وَيَقْضِى حَاجَتِى وَبِحَقِّ اسْمِكَ الْعَظِيمِ الْاَعْظَمِ وَبِحَقِّ اسْمَائِكَ الْحُسْنَى يَا سَرِيعُ يَا قَرِيبُ يَا بَاسِطُ يَا وَدُودُ يَا ذَا الْعَرْشِ الْمَجِيدِ يَا مُبْدِئُ يَا مُعِيدُ يَا فَعَّالُ لِمَا يُرِيدُ اسْالُكَ بِنُورِ وَجْهِكَ الَّذِي مَلَأَ ارْكَانَ عَرْشِكَ وَبِقُدْرَتِكَ الَّتِي قَدَرْتَ بِهَا عَلَى جَمِيعِ خَلْقِكَ وَبِرَحْمَتِكَ الَّتِي وَسِعَتْ كُلَّ شَىْءٍ يَا غِيَاثَ الْمُسْتَغِيثِينَ اغِثْنِى يَا غِيَاثَ الْمُسْتَغِيثِينَ اغِثْنِى يَا غِيَاثَ الْمُسْتَغِيثِينَ اغِثْنِى يَا غِيَاثَ الْمُسْتَغِيثِينَ اغِثْنِى وَارْحَمْنِى بِرَحْمَتِكَ يَا ارْحَمَ الرَّاحِمِينَ اللَّهُمَّ الْقِ مَحَبَّتِى فِي قَلْبِ خَادِمِ هَذَا الْيَوْمِ قَدْ شَغَفَهَا حُبًّا ﴿يُحِبُّهُمْ كَحُبِّ اللَّهِ وَالَّذِينَ آمَنُوا اشَدُّ حُبًّا لِلَّهِ﴾ [البقرة: ١٦٥]، يُحِبُّهُمْ وَيُحِبُّونَهُ؛ تَمَّ وَكَمَلَ.
+
+**LAT:** yā mālika yawmi al-dīni yā muqalliba al-qulūbi ajib ibī miḥraza al-aḥmara sāmi‘an muṭī‘an bi-ḥaqqi muqalliba al-qulūbi wa-al-abṣāri wa-bi-ḥaqqi al-maliki al-ghālibi ‘alayka amruhu mismāsā’īla wa-bi-ḥaqqi fahṭīṭīla fa-idhā jā’a wa‘du rabbī ja‘alahu dakkā wa-kāna wa‘du rabbī ḥaqqā aqsamt ‘alayka bi-ḥaqqi al-maliki ilā maḥrazi al-aḥmari wa-bi-ḥaqqi kaṭal‘iyūs subḥāna al-mufarriji ‘an kulli maḥzūnin subḥāna man ajrā al-mā’a fī al-biḥāri wa-al-‘uyūni subḥāna man khazā’inuhu bayna al-kāfi wa-al-nūni subḥāna man idhā arāda shay’an an yaqūla lahu kun fa-yakūnu, Allāhumma sakhkhir lī khādima hādhā al-yawmi kamā sakhkharta al-baḥra li-Mūsā wa-al-nāra li-Ibrāhīma wa-al-jibāla wa-al-ḥadīda li-Dāwūda wa-al-jinna wa-al-insa li-Sulaymāna wa-al-shamsa wa-al-qamara wa-al-nujūma wa-jamī‘a al-ashyā’i ilā Muḥammadin ﷺ wa-jamī‘i al-anbiyā’i wa-sallama, Allāhumma sakhkhir lī khādima hādhā al-yawmi ya’tī ilayya wa-yaqḍī ḥājatī wa-bi-ḥaqqi ismika al-‘aẓīmi al-a‘ẓami wa-bi-ḥaqqi asmā’ika al-ḥusnā yā sarī‘u yā qarību yā bāsiṭu yā wadūdu yā dhā al-‘arshi al-majīdi yā mubdi’u yā mu‘īdu yā fa‘‘ālu limā yurīdu as’aluka bi-nūri wajhika alladhī mala’a arkāna ‘arshika wa-bi-qudratika allatī qadarta bihā ‘alā jamī‘i khalqika wa-bi-raḥmatika allatī wasi‘at kulla shay’in yā ghiyātha al-mustaghīthīna ighithnī yā ghiyātha al-mustaghīthīna ighithnī yā ghiyātha al-mustaghīthīna ighithnī yā ghiyātha al-mustaghīthīna ighithnī wa-irḥamnī bi-raḥmatika yā arḥama al-rāḥimīna Allāhumma alqi maḥabbatī fī qalbi khādimi hādhā al-yawmi qad shaghafahā ḥubban “yuḥibbuhum ka-ḥubbi Allāhi wa-alladhīna āmanū ashaddu ḥubban lillāhi” [al-Baqarah: 165], yuḥibbuhum wa-yuḥibbūnahu; tamma wa-kamala.
+
+**ID:** “Wahai Pemilik hari pembalasan, wahai Yang Memalingkan hati; jawablah—hai «miḥraz al-aḥmar» (ḥirz merah)—sebagai pendengar yang taat, dengan hak Yang Memalingkan hati dan penglihatan, dengan hak Raja Yang Menang yang perintah-Nya atasmu, «mismāsā’īl», dan dengan hak «fahṭīṭīl»: ‘maka apabila datang janji Tuhanku, Dia menjadikannya rata, dan janji Tuhanku itu adalah benar’. Aku bersumpah atasmu dengan hak Raja—yaitu «maḥraz al-aḥmar»—dan dengan hak «kaṭal‘iyūs». Mahasuci (Allah) Yang melapangkan (kesulitan) setiap orang yang bersedih; Mahasuci Yang mengalirkan air di laut dan mata air; Mahasuci Yang perbendaharaan-Nya berada antara (huruf) Kāf dan Nūn; Mahasuci Yang apabila menghendaki sesuatu, Dia berkata kepadanya ‘jadilah’, maka jadilah ia. Ya Allah, tundukkanlah untukku pelayan hari ini sebagaimana Engkau menundukkan laut bagi Musa, api bagi Ibrahim, gunung-gunung dan besi bagi Dawud, jin dan manusia bagi Sulaiman, serta matahari, bulan, bintang-bintang, dan segala sesuatu bagi Muhammad ﷺ dan seluruh para nabi, dan (semoga Dia memberi) salam. Ya Allah, tundukkanlah untukku pelayan hari ini, (agar) ia datang kepadaku dan memenuhi kebutuhanku; dengan hak nama-Mu Yang Mahaagung, yang paling agung, dan dengan hak nama-nama-Mu yang terbaik: wahai Yang Mahacepat, wahai Yang Mahadekat, wahai Yang Mahamelapangkan, wahai Yang Maha Mencintai, wahai Pemilik Arasy yang mulia, wahai Yang Memulai, wahai Yang Mengembalikan, wahai Yang Maha Melakukan apa yang Dia kehendaki. Aku memohon kepada-Mu dengan cahaya wajah-Mu yang memenuhi tiang-tiang Arasy-Mu, dengan kekuasaan-Mu yang dengannya Engkau berkuasa atas seluruh makhluk-Mu, dan dengan rahmat-Mu yang meliputi segala sesuatu. Wahai Penolong orang-orang yang meminta pertolongan, tolonglah aku — (diulang empat kali sesuai cetakan) — dan sayangilah aku dengan rahmat-Mu, wahai Yang paling penyayang di antara para penyayang. Ya Allah, curahkanlah cintaku ke dalam hati pelayan hari ini; sungguh ia telah membuatnya sangat mencintai: ‘Dia mencintai mereka seperti mencintai Allah, dan orang-orang yang beriman lebih kuat cintanya kepada Allah’ [al-Baqarah: 165], ‘Dia mencintai mereka dan mereka mencintai-Nya’. Telah sempurna dan lengkap.”
+
+**Keterangan susunan halaman.** Halaman ini dibuka dengan **judul «قسم يوم الثلاثاء»** pada halaman sebelumnya (379), tetapi teks yang tercetak di bawahnya adalah **lanjutan doa «قسم يوم الاثنين»** (kutipan Yā Sīn 18–27 dan doa penutup yang sama polanya dengan halaman 377/375), ditutup dengan «تم وكمل». Urutan ini **disalin apa adanya sesuai cetakan**, tidak disusun ulang.
+
+**[TIDAK JELAS - HALAMAN 380]** (1) Nomor ayat «(١٨)»–«(٢٧)» serta «[يس: ١٨-٢٧]» dan «[البقرة: ١٦٥]» **disalin persis dari scan**. (2) «اجِبْ ابي مِحْرَزَ الْاَحْمَرَ» dan «اِلَى مَحْرَزِ الْاَحْمَرِ» pada halaman ini berbeda ejaan dari «اي عرز الاحمر» pada halaman 375 (cetakan memang berbeda); keduanya dipertahankan apa adanya. (3) «فَهْطِيطِيلَ» pada halaman ini berbeda dari «فَهْطِيلِيلِ» (h.375); bentuk cetak dipertahankan. (4) «قَدْ شَغَفَهَا حُبًّا» tercetak dengan «ها» (bukan «قد شغفها حبًّا» pada pola QS 12:30); dipertahankan. (5) Kata «بِحَقِّ مُقَلِّبَ الْقُلُوبِ» tercetak tanpa «ال» pada «مقلب» kedua; dipertahankan. (6) Deret thilasm «مِسْمَاسَائِيلَ»/«كَطَلْعِيُوس» tanpa vokalisasi; **[TEKS ASLI DIJAGA]**.
+
+**[TIDAK ADA RAJAH - TERVERIFIKASI DARI GAMBAR SCAN]** (Citra tertanam pada halaman ini adalah citra hasil pindai halaman itu sendiri, bukan rajah.)
+
+---
+
+## HALAMAN 381 — «طلسم يوم الثلاثاء»
+
+**AR:** طِلَسْمِ يَوْمِ الثُّلَاثَاءِ
+
+**LAT:** Ṭilasm yawmi al-thulāthā’i.
+
+**ID:** “Ṭilasm (wafaq) hari Selasa.”
+
+**AR:** عَنْ كِتَابِ ضِيَاءِ الصَّالِحِينَ ص٢٨٩ نَقَلْتُ الْيَكُمْ هَذَا الطِّلَسْمِ لِيَوْمِ الثُّلَاثَاءِ لِلْاِسْتِفَادَةِ مِنْهُ:
+
+**LAT:** ‘an kitābi Ḍiyā’i al-ṣāliḥīna ṣ 289 naqaltu ilaykum hādhā al-ṭilasma li-yawmi al-thulāthā’i li-al-istifādati minhu:
+
+**ID:** “Dari Kitab «Ḍiyā’ al-Ṣāliḥīn» halaman 289, aku menukilkan kepada kalian ṭilasm hari Selasa ini agar kalian dapat mengambil manfaat darinya:”
+
+**AR:** اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَآلِ مُحَمَّدٍ وَسَلِّمْ تَسْلِيمًا كَثِيرًا كَثِيرًا
+
+**LAT:** Allāhumma ṣalli ‘alā Muḥammadin wa-āli Muḥammadin wa-sallim taslīman kathīran kathīran
+
+**ID:** “Ya Allah, limpahkanlah selawat kepada Muhammad dan keluarga Muhammad, dan berilah salam yang sangat banyak.”
+
+**Isi rajah/wafaq.** Di bawah deret selawat di atas tercetak **rajah ṭilasm** yang tersusun dari:
+(1) sebuah **wafaq 4×4** berisi 16 kotak angka tulisan tangan yang seluruhnya tampak berawalan «١٩١٨» (angka tidak diklaim pada transkripsi ini — lihat `[TIDAK JELAS]` butir 1);
+(2) di bawahnya sebuah **rajah bundar (dā’irah)**: lingkaran berlapis bertuliskan huruf-huruf dan «تمنعوتش…» serta «كوكب…» mengelilingi **kotak pusat** yang memuat tulisan «هو»، «محمد»، «علي»، «فاطمة»، «حسن»، «حسين» dan deret huruf «معصوم»;
+(3) pada keempat sudut bingkai terdapat **empat ruang setengah lingkaran** berisi tulisan kecil;
+(4) pada sisi kiri bingkai (dari atas ke bawah) tercetak deret «اللهم صل على محمد المصطفى وعلى المرتضى علي والحسن والحسين» dan seterusnya; pada sisi kanan deret «علي والحسن…»; pada sisi bawah «الحسين وسيد العابدين علي والباقر محمد والصادق جعفر والكاظم موسى».
+
+**Rajah:** ![Rajah hal. 381 — ṭilasm/wafaq hari Selasa](../assets/rajah/sirrul-asrar/hal-381-rajah-01.jpg)
+
+**[TIDAK JELAS - HALAMAN 381]** (1) **Angka wafaq 4×4 tidak diklaim**: seluruh sel diawali «١٩١٨» tetapi dua angka terakhir tiap kotak tidak dapat dipastikan dari citra scan (tabel ditulis tangan miring); angka sebenarnya dapat dibaca langsung pada rajah terlampir. (2) Tulisan pada lingkaran rajah dan pada empat sudut bingkai sangat rapat, sebagian saling menimpa dan terpotong tepi bingkai; **[TEKS ASLI DIJAGA]** — hanya frasa yang terbaca jelas yang dikutip, selebihnya tidak diterka. (3) Keterangan sumber «ص٢٨٩» (Kitab Ḍiyā’ al-Ṣāliḥīn halaman 289) disalin persis dari scan; angka halaman ini **sama** dengan yang tercetak pada halaman 378.
+
+**[ADA RAJAH]** — 1 crop: `assets/rajah/sirrul-asrar/hal-381-rajah-01.jpg`
+
+---
+
+## HALAMAN 382 — «قسم يوم الاربعاء»
+
+**AR:** قِسْمُ يَوْمِ الْاَرْبَعَاءِ
+
+**LAT:** Qismu yawmi al-arbi‘ā’i.
+
+**ID:** “Bagian (amalan) hari Rabu.”
+
+**AR:** بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
+
+**LAT:** Bismi Allāhi al-Raḥmāni al-Raḥīmi.
+
+**ID:** “Dengan nama Allah Yang Maha Pengasih, Maha Penyayang.”
+
+**AR:** ﴿وَمَا اَنْزَلْنَا عَلَى قَوْمِهِ مِنْ بَعْدِهِ مِنْ جُنْدٍ مِنَ السَّمَاءِ وَمَا كُنَّا مُنْزِلِينَ (٢) وَالْقَمَرَ قَدَّرْنَاهُ مَنَازِلَ حَتَّى عَادَ كَالْعُرْجُونِ الْقَدِيمِ (٣٩) لَا الشَّمْسُ يَنْبَغِي لَهَا انْ تُدْرِكَ الْقَمَرَ وَلَا اللَّيْلُ سَابِقُ النَّهَارِ وَكُلٌّ فِي فَلَكٍ يَسْبَحُونَ (٤٠) وَآيَةٌ لَهُمْ انَّا حَمَلْنَا ذُرِّيَّتَهُمْ فِي الْفُلْكِ الْمَشْحُونِ (٤١) وَخَلَقْنَا لَهُمْ مِنْ مِثْلِهِ مَا يَرْكَبُونَ (٤٢) وَاِنْ نَشَاءُ نُغْرِقْهُمْ فَلَا صَرِيخَ لَهُمْ وَلَا هُمْ يُنْقَذُونَ (٤٣) الَّا رَحْمَةً مِنَّا وَمَتَاعًا الَى حِينٍ (٤٤) وَاِذَا قِيلَ لَهُمُ اتَّقُوا مَا بَيْنَ ايْدِيكُمْ وَمَا خَلْفَكُمْ لَعَلَّكُمْ تُرْحَمُونَ (٤٥) وَمَا تَاتِيهِمْ مِنْ آيَةٍ مِنْ آيَاتِ رَبِّهِمْ الَّا كَانُوا عَنْهَا مُعْرِضِينَ (٤٦) وَاِذَا قِيلَ لَهُمْ اَنْفِقُوا مِمَّا رَزَقَكُمُ اللَّهُ قَالَ الَّذِينَ كَفَرُوا لِلَّذِينَ آمَنُوا اَنُطْعِمُ مَنْ لَوْ يَشَاءُ اللَّهُ اَطْعَمَهُ اِنْ اَنْتُمْ الَّا فِي ضَلَالٍ مُبِينٍ (٤٧)﴾ اِيَّاكَ نَعْبُدُ وَاِيَّاكَ نَسْتَعِينُ
+
+**LAT:** “wa-mā anzalnā ‘alā qawmihi min ba‘dihi min jundin mina al-samā’i wa-mā kunnā munzilīna (2) wa-al-qamara qaddarnāhu manāzila ḥattā ‘āda ka-al-‘urjūni al-qadīmi (39) lā al-shamsu yanbaghī lahā an tudrika al-qamara wa-lā al-laylu sābiqun al-nahāri wa-kullun fī falakin yasbaḥūna (40) wa-āyatun lahum annā ḥamalnā dhurriyyatahum fī al-fulki al-mashḥūni (41) wa-khalaqnā lahum min mithlihi mā yarkabūna (42) wa-in nashā’u nughriqhum fa-lā ṣarīkha lahum wa-lā hum yunqadhūna (43) illā raḥmatan minnā wa-matā‘an ilā ḥīnin (44) wa-idhā qīla lahumu ittaqū mā bayna aydīkum wa-mā khalfakum la‘allakum turḥamūna (45) wa-mā ta’tīhim min āyatin min āyāti rabbihim illā kānū ‘anhā mu‘riḍīna (46) wa-idhā qīla lahum anfiqū mimmā razaqakumu Allāhu qāla alladhīna kafarū lilladhīna āmanū anuṭ‘imu man law yashā’u Allāhu aṭ‘amahu in antum illā fī ḍalālin mubīnin (47)” iyyāka na‘budu wa-iyyāka nasta‘īnu.
+
+**ID:** “‘Dan tidaklah Kami turunkan kepada kaumnya setelah (kematian)-nya suatu bala tentara dari langit, dan tidaklah Kami (pernah) menurunkannya (2). Dan (Kami jadikan) bulan itu (beredar) menurut fase-fase, hingga kembalilah ia seperti pelepah kurma yang tua (39). Matahari tidak boleh mengejar bulan, dan malam pun tidak dapat mendahului siang; masing-masing beredar pada garis edarnya (40). Dan suatu tanda (kebesaran Allah) bagi mereka adalah bahwa Kami mengangkut keturunan mereka dalam kapal yang penuh muatan (41), dan Kami ciptakan untuk mereka (angkutan) yang seperti itu yang mereka kendarai (42). Dan jika Kami menghendaki, Kami tenggelamkan mereka, maka tidak ada penolong bagi mereka dan tidak (pula) mereka diselamatkan (43), kecuali karena rahmat dari Kami dan (sebagai) kesenangan sampai waktu tertentu (44). Dan apabila dikatakan kepada mereka: takutlah (azab) yang di hadapan kalian dan yang di belakang kalian, agar kalian mendapat rahmat (45). Dan tidak satu pun dari ayat-ayat Tuhan mereka datang kepada mereka, melainkan mereka selalu berpaling darinya (46). Dan apabila dikatakan kepada mereka: nafkahkanlah sebagian rezeki yang diberikan Allah kepada kalian, maka orang-orang kafir berkata kepada orang-orang yang beriman: apakah kami akan memberi makan orang yang jika Allah menghendaki, Dia sendiri dapat memberinya makan? Kalian tidak lain hanyalah dalam kesesatan yang nyata (47)’ — ‘Hanya kepada-Mu kami menyembah dan hanya kepada-Mu kami memohon pertolongan’.”
+
+**AR:** اجِبْ يَا بَرْقَانُ بِحَقِّ السَّرِيعِ الْمَعْبُودِ وَبِحَقِّ الْمَلِكِ الْغَالِبِ عَلَيْكَ مِيكَائِيلُ وَبِحَقِّ فَهْطِيطِيلِ قَالَ مُوسَى مَا جِئْتُمْ بِهِ السِّحْرُ انَّ اللَّهَ سَيُبْطِلُهُ وَبِحَقِّ اللَّهِ الْعَظِيمِ اقْسَمْتُ عَلَيْكَ يَا سَيِّدٍ وَيَا مِيكَائِيلُ وَبَرْقَانُ بِحَقِّ الْمَلِكِ الْمَعْبُودِ سُبْحَانَ الْمُنَفِّسِ عَنْ كُلِّ مَدْيُونٍ سُبْحَانَ الْمُفَرِّجِ عَنْ كُلِّ مَحْزُونٍ سُبْحَانَ مَنْ اجْرَى الْمَاءَ فِي الْبِحَارِ وَالْعُيُونِ سُبْحَانَ مَنْ جَعَلَ خَزَائِنَهُ بَيْنَ الْكَافِ وَالنُّونِ سُبْحَانَ مَنْ اذَا ارَادَ شَيْئًا انْ يَقُولَ لَهُ كُنْ فَيَكُونُ اللَّهُ سَخِّرْ لِي خَادِمَ هَذَا الْيَوْمِ كَمَا سَخَّرْتَ الْبَحْرَ لِمُوسَى وَالنَّارَ لِاِبْرَاهِيمَ وَالْجِبَالَ وَالْحَدِيدَ لِدَاوُودَ وَالْجِنَّ وَالْاِنْسَ وَالرِّيحَ وَالشَّيَاطِينَ لِسُلَيْمَانَ وَالشَّمْسَ وَالْقَمَرَ وَالنُّجُومَ وَجَمِيعَ الْاَشْيَاءِ مُحَمَّدٍ صَلَّى اللَّهُ عَلَيْهِ وَآلِهِ وَعَلَى جَمِيعِ الْاَنْبِيَاءِ الصَّلَاةُ وَالسَّلَامُ
+
+**LAT:** ajib yā Barqānu bi-ḥaqqi al-sarī‘i al-ma‘būdi wa-bi-ḥaqqi al-maliki al-ghālibi ‘alayka Mīkā’īlu wa-bi-ḥaqqi fahṭīṭīli qāla Mūsā mā ji’tum bihi al-siḥru inna Allāha sayubṭiluhu wa-bi-ḥaqqi Allāhi al-‘aẓīmi aqsamt ‘alayka yā sayyidin wa-yā Mīkā’īlu wa-Barqānu bi-ḥaqqi al-maliki al-ma‘būdi subḥāna al-munaffisi ‘an kulli madyūnin subḥāna al-mufarriji ‘an kulli maḥzūnin subḥāna man ajrā al-mā’a fī al-biḥāri wa-al-‘uyūni subḥāna man ja‘ala khazā’inahu bayna al-kāfi wa-al-nūni subḥāna man idhā arāda shay’an an yaqūla lahu kun fa-yakūnu Allāhu sakhkhir lī khādima hādhā al-yawmi kamā sakhkharta al-baḥra li-Mūsā wa-al-nāra li-Ibrāhīma wa-al-jibāla wa-al-ḥadīda li-Dāwūda wa-al-jinna wa-al-insa wa-al-rīḥa wa-al-shayāṭīna li-Sulaymāna wa-al-shamsa wa-al-qamara wa-al-nujūma wa-jamī‘a al-ashyā’i Muḥammadin ṣallā Allāhu ‘alayhi wa-ālihi wa-‘alā jamī‘i al-anbiyā’i al-ṣalātu wa-al-salāmu
+
+**ID:** “Jawablah, wahai «Barqān», dengan hak Yang Mahacepat lagi Maha Disembah, dengan hak Raja Yang Menang atasmu, Mīkā’īl, dan dengan hak «fahṭīṭīl»: ‘Musa berkata: apa yang kalian datangkan itu adalah sihir; sesungguhnya Allah akan membatalkannya’. Dan dengan hak Allah Yang Mahaagung aku bersumpah atasmu, wahai «Sayyid», dan wahai Mīkā’īl, dan «Barqān», dengan hak Raja Yang Maha Disembah: Mahasuci Yang melepaskan (beban) setiap orang yang berutang; Mahasuci Yang melapangkan (kesulitan) setiap orang yang bersedih; Mahasuci Yang mengalirkan air di laut dan mata air; Mahasuci Yang menjadikan perbendaharaan-Nya di antara (huruf) Kāf dan Nūn; Mahasuci Yang apabila menghendaki sesuatu, Dia berkata kepadanya ‘jadilah’, maka jadilah ia. Ya Allah, tundukkanlah untukku pelayan hari ini sebagaimana Engkau menundukkan laut bagi Musa, api bagi Ibrahim, gunung-gunung dan besi bagi Dawud, jin, manusia, angin, dan setan-setan bagi Sulaiman, serta matahari, bulan, bintang-bintang, dan segala sesuatu (bagi) Muhammad—semoga Allah melimpahkan selawat kepadanya dan keluarganya—dan atas seluruh para nabi (tercurah) salawat dan salam.”
+
+**AR:** اللَّهُمَّ سَخِّرْ لِي خَادِمَ هَذَا الْيَوْمِ بِحَقِّ اسْمِكَ الْعَظِيمِ الْاَعْظَمِ يَا اللَّهُ يَا سَرِيعُ يَا قَرِيبُ يَا مُجِيبُ يَا بَاسِطُ يَا وَدُودُ يَا ذَا الْعَرْشِ الْمَجِيدِ يَا مُبْدِئُ يَا مُعِيدُ يَا فَعَّالُ لِمَا يُرِيدُ اسْالُكَ بِنُورِ وَجْهِكَ الَّذِي مَلَأَ ارْكَانَ عَرْشِكَ وَبِقُدْرَتِكَ الَّتِي قَدَرْتَ بِهَا عَلَى جَمِيعِ خَلْقِكَ وَبِرَحْمَتِكَ الَّتِي وَسِعَتْ كُلَّ شَيْءٍ لَا الَهَ الَّا انْتَ يَا غِيَاثَ الْمُسْتَغِيثِينَ اغِثْنِى يَا غِيَاثَ الْمُسْتَغِيثِينَ اغِثْنِى يَا غِيَاثَ الْمُسْتَغِيثِينَ اغِثْنِى يَا غِيَاثَ الْمُسْتَغِيثِينَ اغِثْنِى وَاقْضِ حَاجَتِى فِي هَذِهِ السَّاعَةِ بِرَحْمَتِكَ يَا ارْحَمَ الرَّاحِمِينَ اللَّهُمَّ الْقِ حُبِّى فِي قَلْبِ خَادِمِ هَذَا الْيَوْمِ يُحِبُّهُمْ كَحُبِّ اللَّهِ وَالَّذِينَ آمَنُوا اشَدُّ حُبًّا لِلَّهِ يُحِبُّهُمْ وَيُحِبُّونَهُ
+
+**LAT:** Allāhumma sakhkhir lī khādima hādhā al-yawmi bi-ḥaqqi ismika al-‘aẓīmi al-a‘ẓami yā Allāhu yā sarī‘u yā qarību yā mujību yā bāsiṭu yā wadūdu yā dhā al-‘arshi al-majīdi yā mubdi’u yā mu‘īdu yā fa‘‘ālu limā yurīdu as’aluka bi-nūri wajhika alladhī mala’a arkāna ‘arshika wa-bi-qudratika allatī qadarta bihā ‘alā jamī‘i khalqika wa-bi-raḥmatika allatī wasi‘at kulla shay’in lā ilāha illā anta yā ghiyātha al-mustaghīthīna ighithnī yā ghiyātha al-mustaghīthīna ighithnī yā ghiyātha al-mustaghīthīna ighithnī yā ghiyātha al-mustaghīthīna ighithnī wa-qḍi ḥājatī fī hādhihi al-sā‘ati bi-raḥmatika yā arḥama al-rāḥimīna Allāhumma alqi ḥubbī fī qalbi khādimi hādhā al-yawmi yuḥibbuhum ka-ḥubbi Allāhi wa-alladhīna āmanū ashaddu ḥubban lillāhi yuḥibbuhum wa-yuḥibbūnahu
+
+**ID:** “Ya Allah, tundukkanlah untukku pelayan hari ini dengan hak nama-Mu Yang Mahaagung, yang paling agung: wahai Allah, wahai Yang Mahacepat, wahai Yang Mahadekat, wahai Yang Maha Mengabulkan, wahai Yang Mahamelapangkan, wahai Yang Maha Mencintai, wahai Pemilik Arasy yang mulia, wahai Yang Memulai, wahai Yang Mengembalikan, wahai Yang Maha Melakukan apa yang Dia kehendaki. Aku memohon kepada-Mu dengan cahaya wajah-Mu yang memenuhi tiang-tiang Arasy-Mu, dengan kekuasaan-Mu yang dengannya Engkau berkuasa atas seluruh makhluk-Mu, dan dengan rahmat-Mu yang meliputi segala sesuatu; tiada tuhan selain Engkau. Wahai Penolong orang-orang yang meminta pertolongan, tolonglah aku — (diulang empat kali sesuai cetakan) — dan tunaikanlah kebutuhanku pada saat ini, dengan rahmat-Mu, wahai Yang paling penyayang di antara para penyayang. Ya Allah, curahkanlah cintaku ke dalam hati pelayan hari ini: ‘Dia mencintai mereka seperti mencintai Allah, dan orang-orang yang beriman lebih kuat cintanya kepada Allah’, ‘Dia mencintai mereka dan mereka mencintai-Nya’.”
+
+**AR:** لَا تَنْسَوْنَا مِنْ دُعَائِكُمْ — لِلْكَشْفِ وَالْمُتَابَعَةِ مَعَ شَيْخِ الرُّوحَانِيِّينَ — الشَّيْخُ عَطِيَّةُ عَبْدُ الْحَمِيدِ ٠٠٢٠١٦٢٠٢٢٢٣٨
+
+**LAT:** lā tansawnā min du‘ā’ikum — li-al-kashfi wa-al-mutāba‘ati ma‘a shaykhi al-rūḥāniyyīna — al-shaykhu ‘Aṭiyyatu ‘Abdu al-Ḥamīdi 0020162022238
+
+**ID:** “Janganlah kalian melupakan kami dari doa kalian. — Untuk «kashf» (penyingkapan) dan mengikuti (bimbingan) bersama syaikh para ruhaniyyin — Syaikh ‘Aṭiyyah ‘Abd al-Ḥamīd 0020162022238.”
+
+**[TIDAK JELAS - HALAMAN 382]** (1) Kutipan ayat pada halaman ini **tidak berurutan menurut mushaf**: dimulai «وَمَا اَنْزَلْنَا… (٢)» (bagian QS 36:28–29), lalu melompat ke «وَالْقَمَرَ قَدَّرْنَاهُ مَنَازِلَ…» yang diberi nomor (٣٩)–(٤٧). Seluruh nomor dan urutan **disalin persis dari cetakan**, tidak disusun ulang dan tidak dilengkapi. (2) Angka «(٢)» pada kutipan pertama tidak diikuti ayat (١) maupun (٢٩)–(٣٨); keadaan ini memang demikian pada sumber. (3) «اجِبْ يَا بَرْقَانُ» dan «يَا سَيِّدٍ» tercetak dengan tanwin/kasrah pada «سيد»; dipertahankan. (4) «فَهْطِيطِيلِ» dan «الْمَلِكِ الْمَعْبُودِ» disalin menurut huruf yang terbaca; **[TEKS ASLI DIJAGA]**. (5) Nomor kontak pada kaki halaman tercetak **dengan angka Arab-Indic** «٠٠٢٠١٦٢٠٢٢٢٣٨», berbeda dari halaman 374 yang memakai angka Latin «0020162022238»; keduanya dipertahankan sesuai cetakan. (6) «الْقِ حُبِّى» tercetak tanpa «أ» pada «أَلْقِ»; dipertahankan.
+
+**[TIDAK ADA RAJAH - TERVERIFIKASI DARI GAMBAR SCAN]** (Tidak ada citra tertanam pada halaman ini menurut `get_image_info()`.)
+
+---
+
+## HALAMAN 383 — «طلسم يوم الأربعاء»
+
+**AR:** طِلَسْمِ يَوْمِ الْاَرْبَعَاءِ
+
+**LAT:** Ṭilasm yawmi al-arbi‘ā’i.
+
+**ID:** “Ṭilasm (wafaq) hari Rabu.”
+
+**AR:** عَنْ كِتَابِ ضِيَاءِ الصَّالِحِينَ ص٣٠٧ نَقَلْتُ الْيَكُمْ هَذَا الطِّلَسْمِ لِيَوْمِ الْاَرْبَعَاءِ لِلْاِسْتِفَادَةِ مِنْهُ:
+
+**LAT:** ‘an kitābi Ḍiyā’i al-ṣāliḥīna ṣ 307 naqaltu ilaykum hādhā al-ṭilasma li-yawmi al-arbi‘ā’i li-al-istifādati minhu:
+
+**ID:** “Dari Kitab «Ḍiyā’ al-Ṣāliḥīn» halaman 307, aku menukilkan kepada kalian ṭilasm hari Rabu ini agar kalian dapat mengambil manfaat darinya:”
+
+**AR:** لَا اِلَهَ الَّا اللَّهُ خَالِصًا مُخْلِصًا
+
+**LAT:** lā ilāha illā Allāhu khāliṣan mukhliṣan
+
+**ID:** “Tiada tuhan selain Allah, dengan keikhlasan yang murni.”
+
+**Isi rajah/wafaq.** Di bawah deret di atas tercetak **rajah ṭilasm** yang tersusun dari:
+(1) sebuah **wafaq 4×4** berisi 16 kotak angka tulisan tangan yang seluruhnya tampak berawalan «١٩١٨» (angka tidak diklaim pada transkripsi ini — lihat `[TIDAK JELAS]` butir 1);
+(2) di bawahnya **tiga rajah bundar kecil**: dua di kiri dan kanan atas (masing-masing memuat tulisan kecil yang tidak dapat dipastikan), dan satu di tengah yang di dalamnya tertulis deret huruf besar;
+(3) sebuah **rajah bundar besar (dā’irah)** di bawahnya: lingkaran berlapis yang pada pita luarnya tertulis «بسم الله الرحمن الرحيم إِنَّ اللَّهَ…» dan pada pusatnya kotak-kotak kecil bertuliskan huruf dan nama;
+(4) tulisan yang mengelilingi seluruh bingkai: pada sisi kanan «…قديم لم يزل…»، pada sisi kiri «…تبارك الله…»، dan pada sisi bawah «بِيَدِكَ الْخَيْرُ اِنَّكَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ تُولِجُ اللَّيْلَ فِي النَّهَارِ وَتُولِجُ».
+
+**Rajah:** ![Rajah hal. 383 — ṭilasm/wafaq hari Rabu](../assets/rajah/sirrul-asrar/hal-383-rajah-01.jpg)
+
+**[TIDAK JELAS - HALAMAN 383]** (1) **Angka wafaq 4×4 tidak diklaim**: seluruh sel diawali «١٩١٨» tetapi dua angka terakhir tiap kotak tidak dapat dipastikan dari citra scan; angka sebenarnya dapat dibaca langsung pada rajah terlampir. (2) Tulisan pada tiga bundaran kecil dan pada lingkaran-lingkaran rajah sangat kecil serta saling menimpa; **[TEKS ASLI DIJAGA]** — hanya frasa yang terbaca jelas yang dikutip, selebihnya tidak diterka. (3) Tulisan tepi bingkai (kanan dan kiri) terpotong di beberapa tempat; tidak ditranskripsi utuh. (4) Keterangan sumber «ص٣٠٧» (Kitab Ḍiyā’ al-Ṣāliḥīn halaman 307) disalin persis dari scan.
+
+**[ADA RAJAH]** — 1 crop: `assets/rajah/sirrul-asrar/hal-383-rajah-01.jpg`
+
+---
+
+## HALAMAN 384 — «قسم الملك ابا العجائب», «قسم يوم الخميس», «قسم للملك قاضي الجن»
+
+**AR:** قِسْمُ الْمَلِكِ ابَا الْعَجَائِبِ
+
+**LAT:** Qismu al-maliki Abā al-‘ajā’ibi.
+
+**ID:** “Bagian (seruan) kepada raja «Abā al-‘Ajā’ib» (bapak keajaiban).”
+
+**AR:** اجِبْ يَا بَرْقَانُ بِحَقِّ هَشْ هَشْ مَرْثْ مَرْثْ ابْوَلْثْ ابْوَلْ ابْوَلَهْ هَلْيُوثْ هَلْيُوثْ يَاهْ يَاهْ هَبُوثْ هَبُوثْ طَلْطِيُوثْ طَلْطِيُوثْ هَشَالُوشْ هَشَالُوشْ هَيَاثْ هَيَاثْ خَلَقَ اللَّهُ اللَّيْلَ وَالنَّهَارَ ابِيلْ اهْيَا شَرَاهِيَا ادْنُونَايْ اصْبَاؤُثْ آلَ سَدَايَ تُوكَّلْ يَا بَرْقَانُ بِكَذَا وَكَذَا وَكَذَا بِحَقِّ الْمَلِكِ الْمُوَكَّلِ عَلَيْكَ مِيكَائِيلُ الَّذِي تَسْرَعُ فِي خِدْمَتِهِ وَاجِبَتِهِ الْوَحَا الْوَحَا الْعَجَلَ الْعَجَلَ السَّاعَةَ السَّاعَةَ بَارَكَ اللَّهُ فِيكُمْ وَعَلَيْكُمْ
+
+**LAT:** ajib yā Barqānu bi-ḥaqqi hash hash marth marth ibwalth ibwal ibwalah halyūth halyūth yāh yāh habūth habūth ṭalṭiyūth ṭalṭiyūth hashālūsh hashālūsh hayāth hayāth khalaqa Allāhu al-layla wa-al-nahāra abīl ahyā sharāhiyā adnūnāy aṣbā’ūth āla sadāy tawakkal yā Barqānu bi-kadhā wa-kadhā wa-kadhā bi-ḥaqqi al-maliki al-muwakkali ‘alayka Mīkā’īlu alladhī tasra‘u fī khidmatihi wa-ājibatihi al-waḥā al-waḥā al-‘ajala al-‘ajala al-sā‘ata al-sā‘ata bāraka Allāhu fīkum wa-‘alaykum
+
+**ID:** “Jawablah, wahai «Barqān», dengan hak «hash hash marth marth ibwalth ibwal ibwalah halyūth halyūth yāh yāh habūth habūth ṭalṭiyūth ṭalṭiyūth hashālūsh hashālūsh hayāth hayāth» — Allah menciptakan malam dan siang — «abīl ahyā sharāhiyā adnūnāy aṣbā’ūth āla sadāy». Bertindaklah, wahai «Barqān», dengan ini, ini, dan ini, dengan hak raja yang ditugaskan atasmu, Mīkā’īl, yang engkau bersegera dalam pelayanannya dan (memenuhi) tugasnya. Segeralah, segeralah! Cepatlah, cepatlah! Saat ini, saat ini! Semoga Allah memberkahi kalian dan (memberkahi) atas kalian.”
+
+**AR:** قِسْمُ يَوْمِ الْخَمِيسِ
+
+**LAT:** Qismu yawmi al-khamīsi.
+
+**ID:** “Bagian (amalan) hari Kamis.”
+
+**AR:** بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ ﴿وَيَقُولُونَ مَتَى هَذَا الْوَعْدُ اِنْ كُنْتُمْ صَادِقِينَ (٤٨) وَامْتَازُوا الْيَوْمَ ايُّهَا الْمُجْرِمُونَ (٥٩) اَلَمْ اَعْهَدْ اِلَيْكُمْ يَا بَنِي آدَمَ انْ لَا تَعْبُدُوا الشَّيْطَانَ اِنَّهُ لَكُمْ عَدُوٌّ مُبِينٌ (٦٠)﴾
+
+**LAT:** Bismi Allāhi al-Raḥmāni al-Raḥīmi “wa-yaqūlūna matā hādhā al-wa‘du in kuntum ṣādiqīna (48) wa-imtāzū al-yawma ayyuhā al-mujrimūna (59) a-lam a‘had ilaykum yā banī Ādama an lā ta‘budū al-shayṭāna innahu lakum ‘aduwwun mubīnun (60)”
+
+**ID:** “Dengan nama Allah Yang Maha Pengasih, Maha Penyayang. ‘Dan mereka berkata: kapankah (datangnya) janji ini, jika kalian adalah orang-orang yang benar? (48) Dan (dikatakan kepada mereka): pisahkanlah diri kalian pada hari ini, wahai orang-orang yang berdosa (59). Bukankah Aku telah memerintahkan kepada kalian, wahai anak-anak Adam, agar kalian tidak menyembah setan? Sesungguhnya ia adalah musuh yang nyata bagi kalian (60).’”
+
+**AR:** اللَّهُمَّ انِّي اسْالُكَ يَا قَادِرُ يَا مُقْتَدِرُ يَا لَطِيفُ يَا خَالِقُ يَا هَادِى اجِبْ يَا صَرْفِيَانِيلُ وَانْتَ يَا شَمْهُورَشْ سَامِعًا مُطِيعًا بِحَقِّ هَذِهِ الْاَسْمَاءِ اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ وَبِحَقِّ فَهْطِيطِيلَ وَانَهُ لَكِتَابٌ عَزِيزٌ لَا يَاتِيهِ الْبَاطِلُ مِنْ بَيْنِ يَدَيْهِ وَلَا مِنْ خَلْفِهِ تَنْزِيلٌ مِنْ حَكِيمٍ حَمِيدٍ اجِبْ يَا خَادِمَ هَذَا الْيَوْمِ بِحَقِّ قُرَيْشٍ وَاقْضِى حَاجَتِى سُبْحَانَ الْمُنَفِّسِ عَنْ كُلِّ مَدْيُونٍ سُبْحَانَ الْمُفَرِّجِ عَنْ كُلِّ مَحْزُونٍ سُبْحَانَ مَنْ اجْرَى الْمَاءَ فِي الْبِحَارِ وَالْعُيُونِ سُبْحَانَ مَنْ جَعَلَ خَزَائِنَهُ بَيْنَ الْكَافِ وَالنُّونِ انَّا امَرَهُ اذَا ارَادَ شَيْئًا انْ يَقُولَ لَهُ كُنْ فَيَكُونُ اللَّهُمَّ سَخِّرْ لِي خَادِمَ هَذَا الْيَوْمِ كَمَا سَخَّرْتَ الْبَحْرَ لِمُوسَى وَالنَّارَ لِاِبْرَاهِيمَ وَالْجِبَالَ وَالْحَدِيدَ لِدَاوُودَ وَالْجِنَّ وَالْاِنْسَ وَالشَّيَاطِينَ لِسُلَيْمَانَ وَالشَّمْسَ وَالْقَمَرَ وَالنُّجُومَ وَجَمِيعَ الْاَشْيَاءَ مُحَمَّدٍ صَلَّى اللَّهُ عَلَيْهِ وَآلِهِ وَجَمِيعِ الْاَنْبِيَاءِ عَلَيْهِمُ الصَّلَاةُ وَالسَّلَامُ اسْالُكَ انْ تُسَخِّرْ لِي خَادِمَ هَذَا الْيَوْمِ بِحَقِّ اسْمَائِكَ الْحُسْنَى يَا اللَّهُ يَا سَرِيعُ يَا قَرِيبُ يَا مُجِيبُ يَا بَاسِطُ يَا وَدُودُ يَاذَا الْعَرْشِ الْمَجِيدِ يَا مُبْدِئُ يَا مُعِيدُ يَا فَعَّالُ لِمَا يُرِيدُ اسْالُكَ بِنُورِ وَجْهِكَ الَّذِي مَلَأَ ارْكَانَ عَرْشِكَ وَبِقُدْرَتِكَ الَّتِي قَدَرْتَهَا عَلَى جَمِيعِ خَلْقِكَ وَبِرَحْمَتِكَ الَّتِي وَسِعَتْ كُلَّ شَيْءٍ لَا الَهَ الَّا انْتَ يَا غِيَاثَ الْمُسْتَغِيثِينَ اغِثْنِى يَا غِيَاثَ الْمُسْتَغِيثِينَ اغِثْنِى يَا غِيَاثَ الْمُسْتَغِيثِينَ اغِثْنِى يَا غِيَاثَ الْمُسْتَغِيثِينَ اغِثْنِى وَاقْضِ حَاجَتِى يَا اللَّهُ يَا رَحْمَنُ يَا رَحِيمُ بِرَحْمَتِكَ يَا ارْحَمَ الرَّاحِمِينَ اللَّهُمَّ الْقِ مَحَبَّتِى فِي قَلْبِ خَادِمِ هَذَا الْيَوْمِ قَدْ شَغَفَهَا حُبًّا يُحِبُّهُمْ كَحُبِّ اللَّهِ وَالَّذِينَ آمَنُوا اشَدُّ حُبًّا لِلَّهِ يُحِبُّهُمْ وَيُحِبُّونَهُ
+
+**LAT:** Allāhumma innī as’aluka yā Qādiru yā Muqtadiru yā Laṭīfu yā Khāliqu yā Hādī ajib yā Ṣarfiyānīlu wa-anta yā Shamhūrashu sāmi‘an muṭī‘an bi-ḥaqqi hādhihi al-asmā’i ihdinā al-ṣirāṭa al-mustaqīma wa-bi-ḥaqqi fahṭīṭīla wa-innahu la-kitābun ‘azīzun lā ya’tīhi al-bāṭilu min bayna yadayhi wa-lā min khalfihi tanzīlun min ḥakīmin ḥamīdin ajib yā khādima hādhā al-yawmi bi-ḥaqqi Qurayshin wa-qḍi ḥājatī subḥāna al-munaffisi ‘an kulli madyūnin subḥāna al-mufarriji ‘an kulli maḥzūnin subḥāna man ajrā al-mā’a fī al-biḥāri wa-al-‘uyūni subḥāna man ja‘ala khazā’inahu bayna al-kāfi wa-al-nūni innā amrahu idhā arāda shay’an an yaqūla lahu kun fa-yakūnu Allāhumma sakhkhir lī khādima hādhā al-yawmi kamā sakhkharta al-baḥra li-Mūsā wa-al-nāra li-Ibrāhīma wa-al-jibāla wa-al-ḥadīda li-Dāwūda wa-al-jinna wa-al-insa wa-al-shayāṭīna li-Sulaymāna wa-al-shamsa wa-al-qamara wa-al-nujūma wa-jamī‘a al-ashyā’i Muḥammadin ṣallā Allāhu ‘alayhi wa-ālihi wa-jamī‘i al-anbiyā’i ‘alayhimu al-ṣalātu wa-al-salāmu as’aluka an tusakhkhira lī khādima hādhā al-yawmi bi-ḥaqqi asmā’ika al-ḥusnā yā Allāhu yā sarī‘u yā qarību yā mujību yā bāsiṭu yā wadūdu yā dhā al-‘arshi al-majīdi yā mubdi’u yā mu‘īdu yā fa‘‘ālu limā yurīdu as’aluka bi-nūri wajhika alladhī mala’a arkāna ‘arshika wa-bi-qudratika allatī qadartahā ‘alā jamī‘i khalqika wa-bi-raḥmatika allatī wasi‘at kulla shay’in lā ilāha illā anta yā ghiyātha al-mustaghīthīna ighithnī yā ghiyātha al-mustaghīthīna ighithnī yā ghiyātha al-mustaghīthīna ighithnī yā ghiyātha al-mustaghīthīna ighithnī wa-qḍi ḥājatī yā Allāhu yā Raḥmānu yā Raḥīmu bi-raḥmatika yā arḥama al-rāḥimīna Allāhumma alqi maḥabbatī fī qalbi khādimi hādhā al-yawmi qad shaghafahā ḥubban yuḥibbuhum ka-ḥubbi Allāhi wa-alladhīna āmanū ashaddu ḥubban lillāhi yuḥibbuhum wa-yuḥibbūnahu
+
+**ID:** “Ya Allah, aku memohon kepada-Mu, wahai Yang Mahakuasa, wahai Yang Maha Menentukan, wahai Yang Mahalembut, wahai Yang Maha Pencipta, wahai Yang Maha Pemberi petunjuk—jawablah, wahai Ṣarfiyānīl, dan engkau, wahai Shamhūrash, sebagai pendengar lagi taat, dengan hak nama-nama ini: ‘tunjukilah kami jalan yang lurus’, dan dengan hak «fahṭīṭīl»: ‘dan sesungguhnya ia (al-Qur’an) adalah kitab yang mulia, yang tidak akan datang kepadanya kebatilan, baik dari depan maupun dari belakangnya, (yang) diturunkan dari (Tuhan) Yang Mahabijaksana lagi Maha Terpuji’. Jawablah, wahai pelayan hari ini, dengan hak (kaum) Quraisy, dan tunaikanlah kebutuhanku. Mahasuci Yang melepaskan (beban) setiap orang yang berutang; Mahasuci Yang melapangkan (kesulitan) setiap orang yang bersedih; Mahasuci Yang mengalirkan air di laut dan mata air; Mahasuci Yang menjadikan perbendaharaan-Nya di antara (huruf) Kāf dan Nūn; sesungguhnya perintah-Nya apabila Dia menghendaki sesuatu adalah Dia berkata kepadanya ‘jadilah’, maka jadilah ia. Ya Allah, tundukkanlah untukku pelayan hari ini sebagaimana Engkau menundukkan laut bagi Musa, api bagi Ibrahim, gunung-gunung dan besi bagi Dawud, jin, manusia, dan setan-setan bagi Sulaiman, serta matahari, bulan, bintang-bintang, dan segala sesuatu (bagi) Muhammad—semoga Allah melimpahkan selawat kepadanya dan keluarganya—dan seluruh para nabi, semoga salawat dan salam tercurah atas mereka. Aku memohon kepada-Mu agar Engkau menundukkan untukku pelayan hari ini dengan hak nama-nama-Mu yang terbaik: wahai Allah, wahai Yang Mahacepat, wahai Yang Mahadekat, wahai Yang Maha Mengabulkan, wahai Yang Mahamelapangkan, wahai Yang Maha Mencintai, wahai Pemilik Arasy yang mulia, wahai Yang Memulai, wahai Yang Mengembalikan, wahai Yang Maha Melakukan apa yang Dia kehendaki. Aku memohon kepada-Mu dengan cahaya wajah-Mu yang memenuhi tiang-tiang Arasy-Mu, dengan kekuasaan-Mu yang Engkau tetapkan atas seluruh makhluk-Mu, dan dengan rahmat-Mu yang meliputi segala sesuatu; tiada tuhan selain Engkau. Wahai Penolong orang-orang yang meminta pertolongan, tolonglah aku — (diulang empat kali sesuai cetakan) — dan tunaikanlah kebutuhanku, wahai Allah, wahai Yang Maha Pengasih, wahai Yang Maha Penyayang, dengan rahmat-Mu, wahai Yang paling penyayang di antara para penyayang. Ya Allah, curahkanlah cintaku ke dalam hati pelayan hari ini; sungguh ia telah membuatnya sangat mencintai: ‘Dia mencintai mereka seperti mencintai Allah, dan orang-orang yang beriman lebih kuat cintanya kepada Allah’, ‘Dia mencintai mereka dan mereka mencintai-Nya’.”
+
+**AR:** قِسْمٌ لِلْمَلِكِ قَاضِي الْجِنِّ
+
+**LAT:** Qismun li-al-maliki qāḍī al-jinni.
+
+**ID:** “Bagian (seruan) kepada raja «Qāḍī al-Jinn» (hakim jin).”
+
+**AR:** اجِبْ يَا شَمْهُورَشْ بِحَقِّ الْمَلِكِ الْمُوَكَّلِ عَلَيْكَ الَّذِي تَسْرَعُ فِي خِدْمَةِ صَرْفِيَانِيلَ وَبِحَقِّ
+
+**LAT:** ajib yā Shamhūrash bi-ḥaqqi al-maliki al-muwakkali ‘alayka alladhī tasra‘u fī khidmati Ṣarfiyānīla wa-bi-ḥaqqi
+
+**ID:** “Jawablah, wahai Shamhūrash, dengan hak raja yang ditugaskan atasmu, yang engkau bersegera dalam pelayanan (kepada) Ṣarfiyānīl, dan dengan hak…” (berlanjut ke halaman 385).
+
+**Keterangan sambungan.** Kalimat terakhir halaman ini «وَبِحَقِّ» terpotong dan bersambung ke halaman 385.
+
+**[TIDAK JELAS - HALAMAN 384]** (1) Seluruh deret thilasm pada «قسم الملك ابا العجائب» («هَشْ هَشْ مَرْثْ مَرْثْ … طَلْطِيُوثْ … ابِيلْ اهْيَا شَرَاهِيَا ادْنُونَايْ اصْبَاؤُثْ آلَ سَدَايَ») tercetak tanpa vokalisasi dan tanpa titik yang konsisten; disalin menurut bentuk huruf yang terbaca dan ditandai **[TEKS ASLI DIJAGA]**, tanpa diterka maknanya. (2) Kutipan QS 36:48–50 pada halaman ini **tidak lengkap dan nomornya melompat** — tercetak «(٤٨)» lalu «(٥٩)» lalu «(٦٠)»; keadaan ini dipertahankan persis, tidak dilengkapi. (3) «وَامْتَازُوا» tercetak dengan «و» di awal, sedangkan pada QS 36:59 berbunyi «وَامْتَازُوا» — sesuai cetakan. (4) «انَّا امَرَهُ» tercetak tanpa «أ» pada «أمره» dan dengan «انّا»; dipertahankan. (5) «قَدَرْتَهَا» pada halaman ini berbeda dari «قدرت بها» (h.375/377); bentuk cetak dipertahankan. (6) Judul «قسم للملك قاضي الجن» ditulis tanpa «ال» pada «قسم»; dipertahankan.
+
+**[TIDAK ADA RAJAH - TERVERIFIKASI DARI GAMBAR SCAN]** (Tidak ada citra tertanam pada halaman ini menurut `get_image_info()`.)
+
+---
+
+## HALAMAN 385 — Penutup «قسم للملك قاضي الجن»
+
+**AR:** شَطْطَالِلْشِ شَطْطَالِلْشِ بِطَطْهِيشٍ بِطَطْهِيشٍ وَبِحَقِّ مَالُوخِ الْقُدْرَةِ مَنْكُوبٌ انْ تَتَوَكَّلْ بِكَذَا وَكَذَا وَتَقْضِى حَاجَتِى الْوَحَا الْوَحَا الْعَجَلَ الْعَجَلَ السَّاعَةَ السَّاعَةَ
+
+**LAT:** shaṭṭālilshi shaṭṭālilshi biṭaṭhīshin biṭaṭhīshin wa-bi-ḥaqqi mālūkhi al-qudrati mankūbun an tatawakkal bi-kadhā wa-kadhā wa-taqḍī ḥājatī al-waḥā al-waḥā al-‘ajala al-‘ajala al-sā‘ata al-sā‘ata
+
+**ID:** “…dan dengan hak «shaṭṭālilsh shaṭṭālilsh biṭaṭhīsh biṭaṭhīsh» dan dengan hak «mālūkh al-qudrah» yang «mankūb» — hendaklah engkau bertindak dengan ini dan ini, dan tunaikanlah kebutuhanku. Segeralah, segeralah! Cepatlah, cepatlah! Saat ini, saat ini!”
+
+**Keterangan sambungan.** Halaman ini adalah **penyambung langsung** kalimat halaman 384 yang berakhir dengan «وَبِحَقِّ»; kalimat itu diteruskan di sini mulai «شَطْطَالِلْشِ…» hingga «السَّاعَةَ السَّاعَةَ». Setelah dua baris tersebut, halaman ini **kosong seluruhnya** sampai kaki halaman.
+
+**[TIDAK JELAS - HALAMAN 385]** (1) Kata «مَنْكُوبٌ» tercetak demikian; kemungkinan «مَكْتُوبٌ» atau «مَنْكُوب»، tetapi bentuk cetak dipertahankan apa adanya dan tidak dikoreksi. (2) Deret thilasm «شَطْطَالِلْشِ شَطْطَالِلْشِ بِطَطْهِيشٍ بِطَطْهِيشٍ» dan «مَالُوخِ» tercetak tanpa vokalisasi; **[TEKS ASLI DIJAGA]** dan tidak diterka. (3) Tidak ada angka numerik pada halaman ini. (4) Halaman ini hanya memuat dua baris teks; sisa halaman kosong dan tidak ada tulisan yang terpotong di tepi kertas.
+
+**[TIDAK ADA RAJAH - TERVERIFIKASI DARI GAMBAR SCAN]** (Tidak ada citra tertanam pada halaman ini menurut `get_image_info()`.)
+
+---
+
+## HALAMAN 386 — «طلسم يوم الخميس» dan judul «قسم يوم الجمعة»
+
+**AR:** طِلَسْمِ يَوْمِ الْخَمِيسِ
+
+**LAT:** Ṭilasm yawmi al-khamīsi.
+
+**ID:** “Ṭilasm (wafaq) hari Kamis.”
+
+**AR:** عَنْ كِتَابِ ضِيَاءِ الصَّالِحِينَ ص٣١٦ نَقَلْتُ الْيَكُمْ هَذَا الطِّلَسْمِ لِيَوْمِ الْخَمِيسِ لِلْاِسْتِفَادَةِ مِنْهُ:
+
+**LAT:** ‘an kitābi Ḍiyā’i al-ṣāliḥīna ṣ 316 naqaltu ilaykum hādhā al-ṭilasma li-yawmi al-khamīsi li-al-istifādati minhu:
+
+**ID:** “Dari Kitab «Ḍiyā’ al-Ṣāliḥīn» halaman 316, aku menukilkan kepada kalian ṭilasm hari Kamis ini agar kalian dapat mengambil manfaat darinya:”
+
+**AR:** لَا اِلَهَ الَّا اللَّهُ خَالِقُ كُلِّ شَيْءٍ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ
+
+**LAT:** lā ilāha illā Allāhu khāliqu kulli shay’in wa-huwa ‘alā kulli shay’in qadīrun
+
+**ID:** “Tiada tuhan selain Allah, Pencipta segala sesuatu, dan Dia atas segala sesuatu Mahakuasa.”
+
+**Isi rajah/wafaq.** Di bawah deret di atas tercetak **rajah ṭilasm** yang tersusun dari:
+(1) sebuah **wafaq 4×4** berisi 16 kotak angka tulisan tangan yang seluruhnya tampak berawalan «١٩١٨» (angka tidak diklaim pada transkripsi ini — lihat `[TIDAK JELAS]` butir 1);
+(2) sebuah **rajah bundar (dā’irah)**: lingkaran berlapis yang pita luarnya memuat «شَطْطَالِلْشِ…» dan deret huruf, sedangkan **kotak pusatnya** memuat «شطور»، «طلطلطامش»، «كهيعص»، «طه»، «طس»، «طسم»، «يس» dan deret huruf «حمعسق»/«الم» di sekelilingnya;
+(3) pada keempat sudut bingkai terdapat **empat ruang setengah lingkaran** berisi tulisan kecil;
+(4) di bawah rajah bundar tercetak **bingkai mendatar** berisi «لَا اِلَهَ الَّا اللَّهُ مُحَمَّدٌ رَسُولُ اللَّهِ»;
+(5) tulisan mengelilingi bingkai: sisi kanan (dari atas) «…قدير…»، sisi kiri «…تبارك الله…»، dan di bawah bingkai «وَالرَّازِقُ وَاِنَّكَ خَيْرُ الرَّازِقِينَ وَمَنْ بَنِي اللَّهَ يَجْعَلْ لَهُ مَخْرَجًا».
+
+**Rajah:** ![Rajah hal. 386 — ṭilasm/wafaq hari Kamis](../assets/rajah/sirrul-asrar/hal-386-rajah-01.jpg)
+
+**AR:** قِسْمُ يَوْمِ الْجُمُعَةِ
+
+**LAT:** Qismu yawmi al-jumu‘ati.
+
+**ID:** “Bagian (amalan) hari Jumat.” (Judul ini tercetak di bagian bawah halaman 386; teks isinya dimulai pada halaman 387.)
+
+**[TIDAK JELAS - HALAMAN 386]** (1) **Angka wafaq 4×4 tidak diklaim**: seluruh sel diawali «١٩١٨» tetapi dua angka terakhir tiap kotak tidak dapat dipastikan dari citra scan; angka sebenarnya dapat dibaca langsung pada rajah terlampir. (2) Tulisan pada lingkaran rajah, kotak pusat, dan empat sudut bingkai sangat kecil serta sebagian saling menimpa; **[TEKS ASLI DIJAGA]** — hanya frasa yang terbaca jelas yang dikutip, selebihnya tidak diterka. (3) Tulisan tepi bingkai kanan dan kiri terpotong; tidak ditranskripsi utuh. (4) Keterangan sumber «ص٣١٦» (Kitab Ḍiyā’ al-Ṣāliḥīn halaman 316) disalin persis dari scan. (5) Judul «قسم يوم الجمعة» tercetak di bawah rajah pada halaman yang sama; letak ini dipertahankan.
+
+**[ADA RAJAH]** — 1 crop: `assets/rajah/sirrul-asrar/hal-386-rajah-01.jpg`
+
+---
+
+## HALAMAN 387 — «قسم يوم الجمعة» (teks isi)
+
+**AR:** بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
+
+**LAT:** Bismi Allāhi al-Raḥmāni al-Raḥīmi.
+
+**ID:** “Dengan nama Allah Yang Maha Pengasih, Maha Penyayang.”
+
+**AR:** ﴿وَاَنْ اعْبُدُونِي هَذَا صِرَاطٌ مُسْتَقِيمٌ (٦١) وَلَقَدْ اضَلَّ مِنْكُمْ جِبِلًّا كَثِيرًا اَفَلَمْ تَكُونُوا تَعْقِلُونَ (٦٢) هَذِهِ جَهَنَّمُ الَّتِى كُنْتُمْ تُوعَدُونَ (٦٣) اصْلَوْهَا الْيَوْمَ بِمَا كُنْتُمْ تَكْفُرُونَ (٦٤) الْيَوْمَ نَخْتِمُ عَلَى اَفْوَاهِهِمْ وَتُكَلِّمُنَا ايْدِيهِمْ وَتَشْهَدُ ارْجُلُهُمْ بِمَا كَانُوا يَكْسِبُونَ (٦٥) وَلَوْ نَشَاءُ لَطَمَسْنَا عَلَى اعْيُنِهِمْ فَاسْتَبَقُوا الصِّرَاطَ فَاَنَّى يُبْصِرُونَ (٦٦) وَلَوْ نَشَاءُ لَمَسَخْنَاهُمْ عَلَى مَكَانَتِهِمْ فَمَا اسْتَطَاعُوا مُضِيًّا وَلَا يَرْجِعُونَ (٦٧) وَمَنْ نُعَمِّرْهُ نُنَكِّسْهُ فِي الْخَلْقِ اَفَلَا يَعْقِلُونَ (٦٨) قُلْ يَحْيِيهَا الَّذِى انْشَاَهَا اوَّلَ مَرَّةٍ وَهُوَ بِكُلِّ خَلْقٍ عَلِيمٌ (٧٩) الَّذِى جَعَلَ لَكُمْ مِنَ الشَّجَرِ الْاَخْضَرِ نَارًا فَاِذَا انْتُمْ مِنْهُ تُوقِدُونَ (٨٠) اوَلَيْسَ الَّذِى خَلَقَ السَّمَاوَاتِ وَالْاَرْضَ بِقَادِرٍ عَلَى انْ يَخْلُقَ مِثْلَهُمْ بَلَى وَهُوَ الْخَلَّاقُ الْعَلِيمُ (٨١) اِنَّمَا امْرُهُ اِذَا ارَادَ شَيْئًا انْ يَقُولَ لَهُ كُنْ فَيَكُونُ (٨٢) فَسُبْحَانَ الَّذِى بِيَدِهِ مَلَكُوتُ كُلِّ شَيْءٍ وَاِلَيْهِ تُرْجَعُونَ (٨٣)﴾
+
+**LAT:** “wa-an i‘budūnī hādhā ṣirāṭun mustaqīmun (61) wa-laqad aḍalla minkum jibillan kathīran a-fa-lam takūnū ta‘qilūna (62) hādhihi jahannamu allatī kuntum tū‘adūna (63) iṣlawhā al-yawma bimā kuntum takfurūna (64) al-yawma nakhtimu ‘alā afwāhihim wa-tukallimunā aydīhim wa-tashhadu arjuluhum bimā kānū yaksibūna (65) wa-law nashā’u la-ṭamasnā ‘alā a‘yunihim fa-istabaqū al-ṣirāṭa fa-annā yubṣirūna (66) wa-law nashā’u la-masakhnāhum ‘alā makānatihim fa-mā istaṭā‘ū muḍiyyan wa-lā yarji‘ūna (67) wa-man nu‘ammirhu nunakkis-hu fī al-khalqi a-fa-lā ya‘qilūna (68) qul yuḥyīhā alladhī ansha’ahā awwala marratin wa-huwa bi-kulli khalqin ‘alīmun (79) alladhī ja‘ala lakum mina al-shajari al-akhḍari nāran fa-idhā antum minhu tūqidūna (80) a-wa-laysa alladhī khalaqa al-samāwāti wa-al-arḍa bi-qādirin ‘alā an yakhluqa mithlahum balā wa-huwa al-khallāqu al-‘alīmu (81) innamā amruhu idhā arāda shay’an an yaqūla lahu kun fa-yakūnu (82) fa-subḥāna alladhī biyadihi malakūtu kulli shay’in wa-ilayhi turja‘ūna (83)”
+
+**ID:** “‘Dan (aku perintahkan kepada kalian): sembahlah Aku; inilah jalan yang lurus (61). Dan sungguh, ia (setan) telah menyesatkan sebagian besar di antara kalian; maka apakah kalian tidak mengerti? (62) Inilah Jahannam yang dahulu dijanjikan kepada kalian (63); masukilah ia pada hari ini, karena kalian dahulu mengingkarinya (64). Pada hari ini Kami tutup mulut mereka, dan tangan mereka akan berkata kepada Kami, dan kaki mereka akan bersaksi terhadap apa yang dahulu mereka kerjakan (65). Dan jika Kami menghendaki, Kami akan menghapus penglihatan mereka, lalu mereka berlomba-lomba menuju jalan itu; maka bagaimanakah mereka dapat melihat? (66) Dan jika Kami menghendaki, Kami akan mengubah bentuk mereka di tempat mereka, maka mereka tidak sanggup berjalan dan tidak (pula) kembali (67). Dan siapa yang Kami panjangkan umurnya, Kami balikkan kejadiannya; maka apakah mereka tidak mengerti? (68) Katakanlah: Dia yang menciptakannya pertama kali akan menghidupkannya kembali, dan Dia Maha Mengetahui segala ciptaan (79); (Dia) yang menjadikan api untuk kalian dari kayu yang hijau, maka tiba-tiba kalian menyalakan (api) darinya (80). Dan apakah (Allah) yang menciptakan langit dan bumi tidak mampu menciptakan (manusia) seperti mereka? Benar, Dia Maha Pencipta lagi Maha Mengetahui (81). Sesungguhnya perintah-Nya apabila Dia menghendaki sesuatu adalah Dia berkata kepadanya: jadilah, maka jadilah ia (82). Maka Mahasuci (Allah) yang di tangan-Nya kekuasaan atas segala sesuatu, dan kepada-Nyalah kalian dikembalikan (83).’”
+
+**AR:** غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ
+
+**LAT:** ghayri al-maghḍūbi ‘alayhim wa-lā al-ḍāllīna
+
+**ID:** “Bukan (jalan) orang-orang yang dimurkai dan bukan (pula jalan) orang-orang yang sesat.”
+
+**AR:** يَا ظَاهِرُ يَا عَزِيزُ يَا مَلِكُ يَا مُؤْمِنُ يَا مُهَيْمِنُ يَا قَادِرُ يَا كَبِيرُ يَا كَسْفِيَانِيلُ وَانْتَ يَا مَيْمُونُ بِحَقِّ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ وَبِحَقِّ الْقَاهِرِ فَوْقَ عِبَادِهِ الْكَبِيرِ الْمُتَعَالِ وَبِحَقِّ الْمَلِكِ الْغَالِبِ عَلَيْكَ امْرُهُ صَطْعَطْ وَبِحَقِّ خَطْطَطِيلَ فَرَقَ الْحَقُّ وَبَطَلَ مَاكَانُوا يَعْمَلُونَ اجِبْ يَا خَادِمَ هَذَا الْيَوْمِ سُبْحَانَ الْمُنَفِّسِ عَنْ كُلِّ مَدْيُونٍ سُبْحَانَ الْمُخَلِّصِ لِكُلِّ مَسْجُونٍ سُبْحَانَ مَنْ اجْرَى الْمَاءَ فِي الْبِحَارِ وَالْعُيُونِ سُبْحَانَ الْمُفَرِّجِ عَنْ كُلِّ مَحْزُونٍ سُبْحَانَ مَنْ جَعَلَ خَزَائِنَهُ بَيْنَ الْكَافِ وَالنُّونِ سُبْحَانَ مَنْ اذَا ارَادَ شَيْئًا انْ يَقُولَ لَهُ كُنْ فَيَكُونُ اللَّهُمَّ سَخِّرْ لِي خَادِمَ هَذَا الْيَوْمِ كَمَا سَخَّرْتَ الْبَحْرَ لِمُوسَى وَالنَّارَ لِاِبْرَاهِيمَ وَالْحَدِيدَ وَالْجِبَالَ لِدَاوُدَ وَالْجِنَّ وَالْاِنْسَ وَالشَّيَاطِينَ وَالرِّيحَ لِسُلَيْمَانَ وَالشَّمْسَ وَالْقَمَرَ وَالنُّجُومَ وَجَمِيعَ الْاَشْيَاءِ مُحَمَّدٍ صَلَّى اللَّهُ عَلَيْهِ وَآلِهِ وَسَلَّمَ وَعَلَى سَائِرِ الْاَنْبِيَاءِ عَلَيْهِمُ الصَّلَاةُ وَالسَّلَامُ اللَّهُمَّ سَخِّرْ لِي كَسْفِيَانِيلِ وَمَيْمُونَ بِحَقِّ اسْمِكَ الْعَظِيمِ الْاَعْظَمِ وَبِحَقِّ اسْمَائِكَ الْحُسْنَى يَا اللَّهُ يَا سَرِيعُ يَا قَرِيبُ يَا مُجِيبُ يَا بَاسِطُ يَا وَدُودُ يَاذَا الْعَرْشِ الْمَجِيدِ يَا مُبْدِئُ يَا مُعِيدُ يَا فَعَّالُ لِمَا يُرِيدُ اسْالُكَ بِنُورِ وَجْهِكَ الَّذِي مَلَأَ ارْكَانَ عَرْشِكَ وَبِقُدْرَتِكَ الَّتِي قَدَرْتَ بِهَا عَلَى جَمِيعِ خَلْقِكَ وَبِرَحْمَتِكَ الَّتِي وَسِعَتْ كُلَّ شَيْءٍ لَا الَهَ الَّا انْتَ يَا غِيَاثَ الْمُسْتَغِيثِينَ اغِثْنِى يَا غِيَاثَ الْمُسْتَغِيثِينَ اغِثْنِى يَا غِيَاثَ الْمُسْتَغِيثِينَ اغِثْنِى يَا غِيَاثَ الْمُسْتَغِيثِينَ اغِثْنِى يَا الله يَا ارْحَمَ الرَّاحِمِينَ اللَّهُمَّ سَخِّرْ لِي خَادِمَ هَذَا الْيَوْمِ وَالْقِ حَيِّى فِي قَلْبِهِ قَدْ شَغَفَهَا حُبًّا وَيُحِبُّونَهُمْ كَحُبِّ اللَّهِ وَالَّذِينَ آمَنُوا اشَدُّ حُبًّا لِلَّهِ
+
+**LAT:** yā Ẓāhiru yā ‘Azīzu yā Maliku yā Mu’minu yā Muhayminu yā Qādiru yā Kabīru yā Kasfiyānīlu wa-anta yā Maymūnu bi-ḥaqqi ghayri al-maghḍūbi ‘alayhim wa-lā al-ḍāllīna wa-bi-ḥaqqi al-qāhiri fawqa ‘ibādihi al-kabīri al-muta‘āli wa-bi-ḥaqqi al-maliki al-ghālibi ‘alayka amruhu ṣaṭ‘aṭ wa-bi-ḥaqqi khaṭṭaṭīla faraqa al-ḥaqqu wa-baṭala mā kānū ya‘malūna ajib yā khādima hādhā al-yawmi subḥāna al-munaffisi ‘an kulli madyūnin subḥāna al-mukhalliṣi li-kulli masjūnin subḥāna man ajrā al-mā’a fī al-biḥāri wa-al-‘uyūni subḥāna al-mufarriji ‘an kulli maḥzūnin subḥāna man ja‘ala khazā’inahu bayna al-kāfi wa-al-nūni subḥāna man idhā arāda shay’an an yaqūla lahu kun fa-yakūnu Allāhumma sakhkhir lī khādima hādhā al-yawmi kamā sakhkharta al-baḥra li-Mūsā wa-al-nāra li-Ibrāhīma wa-al-ḥadīda wa-al-jibāla li-Dāwūda wa-al-jinna wa-al-insa wa-al-shayāṭīna wa-al-rīḥa li-Sulaymāna wa-al-shamsa wa-al-qamara wa-al-nujūma wa-jamī‘a al-ashyā’i Muḥammadin ṣallā Allāhu ‘alayhi wa-ālihi wa-sallama wa-‘alā sā’iri al-anbiyā’i ‘alayhimu al-ṣalātu wa-al-salāmu Allāhumma sakhkhir lī Kasfiyānīla wa-Maymūna bi-ḥaqqi ismika al-‘aẓīmi al-a‘ẓami wa-bi-ḥaqqi asmā’ika al-ḥusnā yā Allāhu yā sarī‘u yā qarību yā mujību yā bāsiṭu yā wadūdu yā dhā al-‘arshi al-majīdi yā mubdi’u yā mu‘īdu yā fa‘‘ālu limā yurīdu as’aluka bi-nūri wajhika alladhī mala’a arkāna ‘arshika wa-bi-qudratika allatī qadarta bihā ‘alā jamī‘i khalqika wa-bi-raḥmatika allatī wasi‘at kulla shay’in lā ilāha illā anta yā ghiyātha al-mustaghīthīna ighithnī yā ghiyātha al-mustaghīthīna ighithnī yā ghiyātha al-mustaghīthīna ighithnī yā ghiyātha al-mustaghīthīna ighithnī yā Allāhu yā arḥama al-rāḥimīna Allāhumma sakhkhir lī khādima hādhā al-yawmi wa-alqi ḥubbī fī qalbihi qad shaghafahā ḥubban wa-yuḥibbūnahum ka-ḥubbi Allāhi wa-alladhīna āmanū ashaddu ḥubban lillāhi
+
+**ID:** “Wahai Yang Mahanyata, wahai Yang Mahamulia, wahai Raja, wahai Yang Maha Memberi keamanan, wahai Yang Maha Mengatur, wahai Yang Mahakuasa, wahai Yang Maha Besar, wahai Kasfiyānīl; dan engkau, wahai Maymūn, dengan hak ‘bukan (jalan) orang-orang yang dimurkai dan bukan (pula jalan) orang-orang yang sesat’, dengan hak Yang Maha Menundukkan di atas hamba-hamba-Nya, Yang Maha Besar lagi Mahatinggi, dan dengan hak Raja Yang Menang yang perintah-Nya atasmu, «ṣaṭ‘aṭ», dan dengan hak «khaṭṭaṭīl»: ‘kebenaran telah datang dan yang batil telah lenyap’; (padahal) apa yang mereka kerjakan (itu batil). Jawablah, wahai pelayan hari ini. Mahasuci Yang melepaskan (beban) setiap orang yang berutang; Mahasuci Yang menyelamatkan setiap orang yang dipenjara; Mahasuci yang mengalirkan air di laut dan mata air; Mahasuci Yang melapangkan (kesulitan) setiap orang yang bersedih; Mahasuci Yang menjadikan perbendaharaan-Nya di antara (huruf) Kāf dan Nūn; Mahasuci Yang apabila menghendaki sesuatu, Dia berkata kepadanya ‘jadilah’, maka jadilah ia. Ya Allah, tundukkanlah untukku pelayan hari ini sebagaimana Engkau menundukkan laut bagi Musa, api bagi Ibrahim, besi dan gunung-gunung bagi Dawud, jin, manusia, setan-setan, dan angin bagi Sulaiman, serta matahari, bulan, bintang-bintang, dan segala sesuatu (bagi) Muhammad—semoga Allah melimpahkan selawat kepadanya, keluarganya, dan (memberi) salam—dan atas seluruh para nabi, semoga salawat dan salam tercurah atas mereka. Ya Allah, tundukkanlah untukku Kasfiyānīl dan Maymūn dengan hak nama-Mu Yang Mahaagung, yang paling agung, dan dengan hak nama-nama-Mu yang terbaik: wahai Allah, wahai Yang Mahacepat, wahai Yang Mahadekat, wahai Yang Maha Mengabulkan, wahai Yang Mahamelapangkan, wahai Yang Maha Mencintai, wahai Pemilik Arasy yang mulia, wahai Yang Memulai, wahai Yang Mengembalikan, wahai Yang Maha Melakukan apa yang Dia kehendaki. Aku memohon kepada-Mu dengan cahaya wajah-Mu yang memenuhi tiang-tiang Arasy-Mu, dengan kekuasaan-Mu yang dengannya Engkau berkuasa atas seluruh makhluk-Mu, dan dengan rahmat-Mu yang meliputi segala sesuatu; tiada tuhan selain Engkau. Wahai Penolong orang-orang yang meminta pertolongan, tolonglah aku — (diulang empat kali sesuai cetakan) — wahai Allah, wahai Yang paling penyayang di antara para penyayang. Ya Allah, tundukkanlah untukku pelayan hari ini, dan curahkanlah cintaku ke dalam hatinya; sungguh ia telah membuatnya sangat mencintai—‘dan mereka mencintai mereka seperti mencintai Allah, dan orang-orang yang beriman lebih kuat cintanya kepada Allah’.”
+
+**[TIDAK JELAS - HALAMAN 387]** (1) Nomor ayat pada kutipan QS 36 pada halaman ini **melompat**: «(٦١)»–«(٦٨)» lalu «(٧٩)»–«(٨٣)». Urutan dan nomor **disalin persis dari cetakan**, tidak disusun ulang dan tidak dilengkapi. (2) Kata «جِبِلًّا» tercetak tanpa «ي» (bukan «جِبِلًّا»); dipertahankan sebagaimana cetakan. (3) «غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ» tercetak sebagai baris tersendiri di tengah halaman (seperti kutipan al-Fātiḥah); dipertahankan sebagai blok tersendiri. (4) Deret thilasm «صَطْعَطْ» dan «خَطْطَطِيلَ» tanpa vokalisasi; **[TEKS ASLI DIJAGA]**. (5) «وَالْقِ حَيِّى فِي قَلْبِهِ» tercetak tanpa «أ» pada «أَلْقِ» dan dengan «حيّى»; dipertahankan. (6) Frase «وَبَطَلَ مَاكَانُوا يَعْمَلُونَ» menyisip di tengah sumpah; disalin sesuai letak cetak, tidak dipindahkan.
+
+**[TIDAK ADA RAJAH - TERVERIFIKASI DARI GAMBAR SCAN]** (Tidak ada citra tertanam pada halaman ini menurut `get_image_info()`.)
+
+---
+
+## HALAMAN 388 — «طلسم يوم الجمعة» dan «قسم الملك ابا نوخ»
+
+**AR:** طِلَسْمِ يَوْمِ الْجُمُعَةِ
+
+**LAT:** Ṭilasm yawmi al-jumu‘ati.
+
+**ID:** “Ṭilasm (wafaq) hari Jumat.”
+
+**AR:** عَنْ كِتَابِ ضِيَاءِ الصَّالِحِينَ ص٣٣٦ نَقَلْتُ الْيَكُمْ هَذَا الطِّلَسْمِ لِيَوْمِ الْجُمُعَةِ لِلْاِسْتِفَادَةِ مِنْهُ:
+
+**LAT:** ‘an kitābi Ḍiyā’i al-ṣāliḥīna ṣ 336 naqaltu ilaykum hādhā al-ṭilasma li-yawmi al-jumu‘ati li-al-istifādati minhu:
+
+**ID:** “Dari Kitab «Ḍiyā’ al-Ṣāliḥīn» halaman 336, aku menukilkan kepada kalian ṭilasm hari Jumat ini agar kalian dapat mengambil manfaat darinya:”
+
+**AR:** لَا اِلَهَ الَّا اللَّهُ اكْبَرُ وَلَا حَوْلَ وَلَا قُوَّةَ الَّا بِاللَّهِ الْعَلِيِّ الْعَظِيمِ
+
+**LAT:** lā ilāha illā Allāhu akbaru wa-lā ḥawla wa-lā quwwata illā bi-Allāhi al-‘Aliyyi al-‘Aẓīmi
+
+**ID:** “Tiada tuhan selain Allah, (Dia) Mahabesar; dan tiada daya serta kekuatan kecuali dengan Allah Yang Mahatinggi lagi Mahaagung.”
+
+**Isi rajah/wafaq.** Di bawah deret di atas tercetak **rajah ṭilasm** yang tersusun dari:
+(1) sebuah **wafaq 4×4** berisi 16 kotak angka tulisan tangan yang seluruhnya tampak berawalan «١٩١٨» (angka tidak diklaim pada transkripsi ini — lihat `[TIDAK JELAS]` butir 1); pada sisi kanan dan kiri wafaq tercetak tulisan tegak «فسيح الله» dan «لا إله إلا الله العظيم»;
+(2) bingkai **deret «الله»** berulang: di atas dan di bawah rajah utama tercetak tiga baris «الله الله الله…» yang mengapit deret angka;
+(3) sebuah **rajah bundar (dā’irah)** di tengah dengan lapisan-lapisan berisi deret huruf dan angka (antara lain «١٠٢٤»، «٢١٧٣»، «٣٠٦» dan sejenisnya) serta kotak pusat bertulis «طه»، «طس»، «طسم»، «كهيعص»، «حمعسق»;
+(4) **empat kotak bersudut** (bukan setengah lingkaran) yang masing-masing berisi deret angka dan huruf;
+(5) tulisan mengelilingi bingkai: sisi kanan «اللهم صل على محمد…»، sisi kiri «اللهم صل على محمد…»، dan di bawah «يَكَادُ زَيْتُهَا يُضِيءُ وَلَوْ لَمْ تَمْسَسْهُ نَارٌ نُورٌ عَلَى نُورٍ يَهْدِى اللَّهُ لِنُورِهِ مَنْ يَشَاءُ».
+
+**Rajah:** ![Rajah hal. 388 — ṭilasm/wafaq hari Jumat](../assets/rajah/sirrul-asrar/hal-388-rajah-01.jpg)
+
+**AR:** قِسْمُ الْمَلِكِ ابَا نُوخَ
+
+**LAT:** Qismu al-maliki Abā Nūkha.
+
+**ID:** “Bagian (seruan) kepada raja «Abā Nūkh».”
+
+**AR:** اجِبْ يَا ابَا نُوخَ بِحَقِّ الْمَلِكِ الْمُوَكَّلِ عَلَيْكَ كَسْفِيَانِيلَ الَّذِي تَسْرَعُ فِي خِدْمَتِهِ وَبِحَقِّ ازَالِيزِ ازَالِيزِ تَقِشْ تَقِشْ هَلْشَمِلْ هَلْشَمِلْ كَلْشَطْ كَلْشَطْ كَشْلَطَاشْ كَشْلَطَاشْ كَلْشَةَ كَلْشَةَ لَطَهْ لَطَهْ لَفْعَامْ لَفْعَامْ شَفْلَمِيصْ شَفْلَمِيصْ شَمْفَلِيصْ شَمْفَلِيصْ عِلْشَاقِشْ عِلْشَاقِشْ
+
+**LAT:** ajib yā Abā Nūkha bi-ḥaqqi al-maliki al-muwakkali ‘alayka Kasfiyānīla alladhī tasra‘u fī khidmatihi wa-bi-ḥaqqi azālīz azālīz taqish taqish halshamil halshamil kalshaṭ kalshaṭ kashlaṭāsh kashlaṭāsh kalshah kalshah laṭah laṭah laf‘ām laf‘ām shaflamīṣ shaflamīṣ shamfalīṣ shamfalīṣ ‘ilshāqish ‘ilshāqish
+
+**ID:** “Jawablah, wahai «Abā Nūkh», dengan hak raja yang ditugaskan atasmu, Kasfiyānīl, yang engkau bersegera dalam pelayanannya, dan dengan hak «azālīz azālīz taqish taqish halshamil halshamil kalshaṭ kalshaṭ kashlaṭāsh kashlaṭāsh kalshah kalshah laṭah laṭah laf‘ām laf‘ām shaflamīṣ shaflamīṣ shamfalīṣ shamfalīṣ ‘ilshāqish ‘ilshāqish»…” (berlanjut ke halaman 389).
+
+**Keterangan sambungan.** Kalimat terakhir halaman ini adalah deret thilasm yang berakhir pada halaman ini; teks «قسم الملك ابا نوخ» berlanjut di halaman 389.
+
+**[TIDAK JELAS - HALAMAN 388]** (1) **Angka wafaq 4×4 tidak diklaim**: seluruh sel diawali «١٩١٨» tetapi dua angka terakhir tiap kotak tidak dapat dipastikan dari citra scan; angka sebenarnya dapat dibaca langsung pada rajah terlampir. (2) Deret angka pada lapisan rajah bundar dan pada empat kotak sudut sangat rapat dan sebagian saling menimpa; **tidak ada angka yang diklaim** dari lapisan-lapisan tersebut. (3) Seluruh deret thilasm pada «قسم الملك ابا نوخ» («ازَالِيزِ…»، «تَقِشْ…»، «كَشْلَطَاشْ…»، «شَفْلَمِيصْ…») tercetak tanpa vokalisasi; **[TEKS ASLI DIJAGA]** dan tidak diterka maknanya. (4) Tulisan tepi bingkai kanan dan kiri terpotong; tidak ditranskripsi utuh. (5) Keterangan sumber «ص٣٣٦» (Kitab Ḍiyā’ al-Ṣāliḥīn halaman 336) disalin persis dari scan.
+
+**[ADA RAJAH]** — 1 crop: `assets/rajah/sirrul-asrar/hal-388-rajah-01.jpg`
