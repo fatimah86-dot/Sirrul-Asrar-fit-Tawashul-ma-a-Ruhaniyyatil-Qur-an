@@ -10586,3 +10586,411 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 **[ADA RAJAH]** — 2 crop: `assets/rajah/sirrul-asrar/hal-468-rajah-01.png` (700 DPI, Rect(34, 167, 502, 477)) dan `hal-468-rajah-02.png` (700 DPI, Rect(138, 551, 475, 623)).
 
 ---
+## HALAMAN 469 — «(( محبه ))» (tiga lilin + Yāsīn ٧× & «مبين» ٧×) + «(( محبه للاسم ودود ))» (٦٠.٠٠٠× «ودود» + ٢٠ butir gandum) + «(( لأخراج القرعه والدخول على الحكام ))» + «لتحير السارق»
+
+**AR:** كِتَابُ سِرِّ الْاَسْرَارِ فِي التَّوَاصُلِ مَعَ رُوحَانِيَّاتِ الْقُرْآنِ — شَيْخُ الرُّوحَانِيِّينَ الشَّيْخُ عَطِيَّةُ عَبْدُ الْحَمِيْدِ
+
+**LAT:** kitābu sirri al-asrāri fī al-tawāṣuli ma‘a rūḥāniyyāti al-qur’āni — shaykhu al-rūḥāniyyīna al-shaykhu ‘Aṭiyyatu ‘Abdu al-Ḥamīdi
+
+**ID:** “Kitab «Sirr al-Asrār fī al-Tawāṣul ma‘a Rūḥāniyyāt al-Qur’ān» — Syaikh para ruhaniyyin, Syaikh ‘Aṭiyyah ‘Abd al-Ḥamīd.” (Kepala halaman.)
+
+**AR:** (( مَحَبَّه ))
+
+**LAT:** (( maḥabbah ))
+
+**ID:** “**(( Cinta ))**” — judul dengan **kurung ganda**, ciri khas judul pada bagian ini.
+
+**AR:** تَاْخُذُ عَلٰى بَرَكَةِ اللهِ **ثَلَاثَ شَمَعَاتٍ**، وَتُكْتَبُ عَلَى الْاُوْلٰى هَذِهِ الْايَاتُ وَهِىَ: «**نَارُ اللهِ الْمُوْقَدَةُ (٦) الَّتِىْ تَطَّلِعُ عَلَى الْاَفْئِدَةِ (٧)**» فِى قَلْبِ **كَذَا بِنْتِ كَذَا** نَارًا، (وَتَكْتُبُ عَلَى الثَّانِيَةِ) «**اِنَّهَا عَلَيْهِمْ مُؤْصَدَةٌ (٨) فِى عَمَدٍ مُمَدَّدَةٍ (٩)**»، ثُمَّ تَقْرَاُ **سُوْرَةَ يٰسٓ ٧ مَرَّاتٍ** وَاَنْتَ غَارِسٌ الشَّمْعَةَ، وَكُلَّمَا وَصَلْتَ اِلٰى **«مُبِيْنٍ»** تُكَرِّرُ **«مُبِيْنٍ» ٧ مَرَّاتٍ** وَتَنْفُخُ فِى قَعْرِهَا، ثُمَّ اَوْقِدِ الشَّمْعَةَ وَتَقْرَاُ السُّوْرَةَ عَلٰى تَمَامِهَا **٧ مَرَّاتٍ**.
+
+**LAT:** ta’khudhu ‘alā barakati allāhi thalātha shama‘ātin, wa-tuktabu ‘alā al-ūlā hādhihi al-āyātu wa-hiya: «nāru allāhi al-mūqadatu (6) allatī taṭṭali‘u ‘alā al-af’idati (7)» fī qalbi kadhā binti kadhā nāran, (wa-tuktabu ‘alā al-thāniyati) «innahā ‘alayhim mu’ṣadatun (8) fī ‘amadin mumaddadatin (9)», thumma taqra’u sūrata Yā Sīn 7 marrātin wa-anta ghārisun al-sham‘ata, wa-kullamā waṣalta ilā «mubīnin» tukarriru «mubīnin» 7 marrātin wa-tanfukhu fī qa‘rihā, thumma awqidi al-sham‘ata wa-taqra’u al-sūrata ‘alā tamāmihā 7 marrātin.
+
+**ID:** “**Engkau mengambil — dengan berkah Allah — tiga lilin**؛ **pada lilin pertama dituliskan ayat-ayat ini**, yaitu: «**Api Allah yang dinyalakan (٦), yang (senantiasa) naik ke atas hati (٧)**» — ke dalam **hati si Fulanah binti Fulanah**, sebagai **api**؛ (**pada lilin kedua dituliskan**): «**Sesungguhnya api itu ditutup rapat terhadap mereka (٨), (terikat) pada tiang-tiang yang panjang (٩)**»؛ kemudian **engkau membaca surah Yāsīn ٧×** sementara **engkau menancapkan lilin itu**؛ **setiap kali engkau sampai pada «مبين»**, engkau **mengulang «مبين» ٧×** dan **meniup ke dasar lilin**؛ lalu **nyalakan lilin itu** dan **bacalah surah itu sampai selesai ٧×**.”
+
+**AR:** وَتُصْبِحُ تَنْظُرُ بِمَصْلَحَتِهِ، اِذَا قُضِيَتْ كَانَ **ثَلَاثَةَ اَيَّامٍ**، وَاِذَا لَمْ تُقْضَ كَرَّرَ الْعَمَلَ — **ثَلَاثَةَ اَيَّامٍ … وَاللهُ الْهَادِى**.
+
+**LAT:** wa-tuṣbiḥu tanẓuru bi-maṣlaḥatihi, idhā quḍiyat kāna thalāthata ayyāmin, wa-idhā lam tuqḍa karrara al-‘amala — thalāthata ayyāmin … wa-allāhu al-hādī.
+
+**ID:** “**Dan pada pagi hari engkau melihat (hasilnya) sesuai keperluannya**؛ **jika sudah terlaksana**, itu (terjadi) dalam **tiga hari**؛ **jika belum terlaksana**, **ulangi amalan (itu)** — **tiga hari … dan Allah-lah Yang Memberi petunjuk**.”
+
+**AR:** (( مَحَبَّه لِلْاِسْمِ وَدُوْد ))
+
+**LAT:** (( maḥabbah lil-ismi wadūd ))
+
+**ID:** “**(( Cinta dengan Nama «Wadūd» ))**”
+
+**AR:** تَقْرَاُ اسْمَهُ تَعَالٰى **«وَدُوْد» سِتِّيْنَ اَلْفًا فِيْ ثَلَاثِ لَيَالٍ مُتَوَالِيَاتٍ**، كُلُّ لَيْلَةٍ **عِشْرُوْنَ اَلْفًا** عَلٰى **عِشْرِيْنَ حَبَّةً مِنَ الْقَمْحِ**، وَتُوْضَعُ الْحَبَّةُ مِنَ الْقَمْحِ فِىْ **فَمِكَ** وَتَقْرَاُ الْاَلْفَ، ثُمَّ اَوْضَعْهَا فِى **النَّارِ**، وَالْبَخُوْرُ **صَاعِدٌ وَهُوَ جَاوِى فَقَطْ**؛ اِقْرَاِ الدُّعَاءَ الْآتِى **مَرَّةً وَاحِدَةً**، ثُمَّ خُذْ حَبَّةً ثَانِيَةً وَاقْرَاِ الْاَلْفَ وَضَعْهَا فِى النَّارِ، وَاقْرَاِ الدُّعَاءَ اَيْضًا، وَهٰكَذَا حَتّٰى يَتِمَّ **الْعِشْرُوْنَ حَبَّةً** — **وَهٰذَا الدُّعَاءُ**:
+
+**LAT:** taqra’u ismahu ta‘ālā «wadūd» sittīna alfan fī thalāthi layālin mutawāliyātin, kullu laylatin ‘ishrūna alfan ‘alā ‘ishrīna ḥabbatan mina al-qamḥi, wa-tūḍa‘u al-ḥabbatu mina al-qamḥi fī famika wa-taqra’u al-alfa, thumma awḍi‘hā fī al-nāri, wa-al-bakhūru ṣā‘idun wa-huwa jāwī faqaṭ؛ iqra’i al-du‘ā’a al-ātī marratan wāḥidatan, thumma khudh ḥabbatan thāniyatan wa-iqra’i al-alfa wa-ḍa‘hā fī al-nāri, wa-iqra’i al-du‘ā’a ayḍan, wa-hākadhā ḥattā yatimm al-‘ishrūna ḥabbatan — wa-hādhā al-du‘ā’u:
+
+**ID:** “**Engkau membaca nama-Nya Ta‘ālā «Wadūd» enam puluh ribu kali dalam tiga malam berturut-turut**؛ **setiap malam dua puluh ribu kali** atas **dua puluh butir gandum**؛ **butir gandum diletakkan di mulutmu** dan engkau **membaca seribu (kali)**, lalu **letakkan ia di atas api**؛ **dupa yang dipakai hanya «jāwī»**. **Bacalah doa berikut satu kali**, lalu **ambil butir kedua** dan **baca seribu**, **letakkan di api**, dan **baca doa itu pula**؛ **begitu seterusnya sampai selesai dua puluh butir** — **dan inilah doanya**:”
+
+**AR:** «**بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيْمِ يَا وَدُوْد يَا وَدُوْد يَا وَدُوْد يَا ذَا الْعَرْشِ الْمَجِيْدِ يَا فَعَّالَ لِمَا يُرِيْدُ، اَنْتَ الَّذِيْ وَاَعْلَنْتَ سِرَّ الْمَحَبَّةِ وَالْمَوَدَّةِ فِيْ قُلُوْبِ اَهْلِ الْاَسْرَارِ، وَاَنْتَ الَّذِيْ اَكْمَلْتَ ذَوَاتِ الطَّالِبِيْنَ بِنُوْرِ الْاَنْوَارِ، وَتَجَلَّيْتَ بِالْعِزِّ الدَّائِمِ وَالنُّوْرِ الْقَائِمِ، فَاَصَابَ الْاَكْوَانَ وَخُلِقَتِ الْاَشْبَاحُ وَاُلِّفَتْ بَيْنَ الْاَرْوَاحِ. اَسْاَلُكَ اللّٰهُمَّ بِسِرِّ وَبِسِرْيَانَ وَوَدِّكَ وَحُبِّكَ فِيْ قُلُوْبِ اَنْبِيَائِكَ وَاَوْلِيَائِكَ وَاَصْفِيَائِكَ اَنْ تُلْقِيَ وُدَّكَ وَحُبَّكَ فِيْ قَلْبِىْ، وَاَنْ تُلْقِيَ مَحَبَّةَ كَذَا فِيْ قَلْبِ كَذَا كَمَا اَلْقَيْتَ الْوَحْيَ عَلٰى نَبِيِّكَ وَحَبِيْبِكَ مُحَمَّدٍ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، وَاَنْ تُسَخِّرَ لِىْ رُوحَانِيَّةَ هٰذَا الْاِسْمِ الشَّرِيْفِ يَا وَدُوْد، وَاَنْ تَجْعَلَ نَاصِيَتَهُمْ بِيَدِىْ. اَنْتَ عَلٰى كُلِّ شَيْءٍ قَدِيْرٌ وَبِالْاِجَابَةِ قَدِيْرٌ، اَجِيْبُوْا يَا رُوحَانِيَّةَ هٰذَا الْاِسْمِ الشَّرِيْفِ الْعَظِيْمِ وَهِمُّوْا بِقَضَاءِ حَاجَتِىْ وَبَلِّغُوْا اِرَادَتِىْ بِحَقِّ يَلَخْ يَلَخِى هَمْلُوْخِيْم اَجِيْبُوْا بِحَقِّ رَبًا وَاحِدًا فِى الْعَالَمِيْنَ**» — **تَمَّ**.
+
+**LAT:** «bismi allāhi al-raḥmāni al-raḥīmi yā wadūd yā wadūd yā wadūd yā dhā al-‘arshi al-majīdi yā fa‘‘āla limā yurīdu, anta alladhī wa-a‘lanta sirra al-maḥabbati wa-al-mawaddati fī qulūbi ahli al-asrāri, wa-anta alladhī akmalta dhawāti al-ṭālibīna bi-nūri al-anwāri, wa-tajallayta bi-al-‘izzi al-dā’imi wa-al-nūri al-qā’imi, fa-aṣāba al-akwāna wa-khuliqati al-ashbāḥu wa-ullifati bayna al-arwāḥi. as’aluka allāhumma bi-sirri wa-bi-siryāna wa-widdika wa-ḥubbika fī qulūbi anbiyā’ika wa-awliyā’ika wa-aṣfiyā’ika an tulqiya wuddaka wa-ḥubbaka fī qalbī, wa-an tulqiya maḥabbata kadhā fī qalbi kadhā kamā alqayta al-waḥya ‘alā nabiyyika wa-ḥabībika muḥammadin ṣallā allāhu ‘alayhi wa-sallama, wa-an tusakhkhira lī rūḥāniyyata hādhā al-ismi al-sharīfi yā wadūd, wa-an taj‘ala nāṣiyatahum bi-yadī. anta ‘alā kulli shay’in qadīrun wa-bi-al-ijābati qadīrun, ajībū yā rūḥāniyyata hādhā al-ismi al-sharīfi al-‘aẓīmi wa-himmū bi-qaḍā’i ḥājatī wa-ballighū irādatī bi-ḥaqqi yalakh yalakhi hamlūkhīm ajībū bi-ḥaqqi raban wāḥidan fī al-‘ālamīna» — tamma.
+
+**ID:** “«**Dengan nama Allah Yang Maha Pengasih dan Maha Penyayang: ya Wadūd, ya Wadūd, ya Wadūd, ya Pemilik ‘Arsy yang Mahamulia, ya Yang berbuat apa yang Dia kehendaki. Engkaulah yang menyatakan dan mengumumkan rahasia cinta dan kasih di dalam hati para ahli rahasia; Engkaulah yang menyempurnakan pribadi para pencari dengan cahaya segala cahaya; Engkau menampakkan diri dengan kemuliaan yang abadi dan cahaya yang tegak, sehingga segala wujud tertegun, jasad-jasad diciptakan, dan ruh-ruh dipersatukan. Aku memohon kepada-Mu, ya Allah, dengan rahasia «sirr» dan «siryān», dengan rasa cinta dan kasih-Mu di dalam hati para nabi, wali, dan orang-orang pilihan-Mu: karuniakanlah rasa cinta dan kasih-Mu ke dalam hatiku, dan letakkanlah cinta si Fulanah ke dalam hati si Fulan, sebagaimana Engkau menurunkan wahyu kepada nabi dan kekasih-Mu Muḥammad, ṣallallāhu ‘alaihi wa sallam; dan tundukkanlah bagiku ruhaniyyah nama yang mulia ini, ya Wadūd, serta jadikanlah ubun-ubun mereka di tanganku. Engkau Mahakuasa atas segala sesuatu dan Mahakuasa mengabulkan; jawablah, wahai ruhaniyyah nama yang mulia dan agung ini, dan bergegaslah memenuhi keperluanku serta sampaikan kehendakku dengan hak «يلخ يلخى هملوخيم» — jawablah dengan hak Tuhan yang Esa di seluruh alam**» — **selesai**.”
+
+**AR:** (( لِاَخْرَاجِ الْقُرْعَةِ وَالدُّخُوْلِ عَلَى الْحُكَّامِ ))
+
+**LAT:** (( li-akhrāji al-qur‘ati wa-al-dukhūli ‘alā al-ḥukkāmi ))
+
+**ID:** “**(( Untuk Mengeluarkan Undian (qur‘ah) dan Masuk Menghadap Para Penguasa ))**”
+
+**AR:** تَاْخُذُ **وَرَقَةً عَرْضَ سِنْتِي وَطُوْلَ عَشَرَةِ سِنْتِي**، يُكْتَبُ فِى الْجِهَةِ الْاُوْلٰى: «**٨١٨ ٣٣٣ ١١١١١١١ ٢٠١١٢٠ ١١٠٢**»، وَفِى الْجِهَةِ الثَّانِيَةِ: «**م ك ى ل ع ق م ك ي ل ع**»، وَبَعْدَ الْكِتَابَةِ يَضَعُهَا الطَّالِبُ **تَحْتَ لِسَانِهِ عِنْدَ الدُّخُوْلِ عَلَى الْحَاكِمِ**.
+
+**LAT:** ta’khudhu waraqatan ‘arḍa sintī wa-ṭūla ‘asharati sintī, yuktabu fī al-jihati al-ūlā: «818 333 1111111 201120 1102», wa-fī al-jihati al-thāniyati: «m k y l ‘ q m k y l ‘», wa-ba‘da al-kitābati yaḍa‘uhā al-ṭālibu taḥta lisānihi ‘inda al-dukhūli ‘alā al-ḥākimi.
+
+**ID:** “**Engkau mengambil kertas seukuran lebar «sintī» dan panjang sepuluh «sintī»**؛ **pada sisi pertama ditulis**: «**٨١٨ ٣٣٣ ١١١١١١١ ٢٠١١٢٠ ١١٠٢**»؛ **pada sisi kedua**: «**م ك ى ل ع ق م ك ي ل ع**»؛ **setelah ditulis**, **penuntut meletakkannya di bawah lidahnya ketika menghadap penguasa**.”
+
+**AR:** لِتَحْيِيْرِ السَّارِقِ
+
+**LAT:** li-taḥyīri al-sāriqi
+
+**ID:** “**Untuk Membingungkan Pencuri.**”
+
+**AR:** يُكْتَبُ وَيُعَلَّقُ فِى الْهَوَاءِ فِى الْمَكَانِ الَّذِىْ نَزَلَ بِهِ **الضَّرَرُ اَوِ السَّرِقَةُ**، **وَهٰذَا مَا يُكْتَبُ وَيُعَلَّقُ**، **وَالتَّوْكِيْلُ حَوْلَهُ** — **tidak dicetak pada halaman ini; ṭilasmnya berlanjut di halaman berikutnya.**
+
+**LAT:** yuktabu wa-yu‘allaqu fī al-hawā’i fī al-makāni alladhī nazala bihi al-ḍararu awi al-sariqatu, wa-hādhā mā yuktabu wa-yu‘allaqu, wa-al-tawkīlu ḥawlahu — lā yudba‘u fī hādhihi al-ṣafḥati; ṭilasmuhu yukmilu fī al-ṣafḥati al-tāliyati.
+
+**ID:** “**Dituliskan dan digantung di udara, di tempat terjadinya kerugian atau pencurian**؛ **dan inilah yang ditulis dan digantung**, serta **tawkil di sekelilingnya** — **tidak tercetak pada halaman ini; ṭilasmnya berlanjut di halaman berikutnya**.”
+
+**Keterangan halaman.** Empat bagian: (1) **«(( محبه ))»** — **tiga lilin**; pada lilin pertama **Q.S. al-Humazah 104:6–7** dan pada lilin kedua **ayat 8–9** surah yang sama, dengan **Yāsīn ٧×**, **«مبين» ٧×** tiap kali, **ditiup ke dasar lilin**, **dinyalakan**, dan **Yāsīn dibaca ٧× sampai selesai**؛ hasil **dilihat pada pagi hari**, dievaluasi **tiga hari**؛ (2) **«(( محبه للاسم ودود ))»** — **«ودود» ٦٠.٠٠٠×** dalam **tiga malam** (**٢٠.٠٠٠** per malam) atas **٢٠ butir gandum**, butir di **mulut**, **seribu bacaan per butir**, lalu **dibakar**, dupa **jāwī saja**, disertai **doa panjang**؛ (3) **«(( لأخراج القرعه والدخول على الحكام ))»** — kertas **selebar «sintī» dan panjang ١٠ «sintī»**, angka di satu sisi dan huruf «م ك ى ل ع ق م ك ي ل ع» di sisi lain, **diletakkan di bawah lidah**؛ (4) **«لتحير السارق»** — ṭilasm digantung **di tempat kejadian**, **berlanjut ke halaman 470**.
+
+**Angka pada halaman ini.** **٧×** (Yāsīn) dan **٧×** («مبين») — **cocok** antara lapisan teks dan pindaian. **٦٠.٠٠٠ / ٢٠.٠٠٠ / ٢٠ butir / ١٠ sintī** — ditulis **dengan kata** («ستين ألف»، «عشرون ألف»، «عشرين حبة»، «عشرة سنتي»). **Deret pada bagian qur‘ah** — lapisan teks mengekstrak **«٠٢١١٠٢»**; **pindaian 900 DPI (Rect(120, 550, 400, 610))** menunjukkan **«٢٠١١٢٠»** → **dikoreksi** (lapisan teks **membalik urutan**). Kelompok lain (**٨١٨ ٣٣٣ ١١١١١١١ ١١٠٢**) **cocok**.
+
+**[TIDAK ADA RAJAH - TERVERIFIKASI DARI GAMBAR SCAN]** — `get_image_info()` = `[]` dan `get_drawings()` = 2 (hanya garis bingkai teks); halaman ini **teks saja**. ṭilasm «لتحير السارق» yang dijanjikan **belum dicetak** dan **baru muncul di p.470**.
+
+**[TIDAK JELAS - HALAMAN 469]** (1) **«لِاَخْرَاجِ الْقُرْعَةِ»** — kata **«القرعة»** (undian) **tidak dijelaskan** dalam teks؛ **dipertahankan, tidak ditafsirkan**. (2) **«عَرْضَ سِنْتِي وَطُوْلَ عَشَرَةِ سِنْتِي»** — **satuan «سنتي»** (kemungkinan **sentimeter**, atau **“sinti”** = ukuran lokal) **tidak diterangkan**؛ **dipertahankan** dan **diberi catatan** di sini. (3) **«اَنْتَ الَّذِيْ وَاَعْلَنْتَ»** — **kelebihan «و»** pada cetakan؛ **dicatat, tidak diperbaiki**. (4) **«فَاَصَابَ الْاَكْوَانَ»** — susunan **tidak lazim** (mungkin «فأصاب الأكوانَ [الذهولُ]»)؛ **dipertahankan**. (5) **«بِسِرِّ وَبِسِرْيَانَ»** — **«سريان»** nama/istilah **tidak dijelaskan**؛ disalin literal. (6) **«يَلَخْ يَلَخِى هَمْلُوْخِيْم»** — **tanpa vokal lengkap**؛ disalin literal dan ditandai. (7) **«وَتُصْبِحُ تَنْظُرُ بِمَصْلَحَتِهِ»** — **dhamīr** tidak jelas؛ dipertahankan. (8) **«ثَلَاثَةَ اَيَّامٍ … ثَلَاثَةَ اَيَّامٍ»** — **pengulangan cetakan** pada dua kalimat berurutan؛ **dicatat, tidak diperbaiki**. (9) **«وَالْبُخُورُ صَاعِدٌ»** — **susunan janggal**؛ dipertahankan. (10) **Urutan kelompok angka pada bagian qur‘ah** (٨١٨ / ٣٣٣ / ١١١١١١١ / ٢٠١١٢٠ / ١١٠٢) — **selain** angka «٢٠١١٢٠» yang dikonfirmasi 900 DPI, **urutan dan jumlah digit tiap kelompok** dibaca dari **baris yang terlipat pada pindaian** sehingga **perkiraan**; **[TEKS ASLI DIJAGA]**, tidak ada digit yang ditambahkan.
+
+**Peringatan (dicatat apa adanya, bukan fatwa).** Bagian pertama dan kedua memakai **ayat tentang api neraka** (al-Humazah) yang **dituliskan pada lilin** dan **dibacakan** dengan tujuan **menyalakan “api” cinta/paksaan** pada seseorang, serta **membakar butir gandum** yang telah dibacakan; bagian keempat bertujuan **membingungkan pencuri** dengan azimat. Teks ditranskripsikan sesuai cetakan; semua itu **bukan bagian dari ajaran Islam**.
+
+---
+## HALAMAN 470 — ṭilasm «لتحير السارق» (gambar, sambungan p.469) + «جلب على بيضتين» (dua telur, Q.S. Saba’ 34:12–14) + «لرجوع الزوج لزوجته» (segitiga pada pecahan tembikar)
+
+**AR:** كِتَابُ سِرِّ الْاَسْرَارِ فِي التَّوَاصُلِ مَعَ رُوحَانِيَّاتِ الْقُرْآنِ — شَيْخُ الرُّوحَانِيِّينَ الشَّيْخُ عَطِيَّةُ عَبْدُ الْحَمِيْدِ
+
+**LAT:** kitābu sirri al-asrāri fī al-tawāṣuli ma‘a rūḥāniyyāti al-qur’āni — shaykhu al-rūḥāniyyīna al-shaykhu ‘Aṭiyyatu ‘Abdu al-Ḥamīdi
+
+**ID:** “Kitab «Sirr al-Asrār fī al-Tawāṣul ma‘a Rūḥāniyyāt al-Qur’ān» — Syaikh para ruhaniyyin, Syaikh ‘Aṭiyyah ‘Abd al-Ḥamīd.” (Kepala halaman.)
+
+**Rajah:** ![Rajah hal. 470 — ṭilasm «لتحير السارق» (sambungan p.469): kotak bergaris ganda memuat tulisan «ومن اراد الخروج لاعدو له عدة / وان لم يعلم فبسطهم وقيل / اقعدوا مع القاعدين»، bentuk segitiga bersilang bertulisan tangan, dan dua baris huruf «ق ف ت / ق ف ت» berulang](../assets/rajah/sirrul-asrar/hal-470-rajah-01.png)
+
+**AR:** (تَكْمِلَةُ «لِتَحْيِيْرِ السَّارِقِ» مِنْ ص ٤٦٩) فِى الْاِعْلٰى كِتَابَةٌ: «**وَمَنْ اَرَادَ الْخُرُوْجَ لِعَدُوٍّ لَهُ عُدَّةٌ، وَاِنْ لَمْ يَعْلَمْ فَبَسَطَهُمْ وَقِيْلَ: اقْعُدُوْا مَعَ الْقَاعِدِيْنَ**»؛ وَفِى الْوَسَطِ **مُثَلَّثَانِ مُتَقَاطِعَانِ** كَنَجْمَةٍ بِخُطُوْطٍ يَدَوِيَّةٍ تُشْبِهُ الْحُرُوْفَ؛ وَتَحْتَهُمَا سَطْرَانِ «**ق ف ت ق ف ت ق ف ت**» وَ«**ق ف ت ق ف ت ق ف ت**» (تَقْرِيْبًا).
+
+**LAT:** (takmilatu «li-taḥyīri al-sāriqi» min ṣ 469) fī al-a‘lā kitābatun: «wa-man arāda al-khurūja li-‘aduwwin lahu ‘uddatun, wa-in lam ya‘lam fa-basaṭahum wa-qīla: iq‘udū ma‘a al-qā‘idīna»؛ wa-fī al-wasaṭi muthallathāni mutaqāṭi‘āni ka-najmatin bi-khuṭūṭin yadawiyyatin tushbihu al-ḥurūfa؛ wa-taḥtahumā saṭrāni «q f t q f t q f t» wa-«q f t q f t q f t» (taqrīban).
+
+**ID:** “**(Pelengkap «untuk membingungkan pencuri» dari p.469)**: di **bagian atas** ada tulisan: «**Dan siapa yang ingin keluar menghadapi musuhnya, ada persiapan baginya; dan jika ia tidak tahu, maka (datanglah) kepada mereka, dan dikatakan: duduklah bersama orang-orang yang duduk**»؛ di **tengah** ada **dua segitiga bersilang** seperti **bintang** dengan **garis tulisan tangan menyerupai huruf**؛ di bawahnya **dua baris** «**ق ف ت ق ف ت ق ف ت**» (perkiraan).”
+
+**AR:** جَلْبٌ عَلٰى بَيْضَتَيْنِ
+
+**LAT:** jalbu ‘alā bayḍatayni
+
+**ID:** “**Penarikan (jalb) dengan Dua Telur.**” (Judul bagian kedua.)
+
+**AR:** يُكْتَبُ يَوْمَ **السَّبْتِ** وَيُكْتَبُ هَذَا الطِّلَسْمُ عَلَى **الْبَيْضَةِ الْاُوْلٰى**:
+
+**LAT:** yuktabu yawma al-sabti wa-yuktabu hādhā al-ṭilasmu ‘alā al-bayḍati al-ūlā:
+
+**ID:** “**Dituliskan pada hari Sabtu**؛ dan **ṭilasm ini dituliskan pada telur pertama**:”
+
+**Rajah:** ![Rajah hal. 470 — ṭilasm telur pertama: satu baris angka tulisan tangan «٥ ٢ ٦ ٨ ٥ ١٤ ١١ ٤ ٣ ١ ١» di atas garis mendatar dengan ujung berkait](../assets/rajah/sirrul-asrar/hal-470-rajah-02.png)
+
+**AR:** (طِلَسْمُ الْبَيْضَةِ الْاُوْلٰى) سَطْرٌ وَاحِدٌ يَدَوِىٌّ عَلٰى خَطٍّ اُفُقِىٍّ: «**٥ ٢ ٦ ٨ ٥ ١٤ ١١ ٤ ٣ ١ ١**» تَقْرِيْبًا، يَنْتَهِيْ فِى الْيَسَارِ بِخَطٍّ مُنْعَقِفٍ.
+
+**LAT:** (ṭilāsmu al-bayḍati al-ūlā) saṭrun wāḥidun yadawiyyun ‘alā khaṭṭin ufuqiyyin: «5 2 6 8 5 14 11 4 3 1 1» taqrīban, yantahī fī al-yasāri bi-khaṭṭin mun‘aqifin.
+
+**ID:** “**(Ṭilasm telur pertama)**: **satu baris tulisan tangan** di atas **garis mendatar**: «**٥ ٢ ٦ ٨ ٥ ١٤ ١١ ٤ ٣ ١ ١**» (perkiraan), berakhir di **kiri** dengan **garis tertekuk**.”
+
+**AR:** «**مَرَجَ الْبَحْرَيْنِ يَلْتَقِيَانِ**» — اَيُّهَا الْاَرْوَاحُ الْقَوَا مَحَبَّةَ **فُلَانٍ ابْنِ فُلَانَةَ** فِىْ قَلْبِ **فُلَانَةَ بِنْتِ فُلَانَةَ** كَمَا تَلْتَقِيَانِ الْبَيْضَتَانِ، وَاجْمَعُوْا بَيْنَهُمْ كَمَا جَمَعْتُ بَيْنَ الْبَيْضَتَيْنِ — **اَلْوَحَا الْعَجَلَ السَّاعَةَ**.
+
+**LAT:** «maraja al-baḥrayni yaltaqiyāni» — ayyuhā al-arwāḥu alqaw maḥabbata fulānin ibni fulānata fī qalbi fulānata binti fulānata kamā taltaqiyāni al-bayḍatāni, wa-ijma‘ū baynahum kamā jama‘tu bayna al-bayḍatayni — al-waḥā al-‘ajala al-sā‘ata.
+
+**ID:** “«**Dua laut yang bertemu**» — **wahai ruh-ruh, lemparkanlah cinta Fulan bin Fulanah ke dalam hati Fulanah binti Fulanah sebagaimana kedua telur ini bertemu, dan satukanlah mereka sebagaimana aku menyatukan kedua telur** — **al-waḥā, al-‘ajal, al-sā‘ah**.”
+
+**AR:** وَيُكْتَبُ عَلَى **الْبَيْضَةِ الثَّانِيَةِ** هَذَا الطِّلَسْمُ:
+
+**LAT:** wa-yuktabu ‘alā al-bayḍati al-thāniyati hādhā al-ṭilasmu:
+
+**ID:** “**Dan pada telur kedua dituliskan ṭilasm ini**:”
+
+**Rajah:** ![Rajah hal. 470 — ṭilasm telur kedua: dua baris panjang angka dan huruf tulisan tangan («٩ ٩ ٩ ٩ ٥ ١ ٨ ٨ ٨ ١ ١» dsb.) di atas garis mendatar](../assets/rajah/sirrul-asrar/hal-470-rajah-03.png)
+
+**AR:** (طِلَسْمُ الْبَيْضَةِ الثَّانِيَةِ) سَطْرَانِ طَوِيْلَانِ: الْاَوَّلُ «**٣ ١ ٢ ٤ ١ ١ ٨ ٤ ٦ ٦ ١ ١ ٣ ٥ ٥ ٥ ٩ ٩ ٨ ١ ٤ ٥ ٨ ٣ ١ ١ ١ ٣ ١ ٩**» تَقْرِيْبًا، وَالثَّانِى «**٩ ٨ ١ ١ ٩ ٩ ٥ ١ ١ ٩ ٩ ٩ ٩ ١ ٨ ٨ ٨ ١ ١ ٩**» تَقْرِيْبًا.
+
+**LAT:** (ṭilāsmu al-bayḍati al-thāniyati) saṭrāni ṭawīlāni: al-awwalu «3 1 2 4 1 1 8 4 6 6 1 1 3 5 5 5 9 9 8 1 4 5 8 3 1 1 1 3 1 9» taqrīban, wa-al-thāni «9 8 1 1 9 9 5 1 1 9 9 9 9 1 8 8 8 1 1 9» taqrīban.
+
+**ID:** “**(Ṭilasm telur kedua)**: **dua baris panjang**: baris ١ «**٣ ١ ٢ ٤ ١ ١ ٨ ٤ ٦ ٦ ١ ١ ٣ ٥ ٥ ٥ ٩ ٩ ٨ ١ ٤ ٥ ٨ ٣ ١ ١ ١ ٣ ١ ٩**» (perkiraan)، baris ٢ «**٩ ٨ ١ ١ ٩ ٩ ٥ ١ ١ ٩ ٩ ٩ ٩ ١ ٨ ٨ ٨ ١ ١ ٩**» (perkiraan).”
+
+**AR:** وَالتَّوْكِيْلُ، وَاَوْضَعُ الْبَيْضَتَيْنِ عَلَى الْاَرْضِ وَتَفْصِلُ بَيْنَهُمَا **الْمَسَافَةُ شِبْرٌ**، وَاَتْلُ الْعَزِيْمَةَ حَتّٰى يَجْتَمِعَا عَلٰى بَعْضٍ — **وَهٰذِهِ عَلَامَةُ الْاِجَابَةِ** — **وَهٰذِهِ الْعَزِيْمَةُ**:
+
+**LAT:** wa-al-tawkīlu, wa-awḍa‘u al-bayḍatayni ‘alā al-arḍi wa-tafṣilu baynahumā al-masāfatu shibrun, wa-atlu al-‘azīmata ḥattā yajtami‘ā ‘alā ba‘ḍin — wa-hādhihi ‘alāmata al-ijābati — wa-hādhihi al-‘azīmatu:
+
+**ID:** “**Dan (lakukan) tawkil**؛ **aku meletakkan kedua telur di tanah** dan **jarak antara keduanya sejengkal (shibr)**؛ lalu **bacalah ‘azīmah itu sampai keduanya bersatu** — **dan itulah tanda terkabulnya** — **dan inilah ‘azīmahnya**:”
+
+**AR:** «**بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيْمِ: وَقَدَّرْنَا فِيْهَا السَّيْرَ سِيْرُوْا فِيْهَا لَيَالِىَ وَاَيَّامًا اٰمِنِيْنَ، وَلَقَدْ فَتَنَّا سُلَيْمَانَ وَاَلْقَيْنَا عَلٰى كُرْسِيٍّ جَسَدًا ثُمَّ اَنَابَ**» — **اِلٰى آخِرِ الْايَةِ — مُجَرَّبٌ وَصَحِيْحٌ**.
+
+**LAT:** «bismi allāhi al-raḥmāni al-raḥīmi: wa-qaddarnā fīhā al-sayra sīrū fīhā layāliya wa-ayyāman āminīna, wa-laqad fatannā sulaymāna wa-alqaynā ‘alā kursiyyin jasadan thumma anāba» — ilā ākhiri al-āyati — mujarrabun wa-ṣaḥīḥun.
+
+**ID:** “«**Dengan nama Allah Yang Maha Pengasih dan Maha Penyayang: Dan Kami tetapkan perjalanan di dalamnya; berjalanlah di dalamnya beberapa malam dan hari dengan aman. Dan sungguh Kami telah menguji Sulaimān dan Kami letakkan di atas kursinya sesosok jasad, kemudian ia kembali**» — **sampai akhir ayat — (amalan ini) sudah dicoba dan sahih**.” (**Q.S. Saba’ 34:12–14**.)
+
+**AR:** لِرُجُوْعِ الزَّوْجِ لِزَوْجَتِهِ
+
+**LAT:** li-rujū‘i al-zawji li-zawjatihi
+
+**ID:** “**Untuk Kembalinya Suami kepada Istri.**” (Judul bagian ketiga.)
+
+**AR:** يُنْقَشُ **مُثَلَّثٌ قَاهِرٌ** عَلٰى **شَقَفَةٍ نِيَّةٍ** اَوْ **نُحَاسَةٍ حَمْرَاءَ**، وَالتَّوْكِيْلُ حَوْلَهُ، وَيُوْضَعُ عَلَى **الْمِبْخَرَةِ** فِى **النَّارِ**، وَالْبَخُوْرُ **صَنْدَلٌ وَجَاوِى وَمَسْتَكَةٌ**، وَيُتْلٰى عَلَيْهِ الْاِسْمُ عِدَّةً **وَهُوَ ٣٠٦ فِىْ ٣ كُلَّ (مَرَّةٍ) وَاللهُ اَعْلَمُ**.
+
+**LAT:** yunqashu muthallathun qāhirun ‘alā shaqafatin niyyatin aw nuḥāsatin ḥamrā’a, wa-al-tawkīlu ḥawlahu, wa-yūḍa‘u ‘alā al-mibkharati fī al-nāri, wa-al-bakhūru ṣandalun wa-jāwī wa-mastakatun, wa-yutlā ‘alayhi al-ismu ‘iddatan wa-huwa 306 fī 3 kulla (marratin) wa-allāhu a‘lamu.
+
+**ID:** “**Sebuah «segitiga penakluk» (muthallath qāhir) dipahat pada pecahan tembikar baru atau tembaga merah**؛ **tawkil di sekelilingnya**؛ lalu **diletakkan di atas bakhur di dalam api**؛ **dupanya: cendana, jāwī, dan mastakī (damar)**؛ **nama itu dibacakan berkali-kali, yaitu ٣٠٦ dalam tiga kali setiap (pembacaan)** — **dan Allah lebih mengetahui**.”
+
+**Keterangan halaman.** (1) **Gambar ṭilasm «لتحير السارق»** — pelengkap janji **p.469**: tulisan «ومن اراد الخروج لعدو…» + **dua segitiga bersilang** + dua baris hukum **«ق ف ت»** berulang؛ (2) **«جلب على بيضتين»** — ditulis **Sabtu**, ṭilasm pada **telur pertama** dan **telur kedua**, dengan **«مرج البحرين يلتقيان»**, **kedua telur diletakkan di tanah berjarak sejengkal** sampai **bersatu** = **tanda terkabul**؛ **‘azīmah** = **Q.S. Saba’ 34:12–14**؛ (3) **«لرجوع الزوج لزوجته»** — **segitiga penakluk** dipahat pada **pecahan tembikar/tembaga merah**, dupa **cendana + jāwī + mastakī**, **nama dibaca ٣٠٦× tiga kali**.
+
+**Angka pada halaman ini.** Lapisan teks mengekstrak **«٦٠٣»** — **pindaian 800 DPI (Rect(80, 660, 505, 700))** membaca **«٣٠٦»** → **dikoreksi** menjadi **٣٠٦** (lapisan teks membalik urutan angka). **٣** («في ٣ كل») cocok. **Angka pada kedua ṭilasm telur** adalah **tulisan tangan** → **perkiraan**؛ **bukan wafaq** sehingga **tidak ada uji penjumlahan**.
+
+**[TIDAK JELAS - HALAMAN 470]** (1) **Seluruh deret angka pada rajah-02 dan rajah-03** — **tulisan tangan berimpit**؛ **[TEKS ASLI DIJAGA]** dan pembacaan ditandai **perkiraan**. (2) **Isi garis-garis dalam dua segitiga rajah-01** — **tidak terbaca** sebagai kata؛ hanya bentuk dideskripsikan. (3) **Dua baris «ق ف ت»** — **perkiraan** (bisa «ق ق ت» atau «ق ف ت»). (4) **«شَقَفَةٍ نِيَّةٍ»** — kata **«نية»** di sini **tidak lazim** (kemungkinan **«ندية»/baru**); **dipertahankan** dan **tidak ditafsirkan**. (5) **«مُثَلَّثٌ قَاهِرٌ»** — **bentuk segitiganya tidak dicetak** pada halaman ini؛ hanya namanya؛ ditandai. (6) **«وَاللهُ اَعْلَمُ»** pada akhir — **tambahan penyusun**, bukan bagian amalan؛ dipertahankan posisinya. (7) **«عِدَّةً وَهُوَ ٣٠٦ فِيْ ٣ كُلَّ»** — **susunan terpotong**؛ dipertahankan sebagaimana cetak dan dijelaskan sebagai **٣٠٦ bacaan, diulang tiga kali**.
+
+**Peringatan (dicatat apa adanya, bukan fatwa).** Bagian kedua memakai **dua telur yang “disatukan”** sebagai tanda keberhasilan pemaksaan cinta, dan bagian ketiga memakai **pahatan pada tembaga/pecahan tembikar yang dibakar di atas bara** untuk **memulangkan suami**. Teks ditranskripsikan sesuai cetakan; semua itu **bukan bagian dari ajaran Islam**.
+
+**[ADA RAJAH]** — 3 crop: `assets/rajah/sirrul-asrar/hal-470-rajah-01.png` (700 DPI, Rect(126, 69, 487, 306)), `hal-470-rajah-02.png` (700 DPI, Rect(153, 346, 461, 408)), `hal-470-rajah-03.png` (700 DPI, Rect(115, 467, 498, 557)).
+
+---
+## HALAMAN 471 — «الخاتم» (wafaq ٣×٣) + «عقد نوم ومحبة» (Q.S. al-Muzzammil 73:20, ١٠٠٠×) + «فائدة للمحبة مجربة ليس لها نظير» (gula + asmā’ «ملکش ٣ بلکش ٣ عطوف ٣»)
+
+**AR:** كِتَابُ سِرِّ الْاَسْرَارِ فِي التَّوَاصُلِ مَعَ رُوحَانِيَّاتِ الْقُرْآنِ — شَيْخُ الرُّوحَانِيِّينَ الشَّيْخُ عَطِيَّةُ عَبْدُ الْحَمِيْدِ
+
+**LAT:** kitābu sirri al-asrāri fī al-tawāṣuli ma‘a rūḥāniyyāti al-qur’āni — shaykhu al-rūḥāniyyīna al-shaykhu ‘Aṭiyyatu ‘Abdu al-Ḥamīdi
+
+**ID:** “Kitab «Sirr al-Asrār fī al-Tawāṣul ma‘a Rūḥāniyyāt al-Qur’ān» — Syaikh para ruhaniyyin, Syaikh ‘Aṭiyyah ‘Abd al-Ḥamīd.” (Kepala halaman.)
+
+**AR:** لَيْلَةً مَرَّةً **مُدَّةَ ٣ لَيَالٍ**، فَاِنَّ الْمَطْلُوْبَ **يُقْهَرُ بِمَحَبَّةِ طَالِبَةٍ وَيَعُوْدُ اِلَيْهِ وَاِلٰى مَحَبَّتِهِ لَهَا** — **وَهٰذَا الْخَاتَمُ**:
+
+**LAT:** laylatan marratan muddata 3 layālin, fa-inna al-maṭlūba yuqharu bi-maḥabbati ṭālibatin wa-ya‘ūdu ilayhi wa-ilā maḥabbatiHI lahā — wa-hādhā al-khātamu:
+
+**ID:** “**Satu malam sekali, selama ٣ malam**؛ maka **orang yang diminta akan ditundukkan oleh cinta si peminta dan kembali kepadanya serta kepada cintanya** — **dan inilah «cincin» (al-khātam)**:”
+
+**Rajah:** ![Rajah hal. 471 — «الخاتم»: tabel ٣×٣ berisi angka tulisan tangan (١٠١، ١٠٦، ٩٩ / ١٠٢، ١٠٥، ١٠٣ / ١٠٥، ٩٨، ١٠٤), dengan huruf-huruf di keempat sudut luar bingkai](../assets/rajah/sirrul-asrar/hal-471-rajah-01.png)
+
+**AR:** (وَصْفُ الْخَاتَمِ) جَدْوَلٌ **٣ × ٣** بِخَطٍّ يَدَوِىٍّ رَقِيْقٍ، وَفِىْ زَوَايَاهُ الْخَارِجِيَّةِ حُرُوْفٌ مُفْرَدَةٌ («**م**»، «**هـ**»، «**ى**» وَنَحْوُهَا). وَقِرَاءَةُ الْخَلَايَا (مِنَ الْيَمِيْنِ اِلَى الْيَسَارِ كَمَا تُرَى):
+
+- الصَّفُّ ١: «**٩٩**» | «**١٠٦**» | «**١٠١**»
+- الصَّفُّ ٢: «**١٠٣**» | «**١٠٥**» | «**١٠٢**»
+- الصَّفُّ ٣: «**١٠٤**» | «**٩٨**» | «**١٠٥**»
+
+**LAT:** (waṣfu al-khātami) jadwalun 3 × 3 bi-khaṭṭin yadawiyyin raqīqin, wa-fī zawāyāhu al-khārijiyyati ḥurūfun mufradatun («m», «h», «y» wa-naḥwuhā). Wa-qirā’atu al-khalāyā (mina al-yamīni ilā al-yasāri kamā turā): al-ṣaffu 1 «99» | «106» | «101»؛ 2 «103» | «105» | «102»؛ 3 «104» | «98» | «105»
+
+**ID:** “**(Deskripsi «al-khātam»)**: tabel **٣×٣** bertulisan tangan halus, dan pada **sudut-sudut luarnya** ada **huruf tunggal** («**م**»، «**هـ**»، «**ى**» dan sejenisnya). **Pembacaan sel** (dari kanan ke kiri sebagaimana terlihat): **baris ١** «٩٩ | ١٠٦ | ١٠١»؛ **baris ٢** «١٠٣ | ١٠٥ | ١٠٢»؛ **baris ٣** «١٠٤ | ٩٨ | ١٠٥».”
+
+**AR:** اَجِيْبُوْ يَا خُدَّامَ هٰذَا الِاسْمِ الْعَظِيْمِ، وَاجْلِبُوْا وَهَيِّجُوْا وَاقْهَرُوْا **فُلَانَ ابْنَ فُلَانَةَ** بِمَحَبَّةِ **فُلَانَةَ بِنْتِ فُلَانَةَ**، وَلَا تَحِلُّوْا عَنْهُ حَتّٰى **يَاْتِىَ اِلَيْهَا خَاضِعًا** — **اَلْوَحَا الْعَجَلَ السَّاعَةَ**.
+
+**LAT:** ajībū yā khuddāma hādhā al-ismi al-‘aẓīmi, wa-ijlibū wa-hayyijū wa-aqharū fulāna ibna fulānata bi-maḥabbati fulānata binti fulānata, wa-lā taḥillū ‘anhu ḥattā ya’tiya ilayhā khāḍi‘an — al-waḥā al-‘ajala al-sā‘ata.
+
+**ID:** “**Jawablah, wahai para pelayan nama yang agung ini; tarik, bangkitkan, dan tundukkan Fulan bin Fulanah dengan cinta Fulanah binti Fulanah, dan jangan berhenti darinya sampai ia datang kepadanya dalam keadaan tunduk** — **al-waḥā, al-‘ajal, al-sā‘ah**.”
+
+**AR:** عَقْدُ نَوْمٍ وَمَحَبَّةٍ
+
+**LAT:** ‘aqdu nawmin wa-maḥabbatin
+
+**ID:** “**Ikatan Tidur dan Cinta.**” (Judul bagian kedua.)
+
+**AR:** يُعْمَلُ عَلٰى **ثَلَاثِ لَيَالٍ**، وَبَخُوْرُهُ **اللُّبَانُ فَقَطْ**، وَمَوْعِدُهُ **مِنْ بَعْدِ الْعِشَاءِ**، وَاَصَحُّ اَوْقَاتِهِ **الثُّلُثُ الْاَخِيْرُ مِنَ اللَّيْلِ**. تَقْرَاُ «**لِمُقْفَنْجِلٍ كَانُوْا قَلِيْلًا مِنَ اللَّيْلِ مَا يَهْجَعُوْنَ**» **١٠٠٠ مَرَّةٍ**، وَالتَّوْكِيْلُ بَعْدَ كُلِّ **١٠٠** عَلَى النَّحْوِ التَّالِى: **بَعْدَ تَمَامِ كُلِّ ١٠٠ مَرَّةٍ مِنْ «لِمُقْفَنْجِلٍ كَانُوْا قَلِيْلًا مِنَ اللَّيْلِ مَا يَهْجَعُوْنَ» تَقُوْلُ**: «**كَذٰلِكَ لَا يَهْجَعُ فُلَانٌ ابْنُ فُلَانَةَ اَوْ فُلَانَةُ بِنْتُ فُلَانَةَ عَنْ مَحَبَّةِ فُلَانٍ ابْنِ فُلَانَةَ حَتّٰى يَاْتِىَ اَوْ تَاْتِىَ اِلٰى كَذَا خَاضِعَةً ذَلِيْلَةً، وَلَا تَغِيْبُ وَلَا تَغْفُلُ وَلَا تَنَامُ عَنْ مَحَبَّةِ فُلَانٍ طَرْفَةَ عَيْنٍ وَلَا اَقَلَّ مِنْ ذٰلِكَ بِحَقِّ ………… وَتُكْمِلُ ١٠٠ اُخْرٰى وَتُعِيْدُ حَتّٰى تَمَامِ ١٠٠٠ مَرَّةٍ**».
+
+**LAT:** yu‘malu ‘alā thalāthi layālin, wa-bakhūruhu al-lubānu faqaṭ, wa-maw‘iduhu min ba‘di al-‘ishā’i, wa-aṣaḥḥu awqātihi al-thuluthu al-akhīru mina al-layli. Taqra’u «li-muqfanjilin kānū qalīlan mina al-layli mā yahja‘ūna» 1000 marratan, wa-al-tawkīlu ba‘da kulli 100 ‘alā al-naḥwi al-tālī: ba‘da tamāmi kulli 100 marratin min «li-muqfanjilin kānū qalīlan mina al-layli mā yahja‘ūna» taqūlu: «kadhālika lā yahja‘u fulānun ibnu fulānata aw fulānatu bintu fulānata ‘an maḥabbati fulānin ibni fulānata ḥattā ya’tiya aw ta’tiya ilā kadhā khāḍi‘atan dhalīlatan, wa-lā taghību wa-lā taghfulu wa-lā tanāmu ‘an maḥabbati fulānin ṭarfata ‘aynin wa-lā aqalla min dhālika bi-ḥaqqi ………… wa-tukmilu 100 ukhrā wa-tu‘īdu ḥattā tamāmi 1000 marratin».
+
+**ID:** “**Dikerjakan selama tiga malam**؛ **dupanya hanya lubān**؛ **waktunya setelah Isya**، dan **waktu yang paling sahih adalah sepertiga malam terakhir**. Engkau **membaca «لِمُقْفَنْجِلٍ كَانُوْا قَلِيْلًا مِنَ اللَّيْلِ مَا يَهْجَعُوْنَ» ١٠٠٠×** (penggalan **Q.S. al-Muzzammil 73:20**), dan **tawkil setelah setiap ١٠٠** dengan cara berikut: **setelah selesai setiap ١٠٠ bacaan**, engkau **mengucapkan**: «**Demikian pula Fulan bin Fulanah — atau Fulanah binti Fulanah — tidak akan tidur dari cinta Fulan bin Fulanah sampai ia datang kepada si anu dalam keadaan tunduk dan hina; ia tidak akan menghilang, tidak akan lalai, dan tidak akan tidur dari cinta Fulan sekejap mata pun, bahkan tidak kurang dari itu, dengan hak ………… ; lalu engkau menyelesaikan ١٠٠ lagi dan mengulanginya sampai genap ١٠٠٠ kali**».”
+
+**AR:** فَائِدَةٌ لِلْمَحَبَّةِ مُجَرَّبَةٌ لَيْسَ لَهَا نَظِيْرٌ
+
+**LAT:** fā’idatun lil-maḥabbati mujarrabatun laysa lahā naẓīrun
+
+**ID:** “**Fā’idah Cinta yang Sudah Dicoba dan Tidak Ada Bandingannya.**” (Judul bagian ketiga.)
+
+**AR:** اَحْضِرْ **قِطْعَةَ سُكَّرٍ**، وَاتْلُ عَلَيْهَا هٰذِهِ الْاَسْمَاءَ **١٠٠٠ مَرَّةٍ**، وَفِىْ كُلِّ **عَشْرِ مَرَّاتٍ** تَنْفُخُ فِىْ قِطْعَةِ السُّكَّرِ **ثَلَاثَ مَرَّاتٍ**، وَتَوَكَّلْ **بِاِلْقَاءِ مَحَبَّةِ الطَّالِبِ فِىْ قَلْبِ الْمَطْلُوْبِ**. **وَهٰذِهِ هِيَ الْاَسْمَاءُ**: «**مَلْكَشْ ٣ بَلْكَشْ ٣ عَطُوْفْ ٣**» — **تَوَكَّلُوْا يَا خُدَّامَ هٰذِهِ الْاَسْمَاءِ بِحَقِّهَا عَلَيْكُمْ وَسِرِّهَا لَدَيْكُمْ، وَاَلْقُوْا مَحَبَّةَ فُلَانٍ ابْنِ فُلَانٍ فِىْ قَلْبِ فُلَانَةَ بِنْتِ فُلَانٍ — اَلْوَحَا ٢ الْعَجَلَ ٢ السَّاعَةَ — بَارَكَ اللهُ فِيْكُمْ وَعَلَيْكُمْ**».
+
+**LAT:** aḥḍir qiṭ‘ata sukkarin, wa-atlu ‘alayhā hādhihi al-asmā’a 1000 marratan, wa-fī kulli ‘ashri marrātin tanfukhu fī qiṭ‘ati al-sukkari thalātha marrātin, wa-tawakkal bi-ilqā’i maḥabbati al-ṭālibi fī qalbi al-maṭlūbi. Wa-hādhihi hiya al-asmā’u: «malaksh 3 balaksh 3 ‘aṭūf 3» — tawakkalū yā khuddāma hādhihi al-asmā’i bi-ḥaqqihā ‘alaykum wa-sirrihā ladaykum, wa-alqū maḥabbata fulānin ibni fulānin fī qalbi fulānata binti fulānin — al-waḥā 2 al-‘ajala 2 al-sā‘ata — bāraka allāhu fīkum wa-‘alaykum.
+
+**ID:** “**Siapkan sepotong gula**, lalu **bacakan padanya nama-nama ini ١٠٠٠×**؛ **setiap sepuluh bacaan** engkau **meniup ke potongan gula itu tiga kali**؛ dan **lakukan tawkil untuk melemparkan cinta si peminta ke dalam hati orang yang diminta**. **Dan inilah nama-namanya**: «**ملکش ٣ بلکش ٣ عطوف ٣**» — «**Bergeraklah, wahai para pelayan nama-nama ini, dengan haknya atas kalian dan rahasianya pada kalian, dan lemparkanlah cinta Fulan bin Fulan ke dalam hati Fulanah binti Fulan — al-waḥā ٢, al-‘ajal ٢, al-sā‘ah — semoga Allah memberkahi kalian**».”
+
+**Keterangan halaman.** Tiga amalan cinta: (1) **«الخاتم»** — **wafaq ٣×٣** dengan angka ratusan (٩٩–١٠٦) dan huruf di sudut luar, dikerjakan **tiga malam**؛ (2) **«عقد نوم ومحبة»** — penggalan **al-Muzzammil 73:20** («لمقفنجل كانوا قليلا من الليل ما يهجعون») **١٠٠٠×** dengan **tawkil tiap ١٠٠**, dupa **lubān**, **sepertiga malam terakhir**؛ (3) **«فائدة للمحبة مجربة ليس لها نظير»** — **sepotong gula** dibacakan nama-nama **١٠٠٠×**, **ditiup tiga kali tiap sepuluh bacaan**, dengan **tawkil**.
+
+**Angka pada halaman ini.** **٣** (tiga malam), **١٠٠٠**, **١٠٠**, **١٠**، **٣** (tiupan), **٢** (tiga kali pada «الوحا ٢ العجل ٢ الساعة») — **cocok** antara lapisan teks dan pindaian. **Angka wafaq** dibaca dari **crop 700 dan 1400 DPI**: **٩٩ / ١٠٦ / ١٠١**، **١٠٣ / ١٠٥ / ١٠٢**، **١٠٤ / ٩٨ / ١٠٥**.
+
+**Wafaq diuji penjumlahan: YA — dan hasilnya BUKAN wafaq berjumlah sama.** Jumlah **baris**: **٣٠٦** / **٣١٠** / **٣٠٧**؛ jumlah **kolom**: **٣٠٨** / **٣٠٩** / **٣٠٦**؛ **diagonal**: ٩٩+١٠٥+١٠٥ = **٣٠٩** و ١٠١+١٠٥+١٠٤ = **٣١٠**. Karena **tidak sama**, **angka dipertahankan persis** dari scan dan **tidak ada sel yang dikoreksi** demi konsistensi (dibandingkan dengan wafaq p.448 yang memang berjumlah sama, **١٥**).
+
+**[TIDAK JELAS - HALAMAN 471]** (1) **Huruf-huruf di sudut luar «الخاتم»** — hanya **dua atau tiga** yang dapat dikenali («م»، «هـ»، «ى»)؛ sisanya **tidak terbaca**؛ **[TEKS ASLI DIJAGA]** dan hanya bentuknya dideskripsikan. (2) **Penggalan «لِمُقْفَنْجِلٍ»** — **bukan bacaan ayat yang lazim** untuk **Q.S. al-Muzzammil 73:20** («إِنَّ رَبَّكَ يَعْلَمُ أَنَّكَ تَقُومُ…»)؛ **dipastikan berasal dari ayat itu** karena lanjutannya «كَانُوا قَلِيلًا مِّنَ اللَّيْلِ مَا يَهْجَعُونَ» (**Q.S. al-Dhāriyāt 51:17**), **tetapi bentuk «لمقفنجل» tidak dapat dijelaskan**؛ **disalin literal** dan **ditandai di sini** (kemungkinan **kesalahan cetak/kode**). (3) **«بِحَقِّ …………»** — **titik-titik kosong** pada cetakan: nama yang harus diisi **tidak dicetak**؛ **dibiarkan sebagai elipsis**. (4) **«خَاضِعَةً ذَلِيْلَةً»** — **dhamīr mu’annath** meski subjeknya bisa lelaki؛ **dipertahankan**. (5) **«وَاَصَحُّ اَوْقَاتِهِ»** — **«أصحّ»** tanpa mudhaf ilaih yang jelas؛ **dipertahankan**. (6) **«مَلْكَشْ بَلْكَشْ عَطُوْفْ»** — **tanpa vokal lengkap**؛ disalin literal. (7) **«اَلْوَحَا ٢ الْعَجَلَ ٢ السَّاعَةَ»** — angka **٢** mengapit tiap seruan؛ **dipertahankan sesuai cetakan**.
+
+**Peringatan (dicatat apa adanya, bukan fatwa).** Ketiga amalan bertujuan **menundukkan** seseorang hingga **tidak bisa tidur** dan **datang dalam keadaan “tunduk dan hina”** («خاضعة ذليلة»), memakai **nama-nama** dan **tawkil** berulang. Teks ditranskripsikan sesuai cetakan; semua itu **bukan bagian dari ajaran Islam**.
+
+**[ADA RAJAH]** — 1 crop: `assets/rajah/sirrul-asrar/hal-471-rajah-01.png` (700 DPI, Rect(163, 108, 450, 326)).
+
+---
+## HALAMAN 472 — sambungan «فائدة المحبة ليس لها نظير» (makanan/minuman) + «من اسرار الحروف» (metode wafaq huruf) + «لرجوع الهارب» (٩٧٧×) + «جلب الغائب والهارب والسارق» (wafaq + lingkaran)
+
+**AR:** كِتَابُ سِرِّ الْاَسْرَارِ فِي التَّوَاصُلِ مَعَ رُوحَانِيَّاتِ الْقُرْآنِ — شَيْخُ الرُّوحَانِيِّينَ الشَّيْخُ عَطِيَّةُ عَبْدُ الْحَمِيْدِ
+
+**LAT:** kitābu sirri al-asrāri fī al-tawāṣuli ma‘a rūḥāniyyāti al-qur’āni — shaykhu al-rūḥāniyyīna al-shaykhu ‘Aṭiyyatu ‘Abdu al-Ḥamīdi
+
+**ID:** “Kitab «Sirr al-Asrār fī al-Tawāṣul ma‘a Rūḥāniyyāt al-Qur’ān» — Syaikh para ruhaniyyin, Syaikh ‘Aṭiyyah ‘Abd al-Ḥamīd.” (Kepala halaman.)
+
+**AR:** ثُمَّ بَعْدَ تَمَامِ الْعَمَلِ **تُطْعِمُهَا لِلْمَطْلُوْبِ** فِىْ **طَعَامٍ اَوْ شَرَابٍ حُلْوٍ**، فَاِنَّهَا **مَحَبَّةٌ اَزَلِيَّةٌ اِلٰى نِهَايَةِ الْعُمْرِ**. **وَاللهُ عَلٰى مَا اَقُوْلُ شَهِيْدٌ**، وَلٰكِنِ **اسْتَحْلَفْتُكُمْ بِاللهِ اَنْ لَا تَفْعَلُوْهَا فِى الْحَرَامِ** — **اَللّٰهُمَّ اِنِّىْ قَدْ بَلَّغْتُ، اَللّٰهُمَّ فَاشْهَدْ …**
+
+**LAT:** thumma ba‘da tamāmi al-‘amali tuṭ‘imuhā lil-maṭlūbi fī ṭa‘āmin aw sharābin ḥulwin, fa-innahā maḥabbatun azaliyyatun ilā nihāyati al-‘umri. Wa-allāhu ‘alā mā aqūlu shahīdun, wa-lākini istaḥlaftukum bi-allāhi an lā taf‘alūhā fī al-ḥarāmi — allāhumma innī qad ballaghtu, allāhumma fa-ishhad …
+
+**ID:** “**Setelah amalan selesai, engkau memberikannya kepada orang yang diminta** dalam **makanan atau minuman manis**؛ maka ia menjadi **cinta yang abadi sampai akhir umur**. **Dan Allah menjadi saksi atas apa yang aku katakan**؛ tetapi **aku bersumpah atas kalian dengan nama Allah agar tidak melakukannya pada hal yang haram** — **Ya Allah, sungguh aku telah menyampaikan; ya Allah, saksikanlah …**”
+
+**AR:** الْبَخُوْرُ: **عُوْدٌ قِمَارِيٌّ فَقَطْ**، وَلَا تَنْسَوْا **صَرْفَ الْعُمَّارِ**.
+
+**LAT:** al-bakhūru: ‘ūdun qimāriyyun faqaṭ, wa-lā tansaw ṣarfa al-‘ummāri.
+
+**ID:** “**Dupanya: kayu gaharu qimārī saja**؛ dan **jangan lupa «ṣarf al-‘ummār»**.”
+
+**AR:** مِنْ **اَسْرَارِ الْحُرُوْفِ**
+
+**LAT:** min asrāri al-ḥurūfi
+
+**ID:** “**Dari Rahasia-rahasia Huruf.**” (Judul bagian kedua.)
+
+**AR:** تَاْخُذُ الْايَةَ الْمُنَاسِبَةَ لِلْعَمَلِ، وَتَطْرَحُ مِنْهَا **اَسَ الْمُثَلَّثِ**، وَتُنْزِلُ الْمُثَلَّثَ الْبَاقِىَ فِى **الْمِفْتَاحِ**، وَتَزِيْدُ **وَاحِدًا فِى بَيْتِ الْبَاءِ** وَ**وَاحِدًا فِى بَيْتِ الْجِيْمِ**، ثُمَّ تَاْخُذُ **الطَّالِبَ وَالْمَطْلُوْبَ وَالْحَاجَةَ** وَتُنْزِلُ فِى **بَيْتِ الدَّالِ** وَتَزِيْدُ **وَاحِدًا فِى بَيْتِ الْهَاءِ** وَ**وَاحِدًا فِى بَيْتِ الْوَاوِ**، ثُمَّ **تَجْمَعُ مَا فِىْ بَيْتِ الْبَاءِ وَالْوَاوِ وَتُسْقِطُهُ مِنْ عَدَدِ حَمَلَةِ الْايَةِ**، وَتُنْزِلُ بِالْبَاقِىْ فِى **بَيْتِ الزَّاىِ**، وَتَزِيْدُ **وَاحِدًا فِى بَيْتِ الْحَاءِ** وَ**وَاحِدًا فِى بَيْتِ الطَّاءِ** — **تَمَّ الْوِفْقُ**.
+
+**LAT:** ta’khudhu al-āyata al-munāsibata lil-‘amali, wa-taṭraḥu minhā asa al-muthallathi, wa-tunzilu al-muthallatha al-bāqiya fī al-miftāḥi, wa-tazīdu wāḥidan fī bayti al-bā’i wa-wāḥidan fī bayti al-jīmi, thumma ta’khudhu al-ṭāliba wa-al-maṭlūba wa-al-ḥājata wa-tunzilu fī bayti al-dāli wa-tazīdu wāḥidan fī bayti al-hā’i wa-wāḥidan fī bayti al-wāwi, thumma tajma‘u mā fī bayti al-bā’i wa-al-wāwi wa-tusqiṭuhu min ‘adadi ḥamalati al-āyati, wa-tunzilu bi-al-bāqī fī bayti al-zāyi, wa-tazīdu wāḥidan fī bayti al-ḥā’i wa-wāḥidan fī bayti al-ṭā’i — tamma al-wifqu.
+
+**ID:** “**Engkau mengambil ayat yang sesuai dengan amalan**, lalu **membuang darinya «اُسّ المثلث» (dasar segitiga)**, dan **menurunkan segitiga sisanya pada «المفتاح»**؛ lalu **menambah satu pada “rumah” huruf ب** dan **satu pada “rumah” huruf ج**؛ kemudian engkau **mengambil (hitungan) si peminta, yang diminta, dan keperluan** dan **menurunkannya pada “rumah” huruf د**, serta **menambah satu pada “rumah” huruf هـ** dan **satu pada “rumah” huruf و**؛ lalu **engkau menjumlahkan apa yang ada pada “rumah” ب dan و** dan **mengurangkannya dari jumlah “pembawa” ayat (ḥamalat al-āyah)**، dan **menurunkan sisanya pada “rumah” huruf ز**؛ lalu **menambah satu pada “rumah” huruf ح** dan **satu pada “rumah” huruf ط** — **selesailah wafaq itu**.”
+
+**AR:** وَهٰذَا الْوِفْقُ يُكْتَبُ **وَالْقَمَرُ فِىْ بُرْجِ الْمَطْلُوْبِ** وَالطَّالِعُ **اَوَّلُ دَرَجَةٍ مِنْ بُرْجِ الْمَطْلُوْبِ**، وَيُكْتَبُ **فِىْ نُسْخَتَيْنِ**: **تُحْمَلُ وَاحِدَةٌ اَوْ تُوْضَعُ فِى الْمَكَانِ الْمَعْمُوْلِ لَهُ**، **وَالثَّانِيَةُ تُعَلَّقُ فِى الْهَوَاءِ اَبَدًا**.
+
+**LAT:** wa-hādhā al-wifqu yuktabu wa-al-qamaru fī burji al-maṭlūbi wa-al-ṭāli‘u awwalu darajatin min burji al-maṭlūbi, wa-yuktabu fī nuskhatayni: tuḥmalu wāḥidatun aw tūḍa‘u fī al-makāni al-ma‘mūli lahu, wa-al-thāniyatu tu‘allaqu fī al-hawā’i abadan.
+
+**ID:** “**Wafaq ini ditulis ketika bulan berada di burj (zodiak) orang yang diminta** dan **ascendant pada derajat pertama burj-nya**؛ ditulis **dalam dua salinan**: **satu dibawa atau diletakkan di tempat yang dituju**, dan **yang kedua digantung di udara selamanya**.”
+
+**AR:** لِرُجُوْعِ الْهَارِبِ
+
+**LAT:** li-rujū‘i al-hāribi
+
+**ID:** “**Untuk Kembalinya Orang yang Melarikan Diri.**” (Judul bagian ketiga.)
+
+**AR:** تَعْمَلُ **دَائِرَةً** وَتَكْتُبُ فِيْهَا **اسْمَ الْهَارِبِ وَاُمَّهُ** اَوْ **اسْمَ الزَّوْجِ النَّهَاجِرِ وَاُمَّهُ**، وَتَكْتُبُ حَوْلَ الدَّائِرَةِ مِنَ الْخَارِجِ الْايَةَ **عَدَدَ اسْمِ الْهَارِبِ** وَهِىَ «**اِنَّهُ عَلٰى رَجْعَةٍ لَقَادِرٌ**» **٩٧٧ مَرَّةً**؛ ثُمَّ **اَرْشُقْ فِى الدَّائِرَةِ قَبْرَتَيْنِ اَوْ سَلْتَيْنِ مِنْ نَخْلَةٍ** بِحَيْثُ **لَا تَتَاَثَّرُ بِشَكِّ الْقَبْرَتَيْنِ اَوِ السَّلْتَيْنِ مَرَّةً ثَانِيَةً**، وَتَلُفُّ عَلَيْهَا **شَيْئًا مِنْ اَثَرِ الْهَارِبِ وَالْمَطْلُوْبِ** وَالتَّوْكِيْلَ اللَّازِمَ، ثُمَّ **تُعَلَّقُ فِى الْمَكَانِ الَّذِىْ هَرَبَ اَوْ خَرَجَ مِنْهُ الْمَطْلُوْبُ** فَاِنَّهُ **يَرْجِعُ بِاِذْنِ اللهِ**.
+
+**LAT:** ta‘malu dā’iratan wa-taktubu fīhā isma al-hāribi wa-ummahu aw isma al-zawji al-nahājiri wa-ummahu, wa-taktubu ḥawla al-dā’irati mina al-khāriji al-āyata ‘adada ismi al-hāribi wa-hiya «innahu ‘alā raj‘atin la-qādirun» 977 marratan؛ thumma arshuq fī al-dā’irati qabratayni aw saltayni min nakhlatin bi-ḥaythu lā tata’aththaru bi-shakki al-qabratayni awi al-saltayni marratan thāniyatan, wa-tulaffu ‘alayhā shay’an min athari al-hāribi wa-al-maṭlūbi wa-al-tawkīla al-lāzima, thumma tu‘allaqu fī al-makāni alladhī haraba aw kharaja minhu al-maṭlūbu fa-innahu yarji‘u bi-idhni allāhi.
+
+**ID:** “**Engkau membuat sebuah lingkaran** dan **menuliskan di dalamnya nama orang yang melarikan diri dan nama ibunya**, atau **nama suami yang berhijrah dan nama ibunya**؛ lalu **di sekeliling lingkaran, dari luar, engkau menuliskan ayat** **sebanyak jumlah (nilai) nama orang yang melarikan diri itu**, yaitu «**Sesungguhnya Dia benar-benar Mahakuasa untuk mengembalikannya**» (**Q.S. al-Ṭāriq 86:8**) **٩٧٧×**؛ kemudian **engkau menusukkan ke dalam lingkaran dua «قبرة» atau dua «سلة» dari pohon kurma** dengan cara **agar tidak terpengaruh oleh keraguan terhadap kedua «قبرة/سلة» itu sekali lagi**؛ lalu **engkau melilitkan padanya sesuatu dari bekas (jejak) orang yang melarikan diri dan yang diminta**, serta **tawkil yang diperlukan**؛ kemudian **digantung di tempat ia melarikan diri atau tempat orang yang diminta keluar** — maka ia **akan kembali dengan izin Allah**.”
+
+**AR:** جَلْبُ الْغَائِبِ وَالْهَارِبِ وَالسَّارِقِ
+
+**LAT:** jalbu al-ghā’ibi wa-al-hāribi wa-al-sāriqi
+
+**ID:** “**Penarikan Orang yang Tidak Hadir, yang Melarikan Diri, dan Pencuri.**” (Judul bagian keempat.)
+
+**AR:** يُكْتَبُ وَيُعَلَّقُ فِى الْهَوَاءِ — **وَهٰذَا مَا تُكْتَبُ**:
+
+**LAT:** yuktabu wa-yu‘allaqu fī al-hawā’i — wa-hādhā mā tuktabu:
+
+**ID:** “**Dituliskan dan digantung di udara** — **dan inilah yang ditulis**:”
+
+**Rajah:** ![Rajah hal. 472 — «جلب الغائب والهارب والسارق»: di kiri sebuah lingkaran (bentuk telur) bertulisan tangan di dalam dan dikelilingi tulisan kecil; di kanan wafaq ٣×٣ dengan angka «١ / ٨٦ / ٢»، «٨ / (kosong) / ٤٤»، «٤٢ / ٥٤ / ٢»](../assets/rajah/sirrul-asrar/hal-472-rajah-01.png)
+
+**AR:** (وَصْفُ الطِّلَسْمِ) فِى الْيَسَارِ **بَيْضَاوِىٌّ (دَائِرَةٌ مُسْتَطِيْلَةٌ)** دَاخِلَهُ كِتَابَةٌ يَدَوِيَّةٌ، وَحَوْلَهُ كِتَابَةٌ صَغِيْرَةٌ مُتَكَرِّرَةٌ؛ وَفِى الْيَمِيْنِ **جَدْوَلٌ ٣ × ٣** قِرَاءَتُهُ (مِنَ الْيَمِيْنِ اِلَى الْيَسَارِ):
+
+- الصَّفُّ ١: «**١**» | «**٨٦**» | «**٢**»
+- الصَّفُّ ٢: «**٨**» | «**فَارِغ**» | «**٤٤**»
+- الصَّفُّ ٣: «**٤٢**» | «**٥٤**» | «**٢**»
+
+**LAT:** (waṣfu al-ṭilāsmi) fī al-yasāri bayḍāwiyyun (dā’iratun mustaṭīlatun) dākhilahu kitābatun yadawiyyatun, wa-ḥawlahu kitābatun ṣaghīratun mutakarriratun؛ wa-fī al-yamīni jadwalun 3 × 3 qirā’atuhu (mina al-yamīni ilā al-yasāri): al-ṣaffu 1 «1» | «86» | «2»؛ 2 «8» | «fāright» | «44»؛ 3 «42» | «54» | «2»
+
+**ID:** “**(Deskripsi ṭilasm)**: di **kiri** ada **bentuk lonjong (lingkaran memanjang)** berisi **tulisan tangan**, dikelilingi **tulisan kecil berulang**؛ di **kanan** ada **tabel ٣×٣** dengan pembacaan (dari kanan ke kiri): **baris ١** «١ | ٨٦ | ٢»؛ **baris ٢** «٨ | (kosong) | ٤٤»؛ **baris ٣** «٤٢ | ٥٤ | ٢».”
+
+**Keterangan halaman.** Halaman ini **menyambung** amalan gula pada **p.471** (**«ثم بعد تمام العمل تطعمها للمطلوب»**), disertai **peringatan pemakaian** dan **dupa ‘ūd qimārī**؛ lalu **«من اسرار الحروف»** — **metode penyusunan wafaq huruf** (**ب، ج، د، هـ، و، ز، ح، ط** + **عدد حملة الآية**)؛ lalu **«لرجوع الهارب»** — **lingkaran** berisi **nama + nama ibu**, dikelilingi **Q.S. al-Ṭāriq 86:8** **٩٧٧×**, ditusuk **dua «قبرة/سلة»** dari pohon kurma, dililit **jejak** orang yang dicari؛ lalu **«جلب الغائب والهارب والسارق»** — **wafaq ٣×٣** + **lingkaran**, **digantung di udara**.
+
+**Angka pada halaman ini.** **٩٧٧** (Q.S. al-Ṭāriq 86:8) — **cocok** antara lapisan teks dan pindaian (Rect(153, 364, 177, 384))؛ **tanpa koreksi**. **Angka wafaq** dibaca dari **crop 700 dan 1100 DPI**: «١، ٨٦، ٢»، «٨، –، ٤٤»، «٤٢، ٥٤، ٢».
+
+**Wafaq diuji penjumlahan: YA — dan hasilnya BUKAN wafaq berjumlah sama.** Jumlah **baris**: ١+٨٦+٢ = **٨٩**؛ ٨+٤٤ = **٥٢** (sel tengah **kosong**)؛ ٤٢+٥٤+٢ = **٩٨**؛ **diagonal** ١+٤٤+٢ = **٤٧** dan ٢+٨+٤٢ = **٥٢**. Karena **tidak sama** dan **ada sel kosong**, **angka dipertahankan persis** dan **tidak ada sel yang dikoreksi** demi konsistensi.
+
+**[TIDAK JELAS - HALAMAN 472]** (1) **«اُسُّ الْمُثَلَّثِ»** dan **«الْمِفْتَاحُ»** pada bagian «من اسرار الحروف» — **istilah teknis** yang **tidak dijelaskan** dalam teks؛ **dipertahankan** dan **tidak ditafsirkan** (metode ini **tidak dapat diuji** tanpa contoh angka). (2) **Sel tengah wafaq ٣×٣ kosong** pada cetakan — **dicatat**, **tidak diisi**. (3) **Isi tulisan di dalam lingkaran (rajah)** — **tidak terbaca**؛ **[TEKS ASLI DIJAGA]** dan hanya bentuk dideskripsikan. (4) **«قَبْرَتَيْنِ اَوْ سَلْتَيْنِ مِنْ نَخْلَةٍ»** — istilah **tidak lazim**؛ **dipertahankan** (kemungkinan **potongan/pelepah** kurma). (5) **«بِحَيْثُ لَا تَتَاَثَّرُ بِشَكِّ … مَرَّةً ثَانِيَةً»** — **susunan terputus**؛ dipertahankan dan **tidak dirapikan**. (6) **«عَدَدَ اسْمِ الْهَارِبِ»** — **cara menghitung** tidak diterangkan (kemungkinan **ḥisāb al-jumal**)؛ **dicatat**. (7) **«الْقَمَرُ فِىْ بُرْجِ الْمَطْلُوْبِ»** — **ketentuan astrologi**؛ dipertahankan.
+
+**Peringatan (dicatat apa adanya, bukan fatwa).** Halaman ini memuat **peringatan penyusun sendiri** agar amalan tidak dipakai untuk **hal haram** (kalimat «استحلفتكم بالله أن لا تفعلوها في الحرام») — **dicatat sebagai peringatan, bukan fatwa**؛ amalan-amalannya tetap bertujuan **memaksa** kehadiran orang dan **mengikat** mereka lewat **makanan/minuman** serta **jejak pribadi**. Teks ditranskripsikan sesuai cetakan.
+
+**[ADA RAJAH]** — 1 crop: `assets/rajah/sirrul-asrar/hal-472-rajah-01.png` (700 DPI, Rect(199, 443, 415, 624)).
+
+---
+## HALAMAN 473 — sambungan wafaq «جلب الغائب والهارب والسارق» (p.472) + «محبة على الزجاج» (٣٠١/٣١١×) + «فتح ومحبة مجرب» (البرهتية ٥٤×) + kolofon
+
+**AR:** كِتَابُ سِرِّ الْاَسْرَارِ فِي التَّوَاصُلِ مَعَ رُوحَانِيَّاتِ الْقُرْآنِ — شَيْخُ الرُّوحَانِيِّينَ الشَّيْخُ عَطِيَّةُ عَبْدُ الْحَمِيْدِ
+
+**LAT:** kitābu sirri al-asrāri fī al-tawāṣuli ma‘a rūḥāniyyāti al-qur’āni — shaykhu al-rūḥāniyyīna al-shaykhu ‘Aṭiyyatu ‘Abdu al-Ḥamīdi
+
+**ID:** “Kitab «Sirr al-Asrār fī al-Tawāṣul ma‘a Rūḥāniyyāt al-Qur’ān» — Syaikh para ruhaniyyin, Syaikh ‘Aṭiyyah ‘Abd al-Ḥamīd.” (Kepala halaman.)
+
+**Rajah:** ![Rajah hal. 473 — sambungan ṭilasm «جلب الغائب والهارب والسارق»: dua baris panjang angka dan huruf tulisan tangan, lalu tiga bentuk garis (satu berkait panjang dan dua “pagar” bersilang dengan titik-titik di ujungnya)](../assets/rajah/sirrul-asrar/hal-473-rajah-01.png)
+
+**AR:** (تَكْمِلَةٌ مِنْ ص ٤٧٢) … وَتُبَخَّرُ وَقْتَ الْكِتَابَةِ **بِاللُّبَانِ الذَّكَرِ**، وَالْعَزِيْمَةُ **الْجَلْجَلُوْتِيَّةُ الْكُبْرٰى ثَلَاثَ مَرَّاتٍ** — فَاِنَّهُ **يَكُوْنُ مَا اَرَدْتَ**.
+
+**LAT:** (takmilatun min ṣ 472) … wa-tubakhkharu waqta al-kitābati bi-al-lubāni al-dhakari, wa-al-‘azīmatu al-jaljalūtiyyatu al-kubrā thalātha marrātin — fa-innahu yakūnu mā aradta.
+
+**ID:** “**(Lanjutan dari p.472)** … dan **pada waktu penulisan diuapi dengan «lubān dhakar»**؛ **‘azīmahnya «الجلجلوتية الكبرى» tiga kali** — maka **terjadilah apa yang engkau kehendaki**.”
+
+**AR:** (وَصْفُ بَقِيَّةِ الطِّلَسْمِ) سَطْرَانِ طَوِيْلَانِ: الْاَوَّلُ «**٩ ١ ١ ٣ ٧ ٩ ٩ ١ ١ ٨ ١ ١ ١ ٨ ٨ ١ ١ ٩ ٩ ٣ ١ ١ ٦ ١ ٧ …**» تَقْرِيْبًا، وَالثَّانِى «**ل ي ل ل ا ٨ ١ ١ ٢ ١ ١ ٧ ٩ ١ ٨ ٨ ١ ١ ٨ ٨ ٥ ١ ٢ ٤ ٥ ٢ ٦ ٦ ١ ١**» تَقْرِيْبًا؛ وَتَحْتَهُمَا **ثَلَاثَةُ اَشْكَالٍ خَطِّيَّةٍ**: شَكْلٌ طَوِيْلٌ مُنْعَقِفٌ فِى الْيَسَارِ، وَ**شَكْلُ «سُلَّمٍ»** بِخُطُوْطٍ مُتَقَاطِعَةٍ وَ**نُقَطٍ** عَلٰى رُؤُوْسِهَا، وَشَكْلٌ صَغِيْرٌ فِى الْيَمِيْنِ.
+
+**LAT:** (waṣfu baqiyyati al-ṭilāsmi) saṭrāni ṭawīlāni: al-awwalu «9 1 1 3 7 9 9 1 1 8 1 1 1 8 8 1 1 9 9 3 1 1 6 1 7 …» taqrīban, wa-al-thāni «l y l l a 8 1 1 2 1 1 7 9 1 8 8 1 1 8 8 5 1 2 4 5 2 6 6 1 1» taqrīban؛ wa-taḥtahumā thalāthatu ashkālin khaṭṭiyyatin: shaklun ṭawīlun mun‘aqifun fī al-yasāri, wa-shaklu «sullamin» bi-khuṭūṭin mutaqāṭi‘atin wa-nuqaṭin ‘alā ru’ūsihā, wa-shaklun ṣaghīrun fī al-yamīni.
+
+**ID:** “**(Deskripsi sisa ṭilasm)**: **dua baris panjang**: baris ١ «**٩ ١ ١ ٣ ٧ ٩ ٩ ١ ١ ٨ ١ ١ ١ ٨ ٨ ١ ١ ٩ ٩ ٣ ١ ١ ٦ ١ ٧ …**» (perkiraan)، baris ٢ «**ل ي ل ل ا ٨ ١ ١ ٢ ١ ١ ٧ ٩ ١ ٨ ٨ ١ ١ ٨ ٨ ٥ ١ ٢ ٤ ٥ ٢ ٦ ٦ ١ ١**» (perkiraan)؛ di bawahnya **tiga bentuk garis**: **bentuk panjang bertekuk di kiri**, **bentuk “tangga”** dengan **garis bersilang** dan **titik-titik di ujungnya**, dan **bentuk kecil di kanan**.”
+
+**AR:** مَحَبَّةٌ عَلَى الزُّجَاجِ
+
+**LAT:** maḥabbatun ‘alā al-zujāji
+
+**ID:** “**Cinta pada Kaca.**” (Judul bagian kedua.)
+
+**AR:** يُكْتَبُ عَلٰى **لَوْحِ زُجَاجٍ** وَيُوْضَعُ عَلٰى **نَارٍ لَيِّنَةٍ**، اَوْ تُكْتَبُ عَلٰى **زُجَاجَةِ لَمْبَةٍ** وَ**تُقَادُ** وَتُتْلٰى الْاَسْمَاءُ عَلَيْهَا **٣٠١ مَرَّةً اَوْ ٣١١ مَرَّةً**، وَالتَّوْكِيْلُ — **وَهٰذَا مَا تُكْتَبُ**:
+
+**LAT:** yuktabu ‘alā lawḥi zujājin wa-yūḍa‘u ‘alā nārin layyinatin, aw tuktabu ‘alā zujājati lambatin wa-tuqādu wa-tutlā al-asmā’u ‘alayhā 301 marratan aw 311 marratan, wa-al-tawkīlu — wa-hādhā mā tuktabu:
+
+**ID:** “**Dituliskan pada lempeng kaca** lalu **diletakkan di atas api yang lembut**؛ atau **dituliskan pada kaca lampu** lalu **dinyalakan** dan **nama-nama dibacakan padanya ٣٠١× atau ٣١١×**, serta **tawkil** — **dan inilah yang ditulis**:”
+
+**Rajah:** ![Rajah hal. 473 — «ما تكتب» untuk محبة على الزجاج: tabel ٤×٢ berisi huruf «ق، ل، ف، س / ش، و، ن، التوكل» dengan huruf «ج ر» di atas dan «ع، م» di sisi luar](../assets/rajah/sirrul-asrar/hal-473-rajah-02.png)
+
+**AR:** (وَصْفُ مَا يُكْتَبُ) جَدْوَلٌ **٤ × ٢** (اَرْبَعَةُ اَعْمِدَةٍ وَصَفَّانِ)، وَفَوْقَهُ «**ج ر**»، وَعَلٰى جَانِبَيْهِ حَرْفُ «**ع**» وَحَرْفُ «**م**»:
+
+- الصَّفُّ ١ (مِنَ الْيَمِيْنِ): «**ق**» | «**ل**» | «**ف**» | «**س**»
+- الصَّفُّ ٢ (مِنَ الْيَمِيْنِ): «**ش**» | «**و**» | «**ن**» | «**التَّوَكُّل**»
+
+**LAT:** (waṣfu mā yuktabu) jadwalun 4 × 2 (arba‘atu a‘midatin wa-ṣaffāni), wa-fawqahu «j r», wa-‘alā jānibayhi ḥarfu «‘» wa-ḥarfu «m»: al-ṣaffu 1 (mina al-yamīni): «q» | «l» | «f» | «s»؛ al-ṣaffu 2 (mina al-yamīni): «sh» | «w» | «n» | «al-tawakkal»
+
+**ID:** “**(Deskripsi yang ditulis)**: tabel **٤×٢** (empat kolom, dua baris), di atasnya «**ج ر**»، dan di kedua sisinya huruf «**ع**» dan «**م**»: **baris ١** (dari kanan) «**ق | ل | ف | س**»؛ **baris ٢** (dari kanan) «**ش | و | ن | التوكل**».”
+
+**AR:** وَهٰذِهِ الْاَسْمَاءُ الَّتِىْ تُتْلٰى وَتُعَزَّمُ بِهَا: «**بِيْشُوْب ٢ مِيْشُوْب ٢ هِيْشُوْب ٢**» — **وَيَجِبُ مُرَاعَاةُ رَصْدٍ فَلَكِىٍّ لِعَمَلِكَ — تَمَّ**.
+
+**LAT:** wa-hādhihi al-asmā’u allatī tutlā wa-tu‘azzamu bihā: «bīshūb 2 mīshūb 2 hīshūb 2» — wa-yajibu murā‘ātu raṣdin falakiyyin li-‘amalika — tamma.
+
+**ID:** “**Dan inilah nama-nama yang dibacakan dan dipakai untuk mengazamkan**: «**بيشوب ٢ ميشوب ٢ هيشوب ٢**» — **dan wajib memperhatikan raṣd falakī untuk amalanmu — selesai**.”
+
+**AR:** فَتْحٌ وَمَحَبَّةٌ مُجَرَّبٌ
+
+**LAT:** fatḥun wa-maḥabbatun mujarrabun
+
+**ID:** “**Pembukaan dan Cinta yang Sudah Dicoba.**” (Judul bagian ketiga.)
+
+**AR:** تُكْتَبُ **الْخَاتَمُ وَالطِّلَسْمُ**، وَ**اُطْلِقِ الْبَخُوْرَ الطَّيِّبَ الرَّائِحَةَ**، وَعَزَمَ عَلَيْهِ **بِالْبَرْهَتِيَّةِ ٥٤ مَرَّةً**، فَاِنَّ **الْمَطْلُوْبَ يَحْضُرُ بِمُجَرَّدِ الِانْتِهَاءِ مِنَ الْعَزِيْمَةِ** — **وَهٰذَا مَا تُكْتَبُ**:
+
+**LAT:** tuktabu al-khātamu wa-al-ṭilāsmu, wa-uṭliqi al-bakhūra al-ṭayyiba al-rā’iḥata, wa-‘azama ‘alayhi bi-al-barhatiyyati 54 marratan, fa-inna al-maṭlūba yaḥḍuru bi-mujarradi al-intihā’i mina al-‘azīmati — wa-hādhā mā tuktabu:
+
+**ID:** “**«الخاتم» dan ṭilasm dituliskan**؛ **lepaskan dupa yang harum baunya**؛ lalu **diazamkan dengan «البرهتية» ٥٤×** — maka **orang yang diminta akan hadir begitu ‘azīmah selesai** — **dan inilah yang ditulis**.”
+
+**AR:** اَيُّهَا الطَّالِبُ الْجَلِيْلُ، لَا تَبْخَلْ عَلَيْنَا بِقِرَاءَةِ **الْفَاتِحَةِ** وَثَبِّتْ صَوَابًا لَنَا وَلِوَالِدَيْنَا — **شَيْخُ الرُّوحَانِيِّينَ فِى الْوَطَنِ الْعَرَبِىِّ، الشَّيْخُ عَطِيَّةُ عَبْدُ الْحَمِيْدِ** — **لِلْكَشْفِ وَالْمُتَابَعَةِ مَعَ شَيْخِ الرُّوحَانِيِّينَ ٨٣٢٢٢٠٢٦١٠٢٠٠**
+
+**LAT:** ayyuhā al-ṭālibu al-jalīlu, lā tabkhal ‘alaynā bi-qirā’ati al-fātiḥati wa-thabbit ṣawāban lanā wa-li-wālidaynā — shaykhu al-rūḥāniyyīna fī al-waṭani al-‘arabiyyi, al-shaykhu ‘Aṭiyyatu ‘Abdu al-Ḥamīdi — lil-kashfi wa-al-mutāba‘ati ma‘a shaykhi al-rūḥāniyyīna 8322202610200
+
+**ID:** “**Wahai penuntut yang mulia, jangan kikir kepada kami dengan membaca al-Fātiḥah**, dan **tetapkanlah kebenaran bagi kami dan kedua orang tua kami** — **Syaikh para ruhaniyyin di tanah Arab, Syaikh ‘Aṭiyyah ‘Abd al-Ḥamīd** — **untuk kasyaf dan bimbingan dengan Syaikh para ruhaniyyin: ٨٣٢٢٢٠٢٦١٠٢٠٠**.”
+
+**Keterangan halaman.** (1) **Pelengkap ṭilasm «جلب الغائب والهارب والسارق»** dari **p.472**: dua baris panjang + **tiga bentuk garis**؛ **dupa lubān dhakar**, **«الجلجلوتية الكبرى» ٣×**؛ (2) **«محبة على الزجاج»** — ditulis pada **kaca**/**kaca lampu**, dinyalakan, nama dibaca **٣٠١× atau ٣١١×**, dengan **tabel ٤×٢** huruf dan nama **«بيشوب ٢ ميشوب ٢ هيشوب ٢»**؛ (3) **«فتح ومحبة مجرب»** — **«الخاتم» + ṭilasm**, dupa harum, **«البرهتية» ٥٤×**, orang yang diminta **hadir setelah azam selesai**؛ ditutup **kolofon**.
+
+**Angka pada halaman ini.** **٣٠١ / ٣١١ / ٥٤ / ٢ (tiga kali) / ٣ (tiga kali)** — **cocok** antara lapisan teks dan pindaian. **٥٤** diperiksa ulang pada **crop 900 DPI (Rect(125, 545, 180, 580))** — bentuknya **٥٤**, **bukan «٤٥»** → **tidak ada koreksi**. **Angka pada deret ṭilasm** adalah **tulisan tangan** → **perkiraan**.
+
+**Wafaq:** tabel p.473 **bukan wafaq angka** (isinya **huruf tunggal** + kata «التوكل»)، sehingga **tidak dapat diuji** dengan penjumlahan baris/kolom/diagonal؛ **tidak ada klaim jumlah**.
+
+**[TIDAK JELAS - HALAMAN 473]** (1) **Seluruh deret angka/huruf pada rajah-01** — **tulisan tangan berimpit**؛ **[TEKS ASLI DIJAGA]** dan pembacaan ditandai **perkiraan**. (2) **Tiga bentuk garis pada rajah-01** — **tidak terbaca** sebagai huruf؛ hanya bentuk dan posisi titik dideskripsikan. (3) **Huruf «ج ر» di atas tabel** dan **«ع/م» di sisinya** — **tidak dijelaskan** fungsinya dalam teks؛ **dipertahankan**. (4) **«تُقَادُ»** (dinyalakan) — **susunan tidak lazim**؛ dipertahankan. (5) **«وَعَزَمَ عَلَيْهِ»** — **dhamīr mudhakkar** padahal subjeknya «الخاتم والطلسم» (dua benda)؛ **dipertahankan**. (6) **«الْبَخُوْرَ الطَّيِّبَ الرَّائِحَةَ»** — **tidak konsisten** (mudhakkar/mu’annath)؛ **dipertahankan**. (7) **Nama «بِيْشُوْب، مِيْشُوْب، هِيْشُوْب»** — **tanpa vokal lengkap**؛ disalin literal.
+
+**Peringatan (dicatat apa adanya, bukan fatwa).** Ketiga amalan bertujuan **memaksa kehadiran** orang (termasuk **pencuri** dan **orang yang melarikan diri**) dengan **tawkil** dan **‘azīmah** berulang, dan memakai **tulisan pada kaca yang dipanaskan** serta **jejak pribadi**. Teks ditranskripsikan sesuai cetakan; semua itu **bukan bagian dari ajaran Islam**.
+
+**[ADA RAJAH]** — 2 crop: `assets/rajah/sirrul-asrar/hal-473-rajah-01.png` (700 DPI, Rect(121, 69, 492, 250)) dan `hal-473-rajah-02.png` (700 DPI, Rect(164, 348, 450, 493)).
+
+---
