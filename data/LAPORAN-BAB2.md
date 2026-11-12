@@ -609,3 +609,25 @@ Semua halaman 279–298 dibandingkan langsung, baris demi baris, dengan scan PDF
 - **Cakupan:** halaman **1–516** — **seluruh berkas PDF**؛ **278 bagian halaman** di `transkripsi/bab2.md`.
 - **Total crop rajah:** **194** berkas di `assets/rajah/sirrul-asrar/`.
 - **Batch:** 28 batch (1–28) selesai dan ter-commit.
+
+## Perbaikan 25 halaman format lama (AR = LAT = ID)
+
+**Masalah:** 25 halaman warisan batch awal memakai penanda blok non-standar sehingga jumlah blok **AR ≠ LAT ≠ ID**. Tidak ada isi yang hilang; yang salah adalah **label** (`**ar:**`, `**AR (wafaq X):**`, `**Wafaq:**` berisi angka), **blok penerjemah yang tidak ditulis**, dan **satu blok Arab tanpa pasangan**.
+
+| Halaman | Penyebab | Tindakan |
+|---|---|---|
+| 243 | `**ar:**` (huruf kecil) → tak terhitung sebagai blok AR | label → **AR** |
+| 244 | 2 × `**AR (wafaq):**` | label → **AR**; urutan subbagian dirapikan (Hijr, Hijr, Nahl, Kahf, Kahf) |
+| 246 | 1 × `**AR (wafaq):**` | label → **AR** |
+| 248 | 2 × `**AR (wafaq):**` | label → **AR**; urutan subbagian dirapikan (Naml, Qasas, Qasas, Ankabut, Ankabut) |
+| 249, 253–258 | `**Wafaq:**` berisi angka tanpa AR/LAT | jadi **AR (angka Arab-Indic)** + **LAT (angka Latin)** + ID yang sudah ada |
+| 250, 251 | idem + satu blok `*(dilanjutkan di halaman …)*` hanya punya AR & LAT | tambah **ID** penanda lanjutan (tanpa menghapus AR/LAT) |
+| 252, 254 | `**Wafaq:**` berisi angka | jadi AR + LAT |
+| 259–268 (10 hlm) | `**AR (wafaq <nama surah>):**` | label → **AR** (nama surah sudah ada di heading) |
+| 320 | 3 blok Arab **tanpa LAT/ID** (`تقرأ الدعوة ٢١ مرة`, `أصراف القسم`, `يقرأ الأصراف ١٢ مرة`) | ditambah **LAT + ID**, angka **٢١** & **١٢** diverifikasi dari scan |
+
+**Koreksi angka wafaq (temuan tambahan, di luar 25 halaman):** saat membandingkan scan untuk halaman 249–258 ditemukan **27 tabel wafaq pada hal. 250–258 tidak cocok dengan scan** — nilainya berasal dari `raw_extract.txt` yang salah. Seluruhnya **dibaca ulang sel per sel** (lapisan teks PDF dibalik per token, dikonfirmasi dengan crop 800–1000 DPI), dan **semuanya kini membentuk persegi ajaib 4×4** (jumlah baris = kolom): total **76 tabel** di hal. 243–268 diperiksa, **74 valid**, sisanya mengikuti cetakan apa adanya (mis. `63869` pada tabel Saba). Tidak ada angka yang "diperbaiki" tanpa bukti gambar.
+
+**Pembersihan format:** seluruh baris blok `**AR/LAT/ID:**` dirapikan (trailing whitespace dihapus) sehingga `git diff --check` bersih.
+
+**Validasi akhir:** 278 bagian halaman; **semua 516 halaman AR = LAT = ID**; 194 crop utuh dan **tidak ada tautan rusak**; tidak ada huruf Kiril; tidak ada label non-standar tersisa.

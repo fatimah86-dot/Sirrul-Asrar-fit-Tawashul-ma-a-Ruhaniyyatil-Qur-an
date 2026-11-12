@@ -14,55 +14,55 @@ Branch: `arena/02ad7a12-sirrul-asrar-fit-tawashul-ma-a`
 ![Wafaq Ali ‘Imran — halaman 239](../assets/rajah/sirrul-asrar/hal-239-rajah-02.jpg)  
 ![Wafaq An-Nisa — halaman 239](../assets/rajah/sirrul-asrar/hal-239-rajah-03.jpg)  
 
-**AR:** سورة البَقَرَة  
-**LAT:** Sūrat al-Baqarah  
+**AR:** سورة البَقَرَة
+**LAT:** Sūrat al-Baqarah
 **ID:** Surah Al-Baqarah (QS 2).
 
-**AR:** كُتِبَتْ وَعُلِّقَتْ عَلَيْهِ، زَالَتْ الْأَوْجَاعُ عَنْهُ، وَإِنْ هِيَ خَائِفَةٌ، وَلَمْ يَكُنْ، وَهُنَاكَ الْفِطَامُ عَنْهُ، زَالَتِ الْأَوْجَاعُ عَنْهُ عَلى صَغِيرٍ، وَلا بَإِذْنِ اللَّهِ تَعَالَى.  
-**LAT:** Katibatha wa-'alliqat 'alayhi, zalat al-awjā‘u ‘anhu, wa-in hiya khā'ifatun, wa-lam yakūn, wa-hunāka al-fiṭāmu ‘anhu, zalat al-awjā‘u ‘anhu ‘alā ṣaghīr, wa-lā bi-idhni Allāhi ta‘ālā.  
+**AR:** كُتِبَتْ وَعُلِّقَتْ عَلَيْهِ، زَالَتْ الْأَوْجَاعُ عَنْهُ، وَإِنْ هِيَ خَائِفَةٌ، وَلَمْ يَكُنْ، وَهُنَاكَ الْفِطَامُ عَنْهُ، زَالَتِ الْأَوْجَاعُ عَنْهُ عَلى صَغِيرٍ، وَلا بَإِذْنِ اللَّهِ تَعَالَى.
+**LAT:** Katibatha wa-'alliqat 'alayhi, zalat al-awjā‘u ‘anhu, wa-in hiya khā'ifatun, wa-lam yakūn, wa-hunāka al-fiṭāmu ‘anhu, zalat al-awjā‘u ‘anhu ‘alā ṣaghīr, wa-lā bi-idhni Allāhi ta‘ālā.
 **ID:** Ditulis dan digantung padanya, nyeri hilang darinya. Dan jika takut, dan tidak ada, dan menyapih darinya, nyeri hilang darinya pada yang kecil, dan tidak dengan izin Allah Ta'ala.
 
-**AR:** إِنْ عُلِّقَتْ عَلَى الْمَصْرُوعِ، زَالَ الصَّعْدُ بِإِذْنِ اللَّهِ تَعَالَى. لَهُ وَلا نِهَايَةَ فِيهَا مَنْ الْمَنَافِعِ مَا لَا حَدَّ لِلْبَقَرَةِ  
-**LAT:** In ‘ulliqat ‘ala al-maṣrū‘i, zāla al-ṣa‘du bi-idhni Allāhi ta‘ālā. Lahu wa-lā nihāyata fīhā min al-manāfi‘i mā lā ḥadda lil-Baqarah  
+**AR:** إِنْ عُلِّقَتْ عَلَى الْمَصْرُوعِ، زَالَ الصَّعْدُ بِإِذْنِ اللَّهِ تَعَالَى. لَهُ وَلا نِهَايَةَ فِيهَا مَنْ الْمَنَافِعِ مَا لَا حَدَّ لِلْبَقَرَةِ
+**LAT:** In ‘ulliqat ‘ala al-maṣrū‘i, zāla al-ṣa‘du bi-idhni Allāhi ta‘ālā. Lahu wa-lā nihāyata fīhā min al-manāfi‘i mā lā ḥadda lil-Baqarah
 **ID:** Jika digantung pada orang yang kena sihir, hilanglah pusing dengan izin Allah Ta'ala. Baginya dan tidak ada akhir dalamnya dari manfaat apa yang tidak terbatas untuk Al-Baqarah.
 
-**AR:** سورة آل عِمْرَان  
-**LAT:** Sūrat Ālu ‘Imrān  
+**AR:** سورة آل عِمْرَان
+**LAT:** Sūrat Ālu ‘Imrān
 **ID:** Surah Ali 'Imran (QS 3).
 
-**AR:** كَتَبَهَا زَعْمَ امْرَأَةٍ عَمَّنْ كَتَبَهَا بِزَيْدِ الْحَدِيثِ حَتَّى مَلَأَ بِإِذْنِ اللَّهِ تَعَالَى، وَرُزِقَهُ فِي الْعُسْرِ، وَعَقَّلَهُ اللَّهُ عَلَيْهِ، وَرَزَقَهُ اللَّهُ عَزَّ وَجَلَّ، يَنْسَى فِي الْعَرْضِ  
-**LAT:** Katabathā za‘ma imra‘atin ‘amman katabathā bi-Zaydi al-ḥadīthī ḥattā mala‘a bi-idhni Allāhi ta‘ālā, wa-ruziqahu fī al-‘usri, wa-‘aqqalahu Allāhu ‘alayh, wa-razaqahu Allāhu ‘azza wa-jall, yansā fī al-‘arḍ  
+**AR:** كَتَبَهَا زَعْمَ امْرَأَةٍ عَمَّنْ كَتَبَهَا بِزَيْدِ الْحَدِيثِ حَتَّى مَلَأَ بِإِذْنِ اللَّهِ تَعَالَى، وَرُزِقَهُ فِي الْعُسْرِ، وَعَقَّلَهُ اللَّهُ عَلَيْهِ، وَرَزَقَهُ اللَّهُ عَزَّ وَجَلَّ، يَنْسَى فِي الْعَرْضِ
+**LAT:** Katabathā za‘ma imra‘atin ‘amman katabathā bi-Zaydi al-ḥadīthī ḥattā mala‘a bi-idhni Allāhi ta‘ālā, wa-ruziqahu fī al-‘usri, wa-‘aqqalahu Allāhu ‘alayh, wa-razaqahu Allāhu ‘azza wa-jall, yansā fī al-‘arḍ
 **ID:** Menulisnya menurut seorang wanita... yang menulisnya dengan Zayd al-ḥadīth sampai penuh dengan izin Allah Ta'ala, dan diberi rezeki dalam kesempitan, dan diamanakannya Allah padanya, dan diberi rezeki-Nya Allah yang Mahagaya lagi Mahatinggi, lupa dalam tampilan.
 
-**AR:** آَل عِمْرَان  
-**LAT:** Ālu ‘Imrān  
+**AR:** آَل عِمْرَان
+**LAT:** Ālu ‘Imrān
 **ID:** Ali 'Imran.
 
-**AR:** سورة النِّسَاء  
-**LAT:** Sūrat al-Nisā’  
+**AR:** سورة النِّسَاء
+**LAT:** Sūrat al-Nisā’
 **ID:** Surah An-Nisa (QS 4).
 
-**AR:** قَالَ جَعْفَرُ الصَّادِقُ عَلَيْهِ السَّلَامُ: كَتَبَهَا وَجَعَلَهَا فِي مِطْرَلٍ أَرْبَعِينَ يَوْمًا، ثُمَّ خَرَجَهَا، فَمَنْ سَكَنَهَا مِنْ غَيْرِ دَارٍ، وَيَحْبُوهَا، لَا يُصْحَبُ السَّكَنُ الْمَنَازِلَ، بِمَاءِ الْمَطَرِ، وَإِنْ خَافَ، آمَنَ بِإِذْنِ اللَّهِ تَعَالَى  
-**LAT:** Qāla Ja‘far al-Ṣādiqu ‘alayhi al-salām: katabathā wa-ja‘alahā fī miṭrilin arba‘īna yawman, thumma kharajathā, fa-man sakannahā min ghayri dārin, wa-yuḥbuhā, lā yuṣḥabu al-sakunu al-manāzila, bi-mā‘i al-maṭari, wa-in khāfa, āmana bi-idhni Allāhi ta‘ālā  
+**AR:** قَالَ جَعْفَرُ الصَّادِقُ عَلَيْهِ السَّلَامُ: كَتَبَهَا وَجَعَلَهَا فِي مِطْرَلٍ أَرْبَعِينَ يَوْمًا، ثُمَّ خَرَجَهَا، فَمَنْ سَكَنَهَا مِنْ غَيْرِ دَارٍ، وَيَحْبُوهَا، لَا يُصْحَبُ السَّكَنُ الْمَنَازِلَ، بِمَاءِ الْمَطَرِ، وَإِنْ خَافَ، آمَنَ بِإِذْنِ اللَّهِ تَعَالَى
+**LAT:** Qāla Ja‘far al-Ṣādiqu ‘alayhi al-salām: katabathā wa-ja‘alahā fī miṭrilin arba‘īna yawman, thumma kharajathā, fa-man sakannahā min ghayri dārin, wa-yuḥbuhā, lā yuṣḥabu al-sakunu al-manāzila, bi-mā‘i al-maṭari, wa-in khāfa, āmana bi-idhni Allāhi ta‘ālā
 **ID:** Ja'far al-Shadiq 'alaihissalam berkata: Menulisnya dan menjadikannya dalam selimut selama empat puluh hari, kemudian mengeluarkannya, barangsiapa tinggalnya bukan dari rumah, dan mencintainya, tidak ditemani tempat tinggal oleh rumah-rumah, dengan air hujan, dan jika takut, aman dengan izin Allah Ta'ala.
 
-**AR:** النِّسَاء  
+**AR:** النِّسَاء
 **LAT:** al-Nisā’
 **ID:** An-Nisa.
 
 ### Wafaq Surah Baqarah — tabel scan halaman 239
-**AR:** ٤٥٦٣٦٧ ٤٥٦٣٨١ ٤٥٦٣٧٨ ٤٥٦٣٧٥ ٤٥٦٣٧٩ ٤٥٦٣٧٤ ٤٥٦٣٦٨ ٤٥٦٣٨٠ ٤٥٦٣٧٣ ٤٥٦٣٧٦ ٤٥٦٣٨٣ ٤٥٦٣٦٩ ٤٥٦٣٨٢ ٤٥٦٣٧٠ ٤٥٦٣٧٢ ٤٥٦٣٧٧  
-**LAT:** 456367 456381 456378 456375 456379 456374 456368 456380 456373 456376 456383 456369 456382 456370 456372 456377  
+**AR:** ٤٥٦٣٦٧ ٤٥٦٣٨١ ٤٥٦٣٧٨ ٤٥٦٣٧٥ ٤٥٦٣٧٩ ٤٥٦٣٧٤ ٤٥٦٣٦٨ ٤٥٦٣٨٠ ٤٥٦٣٧٣ ٤٥٦٣٧٦ ٤٥٦٣٨٣ ٤٥٦٣٦٩ ٤٥٦٣٨٢ ٤٥٦٣٧٠ ٤٥٦٣٧٢ ٤٥٦٣٧٧
+**LAT:** 456367 456381 456378 456375 456379 456374 456368 456380 456373 456376 456383 456369 456382 456370 456372 456377
 **ID:** Deret 16 angka dicocokkan satu per satu dengan gambar scan PDF halaman 239 (bukan raw_extract). [TERVERIFIKASI DARI GAMBAR SCAN HAL. 239].
 
 ### Wafaq Surah Ali 'Imran — tabel scan halaman 239
-**AR:** ٢٦٤٠٠٦ ٢٦٤٠١٩ ٢٦٤٠١٦ ٢٦٤٠١٣ ٢٦٤٠١٧ ٢٦٤٠١٢ ٢٦٤٠٠٧ ٢٦٤٠١٨ ٢٦٤٠١١ ٢٦٤٠١٤ ٢٦٤٠٢١ ٢٦٤٠٠٨ ٢٦٤٠٢٠ ٢٦٤٠٠٩ ٢٦٤٠١٠ ٢٦٤٠١٥  
-**LAT:** 264006 264019 264016 264013 264017 264012 264007 264018 264011 264014 264021 264008 264020 264009 264010 264015  
+**AR:** ٢٦٤٠٠٦ ٢٦٤٠١٩ ٢٦٤٠١٦ ٢٦٤٠١٣ ٢٦٤٠١٧ ٢٦٤٠١٢ ٢٦٤٠٠٧ ٢٦٤٠١٨ ٢٦٤٠١١ ٢٦٤٠١٤ ٢٦٤٠٢١ ٢٦٤٠٠٨ ٢٦٤٠٢٠ ٢٦٤٠٠٩ ٢٦٤٠١٠ ٢٦٤٠١٥
+**LAT:** 264006 264019 264016 264013 264017 264012 264007 264018 264011 264014 264021 264008 264020 264009 264010 264015
 **ID:** Deret 16 angka dicocokkan satu per satu dengan gambar scan PDF halaman 239 (bukan raw_extract). [TERVERIFIKASI DARI GAMBAR SCAN HAL. 239].
 
 ### Wafaq Surah An-Nisa — tabel scan halaman 239
-**AR:** ٢٧٩٣٤٠ ٢٧٩٣٥٤ ٢٧٩٣٥١ ٢٧٩٣٤٨ ٢٧٩٣٥٢ ٢٧٩٣٤٧ ٢٧٩٣٤١ ٢٧٩٣٥٣ ٢٧٩٣٤٦ ٢٧٩٣٤٩ ٢٧٩٣٥٦ ٢٧٩٣٤٢ ٢٧٩٣٥٥ ٢٧٩٣٤٣ ٢٧٩٣٤٥ ٢٧٩٣٥٠  
-**LAT:** 279340 279354 279351 279348 279352 279347 279341 279353 279346 279349 279356 279342 279355 279343 279345 279350  
+**AR:** ٢٧٩٣٤٠ ٢٧٩٣٥٤ ٢٧٩٣٥١ ٢٧٩٣٤٨ ٢٧٩٣٥٢ ٢٧٩٣٤٧ ٢٧٩٣٤١ ٢٧٩٣٥٣ ٢٧٩٣٤٦ ٢٧٩٣٤٩ ٢٧٩٣٥٦ ٢٧٩٣٤٢ ٢٧٩٣٥٥ ٢٧٩٣٤٣ ٢٧٩٣٤٥ ٢٧٩٣٥٠
+**LAT:** 279340 279354 279351 279348 279352 279347 279341 279353 279346 279349 279356 279342 279355 279343 279345 279350
 **ID:** Deret 16 angka dicocokkan satu per satu dengan gambar scan PDF halaman 239 (bukan raw_extract). [TERVERIFIKASI DARI GAMBAR SCAN HAL. 239].
 
 ---
@@ -73,48 +73,48 @@ Branch: `arena/02ad7a12-sirrul-asrar-fit-tawashul-ma-a`
 ![Wafaq Al-Ma’idah — halaman 240](../assets/rajah/sirrul-asrar/hal-240-rajah-01.jpg)  
 ![Wafaq Al-An‘am — halaman 240](../assets/rajah/sirrul-asrar/hal-240-rajah-02.jpg)  
 
-**AR:** سورة المَائِدَة  
-**LAT:** Sūrat al-Mā’idah  
+**AR:** سورة المَائِدَة
+**LAT:** Sūrat al-Mā’idah
 **ID:** Surah Al-Ma'idah (QS 5).
 
-**AR:** قَالَ جَعْفَرُ الصَّادِقُ عَلَيْهِ السَّلَامُ: قِمَاشُهُ، أَمَّا أَنْ يَكْتُبَهَا وَيَجْعَلَهَا فِي صَدْرِهِ، وَلَا يَخَافُ شَيْئًا، فَإِذَا كَانَ غَرِيبًا طَارِقَ الطَّرِيقِ، حَوْلَهُ وَقُوَّتُهُ، وَعَابِدٌ وَرَاشِحٌ وَالْجَائِعُ وَالْمَاءُ وَالْخُبْزُ بِقَدْرَةِ اللَّهِ تَعَالَى عَدَمُ الضَّرَرِ عَلَيْهِ، الْمَاءُ  
-**LAT:** Qāla Ja‘far al-Ṣādiqu ‘alayhi al-salām: qimāshuhu, amma an yaktubhā wa-ya‘jalahā fī ṣadrih, wa-lā yakhāfu shay’an, fa-idhā kāna gharībān ṭāriqa al-ṭarīqi, ḥawlah wa-quwwatuh, wa-‘ābidun wa-rāshiḥun wal-jā‘i‘u wal-mā’u wal-khubzu bi-qadrati Allāhi ta‘ālā ‘adamu al-ḍarari ‘alayh, al-mā’u  
+**AR:** قَالَ جَعْفَرُ الصَّادِقُ عَلَيْهِ السَّلَامُ: قِمَاشُهُ، أَمَّا أَنْ يَكْتُبَهَا وَيَجْعَلَهَا فِي صَدْرِهِ، وَلَا يَخَافُ شَيْئًا، فَإِذَا كَانَ غَرِيبًا طَارِقَ الطَّرِيقِ، حَوْلَهُ وَقُوَّتُهُ، وَعَابِدٌ وَرَاشِحٌ وَالْجَائِعُ وَالْمَاءُ وَالْخُبْزُ بِقَدْرَةِ اللَّهِ تَعَالَى عَدَمُ الضَّرَرِ عَلَيْهِ، الْمَاءُ
+**LAT:** Qāla Ja‘far al-Ṣādiqu ‘alayhi al-salām: qimāshuhu, amma an yaktubhā wa-ya‘jalahā fī ṣadrih, wa-lā yakhāfu shay’an, fa-idhā kāna gharībān ṭāriqa al-ṭarīqi, ḥawlah wa-quwwatuh, wa-‘ābidun wa-rāshiḥun wal-jā‘i‘u wal-mā’u wal-khubzu bi-qadrati Allāhi ta‘ālā ‘adamu al-ḍarari ‘alayh, al-mā’u
 **ID:** Ja'far al-Shadiq 'alaihissalam berkata: Pakaiannya, bahwa ia menulisnya dan menjadikannya dalam dadanya, dan tidak takut sesuatu, lalu jika orang asing mengetuk jalan, di sekelilingnya dan kekuatannya, dan ibadah dan berkeringat dan yang lapar dan air dan roti dengan kuasa Allah Ta'ala tidak ada kerusakan padanya, air...
 
-**AR:** الْمَائِدَة  
-**LAT:** al-Mā’idah  
+**AR:** الْمَائِدَة
+**LAT:** al-Mā’idah
 **ID:** Al-Ma'idah.
 
-**AR:** سورة الأنْعَام  
-**LAT:** Sūrat al-An‘ām  
+**AR:** سورة الأنْعَام
+**LAT:** Sūrat al-An‘ām
 **ID:** Surah Al-An'am (QS 6).
 
-**AR:** الْإِنْسَانُ ثَلَاثَةٌ شَعْرٌ، وَإِذَا كَتَبَتْ تَوَلَّتْ خَيْرًا، وَلَمْ تَكُنْ فِي السُّوءِ الْأَوْجَاعُ، وَالْقُرْحَاتُ وَالْأَوْرَامُ وَالْطُّمُورُ، وَمِنْهَا، أَمِنَتْ وَإِذَا عُلِّقَتْ عَلَى الدَّابَّةِ، وَصَحَّتْ مَسْمَعُهَا، مِنْ الْهَزَلِ وَالْإِصَابَةِ، وَمِنَ الْأَمْرَاضِ إِلَى الْوَقْتِ الْمَعْلُومِ بِإِذْنِ اللَّهِ تَعَالَى  
-**LAT:** al-insānu thalāthatun sha‘run, wa-idhā katabat tawallat khayran, wa-lam takūn fī al-su‘i al-awjā‘u, wal-quruḥātu wal-awrām wa al-tumūr, wa-minhā, āmanat wa-idhā ‘ulliqat ‘ala al-dābbati, wa-ṣaḥḥat sam‘uhā, min al-hazal wal-iṣābah, wa-min al-aḍrābi ilā al-waqti al-ma‘lūm bi-idhni Allāhi ta‘ālā  
+**AR:** الْإِنْسَانُ ثَلَاثَةٌ شَعْرٌ، وَإِذَا كَتَبَتْ تَوَلَّتْ خَيْرًا، وَلَمْ تَكُنْ فِي السُّوءِ الْأَوْجَاعُ، وَالْقُرْحَاتُ وَالْأَوْرَامُ وَالْطُّمُورُ، وَمِنْهَا، أَمِنَتْ وَإِذَا عُلِّقَتْ عَلَى الدَّابَّةِ، وَصَحَّتْ مَسْمَعُهَا، مِنْ الْهَزَلِ وَالْإِصَابَةِ، وَمِنَ الْأَمْرَاضِ إِلَى الْوَقْتِ الْمَعْلُومِ بِإِذْنِ اللَّهِ تَعَالَى
+**LAT:** al-insānu thalāthatun sha‘run, wa-idhā katabat tawallat khayran, wa-lam takūn fī al-su‘i al-awjā‘u, wal-quruḥātu wal-awrām wa al-tumūr, wa-minhā, āmanat wa-idhā ‘ulliqat ‘ala al-dābbati, wa-ṣaḥḥat sam‘uhā, min al-hazal wal-iṣābah, wa-min al-aḍrābi ilā al-waqti al-ma‘lūm bi-idhni Allāhi ta‘ālā
 **ID:** Manusia adalah tiga: rambut... dan jika menulisnya, berbalik kepada kebaikan, dan tidak ada dalam keburukan nyeri, dan luka-luka dan bengkak dan tumor, dan darinya, aman dan jika digantung pada hewan, dan sembuh pendengarannya, dari kekurangan dan cedera, dan dari penyakit hingga waktu yang telah ditetapkan dengan izin Allah Ta'ala.
 
-**AR:** قِسْماً بِإِذْنِ اللَّهِ تَعَالَى، وَحَفِظَهَا فِيهَا مَا قَرَأَهَا فِي كُلِّ لَيْلَةٍ، آمَنَ مِنَ النُّهَارِ  
-**LAT:** Qasman bi-idhni Allāhi ta‘ālā, wa-ḥafiẓathā fīhā mā qara‘aha fī kullay laylatin, āmana min al-nuhār  
+**AR:** قِسْماً بِإِذْنِ اللَّهِ تَعَالَى، وَحَفِظَهَا فِيهَا مَا قَرَأَهَا فِي كُلِّ لَيْلَةٍ، آمَنَ مِنَ النُّهَارِ
+**LAT:** Qasman bi-idhni Allāhi ta‘ālā, wa-ḥafiẓathā fīhā mā qara‘aha fī kullay laylatin, āmana min al-nuhār
 **ID:** Sumpah dengan izin Allah Ta'ala, dan melindunginya dalamnya apa yang dibacanya dalam setiap malam, aman dari siang hari.
 
-**AR:** الْأَنْعَام  
-**LAT:** al-An‘ām  
+**AR:** الْأَنْعَام
+**LAT:** al-An‘ām
 **ID:** Al-An'am.
 
-**AR:** عِنْدَهُ، وَقَرَأَهَا فِي شَهْرٍ بِنِيَّةٍ صَلَّى فِي لَيْلَةٍ أَوْ كَعْتَيْنِ، ثُمَّ سَلَّمَ صَلَاتُهُ فِي ذَلِكَ الشَّهْرِ مِنْ كُلِّ خَوْفٍ، وَيَسْأَلُ اللَّهَ تَعَالَى مَا يَكْرَهُهُ شَهْرًا بَعِيدًا، وَيَحْذَرُ الْوَجْهَ بِإِذْنِ اللَّهِ تَعَالَى  
-**LAT:** ‘indah, wa-qara‘aha fī shahrin bi-niyyatin ṣallā fī laylatin aw ka‘tain, thumma sallama ṣalātuh fī dhālika al-shahri min kulli khawfin, wa-yas'alu Allāha ta‘ālā mā yakrahuhu shahran ba‘īdan, wa-yahdharu al-wajha bi-idhni Allāhi ta‘ālā  
+**AR:** عِنْدَهُ، وَقَرَأَهَا فِي شَهْرٍ بِنِيَّةٍ صَلَّى فِي لَيْلَةٍ أَوْ كَعْتَيْنِ، ثُمَّ سَلَّمَ صَلَاتُهُ فِي ذَلِكَ الشَّهْرِ مِنْ كُلِّ خَوْفٍ، وَيَسْأَلُ اللَّهَ تَعَالَى مَا يَكْرَهُهُ شَهْرًا بَعِيدًا، وَيَحْذَرُ الْوَجْهَ بِإِذْنِ اللَّهِ تَعَالَى
+**LAT:** ‘indah, wa-qara‘aha fī shahrin bi-niyyatin ṣallā fī laylatin aw ka‘tain, thumma sallama ṣalātuh fī dhālika al-shahri min kulli khawfin, wa-yas'alu Allāha ta‘ālā mā yakrahuhu shahran ba‘īdan, wa-yahdharu al-wajha bi-idhni Allāhi ta‘ālā
 **ID:** Padanya, dan membacanya dalam sebulan dengan niat, shalat dalam satu malam atau dua kali, lalu selesaikan shalatnya dalam bulan itu dari semua ketakutan, dan meminta Allah Ta'ala apa yang dibencinya bulan yang jauh, dan waspada wajah dengan izin Allah Ta'ala.
 
-**AR:** الأنْعَام  
-**LAT:** al-An‘ām  
+**AR:** الأنْعَام
+**LAT:** al-An‘ām
 **ID:** Al-An'am.
 
-**AR:** سورة الأَعرَاف  
-**LAT:** Sūrat al-A‘rāf  
+**AR:** سورة الأَعرَاف
+**LAT:** Sūrat al-A‘rāf
 **ID:** Surah Al-A'raf (QS 7).
 
-**AR:** مِنْ عِفْرَانٍ وَعُلِّقَتْ عَلَيْهِ، أَمِنَ كُتِبَتْ بِمَاءٍ وَرَدٍّ، وَزَيْنَ، مِنْ كَيْدِ النَّاسِ، وَأَمِنَ السَّبِيلِ، وَضَعَ الْفُؤَادَ، وَلَمْ يَقْنَعْ، وَوَجَدَ، بِإِذْنِ اللَّهِ تَعَالَى، عِنْدَ اللِّسَانِ، وَمَنْ حَلِمَ مِنَ الْعَدُوِّ  
-**LAT:** min ‘ifrān wa-‘ulliqat ‘alayh, āmana katabat bi-mā'in wa-wardin, wa-zayna, min kaydi al-nāsi, wa-āmina al-sabīl, wa-ḍa‘a al-fu’ād, wa-lam yaqna‘, wa-wajada, bi-idhni Allāhi ta‘ālā, ‘inda al-lisān, wa-man ḥalima min al-‘aduww  
+**AR:** مِنْ عِفْرَانٍ وَعُلِّقَتْ عَلَيْهِ، أَمِنَ كُتِبَتْ بِمَاءٍ وَرَدٍّ، وَزَيْنَ، مِنْ كَيْدِ النَّاسِ، وَأَمِنَ السَّبِيلِ، وَضَعَ الْفُؤَادَ، وَلَمْ يَقْنَعْ، وَوَجَدَ، بِإِذْنِ اللَّهِ تَعَالَى، عِنْدَ اللِّسَانِ، وَمَنْ حَلِمَ مِنَ الْعَدُوِّ
+**LAT:** min ‘ifrān wa-‘ulliqat ‘alayh, āmana katabat bi-mā'in wa-wardin, wa-zayna, min kaydi al-nāsi, wa-āmina al-sabīl, wa-ḍa‘a al-fu’ād, wa-lam yaqna‘, wa-wajada, bi-idhni Allāhi ta‘ālā, ‘inda al-lisān, wa-man ḥalima min al-‘aduww
 **ID:** Dari kebalikan dan digantung padanya, aman ditulis dengan air dan bunga mawar, dan hiasan, dari tipu daya manusia, dan aman jalan, dan menempatkan hati, dan tidak puas, dan found, dengan izin Allah Ta'ala, di lidah, dan yang sabar dari musuh.
 
 **AR:** [WAFAQ DI SCAN HAL. 241]
@@ -122,13 +122,13 @@ Branch: `arena/02ad7a12-sirrul-asrar-fit-tawashul-ma-a`
 **ID:** Tidak ada tabel wafaq Al-A‘raf di scan halaman 240; lihat daftar scan halaman 241.
 
 ### Wafaq Surah Al-Ma'idah — tabel scan halaman 240
-**AR:** ٢٠٦١٦١ ٢٠٦١٧٤ ٢٠٦١٧١ ٢٠٦١٦٨ ٢٠٦١٧٢ ٢٠٦١٦٧ ٢٠٦١٦٢ ٢٠٦١٧٣ ٢٠٦١٦٦ ٢٠٦١٦٩ ٢٠٦١٧٦ ٢٠٦١٦٣ ٢٠٦١٧٥ ٢٠٦١٦٤ ٢٠٦١٦٥ ٢٠٦١٧٠  
-**LAT:** 206161 206174 206171 206168 206172 206167 206162 206173 206166 206169 206176 206163 206175 206164 206165 206170  
+**AR:** ٢٠٦١٦١ ٢٠٦١٧٤ ٢٠٦١٧١ ٢٠٦١٦٨ ٢٠٦١٧٢ ٢٠٦١٦٧ ٢٠٦١٦٢ ٢٠٦١٧٣ ٢٠٦١٦٦ ٢٠٦١٦٩ ٢٠٦١٧٦ ٢٠٦١٦٣ ٢٠٦١٧٥ ٢٠٦١٦٤ ٢٠٦١٦٥ ٢٠٦١٧٠
+**LAT:** 206161 206174 206171 206168 206172 206167 206162 206173 206166 206169 206176 206163 206175 206164 206165 206170
 **ID:** Deret 16 angka dicocokkan satu per satu dengan gambar scan PDF halaman 240 (bukan raw_extract). [TERVERIFIKASI DARI GAMBAR SCAN HAL. 240].
 
 ### Wafaq Surah Al-An'am — tabel scan halaman 240
-**AR:** ٢٣٣٣٤٥ ٢٣٣٣٥٨ ٢٣٣٣٥٥ ٢٣٣٣٥٢ ٢٣٣٣٥٦ ٢٣٣٣٥١ ٢٣٣٣٤٦ ٢٣٣٣٥٧ ٢٣٣٣٥٠ ٢٣٣٣٥٣ ٢٣٣٣٦٠ ٢٣٣٣٤٧ ٢٣٣٣٥٩ ٢٣٣٣٤٨ ٢٣٣٣٤٩ ٢٣٣٣٥٤  
-**LAT:** 233345 233358 233355 233352 233356 233351 233346 233357 233350 233353 233360 233347 233359 233348 233349 233354  
+**AR:** ٢٣٣٣٤٥ ٢٣٣٣٥٨ ٢٣٣٣٥٥ ٢٣٣٣٥٢ ٢٣٣٣٥٦ ٢٣٣٣٥١ ٢٣٣٣٤٦ ٢٣٣٣٥٧ ٢٣٣٣٥٠ ٢٣٣٣٥٣ ٢٣٣٣٦٠ ٢٣٣٣٤٧ ٢٣٣٣٥٩ ٢٣٣٣٤٨ ٢٣٣٣٤٩ ٢٣٣٣٥٤
+**LAT:** 233345 233358 233355 233352 233356 233351 233346 233357 233350 233353 233360 233347 233359 233348 233349 233354
 **ID:** Deret 16 angka dicocokkan satu per satu dengan gambar scan PDF halaman 240 (bukan raw_extract). [TERVERIFIKASI DARI GAMBAR SCAN HAL. 240].
 
 ---
@@ -140,23 +140,23 @@ Branch: `arena/02ad7a12-sirrul-asrar-fit-tawashul-ma-a`
 ![Wafaq Al-Anfal — halaman 241](../assets/rajah/sirrul-asrar/hal-241-rajah-02.jpg)  
 ![Wafaq At-Tawbah — halaman 241](../assets/rajah/sirrul-asrar/hal-241-rajah-03.jpg)  
 
-**AR:** الأَعرَاف  
-**LAT:** al-A‘rāf  
+**AR:** الأَعرَاف
+**LAT:** al-A‘rāf
 **ID:** Al-A'raf.
 
 ### Wafaq Surah Al-A'raf — tabel scan halaman 241
-**AR:** ٢٦٣٥٤٦ ٢٦٣٥٦٠ ٢٦٣٥٥٦ ٢٦٣٥٥٣ ٢٦٣٥٥٧ ٢٦٣٥٥٢ ٢٦٣٥٤٧ ٢٦٣٥٥٩ ٢٦٣٥٥١ ٢٦٣٥٥٤ ٢٦٣٥٦٢ ٢٦٣٥٤٨ ٢٦٣٥٦١ ٢٦٣٥٤٩ ٢٦٣٥٥٠ ٢٦٣٥٥٥  
-**LAT:** 263546 263560 263556 263553 263557 263552 263547 263559 263551 263554 263562 263548 263561 263549 263550 263555  
+**AR:** ٢٦٣٥٤٦ ٢٦٣٥٦٠ ٢٦٣٥٥٦ ٢٦٣٥٥٣ ٢٦٣٥٥٧ ٢٦٣٥٥٢ ٢٦٣٥٤٧ ٢٦٣٥٥٩ ٢٦٣٥٥١ ٢٦٣٥٥٤ ٢٦٣٥٦٢ ٢٦٣٥٤٨ ٢٦٣٥٦١ ٢٦٣٥٤٩ ٢٦٣٥٥٠ ٢٦٣٥٥٥
+**LAT:** 263546 263560 263556 263553 263557 263552 263547 263559 263551 263554 263562 263548 263561 263549 263550 263555
 **ID:** Deret 16 angka dicocokkan satu per satu dengan gambar scan PDF halaman 241 (bukan raw_extract). [TERVERIFIKASI DARI GAMBAR SCAN HAL. 241].
 
 ### Wafaq Surah Al-Anfal — tabel scan halaman 241
-**AR:** ٩٣٨٦٥ ٩٣٨٧٩ ٩٣٨٧٥ ٩٣٨٧٢ ٩٣٨٧٦ ٩٣٨٧١ ٩٣٨٦٦ ٩٣٨٧٨ ٩٣٨٧٠ ٩٣٨٧٣ ٩٣٨٨١ ٩٣٨٦٧ ٩٣٨٨٠ ٩٣٨٦٨ ٩٣٨٦٩ ٩٣٨٧٤  
-**LAT:** 93865 93879 93875 93872 93876 93871 93866 93878 93870 93873 93881 93867 93880 93868 93869 93874  
+**AR:** ٩٣٨٦٥ ٩٣٨٧٩ ٩٣٨٧٥ ٩٣٨٧٢ ٩٣٨٧٦ ٩٣٨٧١ ٩٣٨٦٦ ٩٣٨٧٨ ٩٣٨٧٠ ٩٣٨٧٣ ٩٣٨٨١ ٩٣٨٦٧ ٩٣٨٨٠ ٩٣٨٦٨ ٩٣٨٦٩ ٩٣٨٧٤
+**LAT:** 93865 93879 93875 93872 93876 93871 93866 93878 93870 93873 93881 93867 93880 93868 93869 93874
 **ID:** Deret 16 angka dicocokkan satu per satu dengan gambar scan PDF halaman 241 (bukan raw_extract). [TERVERIFIKASI DARI GAMBAR SCAN HAL. 241].
 
 ### Wafaq Surah At-Tawbah — tabel scan halaman 241
-**AR:** ١٨٤٥٢٨ ١٨٤٥٤٢ ١٨٤٥٣٩ ١٨٤٥٣٦ ١٨٤٥٤٠ ١٨٤٥٣٥ ١٨٤٥٢٩ ١٨٤٥٤١ ١٨٤٥٣٤ ١٨٤٥٣٧ ١٨٤٥٤٤ ١٨٤٥٣٠ ١٨٤٥٤٣ ١٨٤٥٣١ ١٨٤٥٣٣ ١٨٤٥٣٨  
-**LAT:** 184528 184542 184539 184536 184540 184535 184529 184541 184534 184537 184544 184530 184543 184531 184533 184538  
+**AR:** ١٨٤٥٢٨ ١٨٤٥٤٢ ١٨٤٥٣٩ ١٨٤٥٣٦ ١٨٤٥٤٠ ١٨٤٥٣٥ ١٨٤٥٢٩ ١٨٤٥٤١ ١٨٤٥٣٤ ١٨٤٥٣٧ ١٨٤٥٤٤ ١٨٤٥٣٠ ١٨٤٥٤٣ ١٨٤٥٣١ ١٨٤٥٣٣ ١٨٤٥٣٨
+**LAT:** 184528 184542 184539 184536 184540 184535 184529 184541 184534 184537 184544 184530 184543 184531 184533 184538
 **ID:** Deret 16 angka dicocokkan satu per satu dengan gambar scan PDF halaman 241 (bukan raw_extract). [TERVERIFIKASI DARI GAMBAR SCAN HAL. 241].
 
 ---
@@ -167,62 +167,62 @@ Branch: `arena/02ad7a12-sirrul-asrar-fit-tawashul-ma-a`
 ![Wafaq Yunus — halaman 242](../assets/rajah/sirrul-asrar/hal-242-rajah-01.jpg)  
 ![Wafaq Hud — halaman 242](../assets/rajah/sirrul-asrar/hal-242-rajah-02.jpg)  
 
-**AR:** سورة الأنْفَال  
-**LAT:** Sūrat al-Anfāl  
+**AR:** سورة الأنْفَال
+**LAT:** Sūrat al-Anfāl
 **ID:** Surah Al-Anfal (QS 8).
 
-**AR:** كَتَبَهَا وَعَلَّقَهَا عَلَيْهِ، لَمْ يَقِفْ أَبَدًا بَيْنَ يَدَيْهِ، وَهِيَ، وَأَحْكَمُ إِذَا كَانَتْ لَهُ الْحُجَّةُ عَلَيْهِ، وَإِذَا وَجَبَ حَقُّهُ، وَإِنْ كَانَ غَرِيبًا طَارِقَ الطَّرِيقِ، حَوْلَهُ وَقُوَّتُهُ، وَعَابِدٌ وَرَاشِحٌ وَالْجَائِعُ وَالْمَاءُ وَالْخُبْزُ بِقَدْرَةِ اللَّهِ تَعَالَى عَدَمُ الضَّرَرِ عَلَيْهِ  
-**LAT:** Katabatha wa-‘alliqat ‘alayh, lam yaqif abadan bayna yadayh, wa-hiya, wa-aḥkamu idhā kānat lahu al-ḥujjatu ‘alayh, wa-idhā wajaba ḥaqquh, wa-in kāna gharībān ṭāriqa al-ṭarīqi, ḥawlah wa-quwwatuh, wa-‘ābidun wa-rāshiḥun wal-jā‘i‘u wal-mā’u wal-khubzu bi-qadrati Allāhi ta‘ālā ‘adamu al-ḍarari ‘alayh  
+**AR:** كَتَبَهَا وَعَلَّقَهَا عَلَيْهِ، لَمْ يَقِفْ أَبَدًا بَيْنَ يَدَيْهِ، وَهِيَ، وَأَحْكَمُ إِذَا كَانَتْ لَهُ الْحُجَّةُ عَلَيْهِ، وَإِذَا وَجَبَ حَقُّهُ، وَإِنْ كَانَ غَرِيبًا طَارِقَ الطَّرِيقِ، حَوْلَهُ وَقُوَّتُهُ، وَعَابِدٌ وَرَاشِحٌ وَالْجَائِعُ وَالْمَاءُ وَالْخُبْزُ بِقَدْرَةِ اللَّهِ تَعَالَى عَدَمُ الضَّرَرِ عَلَيْهِ
+**LAT:** Katabatha wa-‘alliqat ‘alayh, lam yaqif abadan bayna yadayh, wa-hiya, wa-aḥkamu idhā kānat lahu al-ḥujjatu ‘alayh, wa-idhā wajaba ḥaqquh, wa-in kāna gharībān ṭāriqa al-ṭarīqi, ḥawlah wa-quwwatuh, wa-‘ābidun wa-rāshiḥun wal-jā‘i‘u wal-mā’u wal-khubzu bi-qadrati Allāhi ta‘ālā ‘adamu al-ḍarari ‘alayh
 **ID:** Menulisnya dan menggantungnya padanya, tidak pernah berhenti di hadapannya, dan itu, dan paling bijaksana jika hujjahnya padanya, dan jika haknya wajib, dan jika orang asing mengetuk jalan, di sekelilingnya dan kekuatannya, dan ibadah dan berkeringat dan yang lapar dan air dan roti dengan kuasa Allah Ta'ala tidak ada kerusakan padanya.
 
-**AR:** الْأَنْفَال  
-**LAT:** al-Anfāl  
+**AR:** الْأَنْفَال
+**LAT:** al-Anfāl
 **ID:** Al-Anfal.
 
-**AR:** سورة بَرَاءة  
-**LAT:** Sūrat Barā’ah (al-Tawbah)  
+**AR:** سورة بَرَاءة
+**LAT:** Sūrat Barā’ah (al-Tawbah)
 **ID:** Surah At-Tawbah / Barā’ah (QS 9).
 
-**AR:** مَنْهَا، أَمِنَ السَّعَادَةِ أَوْ قَلَنَ كَتَبَهَا وَجَعَلَهَا فِي سِجْنِهِ، وَإِنْ رَامُوا، قَدَّ لَهُ التَّعَرُّضُ، رُوُوا عَلَيْهِ، وَأَمِنَ الْمَدِينَةَ بِأَسْرِهَا وَأَتَتِ النَّارُ، وَلَوْ أَحْرَقَتِ النَّارُ الْحَرِيقَ فِي مِتْرِهِ، وَلَمْ يَقِفْ بِنِعْمَةِ اللَّهِ تَعَالَى وَبَرَكَةِ الْقُرْآنِ وَقَفَتْ فِي إِنَاءٍ وَإِذَا كُتِبَتْ، كُنْ سَادًا فِي الْبَحْرِ، وَغُسِلَ الْحَرِيقُ  
-**LAT:** Minhā, āmina al-sa‘ādah aw qalnā katabathā wa-ja‘alahā fī sijnih, wa-in rāmū, qadda lahu al-ta‘arrud, rūwā ‘alayh, wa-āmina al-madinata bi-asrihā wa-atati al-nār, wa-law aḥraqat al-nār al-ḥarīqa fī mitrih, wa-lam yaqif bi-ni‘mati Allāhi ta‘ālā wa-barakati al-Qur’āni waqafat fī inā'in, wa-idhā katabat, kun sādan fī al-baḥri, wa-ghusila al-ḥarīqu  
+**AR:** مَنْهَا، أَمِنَ السَّعَادَةِ أَوْ قَلَنَ كَتَبَهَا وَجَعَلَهَا فِي سِجْنِهِ، وَإِنْ رَامُوا، قَدَّ لَهُ التَّعَرُّضُ، رُوُوا عَلَيْهِ، وَأَمِنَ الْمَدِينَةَ بِأَسْرِهَا وَأَتَتِ النَّارُ، وَلَوْ أَحْرَقَتِ النَّارُ الْحَرِيقَ فِي مِتْرِهِ، وَلَمْ يَقِفْ بِنِعْمَةِ اللَّهِ تَعَالَى وَبَرَكَةِ الْقُرْآنِ وَقَفَتْ فِي إِنَاءٍ وَإِذَا كُتِبَتْ، كُنْ سَادًا فِي الْبَحْرِ، وَغُسِلَ الْحَرِيقُ
+**LAT:** Minhā, āmina al-sa‘ādah aw qalnā katabathā wa-ja‘alahā fī sijnih, wa-in rāmū, qadda lahu al-ta‘arrud, rūwā ‘alayh, wa-āmina al-madinata bi-asrihā wa-atati al-nār, wa-law aḥraqat al-nār al-ḥarīqa fī mitrih, wa-lam yaqif bi-ni‘mati Allāhi ta‘ālā wa-barakati al-Qur’āni waqafat fī inā'in, wa-idhā katabat, kun sādan fī al-baḥri, wa-ghusila al-ḥarīqu
 **ID:** Darinya, aman kebahagiaan atau kita menulisnya dan menjadikannya dalam penjara, dan jika mereka berniat, menyediakan untuknya, rui padanya, dan aman kota bersama isinya dan api datang, dan jika api membakar kebakaran di mitrnya, dan tidak berhenti dengan nikmat Allah Ta'ala dan berkah Al-Qur'an dan berdiri dalam wadah dan jika ditulis, jadilah pemimpin di laut, dan dibasahi kebakaran.
 
-**AR:** التَّوْبَة  
-**LAT:** al-Tawbah  
+**AR:** التَّوْبَة
+**LAT:** al-Tawbah
 **ID:** At-Tawbah.
 
-**AR:** سورة يُونَس  
-**LAT:** Sūrat Yūnus  
+**AR:** سورة يُونَس
+**LAT:** Sūrat Yūnus
 **ID:** Surah Yunus (QS 10).
 
-**AR:** هُمُومُهُمْ، وَيَأْكُلُ كُلُّ وَاحِدٍ عَلَيْهِ ذَلِكَ وَجِدٌ، وَكُسِرَ بِسُرْعَةٍ، ثُمَّ خُلِقَ لُقْمَةً، إِذَا السَّارِقُ لَا يَكَادُ يَفْلُتُ مِنْهُمْ لُقْمَةٍ، وَلَوْ حَارَأَ قَلْبُهُ بِقُوَّتِهِ، أَخَذَ الرَّجُلُ الَّذِي ضَاعَ لَهُ قَمِيصُهُ، لِيَحْلِفَ أَنَّهُ  
-**LAT:** Humūhum, wa-ya’kulu kullu wāḥidin ‘alayh dhālika wajad, wa-kusira bi-sur‘ah, thumma khuliqa luqmatin, idhā al-sāriqu lā yakādu yafallutu minhum luqmatin, wa-law ḥāra qalbuh bi-quwwatih, akhadha al-rajulu alladhī ḍā‘a lahu qamīṣuh, li-yahlifa annah  
+**AR:** هُمُومُهُمْ، وَيَأْكُلُ كُلُّ وَاحِدٍ عَلَيْهِ ذَلِكَ وَجِدٌ، وَكُسِرَ بِسُرْعَةٍ، ثُمَّ خُلِقَ لُقْمَةً، إِذَا السَّارِقُ لَا يَكَادُ يَفْلُتُ مِنْهُمْ لُقْمَةٍ، وَلَوْ حَارَأَ قَلْبُهُ بِقُوَّتِهِ، أَخَذَ الرَّجُلُ الَّذِي ضَاعَ لَهُ قَمِيصُهُ، لِيَحْلِفَ أَنَّهُ
+**LAT:** Humūhum, wa-ya’kulu kullu wāḥidin ‘alayh dhālika wajad, wa-kusira bi-sur‘ah, thumma khuliqa luqmatin, idhā al-sāriqu lā yakādu yafallutu minhum luqmatin, wa-law ḥāra qalbuh bi-quwwatih, akhadha al-rajulu alladhī ḍā‘a lahu qamīṣuh, li-yahlifa annah
 **ID:** Rasa kesedihan mereka, dan setiap orang makan padanya itu ketegangan, dan patah dengan cepat, kemudian diciptakan suapan, jika pencuri tidak hampir lepas dari mereka suapan, dan jika bingung hatinya dengan kekuatannya, mengambil pria yang kemejanya hilang, untuk bersumpah bahwa.
 
-**AR:** يُونُس  
-**LAT:** Yūnus  
+**AR:** يُونُس
+**LAT:** Yūnus
 **ID:** Yunus.
 
-**AR:** سورة هُود  
-**LAT:** Sūrat Hūd  
+**AR:** سورة هُود
+**LAT:** Sūrat Hūd
 **ID:** Surah Hud (QS 11).
 
-**AR:** هَذِهِ كَتَبَهَا فِي رِقٍّ، وَعَلَّقَهَا عَلَيْهِ، أَعْطَاهُ الْمَاءُ مِائَةَ رَجُلٍ، وَلَوْ قَاتَلَتْهُمْ وَنَصَرَهُمْ اللَّهُ، وَقَهَّرَهُمْ، وَخَافُوا مِنْهُ، وَأَعْطَاهُ النَّصْرَ، وَإِذَا رَآهُ طَارَ مِنْ هَيْبَتِهِ وَمُخَافَتِهِ وَسُرُعَتِهِ، كَادَ أَنْ يَصِيحَ صَيْحَةً مُفْزِعَةً يَتَكَلَّمْ بِحَضْرَتِهِ إِلَّا بِمَا يَكُونُ، وَلَا يَتَجَاسَرُ عَلَيْهِ، لَا يَتَكَلَّمُ بِحَضْرَتِهِ إِلَّا بِمَا يَكُونُ، قَوْلُهُ، قَلْبُهُ قَوِيٌّ، وَلَا يَفْزَعُ شَيْئًا، وَيَكُونُ مَعَهُ ثَلَاثَةُ أَيَّامٍ وَثَلَاثُ لَيَالٍ، وَلَوْ قَاتَلَهُمْ مِنَ الْأَهْوَالِ الْمَنَاظِرِ وَاخْتِلَافِ الْأَجْنَاسِ، لَا يَفْزَعُ الْجِنُّ  
-**LAT:** Hādhihi katabathā fī riqqin, wa-‘alliqat ‘alayh, a‘ṭāhu al-mā’u mi’ata rajulin, wa-law qātalat-hum wa-naṣarahumu Allāh, wa-qahharahum, wa-khāfū minhu, wa-a‘ṭāhu al-naṣra, wa-idhā ra’āhū ṭāra min haybatihi wa-mukhāfatihi wa-sur‘atihi, kāda an yaṣīḥa ṣayḥatan mufzi‘atan yatakallam bi-ḥaḍratihi illā bimā yakūn, wa-lā yatajassaru ‘alayh, lā yatakallamu bi-ḥaḍratihi illā bimā yakūn, qawluh, qalbuh qawiyyun, wa-lā yakhāfu shay’an, wa-yakūnu ma‘ahu thalāthatu ayyāmin wa-thalāthu layālin, wa-law qātalahum min al-ahwāli al-manāẓiri wa-ikhtilāfi al-ajnās, lā yakhāfu al-jinn  
+**AR:** هَذِهِ كَتَبَهَا فِي رِقٍّ، وَعَلَّقَهَا عَلَيْهِ، أَعْطَاهُ الْمَاءُ مِائَةَ رَجُلٍ، وَلَوْ قَاتَلَتْهُمْ وَنَصَرَهُمْ اللَّهُ، وَقَهَّرَهُمْ، وَخَافُوا مِنْهُ، وَأَعْطَاهُ النَّصْرَ، وَإِذَا رَآهُ طَارَ مِنْ هَيْبَتِهِ وَمُخَافَتِهِ وَسُرُعَتِهِ، كَادَ أَنْ يَصِيحَ صَيْحَةً مُفْزِعَةً يَتَكَلَّمْ بِحَضْرَتِهِ إِلَّا بِمَا يَكُونُ، وَلَا يَتَجَاسَرُ عَلَيْهِ، لَا يَتَكَلَّمُ بِحَضْرَتِهِ إِلَّا بِمَا يَكُونُ، قَوْلُهُ، قَلْبُهُ قَوِيٌّ، وَلَا يَفْزَعُ شَيْئًا، وَيَكُونُ مَعَهُ ثَلَاثَةُ أَيَّامٍ وَثَلَاثُ لَيَالٍ، وَلَوْ قَاتَلَهُمْ مِنَ الْأَهْوَالِ الْمَنَاظِرِ وَاخْتِلَافِ الْأَجْنَاسِ، لَا يَفْزَعُ الْجِنُّ
+**LAT:** Hādhihi katabathā fī riqqin, wa-‘alliqat ‘alayh, a‘ṭāhu al-mā’u mi’ata rajulin, wa-law qātalat-hum wa-naṣarahumu Allāh, wa-qahharahum, wa-khāfū minhu, wa-a‘ṭāhu al-naṣra, wa-idhā ra’āhū ṭāra min haybatihi wa-mukhāfatihi wa-sur‘atihi, kāda an yaṣīḥa ṣayḥatan mufzi‘atan yatakallam bi-ḥaḍratihi illā bimā yakūn, wa-lā yatajassaru ‘alayh, lā yatakallamu bi-ḥaḍratihi illā bimā yakūn, qawluh, qalbuh qawiyyun, wa-lā yakhāfu shay’an, wa-yakūnu ma‘ahu thalāthatu ayyāmin wa-thalāthu layālin, wa-law qātalahum min al-ahwāli al-manāẓiri wa-ikhtilāfi al-ajnās, lā yakhāfu al-jinn
 **ID:** Ini ditulis dalam kertas, dan digantung padanya, air memberi padanya seratus laki-laki, dan jika melawan mereka dan Allah menolong mereka, dan mengalahkan mereka, dan takut padanya, dan memberi padanya kemenangan, dan jika melihatnya terbang dari keagungan dan ketakutan dan cepatnya, hampir berteriak dengan teriakan yang menakjutkan bicara di hadirnya kecuali apa yang akan, dan tidak berani melawannya, tidak bicara di hadirnya kecuali apa yang akan, katanya, hatinya kuat, dan tidak takut sesuatu, dan akan bersama tiga hari dan tiga malam, dan jika melawan mereka dari keheboan pemandangan dan perbedaan jenis, jin tidak takut.
 
-**AR:** هُود  
-**LAT:** Hūd  
+**AR:** هُود
+**LAT:** Hūd
 **ID:** Hud.
 
 ### Wafaq Surah Yunus — tabel scan halaman 242
-**AR:** ١٣٤٠٠٩ ١٣٤٠٢٣ ١٣٤٠٢٠ ١٣٤٠١٧ ١٣٤٠٢١ ١٣٤٠١٦ ١٣٤٠١٠ ١٣٤٠٢٢ ١٣٤٠١٥ ١٣٤٠١٨ ١٣٤٠٢٥ ١٣٤٠١١ ١٣٤٠٢٤ ١٣٤٠١٢ ١٣٤٠١٤ ١٣٤٠١٩  
-**LAT:** 134009 134023 134020 134017 134021 134016 134010 134022 134015 134018 134025 134011 134024 134012 134014 134019  
+**AR:** ١٣٤٠٠٩ ١٣٤٠٢٣ ١٣٤٠٢٠ ١٣٤٠١٧ ١٣٤٠٢١ ١٣٤٠١٦ ١٣٤٠١٠ ١٣٤٠٢٢ ١٣٤٠١٥ ١٣٤٠١٨ ١٣٤٠٢٥ ١٣٤٠١١ ١٣٤٠٢٤ ١٣٤٠١٢ ١٣٤٠١٤ ١٣٤٠١٩
+**LAT:** 134009 134023 134020 134017 134021 134016 134010 134022 134015 134018 134025 134011 134024 134012 134014 134019
 **ID:** Deret 16 angka dicocokkan satu per satu dengan gambar scan PDF halaman 242 (bukan raw_extract). [TERVERIFIKASI DARI GAMBAR SCAN HAL. 242].
 
 ### Wafaq Surah Hud — tabel scan halaman 242
-**AR:** ١٣٤٣٥١ ١٣٤٣٦٤ ١٣٤٣٦١ ١٣٤٣٥٨ ١٣٤٣٦٢ ١٣٤٣٥٧ ١٣٤٣٥٢ ١٣٤٣٦٣ ١٣٤٣٥٦ ١٣٤٣٥٩ ١٣٤٣٦٦ ١٣٤٣٥٣ ١٣٤٣٦٥ ١٣٤٣٥٤ ١٣٤٣٥٥ ١٣٤٣٦٠  
-**LAT:** 134351 134364 134361 134358 134362 134357 134352 134363 134356 134359 134366 134353 134365 134354 134355 134360  
+**AR:** ١٣٤٣٥١ ١٣٤٣٦٤ ١٣٤٣٦١ ١٣٤٣٥٨ ١٣٤٣٦٢ ١٣٤٣٥٧ ١٣٤٣٥٢ ١٣٤٣٦٣ ١٣٤٣٥٦ ١٣٤٣٥٩ ١٣٤٣٦٦ ١٣٤٣٥٣ ١٣٤٣٦٥ ١٣٤٣٥٤ ١٣٤٣٥٥ ١٣٤٣٦٠
+**LAT:** 134351 134364 134361 134358 134362 134357 134352 134363 134356 134359 134366 134353 134365 134354 134355 134360
 **ID:** Deret 16 angka dicocokkan satu per satu dengan gambar scan PDF halaman 242 (bukan raw_extract). [TERVERIFIKASI DARI GAMBAR SCAN HAL. 242].
 
 ---
@@ -234,52 +234,52 @@ Branch: `arena/02ad7a12-sirrul-asrar-fit-tawashul-ma-a`
 ![Wafaq Ar-Ra‘d — halaman 243](../assets/rajah/sirrul-asrar/hal-243-rajah-02.jpg)  
 ![Wafaq Ibrahim — halaman 243](../assets/rajah/sirrul-asrar/hal-243-rajah-03.jpg)  
 
-**AR:** سورة يُوسُف  
-**LAT:** Sūrat Yūsuf  
+**AR:** سورة يُوسُف
+**LAT:** Sūrat Yūsuf
 **ID:** Surah Yusuf (QS 12).
 
-**AR:** كَتَبَهَا وَجَعَلَهَا فِي مِطْرَلِهِ ثَلَاثَةَ أَيَّامٍ، وَأَخْرَجَهَا إِلَى حَائِطِ الْبَيْتِ مِنْ أَيِّنَ الْمُخْرِجُهُ، لَا يَشْعُرُ السُّلْطَانُ يَدْعُوهُ إِلَى خِدْمَتِهِ، وَيَصْرِفُهُ فِي حَوَائِجِهِ بِإِذْنِ اللَّهِ تَعَالَى، وَإِنَّهُ، وَجَعَلَ لَهُ الْحُظْوَةَ بِقَدْرَةِ اللَّهِ تَعَالَى، سَهَّلَ اللَّهُ عَلَيْهِ الرِّزْقَ، كَتَبَهَا وَشَهَدَ  
-**LAT:** Katabathā wa-ja‘alahā fī miṭralihī thalāthata ayyāmin, wa-akhrajathā ilā ḥā’iṭi al-bayti min ayyna al-mukhrijuh, lā yash‘uru al-sulṭānu yad‘uhu ilā khidmatih, wa-yaṣrifuh fī ḥawā’ijih bi-idhni Allāhi ta‘ālā, wa-innah, wa-ja‘ala lahu al-ḥawżata bi-qadrati Allāhi ta‘ālā, sahhala Allāhu ‘alayh al-rizq, katabathā wa-shahida  
+**AR:** كَتَبَهَا وَجَعَلَهَا فِي مِطْرَلِهِ ثَلَاثَةَ أَيَّامٍ، وَأَخْرَجَهَا إِلَى حَائِطِ الْبَيْتِ مِنْ أَيِّنَ الْمُخْرِجُهُ، لَا يَشْعُرُ السُّلْطَانُ يَدْعُوهُ إِلَى خِدْمَتِهِ، وَيَصْرِفُهُ فِي حَوَائِجِهِ بِإِذْنِ اللَّهِ تَعَالَى، وَإِنَّهُ، وَجَعَلَ لَهُ الْحُظْوَةَ بِقَدْرَةِ اللَّهِ تَعَالَى، سَهَّلَ اللَّهُ عَلَيْهِ الرِّزْقَ، كَتَبَهَا وَشَهَدَ
+**LAT:** Katabathā wa-ja‘alahā fī miṭralihī thalāthata ayyāmin, wa-akhrajathā ilā ḥā’iṭi al-bayti min ayyna al-mukhrijuh, lā yash‘uru al-sulṭānu yad‘uhu ilā khidmatih, wa-yaṣrifuh fī ḥawā’ijih bi-idhni Allāhi ta‘ālā, wa-innah, wa-ja‘ala lahu al-ḥawżata bi-qadrati Allāhi ta‘ālā, sahhala Allāhu ‘alayh al-rizq, katabathā wa-shahida
 **ID:** Menulisnya dan menjadikannya dalam selimutnya selama tiga hari, dan mengeluarkannya ke dinding rumah dari mana keluarnya, tidak tahu sultan memanggilnya untuk menyebabinya, dan mengalihkannya ke keperluan dengan izin Allah Ta'ala, dan sesungguhnya, dan menjadikan untuknya kemuliaan dengan kuasa Allah Ta'ala, memudahkan Allah rezeki padanya, menulisnya dan menyaksikan.
 
-**AR:** يُوسُف  
-**LAT:** Yūsuf  
+**AR:** يُوسُف
+**LAT:** Yūsuf
 **ID:** Yusuf.
 
-**AR:** سورة الرَّعْد  
-**LAT:** Sūrat al-Ra‘d  
+**AR:** سورة الرَّعْد
+**LAT:** Sūrat al-Ra‘d
 **ID:** Surah Ar-Ra'd (QS 13).
 
-**ar:** عِدَّةُ السُّورَةِ، كُتِبَتْ فِيهَا فِي لَيْلَةٍ مُظْلِمَةٍ بَعْدَ صَلَاةِ الْعِشَاءِ عَلَى ضَوْءِ نَارٍ، وَجُعِلَتْ فِي سَاعَتِهَا عَلَى بَابِ السُّلْطَانِ، أَوْ مَسْجِدِهِ، وَيَضِيقُ صَدْرُهُ — فَأَللَّهُ، لَا تَقْصُرْ أَمْرَهُ وَكَلِمَتَهُ، وَيَخْلُفُهُ مِنْ يَمْلِكُ بَابًا ظَالِمًا أَوْ كَافِرًا أَوْ زِنْدِيقًا — بِإِذْنِ اللَّهِ تَعَالَى  
-**LAT:** ‘iddatu al-sūrah, katabat fīhā fī laylatin muẓlimatin ba‘da ṣalāti al-‘ishā’ ‘alā ḍaw’i nār, wa-ju‘ilat fī sā‘atihā ‘alā bābi al-sulṭāni, aw masjidih, wa-yaḍīqu ṣudruh — fa-Allāh, lā taqṣur amrah wa-kalimatah, wa-yakhluquhu min yamliku bāban ẓāliman aw kāfiran aw zindīqan — bi-idhni Allāhi ta‘ālā  
+**AR:*** عِدَّةُ السُّورَةِ، كُتِبَتْ فِيهَا فِي لَيْلَةٍ مُظْلِمَةٍ بَعْدَ صَلَاةِ الْعِشَاءِ عَلَى ضَوْءِ نَارٍ، وَجُعِلَتْ فِي سَاعَتِهَا عَلَى بَابِ السُّلْطَانِ، أَوْ مَسْجِدِهِ، وَيَضِيقُ صَدْرُهُ — فَأَللَّهُ، لَا تَقْصُرْ أَمْرَهُ وَكَلِمَتَهُ، وَيَخْلُفُهُ مِنْ يَمْلِكُ بَابًا ظَالِمًا أَوْ كَافِرًا أَوْ زِنْدِيقًا — بِإِذْنِ اللَّهِ تَعَالَى
+**LAT:** ‘iddatu al-sūrah, katabat fīhā fī laylatin muẓlimatin ba‘da ṣalāti al-‘ishā’ ‘alā ḍaw’i nār, wa-ju‘ilat fī sā‘atihā ‘alā bābi al-sulṭāni, aw masjidih, wa-yaḍīqu ṣudruh — fa-Allāh, lā taqṣur amrah wa-kalimatah, wa-yakhluquhu min yamliku bāban ẓāliman aw kāfiran aw zindīqan — bi-idhni Allāhi ta‘ālā
 **ID:** Hitungan surah, ditulis dalamnya dalam malam yang gelap setelah shalat Isya di terang api, dan dijadikannya dalam waktunya di pintu sultan, atau masjidnya, dan sempit dada — maka Allah, jangan memendekkan urusannya dan katanya, dan menggantikan dari yang memiliki pintu yang zalim atau kafir atau zindiq — dengan izin Allah Ta'ala.
 
-**AR:** الرَّعْد  
-**LAT:** al-Ra‘d  
+**AR:** الرَّعْد
+**LAT:** al-Ra‘d
 **ID:** Ar-Ra'd.
 
-**AR:** سورة إِبْرَاهِيم عَلَيْهِ السَّلَامُ  
-**LAT:** Sūrat Ibrāhīma ‘alayhi al-salām  
+**AR:** سورة إِبْرَاهِيم عَلَيْهِ السَّلَامُ
+**LAT:** Sūrat Ibrāhīma ‘alayhi al-salām
 **ID:** Surah Ibrahim (QS 14).
 
-**AR:** كُتِبَتْ عَلَى خِرْقَةٍ بَيْضَاءَ طِفْلٍ رَضِيعٍ، وَجُعِلَتْ عَلَى عَيْنِهِ، مِنْ الْبُكَاءِ وَالْفَزَعِ الصَّغِيرِ، أَمِنَ الْخَوْفِ، وَسَهَّلَ عَلَيْهِ فِطَامَهُ، إِبْرَاهِيم  
-**LAT:** Katabat ‘alā khirqatin bayḍā‘a tiflin raḍi‘in, wa-ju‘ilat ‘alay ‘aynih, min al-bukā’i wal-faza‘i al-ṣaghīr, āmina al-khawfi, wa-sahhala ‘alayhi fiṭāmuh, Ibrāhīm  
+**AR:** كُتِبَتْ عَلَى خِرْقَةٍ بَيْضَاءَ طِفْلٍ رَضِيعٍ، وَجُعِلَتْ عَلَى عَيْنِهِ، مِنْ الْبُكَاءِ وَالْفَزَعِ الصَّغِيرِ، أَمِنَ الْخَوْفِ، وَسَهَّلَ عَلَيْهِ فِطَامَهُ، إِبْرَاهِيم
+**LAT:** Katabat ‘alā khirqatin bayḍā‘a tiflin raḍi‘in, wa-ju‘ilat ‘alay ‘aynih, min al-bukā’i wal-faza‘i al-ṣaghīr, āmina al-khawfi, wa-sahhala ‘alayhi fiṭāmuh, Ibrāhīm
 **ID:** Ditulis pada kain putih bayi yang menyusui, dan dijadikan pada matanya, dari tangis dan ketakutan kecil, aman dari ketakutan, dan memudahkan untuknya penyapihan, Ibrahim.
 
-**AR:** إِبْرَاهِيم  
-**LAT:** Ibrāhīm  
+**AR:** إِبْرَاهِيم
+**LAT:** Ibrāhīm
 **ID:** Ibrahim.
 
-**AR:** سورة الْحِجْر  
-**LAT:** Sūrat al-Ḥijr  
+**AR:** سورة الْحِجْر
+**LAT:** Sūrat al-Ḥijr
 **ID:** Surah Al-Hijr (QS 15).
 
-**AR:** [33]، عِفْرَانٌ وَسَقَاهَا امْرَأَةٌ قَلِيلَةُ اللَّيْلِ كَتَبَهَا بِزَيْتٍ، [34] فَكَتَبَهَا وَجَعَلَهَا فِي جَوْفِهَا، وَغَدًا وَرَاحٌ، وَهِيَ [فِي]هُ، فَإِنْ صَبَّحَتْهُ، فَإِنَّهُ يَكْثُرُ كَبِدُهُ، وَلَا يَكُونُ [أَحَدٍ] []٥٧] [مِعْنَهُ، فَإِنَّهُ يَكُونُ عِنْدَهُ ٦٧] [ضَحِكَ، وَيَتَّبِعُ وَيَتْبَعُهُ مُعَامَلَتَهُ  
-**LAT:** [33], ‘ifrān wa-saqāhā imra‘atun qalīlatu al-layl katabathā bi-zayt, [34] fa-katabathā wa-ja‘alahā fī jawfihā, wa-ghadan wa-rāh, wa-hiya [fī]h, fa-in ṣabbaḥat-hu, fa-innahu yakthuru kabiduh, wa-lā yakūnu [aḥad] []57] [ma‘nahu, fa-innahu yakūnu ‘indah 67] [ḍaḥika, wa-yattabi‘u wa-yatba‘uhu mu‘āmalatuh  
+**AR:** [33]، عِفْرَانٌ وَسَقَاهَا امْرَأَةٌ قَلِيلَةُ اللَّيْلِ كَتَبَهَا بِزَيْتٍ، [34] فَكَتَبَهَا وَجَعَلَهَا فِي جَوْفِهَا، وَغَدًا وَرَاحٌ، وَهِيَ [فِي]هُ، فَإِنْ صَبَّحَتْهُ، فَإِنَّهُ يَكْثُرُ كَبِدُهُ، وَلَا يَكُونُ [أَحَدٍ] []٥٧] [مِعْنَهُ، فَإِنَّهُ يَكُونُ عِنْدَهُ ٦٧] [ضَحِكَ، وَيَتَّبِعُ وَيَتْبَعُهُ مُعَامَلَتَهُ
+**LAT:** [33], ‘ifrān wa-saqāhā imra‘atun qalīlatu al-layl katabathā bi-zayt, [34] fa-katabathā wa-ja‘alahā fī jawfihā, wa-ghadan wa-rāh, wa-hiya [fī]h, fa-in ṣabbaḥat-hu, fa-innahu yakthuru kabiduh, wa-lā yakūnu [aḥad] []57] [ma‘nahu, fa-innahu yakūnu ‘indah 67] [ḍaḥika, wa-yattabi‘u wa-yatba‘uhu mu‘āmalatuh
 **ID:** [33], kebalikan dan memberinya minuman seorang wanita yang sedikit waktu malam menulisnya dengan minyak, [34] lalu menulisnya dan menjadikannya dalam perutnya, dan esok dan istirahat, dan dia dalamnya [di dalam]nya, jika paginya, maka itu, maka itu banyak hati, dan tidak akan [seseorang] []57] [maknanya, maka itu akan padanya 67] [tertawa, dan mengikuti dan mengikuti padanya perlakuan.
 
-**AR:** الْحِجْر  
-**LAT:** al-Ḥijr  
+**AR:** الْحِجْر
+**LAT:** al-Ḥijr
 **ID:** Al-Hijr.
 
 **AR:** [WAFAQ DI SCAN HAL. 244]
@@ -287,18 +287,18 @@ Branch: `arena/02ad7a12-sirrul-asrar-fit-tawashul-ma-a`
 **ID:** Tabel wafaq surah ini berada pada scan halaman 244; daftar angka dicantumkan di sana.
 
 ### Wafaq Surah Yusuf — tabel scan halaman 243
-**AR:** ١٢٣٩٢٨ ١٢٣٩٤٢ ١٢٣٩٣٩ ١٢٣٩٣٦ ١٢٣٩٤٠ ١٢٣٩٣٥ ١٢٣٩٢٩ ١٢٣٩٤١ ١٢٣٩٣٤ ١٢٣٩٣٧ ١٢٣٩٤٤ ١٢٣٩٣٠ ١٢٣٩٤٣ ١٢٣٩٣١ ١٢٣٩٣٣ ١٢٣٩٣٨  
-**LAT:** 123928 123942 123939 123936 123940 123935 123929 123941 123934 123937 123944 123930 123943 123931 123933 123938  
+**AR:** ١٢٣٩٢٨ ١٢٣٩٤٢ ١٢٣٩٣٩ ١٢٣٩٣٦ ١٢٣٩٤٠ ١٢٣٩٣٥ ١٢٣٩٢٩ ١٢٣٩٤١ ١٢٣٩٣٤ ١٢٣٩٣٧ ١٢٣٩٤٤ ١٢٣٩٣٠ ١٢٣٩٤٣ ١٢٣٩٣١ ١٢٣٩٣٣ ١٢٣٩٣٨
+**LAT:** 123928 123942 123939 123936 123940 123935 123929 123941 123934 123937 123944 123930 123943 123931 123933 123938
 **ID:** Deret 16 angka dicocokkan satu per satu dengan gambar scan PDF halaman 243 (bukan raw_extract). [TERVERIFIKASI DARI GAMBAR SCAN HAL. 243].
 
 ### Wafaq Surah Ar-Ra'd — tabel scan halaman 243
-**AR:** ٥٩٧٧٠ ٥٩٧٨٤ ٥٩٧٨١ ٥٩٧٧٧ ٥٩٧٨٢ ٥٩٧٧٦ ٥٩٧٧١ ٥٩٧٨٣ ٥٩٧٧٥ ٥٩٧٧٩ ٥٩٧٨٦ ٥٩٧٧٢ ٥٩٧٨٥ ٥٩٧٧٣ ٥٩٧٧٤ ٥٩٧٨٠  
-**LAT:** 59770 59784 59781 59777 59782 59776 59771 59783 59775 59779 59786 59772 59785 59773 59774 59780  
+**AR:** ٥٩٧٧٠ ٥٩٧٨٤ ٥٩٧٨١ ٥٩٧٧٧ ٥٩٧٨٢ ٥٩٧٧٦ ٥٩٧٧١ ٥٩٧٨٣ ٥٩٧٧٥ ٥٩٧٧٩ ٥٩٧٨٦ ٥٩٧٧٢ ٥٩٧٨٥ ٥٩٧٧٣ ٥٩٧٧٤ ٥٩٧٨٠
+**LAT:** 59770 59784 59781 59777 59782 59776 59771 59783 59775 59779 59786 59772 59785 59773 59774 59780
 **ID:** Deret 16 angka dicocokkan satu per satu dengan gambar scan PDF halaman 243 (bukan raw_extract). [TERVERIFIKASI DARI GAMBAR SCAN HAL. 243].
 
 ### Wafaq Surah Ibrahim — tabel scan halaman 243
-**AR:** ٦٥٧٨٨ ٦٥٨٠٢ ٦٥٧٩٩ ٦٥٧٩٦ ٦٥٨٠٠ ٦٥٧٩٥ ٦٥٧٨٩ ٦٥٨٠١ ٦٥٧٩٤ ٦٥٧٩٧ ٦٥٨٠٤ ٦٥٧٩٠ ٦٥٨٠٣ ٦٥٧٩١ ٦٥٧٩٣ ٦٥٧٩٨  
-**LAT:** 65788 65802 65799 65796 65800 65795 65789 65801 65794 65797 65804 65790 65803 65791 65793 65798  
+**AR:** ٦٥٧٨٨ ٦٥٨٠٢ ٦٥٧٩٩ ٦٥٧٩٦ ٦٥٨٠٠ ٦٥٧٩٥ ٦٥٧٨٩ ٦٥٨٠١ ٦٥٧٩٤ ٦٥٧٩٧ ٦٥٨٠٤ ٦٥٧٩٠ ٦٥٨٠٣ ٦٥٧٩١ ٦٥٧٩٣ ٦٥٧٩٨
+**LAT:** 65788 65802 65799 65796 65800 65795 65789 65801 65794 65797 65804 65790 65803 65791 65793 65798
 **ID:** Deret 16 angka dicocokkan satu per satu dengan gambar scan PDF halaman 243 (bukan raw_extract). [TERVERIFIKASI DARI GAMBAR SCAN HAL. 243].
 
 ---
@@ -310,48 +310,49 @@ Branch: `arena/02ad7a12-sirrul-asrar-fit-tawashul-ma-a`
 ![Wafaq An-Nahl — halaman 244](../assets/rajah/sirrul-asrar/hal-244-rajah-02.jpg)  
 ![Wafaq Al-Kahf — halaman 244](../assets/rajah/sirrul-asrar/hal-244-rajah-03.jpg)  
 
-**AR:** الْحِجْر  
-**LAT:** al-Ḥijr  
+**AR:** الْحِجْر
+**LAT:** al-Ḥijr
 **ID:** Al-Hijr (lanjutan).
 
-**AR:** سورة النحل  
-**LAT:** Sūrat al-Naḥl  
+**AR:** سورة النحل
+**LAT:** Sūrat al-Naḥl
 **ID:** Surah An-Nahl (QS 16).
 
-**AR:** كَتَبَهَا فِي خِرْقَةٍ حَرِيرٍ وَأَحْرَزَهَا عَلَيْهِ، ثُمَّ عُلِّقَتْ عَلَيْهِ، وَشُورَ بَعْدَهُ بِالنَّهَارِ، وَإِنْ كُتِبَتْ عِفْرَانًا بِزَيْتٍ، فَهِيَ، قَامَ فِي كَلَامِهِ بِإِذْنِ اللَّهِ تَعَالَى، وَسُعِدَ الْكَلَامُ عَلَيْهِ بِإِذْنِ اللَّهِ تَعَالَى  
-**LAT:** Katabathā fī khirqatin haririn wa-aḥrazathā ‘alayh, thumma ‘ulliqat ‘alayh, wa-shūra ba‘duhu bi-al-nahār, wa-in katabat ‘ifrānan bi-zaytin, fā hiya, qāma fī kalāmihi bi-idhni Allāhi ta‘ālā, wa-su‘ida al-kalāmu ‘alayh bi-idhni Allāhi ta‘ālā  
+**AR:** كَتَبَهَا فِي خِرْقَةٍ حَرِيرٍ وَأَحْرَزَهَا عَلَيْهِ، ثُمَّ عُلِّقَتْ عَلَيْهِ، وَشُورَ بَعْدَهُ بِالنَّهَارِ، وَإِنْ كُتِبَتْ عِفْرَانًا بِزَيْتٍ، فَهِيَ، قَامَ فِي كَلَامِهِ بِإِذْنِ اللَّهِ تَعَالَى، وَسُعِدَ الْكَلَامُ عَلَيْهِ بِإِذْنِ اللَّهِ تَعَالَى
+**LAT:** Katabathā fī khirqatin haririn wa-aḥrazathā ‘alayh, thumma ‘ulliqat ‘alayh, wa-shūra ba‘duhu bi-al-nahār, wa-in katabat ‘ifrānan bi-zaytin, fā hiya, qāma fī kalāmihi bi-idhni Allāhi ta‘ālā, wa-su‘ida al-kalāmu ‘alayh bi-idhni Allāhi ta‘ālā
 **ID:** Menulisnya dalam kain sutra dan melindunginya padanya, kemudian digantung padanya, dan disyurui setelahnya dengan siang hari, dan jika ditulis kebalikan dengan minyak, maka itu, berdiri dalam katanya dengan izin Allah Ta'ala, dan kebahagiaan katanya padanya dengan izin Allah Ta'ala.
 
-**AR:** النَّحْل  
-**LAT:** al-Naḥl  
+**AR:** النَّحْل
+**LAT:** al-Naḥl
 **ID:** An-Nahl.
 
 ### Surah Al-Hijr — wafaq tabel scan halaman 244
-**AR (wafaq):** ٤٤٩٦٢ ٤٤٩٧٦ ٤٤٩٧٣ ٤٤٩٦٩ ٤٤٩٦٧ ٤٤٩٦٨ ٤٤٩٦٣ ٤٤٩٧٥ ٤٤٩٦٧ ٤٤٩٧١ ٤٤٩٧٨ ٤٤٩٦٤ ٤٤٩٧٧ ٤٤٩٦٥ ٤٤٩٦٦ ٤٤٩٧٢
+**AR:** ٤٤٩٦٢ ٤٤٩٧٦ ٤٤٩٧٣ ٤٤٩٦٩ ٤٤٩٦٧ ٤٤٩٦٨ ٤٤٩٦٣ ٤٤٩٧٥ ٤٤٩٦٧ ٤٤٩٧١ ٤٤٩٧٨ ٤٤٩٦٤ ٤٤٩٧٧ ٤٤٩٦٥ ٤٤٩٦٦ ٤٤٩٧٢
 **LAT:** 44962 44976 44973 44969 44967 44968 44963 44975 44967 44971 44978 44964 44977 44965 44966 44972
 **ID:** Deret angka dibaca dari tabel gambar scan halaman 244. [DIPERBAIKI DARI GAMBAR SCAN HAL. 244].
 
-### Surah Al-Kahf — wafaq tabel scan halaman 244
-**AR (wafaq):** ١٢٣٨٩٩ ١٢٣٩١٣ ١٢٣٩٠٩ ١٢٣٩٠٦ ١٢٣٩١٠ ١٢٣٩٠٥ ١٢٣٩٠٠ ١٢٣٩١٢ ١٢٣٩٠٤ ١٢٣٩٠٧ ١٢٣٩١٥ ١٢٣٩٠١ ١٢٣٩١٤ ١٢٣٩٠٢ ١٢٣٩٠٣ ١٢٣٩٠٨
-**LAT:** 123899 123913 123909 123906 123910 123905 123900 123912 123904 123907 123915 123901 123914 123902 123903 123908
-**ID:** Deret angka dibaca dari tabel gambar scan halaman 244. [DIPERBAIKI DARI GAMBAR SCAN HAL. 244].
-
 ### Wafaq Surah Al-Hijr — tabel scan halaman 244
-**AR:** ٤٤٩٦٢ ٤٤٩٧٦ ٤٤٩٧٣ ٤٤٩٦٩ ٤٤٩٦٧ ٤٤٩٦٨ ٤٤٩٦٣ ٤٤٩٧٥ ٤٤٩٦٧ ٤٤٩٧١ ٤٤٩٧٨ ٤٤٩٦٤ ٤٤٩٧٧ ٤٤٩٦٥ ٤٤٩٦٦ ٤٤٩٧٢  
-**LAT:** 44962 44976 44973 44969 44967 44968 44963 44975 44967 44971 44978 44964 44977 44965 44966 44972  
+**AR:** ٤٤٩٦٢ ٤٤٩٧٦ ٤٤٩٧٣ ٤٤٩٦٩ ٤٤٩٦٧ ٤٤٩٦٨ ٤٤٩٦٣ ٤٤٩٧٥ ٤٤٩٦٧ ٤٤٩٧١ ٤٤٩٧٨ ٤٤٩٦٤ ٤٤٩٧٧ ٤٤٩٦٥ ٤٤٩٦٦ ٤٤٩٧٢
+**LAT:** 44962 44976 44973 44969 44967 44968 44963 44975 44967 44971 44978 44964 44977 44965 44966 44972
 **ID:** Deret 16 angka dicocokkan satu per satu dengan gambar scan PDF halaman 244 (bukan raw_extract). [TERVERIFIKASI DARI GAMBAR SCAN HAL. 244].
 
 ### Wafaq Surah An-Nahl — tabel scan halaman 244
-**AR:** ١٣٩٤٢٤ ١٣٩٤٣٨ ١٣٩٤٣٤ ١٣٩٤٣١ ١٣٩٤٣٥ ١٣٩٤٣٠ ١٣٩٤٢٥ ١٣٩٤٣٧ ١٣٩٤٢٩ ١٣٩٤٣٢ ١٣٩٤٤٠ ١٣٩٤٢٦ ١٣٩٤٣٩ ١٣٩٤٢٧ ١٣٩٤٢٨ ١٣٩٤٣٣  
-**LAT:** 139424 139438 139434 139431 139435 139430 139425 139437 139429 139432 139440 139426 139439 139427 139428 139433  
+**AR:** ١٣٩٤٢٤ ١٣٩٤٣٨ ١٣٩٤٣٤ ١٣٩٤٣١ ١٣٩٤٣٥ ١٣٩٤٣٠ ١٣٩٤٢٥ ١٣٩٤٣٧ ١٣٩٤٢٩ ١٣٩٤٣٢ ١٣٩٤٤٠ ١٣٩٤٢٦ ١٣٩٤٣٩ ١٣٩٤٢٧ ١٣٩٤٢٨ ١٣٩٤٣٣
+**LAT:** 139424 139438 139434 139431 139435 139430 139425 139437 139429 139432 139440 139426 139439 139427 139428 139433
 **ID:** Deret 16 angka dicocokkan satu per satu dengan gambar scan PDF halaman 244 (bukan raw_extract). [TERVERIFIKASI DARI GAMBAR SCAN HAL. 244].
 
+### Surah Al-Kahf — wafaq tabel scan halaman 244
+**AR:** ١٢٣٨٩٩ ١٢٣٩١٣ ١٢٣٩٠٩ ١٢٣٩٠٦ ١٢٣٩١٠ ١٢٣٩٠٥ ١٢٣٩٠٠ ١٢٣٩١٢ ١٢٣٩٠٤ ١٢٣٩٠٧ ١٢٣٩١٥ ١٢٣٩٠١ ١٢٣٩١٤ ١٢٣٩٠٢ ١٢٣٩٠٣ ١٢٣٩٠٨
+**LAT:** 123899 123913 123909 123906 123910 123905 123900 123912 123904 123907 123915 123901 123914 123902 123903 123908
+**ID:** Deret angka dibaca dari tabel gambar scan halaman 244. [DIPERBAIKI DARI GAMBAR SCAN HAL. 244].
+
 ### Wafaq Surah Al-Kahf — tabel scan halaman 244
-**AR:** ١٢٣٨٩٩ ١٢٣٩١٣ ١٢٣٩٠٩ ١٢٣٩٠٦ ١٢٣٩١٠ ١٢٣٩٠٥ ١٢٣٩٠٠ ١٢٣٩١٢ ١٢٣٩٠٤ ١٢٣٩٠٧ ١٢٣٩١٥ ١٢٣٩٠١ ١٢٣٩١٤ ١٢٣٩٠٢ ١٢٣٩٠٣ ١٢٣٩٠٨  
-**LAT:** 123899 123913 123909 123906 123910 123905 123900 123912 123904 123907 123915 123901 123914 123902 123903 123908  
+**AR:** ١٢٣٨٩٩ ١٢٣٩١٣ ١٢٣٩٠٩ ١٢٣٩٠٦ ١٢٣٩١٠ ١٢٣٩٠٥ ١٢٣٩٠٠ ١٢٣٩١٢ ١٢٣٩٠٤ ١٢٣٩٠٧ ١٢٣٩١٥ ١٢٣٩٠١ ١٢٣٩١٤ ١٢٣٩٠٢ ١٢٣٩٠٣ ١٢٣٩٠٨
+**LAT:** 123899 123913 123909 123906 123910 123905 123900 123912 123904 123907 123915 123901 123914 123902 123903 123908
 **ID:** Deret 16 angka dicocokkan satu per satu dengan gambar scan PDF halaman 244 (bukan raw_extract). [TERVERIFIKASI DARI GAMBAR SCAN HAL. 244].
 
 ---
+
 
 ## HALAMAN 245 — Wafaq Surah Maryam dan Taha; awal Al-Anbiya
 
@@ -359,56 +360,56 @@ Branch: `arena/02ad7a12-sirrul-asrar-fit-tawashul-ma-a`
 ![Wafaq Maryam — halaman 245](../assets/rajah/sirrul-asrar/hal-245-rajah-01.jpg)  
 ![Wafaq Taha — halaman 245](../assets/rajah/sirrul-asrar/hal-245-rajah-02.jpg)  
 
-**AR:** سورة الكَهْف  
-**LAT:** Sūrat al-Kahf  
+**AR:** سورة الكَهْف
+**LAT:** Sūrat al-Kahf
 **ID:** Surah Al-Kahf (QS 18).
 
-**AR:** أَصْبَاحًا، دَقَّ الرَّجَاجُ، كَتَبَهَا وَجَعَلَهَا فِي إِنَاءٍ زِجَاجٍ، وَجَعَلَهَا فِي مِطْرَلِهِ، يَأْمَنُ مِنَ الْفَقْرِ وَالدَّيْنِ، وَأَمِنَهُ، وَلَا يَحْتَاجُ إِلَى أَحَدٍ أَبَدًا، وَفِيهَا عِلْمٌ وَجَعَلَتْ الْقَمْحَ وَالشَّعِيرَ وَالْأَرْضَ، كُلُّهُمْ مَأْمُونٌ بِإِذْنِ اللَّهِ تَعَالَى، مِنْ كُلِّ مَا يَطْرَأُ عَلَى الْحُبُوبِ فِي خَزَائِنِ الْحُبُوبِ إِنْ شَاءَ اللَّهُ تَعَالَى  
-**LAT:** Aṣbāḥan, daqqa al-rajāj, katabathā wa-ja‘alahā fī inā'in zijāj, wa-ja‘alahā fī miṭralih, yāmanu min al-faqri wal-dayn, wa-āminah, wa-lā yaḥtaju ilā aḥadin abadan, wa-fīhā ‘ilmun wa-ja‘alat al-qamḥa wal-sha‘īra wal-arḍa, kulluhum ma’mūnun bi-idhni Allāhi ta‘ālā, min kulli mā yaṭra‘u ‘ala al-ḥubūbi fī khazā'in al-ḥubūbi in shā'a Allāhu ta‘ālā  
+**AR:** أَصْبَاحًا، دَقَّ الرَّجَاجُ، كَتَبَهَا وَجَعَلَهَا فِي إِنَاءٍ زِجَاجٍ، وَجَعَلَهَا فِي مِطْرَلِهِ، يَأْمَنُ مِنَ الْفَقْرِ وَالدَّيْنِ، وَأَمِنَهُ، وَلَا يَحْتَاجُ إِلَى أَحَدٍ أَبَدًا، وَفِيهَا عِلْمٌ وَجَعَلَتْ الْقَمْحَ وَالشَّعِيرَ وَالْأَرْضَ، كُلُّهُمْ مَأْمُونٌ بِإِذْنِ اللَّهِ تَعَالَى، مِنْ كُلِّ مَا يَطْرَأُ عَلَى الْحُبُوبِ فِي خَزَائِنِ الْحُبُوبِ إِنْ شَاءَ اللَّهُ تَعَالَى
+**LAT:** Aṣbāḥan, daqqa al-rajāj, katabathā wa-ja‘alahā fī inā'in zijāj, wa-ja‘alahā fī miṭralih, yāmanu min al-faqri wal-dayn, wa-āminah, wa-lā yaḥtaju ilā aḥadin abadan, wa-fīhā ‘ilmun wa-ja‘alat al-qamḥa wal-sha‘īra wal-arḍa, kulluhum ma’mūnun bi-idhni Allāhi ta‘ālā, min kulli mā yaṭra‘u ‘ala al-ḥubūbi fī khazā'in al-ḥubūbi in shā'a Allāhu ta‘ālā
 **ID:** Pagi-pagi, kaca berdesis, menulisnya dan menjadikannya dalam kaca kaca, dan menjadikannya dalam selimutnya, aman dari kemiskinan dan hutang, dan aman darinya, dan tidak membutuhkan siapa pun selamanya, dan dalamnya ilmu dan menjadikan gandum dan beras dan tanah, semuanya aman dengan izin Allah Ta'ala, dari semua yang menimpa biji-bijian dalam gudang biji-bijian jika Allah Ta'ala kehendaki.
 
-**AR:** الْكهْف  
-**LAT:** al-Kahf  
+**AR:** الْكهْف
+**LAT:** al-Kahf
 **ID:** Al-Kahf.
 
 **AR:** [WAFAQ DI SCAN HAL. 244]
 **LAT:** Wafaq tabel dipindahkan ke entri halaman 244.
 **ID:** Tabel wafaq surah ini berada pada scan halaman 244; daftar angka dicantumkan di sana.
 
-**AR:** سورة مَرْيَم عَلَيْهِ السَّلَامُ  
-**LAT:** Sūrat Maryama ‘alayhi al-salām  
+**AR:** سورة مَرْيَم عَلَيْهِ السَّلَامُ
+**LAT:** Sūrat Maryama ‘alayhi al-salām
 **ID:** Surah Maryam (QS 19).
 
-**AR:** قَالَ جَعْفَرُ الصَّادِقُ عَلَيْهِ السَّلَامُ: كُتِبَتْ هِيَ فِي لَيْلَةٍ مُظْلِمَةٍ بَعْدَ صَلَاةِ الْعِشَاءِ، وَأَضَاءَ عَلَيْهَا بِضَوْءِ نَارٍ، وَجَعَلَهَا فِي مِطْرَلِهِ، كَثُرَ خَيْرُهُ، وَيَرَى الْخَيْرَاتِ فِي مَنَامِهِ، كَمَا يَرَى أَهْلُ مِطْرَلِهِ، وَلَوْ أَقَامَ عِنْدَهُ أَحَدٌ خَيْرًا، لَا يَأْتِيهِ إِلَّا عَلَى طَوَارِقِهِ، وَحُرِسَ عَلَى حَائِطِ بَيْتٍ، مَنْعَتْ مَا فِيهِ، بِإِذْنِ اللَّهِ تَعَالَى، الْمَرْيَمُ، إِذَا شَرَّ، آمَنَ  
-**LAT:** Qāla Ja‘far al-Ṣādiqu ‘alayhi al-salām: katabat hiya fī laylatin muẓlimatin ba‘da ṣalāti al-‘ishā’, wa-aḍā ‘alayhā bi-ḍaw’i nār, wa-ja‘alahā fī miṭralih, kathura khayruh, wa-yarā al-khayrāt fī manāmih, kamā yarā ahlu miṭralih, wa-law aquāma ‘indahū aḥadun khayran, lā ya’tīhi illā ‘alā ṭawāriqih, wa-ḥuris ‘alā ḥā’iṭi baytin, mana‘ta mā fīh, bi-idhni Allāhi ta‘ālā, al-Maryamu, idhā sharra, āmana  
+**AR:** قَالَ جَعْفَرُ الصَّادِقُ عَلَيْهِ السَّلَامُ: كُتِبَتْ هِيَ فِي لَيْلَةٍ مُظْلِمَةٍ بَعْدَ صَلَاةِ الْعِشَاءِ، وَأَضَاءَ عَلَيْهَا بِضَوْءِ نَارٍ، وَجَعَلَهَا فِي مِطْرَلِهِ، كَثُرَ خَيْرُهُ، وَيَرَى الْخَيْرَاتِ فِي مَنَامِهِ، كَمَا يَرَى أَهْلُ مِطْرَلِهِ، وَلَوْ أَقَامَ عِنْدَهُ أَحَدٌ خَيْرًا، لَا يَأْتِيهِ إِلَّا عَلَى طَوَارِقِهِ، وَحُرِسَ عَلَى حَائِطِ بَيْتٍ، مَنْعَتْ مَا فِيهِ، بِإِذْنِ اللَّهِ تَعَالَى، الْمَرْيَمُ، إِذَا شَرَّ، آمَنَ
+**LAT:** Qāla Ja‘far al-Ṣādiqu ‘alayhi al-salām: katabat hiya fī laylatin muẓlimatin ba‘da ṣalāti al-‘ishā’, wa-aḍā ‘alayhā bi-ḍaw’i nār, wa-ja‘alahā fī miṭralih, kathura khayruh, wa-yarā al-khayrāt fī manāmih, kamā yarā ahlu miṭralih, wa-law aquāma ‘indahū aḥadun khayran, lā ya’tīhi illā ‘alā ṭawāriqih, wa-ḥuris ‘alā ḥā’iṭi baytin, mana‘ta mā fīh, bi-idhni Allāhi ta‘ālā, al-Maryamu, idhā sharra, āmana
 **ID:** Ja'far al-Shadiq 'alaihissalam berkata: Ditulislah dalam malam yang gelap setelah shalat Isya, dan diterangi dengan terang api, dan menjadikannya dalam selimutnya, banyak kebaikannya, dan melihat kebaikan dalam tidurnya, seperti melihat ahli selimutnya, dan jika tinggal padanya kebaikan, tidak datang kepadanya kecuali pada tawariqnya, dan dijaga di dinding rumah, mencegah apa yang dalamnya, dengan izin Allah Ta'ala, Maryam, jika jahat, aman.
 
-**AR:** مَرْيَم  
-**LAT:** Maryam  
+**AR:** مَرْيَم
+**LAT:** Maryam
 **ID:** Maryam.
 
-**AR:** سورة طه عَلَيْهِ السَّلَامُ  
-**LAT:** Sūrat Ṭahā ‘alayhi al-salām  
+**AR:** سورة طه عَلَيْهِ السَّلَامُ
+**LAT:** Sūrat Ṭahā ‘alayhi al-salām
 **ID:** Surah Taha (QS 20).
 
-**AR:** قَالَ جَعْفَرُ الصَّادِقُ عَلَيْهِ السَّلَامُ: كَتَبَهَا وَجَعَلَهَا فِي خِرْقَةٍ حَرِيرٍ خَضْرَاءَ، وَقَصَدَ إِلَى قَوْمٍ يَرِيدُ التَّزَوُّدَ مِنْهُمْ، فَخَالَفَهُ أَحَدٌ، وَلَمْ يَقْتَلْ، وَإِذَا مَشَى بَيْنَ عَسْكَرَيْنِ افْتَرَقَا، وَلَمْ يَضْرِبْ بَعْضُهُمْ بَعْضًا، وَدَخَلَ عَلَى الْمَطْلُوبِ مِنْ أَهْلِ السُّلْطَانِ، فَطَلَبَهُ بِقَدْرَةِ اللَّهِ تَعَالَى، وَخَرَجَ مِنْ بَيْنِ يَدَيْهِ مَسْرُورًا  
-**LAT:** Qāla Ja‘far al-Ṣādiqu ‘alayhi al-salām: katabathā wa-ja‘alahā fī khirqatin haririn khaḍrā’, wa-qaṣada ilā qawmin yurīdu al-tazawwud minhum, fa-khālafa-hu aḥad, wa-lam yaqtul, wa-idhā mashā bayna ‘askarayni iftaraqā, wa-lam yaḍrib ba‘ḍuhum ba‘ḍan, wa-dakhala ‘alā al-maṭlūbi min ahl al-sulṭān, fa-ṭalabahu bi-qadrati Allāhi ta‘ālā, wa-kharaḍa min bayni yadayhi masrūrān  
+**AR:** قَالَ جَعْفَرُ الصَّادِقُ عَلَيْهِ السَّلَامُ: كَتَبَهَا وَجَعَلَهَا فِي خِرْقَةٍ حَرِيرٍ خَضْرَاءَ، وَقَصَدَ إِلَى قَوْمٍ يَرِيدُ التَّزَوُّدَ مِنْهُمْ، فَخَالَفَهُ أَحَدٌ، وَلَمْ يَقْتَلْ، وَإِذَا مَشَى بَيْنَ عَسْكَرَيْنِ افْتَرَقَا، وَلَمْ يَضْرِبْ بَعْضُهُمْ بَعْضًا، وَدَخَلَ عَلَى الْمَطْلُوبِ مِنْ أَهْلِ السُّلْطَانِ، فَطَلَبَهُ بِقَدْرَةِ اللَّهِ تَعَالَى، وَخَرَجَ مِنْ بَيْنِ يَدَيْهِ مَسْرُورًا
+**LAT:** Qāla Ja‘far al-Ṣādiqu ‘alayhi al-salām: katabathā wa-ja‘alahā fī khirqatin haririn khaḍrā’, wa-qaṣada ilā qawmin yurīdu al-tazawwud minhum, fa-khālafa-hu aḥad, wa-lam yaqtul, wa-idhā mashā bayna ‘askarayni iftaraqā, wa-lam yaḍrib ba‘ḍuhum ba‘ḍan, wa-dakhala ‘alā al-maṭlūbi min ahl al-sulṭān, fa-ṭalabahu bi-qadrati Allāhi ta‘ālā, wa-kharaḍa min bayni yadayhi masrūrān
 **ID:** Ja'far al-Shadiq 'alaihissalam berkata: Menulisnya dan menjadikannya dalam kain sutra hijau, dan bermaksud kepada kaum yang ingin mengambil bekal darinya, lalu salah satu mereka melawannya, dan tidak membunuh, dan jika berjalan antara dua tentara, mereka terpisah, dan tidak mereka pukul satu sama lain, dan masuk ke pada yang diminta dari kalangan sultan, lalu memintanya dengan kuasa Allah Ta'ala, dan keluar dari hadapannya gembira.
 
-**AR:** طه  
-**LAT:** Ṭahā  
+**AR:** طه
+**LAT:** Ṭahā
 **ID:** Taha.
 
-**AR:** سورة الأنْبِيَاء عَلَيْهِمُ السَّلَامُ  
-**LAT:** Sūrat al-Anbiyā’ ‘alayhim al-salām  
+**AR:** سورة الأنْبِيَاء عَلَيْهِمُ السَّلَامُ
+**LAT:** Sūrat al-Anbiyā’ ‘alayhim al-salām
 **ID:** Surah Al-Anbiya (QS 21).
 
-**AR:** قَالَ جَعْفَرُ الصَّادِقُ عَلَيْهِ السَّلَامُ: كَتَبَهَا وَجَعَلَهَا فِي وَسَطِهِ وَنَامَ، فَلَا يَسْتَيْقِظُ مِنْ نَوْمِهِ حَتَّى يَقْطَعَ الْكِتَابَ مِنْ وَسَطِهِ، وَصَلَحَ لِلْمَرِيضِ، وَمَنْ سَهَرَ مِنْ فِكْرٍ أَوْ خَوْفٍ أَوْ مَرَضٍ  
-**LAT:** Qāla Ja‘far al-Ṣādiqu ‘alayhi al-salām: katabathā wa-ja‘alahā fī waṭṭihi wa-nāma, falā yastaīqiẓu min nawmihi ḥattā yaqṭa‘a al-kitāba min waṭṭih, wa-ṣaliḥa lil-marīḍ, wa-man sahhara min fikrin aw khawfin aw maḍin  
+**AR:** قَالَ جَعْفَرُ الصَّادِقُ عَلَيْهِ السَّلَامُ: كَتَبَهَا وَجَعَلَهَا فِي وَسَطِهِ وَنَامَ، فَلَا يَسْتَيْقِظُ مِنْ نَوْمِهِ حَتَّى يَقْطَعَ الْكِتَابَ مِنْ وَسَطِهِ، وَصَلَحَ لِلْمَرِيضِ، وَمَنْ سَهَرَ مِنْ فِكْرٍ أَوْ خَوْفٍ أَوْ مَرَضٍ
+**LAT:** Qāla Ja‘far al-Ṣādiqu ‘alayhi al-salām: katabathā wa-ja‘alahā fī waṭṭihi wa-nāma, falā yastaīqiẓu min nawmihi ḥattā yaqṭa‘a al-kitāba min waṭṭih, wa-ṣaliḥa lil-marīḍ, wa-man sahhara min fikrin aw khawfin aw maḍin
 **ID:** Ja'far al-Shadiq 'alaihissalam berkata: Menulisnya dan menjadikannya dalam pertengahan dan tidur, maka tidak terbangun dari tidurnya sampai memotong kitab dari pertengahan, dan cocok untuk sakit, dan yang terjaga dari pikiran atau ketakutan atau sakit.
 
-**AR:** الأنْبِيَاء  
-**LAT:** al-Anbiyā’  
+**AR:** الأنْبِيَاء
+**LAT:** al-Anbiyā’
 **ID:** Al-Anbiya.
 
 **AR:** [WAFAQ DI SCAN HAL. 246]
@@ -416,13 +417,13 @@ Branch: `arena/02ad7a12-sirrul-asrar-fit-tawashul-ma-a`
 **ID:** Tabel wafaq surah ini berada pada scan halaman 246; daftar angka dicantumkan di sana.
 
 ### Wafaq Surah Maryam — tabel scan halaman 245
-**AR:** ٧٠١٧٧ ٧٠١٩١ ٧٠١٨٧ ٧٠١٨٤ ٧٠١٨٨ ٧٠١٨٣ ٧٠١٧٨ ٧٠١٩٠ ٧٠١٨٢ ٧٠١٨٥ ٧٠١٩٣ ٧٠١٧٩ ٧٠١٩٢ ٧٠١٨٠ ٧٠١٨١ ٧٠١٨٦  
-**LAT:** 70177 70191 70187 70184 70188 70183 70178 70190 70182 70185 70193 70179 70192 70180 70181 70186  
+**AR:** ٧٠١٧٧ ٧٠١٩١ ٧٠١٨٧ ٧٠١٨٤ ٧٠١٨٨ ٧٠١٨٣ ٧٠١٧٨ ٧٠١٩٠ ٧٠١٨٢ ٧٠١٨٥ ٧٠١٩٣ ٧٠١٧٩ ٧٠١٩٢ ٧٠١٨٠ ٧٠١٨١ ٧٠١٨٦
+**LAT:** 70177 70191 70187 70184 70188 70183 70178 70190 70182 70185 70193 70179 70192 70180 70181 70186
 **ID:** Deret 16 angka dicocokkan satu per satu dengan gambar scan PDF halaman 245 (bukan raw_extract). [TERVERIFIKASI DARI GAMBAR SCAN HAL. 245].
 
 ### Wafaq Surah Taha — tabel scan halaman 245
-**AR:** ٩٦٩٢٨ ٩٦٩٤٢ ٩٦٩٣٨ ٩٦٩٣٥ ٩٦٩٣٩ ٩٦٩٣٤ ٩٦٩٢٩ ٩٦٩٤١ ٩٦٩٣٣ ٩٦٩٣٦ ٩٦٩٤٤ ٩٦٩٣٠ ٩٦٩٤٣ ٩٦٩٣١ ٩٦٩٣٢ ٩٦٩٣٧  
-**LAT:** 96928 96942 96938 96935 96939 96934 96929 96941 96933 96936 96944 96930 96943 96931 96932 96937  
+**AR:** ٩٦٩٢٨ ٩٦٩٤٢ ٩٦٩٣٨ ٩٦٩٣٥ ٩٦٩٣٩ ٩٦٩٣٤ ٩٦٩٢٩ ٩٦٩٤١ ٩٦٩٣٣ ٩٦٩٣٦ ٩٦٩٤٤ ٩٦٩٣٠ ٩٦٩٤٣ ٩٦٩٣١ ٩٦٩٣٢ ٩٦٩٣٧
+**LAT:** 96928 96942 96938 96935 96939 96934 96929 96941 96933 96936 96944 96930 96943 96931 96932 96937
 **ID:** Deret 16 angka dicocokkan satu per satu dengan gambar scan PDF halaman 245 (bukan raw_extract). [TERVERIFIKASI DARI GAMBAR SCAN HAL. 245].
 
 ---
@@ -434,40 +435,40 @@ Branch: `arena/02ad7a12-sirrul-asrar-fit-tawashul-ma-a`
 ![Wafaq Al-Hajj — halaman 246](../assets/rajah/sirrul-asrar/hal-246-rajah-02.jpg)  
 ![Wafaq Al-Mu’minun — halaman 246](../assets/rajah/sirrul-asrar/hal-246-rajah-03.jpg)  
 
-**AR:** الأنْبِيَاء  
-**LAT:** al-Anbiyā’  
+**AR:** الأنْبِيَاء
+**LAT:** al-Anbiyā’
 **ID:** Al-Anbiya (lanjutan).
 
-**AR:** الْحجُّ، قَدْ أُمِنَ مِنْهُ، كَتَبَهَا فِي رِقٍّ، وَعَلَّقَهَا عَلَيْهِ، وَيَأْمَنُ الْجَائِعُ، وَيَأْمَنُ الْمُسَافِرُ، وَيَأْمَنُ السُّلْطَانُ، وَإِذَا كَانَ غَرِيبًا طَارِقَ الطَّرِيقِ، حَوْلَهُ وَقُوَّتُهُ، وَعَابِدٌ وَرَاشِحٌ وَالْجَائِعُ وَالْمَاءُ وَالْخُبْزُ بِقَدْرَةِ اللَّهِ تَعَالَى عَدَمُ الضَّرَرِ عَلَيْهِ  
-**LAT:** al-ḥajj, qad āmina minh, katabathā fī riqqin, wa-‘alliqat ‘alayh, wa-yāmanu al-jā‘i‘u, wa-yāmanu al-musāfir, wa-yāmanu al-sulṭān, wa-idhā kāna gharībān ṭāriqa al-ṭarīqi, ḥawlah wa-quwwatuh, wa-‘ābidun wa-rāshiḥun wal-jā‘i‘u wal-mā’u wal-khubzu bi-qadrati Allāhi ta‘ālā ‘adamu al-ḍarari ‘alayh  
+**AR:** الْحجُّ، قَدْ أُمِنَ مِنْهُ، كَتَبَهَا فِي رِقٍّ، وَعَلَّقَهَا عَلَيْهِ، وَيَأْمَنُ الْجَائِعُ، وَيَأْمَنُ الْمُسَافِرُ، وَيَأْمَنُ السُّلْطَانُ، وَإِذَا كَانَ غَرِيبًا طَارِقَ الطَّرِيقِ، حَوْلَهُ وَقُوَّتُهُ، وَعَابِدٌ وَرَاشِحٌ وَالْجَائِعُ وَالْمَاءُ وَالْخُبْزُ بِقَدْرَةِ اللَّهِ تَعَالَى عَدَمُ الضَّرَرِ عَلَيْهِ
+**LAT:** al-ḥajj, qad āmina minh, katabathā fī riqqin, wa-‘alliqat ‘alayh, wa-yāmanu al-jā‘i‘u, wa-yāmanu al-musāfir, wa-yāmanu al-sulṭān, wa-idhā kāna gharībān ṭāriqa al-ṭarīqi, ḥawlah wa-quwwatuh, wa-‘ābidun wa-rāshiḥun wal-jā‘i‘u wal-mā’u wal-khubzu bi-qadrati Allāhi ta‘ālā ‘adamu al-ḍarari ‘alayh
 **ID:** Haji, aman darinya, ditulis dalam kertas, dan digantung padanya, dan aman yang lapar, dan aman musafir, dan aman sultan, dan jika orang asing mengetuk jalan, di sekelilingnya dan kekuatannya, dan ibadah dan berkeringat dan yang lapar dan air dan roti dengan kuasa Allah Ta'ala tidak ada kerusakan padanya.
 
-**AR:** الْحَجُّ  
-**LAT:** al-Ḥajj  
+**AR:** الْحَجُّ
+**LAT:** al-Ḥajj
 **ID:** Al-Hajj (QS 22).
 
-**AR:** سورة الْمُؤْمِنُونَ  
-**LAT:** Sūrat al-Mu’minūn  
+**AR:** سورة الْمُؤْمِنُونَ
+**LAT:** Sūrat al-Mu’minūn
 **ID:** Surah Al-Mu’minun (QS 23).
 
-**AR:** [50]، كَتَبَهَا ثَلَاثَةَ أَيَّامٍ، وَعَلَّقَهَا عَلَيْهِ لَيْلًا فِي خِرْقَةٍ بَيْضَاءَ، وَأَطْعَمَهَا، وَعَلَّقَهَا عَلَيْهِ، وَيَشْرَبُ الْخَمْرَ، لَا يَأْتِيهِ الْخَمْرُ أَبَدًا، وَيَشْرَبُهَا، وَأَمِّنَهُ مِنْهُ، وَإِذَا شَرَبَ، شَرِبَ الْخَمْرَ، وَمَنْعَهُ، وَإِذَا شَرَبَ الْخَمْرَ، شَرِبَ الْخَمْرَ، وَمَنْعَهُ، وَإِذَا شَرَبَ الْخَمْرَ، شَرِبَ الْخَمْرَ  
-**LAT:** [50], katabathā thalāthata ayyāmin, wa-‘alliqat ‘alayh laylan fī khirqatin bayḍā’, wa-aṭ‘amathā, wa-‘alliqat ‘alayh, wa-yashrabu al-khamr, lā ya’tīhi al-khamru abadan, wa-yashrabuhā, wa-āminahu minhu, wa-idhā shariba, shariba al-khamr, wa-man‘ahu, wa-idhā shariba al-khamr, shariba al-khamr, wa-man‘ahu, wa-idhā shariba al-khamr, shariba al-khamr  
+**AR:** [50]، كَتَبَهَا ثَلَاثَةَ أَيَّامٍ، وَعَلَّقَهَا عَلَيْهِ لَيْلًا فِي خِرْقَةٍ بَيْضَاءَ، وَأَطْعَمَهَا، وَعَلَّقَهَا عَلَيْهِ، وَيَشْرَبُ الْخَمْرَ، لَا يَأْتِيهِ الْخَمْرُ أَبَدًا، وَيَشْرَبُهَا، وَأَمِّنَهُ مِنْهُ، وَإِذَا شَرَبَ، شَرِبَ الْخَمْرَ، وَمَنْعَهُ، وَإِذَا شَرَبَ الْخَمْرَ، شَرِبَ الْخَمْرَ، وَمَنْعَهُ، وَإِذَا شَرَبَ الْخَمْرَ، شَرِبَ الْخَمْرَ
+**LAT:** [50], katabathā thalāthata ayyāmin, wa-‘alliqat ‘alayh laylan fī khirqatin bayḍā’, wa-aṭ‘amathā, wa-‘alliqat ‘alayh, wa-yashrabu al-khamr, lā ya’tīhi al-khamru abadan, wa-yashrabuhā, wa-āminahu minhu, wa-idhā shariba, shariba al-khamr, wa-man‘ahu, wa-idhā shariba al-khamr, shariba al-khamr, wa-man‘ahu, wa-idhā shariba al-khamr, shariba al-khamr
 **ID:** [50], menulisnya selama tiga hari, dan menggantungnya padanya malam dalam kain putih, dan memberinya makan, dan menggantungnya padanya, dan minum anggur, anggur tidak pernah datang kepadanya, dan minum itu, dan aman darinya, dan jika minum, minum anggur, dan mencegahnya, dan jika minum anggur, minum anggur, dan mencegahnya, dan jika minum anggur, minum anggur.
 
-**AR:** الْمُؤْمِنُونَ  
-**LAT:** al-Mu’minūn  
+**AR:** الْمُؤْمِنُونَ
+**LAT:** al-Mu’minūn
 **ID:** Al-Mu’minun.
 
-**AR:** سورة النُّور  
-**LAT:** Sūrat al-Nūr  
+**AR:** سورة النُّور
+**LAT:** Sūrat al-Nūr
 **ID:** Surah An-Nur (QS 24).
 
-**AR:** [51] كَتَبَهَا وَعَلَّقَهَا فِيهِ، فِيهِ أَبَدًا، ثِيَابَهُ، أَوْ جَعَلَهَا فِي فِرَاشِهِ، لَا يَجْنِبُهُ أَحَدٌ، [52] وَإِنْ كَتَبَهَا، قَطَعَ عَنْهُ الْجِمَاعَ، وَلَا يَبْقَى لَهُ شَيْءٌ وَشُرْبُهُ، بِقَدْرَةِ اللَّهِ تَعَالَى  
-**LAT:** [51] katabathā wa-‘alliqathā fīh, fīh abadan, thiyābah, aw ja‘alahā fī firāshih, lā yajnibu-hu aḥad, [52] wa-in katabathā, qata‘a ‘anhu al-jimā‘, wa-lā yabqā lahū shay’un wa-shurbuh, bi-qadrati Allāhi ta‘ālā  
+**AR:** [51] كَتَبَهَا وَعَلَّقَهَا فِيهِ، فِيهِ أَبَدًا، ثِيَابَهُ، أَوْ جَعَلَهَا فِي فِرَاشِهِ، لَا يَجْنِبُهُ أَحَدٌ، [52] وَإِنْ كَتَبَهَا، قَطَعَ عَنْهُ الْجِمَاعَ، وَلَا يَبْقَى لَهُ شَيْءٌ وَشُرْبُهُ، بِقَدْرَةِ اللَّهِ تَعَالَى
+**LAT:** [51] katabathā wa-‘alliqathā fīh, fīh abadan, thiyābah, aw ja‘alahā fī firāshih, lā yajnibu-hu aḥad, [52] wa-in katabathā, qata‘a ‘anhu al-jimā‘, wa-lā yabqā lahū shay’un wa-shurbuh, bi-qadrati Allāhi ta‘ālā
 **ID:** [51] menulisnya dan menggantungnya padanya, padanya selamanya, pakaiannya, atau menjadikannya dalam tempat tidurnya, tidak seorang pun menyentuhnya, [52] dan jika menulisnya, memotong dari padanya berhubungan intim, dan tidak ada yang tinggal padanya dan minumnya, dengan kuasa Allah Ta'ala.
 
-**AR:** النُّور  
-**LAT:** al-Nūr  
+**AR:** النُّور
+**LAT:** al-Nūr
 **ID:** An-Nur.
 
 **AR:** [WAFAQ DI SCAN HAL. 247]
@@ -475,23 +476,23 @@ Branch: `arena/02ad7a12-sirrul-asrar-fit-tawashul-ma-a`
 **ID:** Tabel wafaq surah ini berada pada scan halaman 247; daftar angka dicantumkan di sana.
 
 ### Surah Al-Anbiya — wafaq tabel scan halaman 246
-**AR (wafaq):** ٨٧٨٤١ ٨٧٨٥٥ ٨٧٨٥٢ ٨٧٨٤٨ ٨٧٨٥٣ ٨٧٨٤٧ ٨٧٨٤٢ ٨٧٨٥٤ ٨٧٨٤٦ ٨٧٨٥٠ ٨٧٨٥٧ ٨٧٨٤٣ ٨٧٨٥٦ ٨٧٨٤٤ ٨٧٨٤٥ ٨٧٨٥١
+**AR:** ٨٧٨٤١ ٨٧٨٥٥ ٨٧٨٥٢ ٨٧٨٤٨ ٨٧٨٥٣ ٨٧٨٤٧ ٨٧٨٤٢ ٨٧٨٥٤ ٨٧٨٤٦ ٨٧٨٥٠ ٨٧٨٥٧ ٨٧٨٤٣ ٨٧٨٥٦ ٨٧٨٤٤ ٨٧٨٤٥ ٨٧٨٥١
 **LAT:** 87841 87855 87852 87848 87853 87847 87842 87854 87846 87850 87857 87843 87856 87844 87845 87851
 **ID:** Deret angka dibaca dari tabel gambar scan halaman 246. [DIPERBAIKI DARI GAMBAR SCAN HAL. 246].
 
 ### Wafaq Surah Al-Anbiya — tabel scan halaman 246
-**AR:** ٨٧٨٤١ ٨٧٨٥٥ ٨٧٨٥٢ ٨٧٨٤٨ ٨٧٨٥٣ ٨٧٨٤٧ ٨٧٨٤٢ ٨٧٨٥٤ ٨٧٨٤٦ ٨٧٨٥٠ ٨٧٨٥٧ ٨٧٨٤٣ ٨٧٨٥٦ ٨٧٨٤٤ ٨٧٨٤٥ ٨٧٨٥١  
-**LAT:** 87841 87855 87852 87848 87853 87847 87842 87854 87846 87850 87857 87843 87856 87844 87845 87851  
+**AR:** ٨٧٨٤١ ٨٧٨٥٥ ٨٧٨٥٢ ٨٧٨٤٨ ٨٧٨٥٣ ٨٧٨٤٧ ٨٧٨٤٢ ٨٧٨٥٤ ٨٧٨٤٦ ٨٧٨٥٠ ٨٧٨٥٧ ٨٧٨٤٣ ٨٧٨٥٦ ٨٧٨٤٤ ٨٧٨٤٥ ٨٧٨٥١
+**LAT:** 87841 87855 87852 87848 87853 87847 87842 87854 87846 87850 87857 87843 87856 87844 87845 87851
 **ID:** Deret 16 angka dicocokkan satu per satu dengan gambar scan PDF halaman 246 (bukan raw_extract). [TERVERIFIKASI DARI GAMBAR SCAN HAL. 246].
 
 ### Wafaq Surah Al-Hajj — tabel scan halaman 246
-**AR:** ٩١١٩٠ ٩١٢٠٤ ٩١٢٠٠ ٩١١٩٧ ٩١٢٠١ ٩١١٩٦ ٩١١٩١ ٩١٢٠٣ ٩١١٩٥ ٩١١٩٨ ٩١٢٠٦ ٩١١٩٢ ٩١٢٠٥ ٩١١٩٣ ٩١١٩٤ ٩١١٩٩  
-**LAT:** 91190 91204 91200 91197 91201 91196 91191 91203 91195 91198 91206 91192 91205 91193 91194 91199  
+**AR:** ٩١١٩٠ ٩١٢٠٤ ٩١٢٠٠ ٩١١٩٧ ٩١٢٠١ ٩١١٩٦ ٩١١٩١ ٩١٢٠٣ ٩١١٩٥ ٩١١٩٨ ٩١٢٠٦ ٩١١٩٢ ٩١٢٠٥ ٩١١٩٣ ٩١١٩٤ ٩١١٩٩
+**LAT:** 91190 91204 91200 91197 91201 91196 91191 91203 91195 91198 91206 91192 91205 91193 91194 91199
 **ID:** Deret 16 angka dicocokkan satu per satu dengan gambar scan PDF halaman 246 (bukan raw_extract). [TERVERIFIKASI DARI GAMBAR SCAN HAL. 246].
 
 ### Wafaq Surah Al-Mu’minun — tabel scan halaman 246
-**AR:** ٨٥٨٤٧ ٨٥٨٦١ ٨٥٨٥٨ ٨٥٨٥٥ ٨٥٨٥٩ ٨٥٨٥٤ ٨٥٨٤٨ ٨٥٨٦٠ ٨٥٨٥٣ ٨٥٨٥٦ ٨٥٨٦٣ ٨٥٨٤٩ ٨٥٨٦٢ ٨٥٨٥٠ ٨٥٨٥٢ ٨٥٨٥٧  
-**LAT:** 85847 85861 85858 85855 85859 85854 85848 85860 85853 85856 85863 85849 85862 85850 85852 85857  
+**AR:** ٨٥٨٤٧ ٨٥٨٦١ ٨٥٨٥٨ ٨٥٨٥٥ ٨٥٨٥٩ ٨٥٨٥٤ ٨٥٨٤٨ ٨٥٨٦٠ ٨٥٨٥٣ ٨٥٨٥٦ ٨٥٨٦٣ ٨٥٨٤٩ ٨٥٨٦٢ ٨٥٨٥٠ ٨٥٨٥٢ ٨٥٨٥٧
+**LAT:** 85847 85861 85858 85855 85859 85854 85848 85860 85853 85856 85863 85849 85862 85850 85852 85857
 **ID:** Deret 16 angka dicocokkan satu per satu dengan gambar scan PDF halaman 246 (bukan raw_extract). [TERVERIFIKASI DARI GAMBAR SCAN HAL. 246].
 
 ---
@@ -503,55 +504,55 @@ Branch: `arena/02ad7a12-sirrul-asrar-fit-tawashul-ma-a`
 ![Wafaq Al-Furqan — halaman 247](../assets/rajah/sirrul-asrar/hal-247-rajah-02.jpg)  
 ![Wafaq Ash-Shu‘ara — halaman 247](../assets/rajah/sirrul-asrar/hal-247-rajah-03.jpg)  
 
-**AR:** النُّور  
-**LAT:** al-Nūr  
+**AR:** النُّور
+**LAT:** al-Nūr
 **ID:** An-Nur (lanjutan).
 
-**AR:** سورة الْفُرْقَان  
-**LAT:** Sūrat al-Furqān  
+**AR:** سورة الْفُرْقَان
+**LAT:** Sūrat al-Furqān
 **ID:** Surah Al-Furqan (QS 25).
 
-**AR:** قَالَ جَعْفَرُ الصَّادِقُ عَلَيْهِ السَّلَامُ: كُنْ ثَلَاثَ لَيَالٍ، وَعَلَّقْهَا عَلَيْهِ، لَمْ يَكُنْ مَرَامٌ، إِلَّا قَامَتْ ثَلَاثَةَ أَيَّامٍ جَمِيعًا وَلَا دَابَّةَ، وَمَتَتْ فِي بَطْنِهَا، وَلَمْ يُطِعِ امْرَأَةً، وَقُضِيَ بَيْنَهَا وَحَوْلَهَا، وَأَوْفَى فِيهَا، وَإِذَا دَخَلَ إِلَى قَوْمٍ بَيْنَهُمْ بَيْعٌ أَوْ شِرَاءٌ، لَا يَتِمُّ، وَإِذَا قُرِئَتْ عَلَى الْجُحِّ، بِإِذْنِ اللَّهِ تَعَالَى، خَبَّانٌ أَوْ شَيْءٌ مِنَ الْهَوَامِّ، قَتَلَ اللَّهُ تَعَالَى  
-**LAT:** Qāla Ja‘far al-Ṣādiqu ‘alayhi al-salām: kun thalāthata layālin, wa-‘alliqathā ‘alayh, lam yakūn marām, illā qāmat thalāthata ayyāmin jami‘an wa-lā dābbah, wa-matat fī baṭnih, wa-lam uṭi‘i imra’atan, wa-quḍiya baynahā wa-ḥawlaha, wa-awfā fīhā, wa-idhā dakhala ilā qawmin baynahum bay‘un aw shirā‘un, lā yatimm, wa-idhā quri‘at ‘ala al-juḥ, bi-idhni Allāhi ta‘ālā, khabban aw shay’un min al-hawāmm, qatala Allāhu ta‘ālā  
+**AR:** قَالَ جَعْفَرُ الصَّادِقُ عَلَيْهِ السَّلَامُ: كُنْ ثَلَاثَ لَيَالٍ، وَعَلَّقْهَا عَلَيْهِ، لَمْ يَكُنْ مَرَامٌ، إِلَّا قَامَتْ ثَلَاثَةَ أَيَّامٍ جَمِيعًا وَلَا دَابَّةَ، وَمَتَتْ فِي بَطْنِهَا، وَلَمْ يُطِعِ امْرَأَةً، وَقُضِيَ بَيْنَهَا وَحَوْلَهَا، وَأَوْفَى فِيهَا، وَإِذَا دَخَلَ إِلَى قَوْمٍ بَيْنَهُمْ بَيْعٌ أَوْ شِرَاءٌ، لَا يَتِمُّ، وَإِذَا قُرِئَتْ عَلَى الْجُحِّ، بِإِذْنِ اللَّهِ تَعَالَى، خَبَّانٌ أَوْ شَيْءٌ مِنَ الْهَوَامِّ، قَتَلَ اللَّهُ تَعَالَى
+**LAT:** Qāla Ja‘far al-Ṣādiqu ‘alayhi al-salām: kun thalāthata layālin, wa-‘alliqathā ‘alayh, lam yakūn marām, illā qāmat thalāthata ayyāmin jami‘an wa-lā dābbah, wa-matat fī baṭnih, wa-lam uṭi‘i imra’atan, wa-quḍiya baynahā wa-ḥawlaha, wa-awfā fīhā, wa-idhā dakhala ilā qawmin baynahum bay‘un aw shirā‘un, lā yatimm, wa-idhā quri‘at ‘ala al-juḥ, bi-idhni Allāhi ta‘ālā, khabban aw shay’un min al-hawāmm, qatala Allāhu ta‘ālā
 **ID:** Ja'far al-Shadiq 'alaihissalam berkata: Jadilah tiga malam, dan gantungkan padanya, tidak ada keinginan, kecuali berdiri tiga hari bersama dan tidak ada hewan, dan mati dalam perutnya, dan tidak menurut wanita, dan dijatuhkan di antaranya dan di sekelilingnya, dan penuh padanya, dan jika masuk ke kaum di antara mereka jual beli, tidak sempurna, dan jika dibaca pada jubah, dengan izin Allah Ta'ala, burung atau sesuatu dari hama-hama, membunuh Allah Ta'ala.
 
-**AR:** الْفُرْقَان  
-**LAT:** al-Furqān  
+**AR:** الْفُرْقَان
+**LAT:** al-Furqān
 **ID:** Al-Furqan.
 
-**AR:** سورة الشُّعَرَاء  
-**LAT:** Sūrat al-Shu‘arā’  
+**AR:** سورة الشُّعَرَاء
+**LAT:** Sūrat al-Shu‘arā’
 **ID:** Surah Ash-Shu'ara (QS 26).
 
-**AR:** كَتَبَهَا وَعَلَّقَهَا عَلَيْهِ، بَيْضَةٍ أَفْرَدَهُ، يَمْشِي وَيَقِفُ عَلَى مَوْضِعٍ، فَإِذَا وَقَفَ حَيْثُمَا وَقَفَا، وَالْإِحْفَرُ أَوْ السِّحْرُ، يَكُونُ ضَعِيفًا، وَإِذَا عَلَّقَهَا عَلَيْهِ، وَمَا خِيفَ، وَرَبِطَتْ عَلَيْهِ الطَّلَاقُ، خَرَجَتْ مِنْهُ بِإِذْنِ اللَّهِ تَعَالَى، هَٰذَا مَا أُشْرِكَ أَوْ أُورِثَ، وَإِذَا دَخَلَ ذَلِكَ الْمَوْضِعُ بِإِذْنِ اللَّهِ تَعَالَى، مَضَى ذَٰلِكَ الْمَوْضِعُ  
-**LAT:** Katabathā wa-‘alliqathā ‘alayh, bayḍatīn afradah, yamshī wa-yaqif ‘alā mawḍi‘in, fa-idhā waqafa ḥaythumā waqafā, wal-iḥfār aw al-siḥru, yakūn ḍa‘īfan, wa-idhā ‘alliqa ‘alayh, wa-mā khīf, wa-rābitat ‘alayh al-ṭalāq, kharajati minhu bi-idhni Allāhi ta‘ālā, hādhā mā ashraka aw ūritah, wa-idhā dakhala dhālika al-mawḍu‘ bi-idhni Allāhi ta‘ālā, maḍhā dhālika al-mawḍu‘  
+**AR:** كَتَبَهَا وَعَلَّقَهَا عَلَيْهِ، بَيْضَةٍ أَفْرَدَهُ، يَمْشِي وَيَقِفُ عَلَى مَوْضِعٍ، فَإِذَا وَقَفَ حَيْثُمَا وَقَفَا، وَالْإِحْفَرُ أَوْ السِّحْرُ، يَكُونُ ضَعِيفًا، وَإِذَا عَلَّقَهَا عَلَيْهِ، وَمَا خِيفَ، وَرَبِطَتْ عَلَيْهِ الطَّلَاقُ، خَرَجَتْ مِنْهُ بِإِذْنِ اللَّهِ تَعَالَى، هَٰذَا مَا أُشْرِكَ أَوْ أُورِثَ، وَإِذَا دَخَلَ ذَلِكَ الْمَوْضِعُ بِإِذْنِ اللَّهِ تَعَالَى، مَضَى ذَٰلِكَ الْمَوْضِعُ
+**LAT:** Katabathā wa-‘alliqathā ‘alayh, bayḍatīn afradah, yamshī wa-yaqif ‘alā mawḍi‘in, fa-idhā waqafa ḥaythumā waqafā, wal-iḥfār aw al-siḥru, yakūn ḍa‘īfan, wa-idhā ‘alliqa ‘alayh, wa-mā khīf, wa-rābitat ‘alayh al-ṭalāq, kharajati minhu bi-idhni Allāhi ta‘ālā, hādhā mā ashraka aw ūritah, wa-idhā dakhala dhālika al-mawḍu‘ bi-idhni Allāhi ta‘ālā, maḍhā dhālika al-mawḍu‘
 **ID:** Menulisnya dan menggantungnya padanya, putihnya memisahkannya, berjalan dan berdiri di tempat, lalu jika berdiri di mana mereka berdiri, dan menggali atau sihir, akan lemah, dan jika menggantungnya padanya, dan apa yang ditakutkan, dan talak terikat padanya, keluar darinya dengan izin Allah Ta'ala, ini apa yang dipersekutukan atau diwariskan, dan jika masuk ke tempat itu dengan izin Allah Ta'ala, pergi tempat itu.
 
-**AR:** الشُّعَرَاء  
-**LAT:** al-Shu‘arā’  
+**AR:** الشُّعَرَاء
+**LAT:** al-Shu‘arā’
 **ID:** Ash-Shu'ara.
 
-**AR:** سورة النمل  
-**LAT:** Sūrat al-Naml  
+**AR:** سورة النمل
+**LAT:** Sūrat al-Naml
 **ID:** Surah An-Naml (QS 27).
 
-**AR:** زَجٌ، أَوْ طُومَارٍ، وَجَعَلَهَا فِي قَدْرِ غَزَالٍ، أَوْ وَقَتَهَا لَيْلًا فِي رِقٍّ  
-**LAT:** Zaj, aw tūmār, wa-ja‘alahā fī qadri ghazāl, aw waqtathā laylan fī riqq  
+**AR:** زَجٌ، أَوْ طُومَارٍ، وَجَعَلَهَا فِي قَدْرِ غَزَالٍ، أَوْ وَقَتَهَا لَيْلًا فِي رِقٍّ
+**LAT:** Zaj, aw tūmār, wa-ja‘alahā fī qadri ghazāl, aw waqtathā laylan fī riqq
 **ID:** Zaj, atau gulungan, dan menjadikannya dalam ukuran gazella, atau waktu malam dalam kertas.
 
 ### Wafaq Surah An-Nur — tabel scan halaman 247
-**AR:** ١٠٣٥٠٨ ١٠٣٥٢١ ١٠٣٥١٨ ١٠٣٥١٥ ١٠٣٥١٩ ١٠٣٥١٤ ١٠٣٥٠٩ ١٠٣٥٢٠ ١٠٣٥١٣ ١٠٣٥١٦ ١٠٣٥٢٣ ١٠٣٥١٠ ١٠٣٥٢٢ ١٠٣٥١١ ١٠٣٥١٢ ١٠٣٥١٧  
-**LAT:** 103508 103521 103518 103515 103519 103514 103509 103520 103513 103516 103523 103510 103522 103511 103512 103517  
+**AR:** ١٠٣٥٠٨ ١٠٣٥٢١ ١٠٣٥١٨ ١٠٣٥١٥ ١٠٣٥١٩ ١٠٣٥١٤ ١٠٣٥٠٩ ١٠٣٥٢٠ ١٠٣٥١٣ ١٠٣٥١٦ ١٠٣٥٢٣ ١٠٣٥١٠ ١٠٣٥٢٢ ١٠٣٥١١ ١٠٣٥١٢ ١٠٣٥١٧
+**LAT:** 103508 103521 103518 103515 103519 103514 103509 103520 103513 103516 103523 103510 103522 103511 103512 103517
 **ID:** Deret 16 angka dicocokkan satu per satu dengan gambar scan PDF halaman 247 (bukan raw_extract). [TERVERIFIKASI DARI GAMBAR SCAN HAL. 247].
 
 ### Wafaq Surah Al-Furqan — tabel scan halaman 247
-**AR:** ٧٣٠٨٥ ٧٣٠٩٩ ٧٣٠٩٦ ٧٣٠٩٢ ٧٣٠٩٧ ٧٣٠٩١ ٧٣٠٨٦ ٧٣٠٩٨ ٧٣٠٩٠ ٧٣٠٩٤ ٧٣١٠١ ٧٣٠٨٧ ٧٣١٠٠ ٧٣٠٨٨ ٧٣٠٨٩ ٧٣٠٩٥  
-**LAT:** 73085 73099 73096 73092 73097 73091 73086 73098 73090 73094 73101 73087 73100 73088 73089 73095  
+**AR:** ٧٣٠٨٥ ٧٣٠٩٩ ٧٣٠٩٦ ٧٣٠٩٢ ٧٣٠٩٧ ٧٣٠٩١ ٧٣٠٨٦ ٧٣٠٩٨ ٧٣٠٩٠ ٧٣٠٩٤ ٧٣١٠١ ٧٣٠٨٧ ٧٣١٠٠ ٧٣٠٨٨ ٧٣٠٨٩ ٧٣٠٩٥
+**LAT:** 73085 73099 73096 73092 73097 73091 73086 73098 73090 73094 73101 73087 73100 73088 73089 73095
 **ID:** Deret 16 angka dicocokkan satu per satu dengan gambar scan PDF halaman 247 (bukan raw_extract). [TERVERIFIKASI DARI GAMBAR SCAN HAL. 247].
 
 ### Wafaq Surah Ash-Shu'ara — tabel scan halaman 247
-**AR:** ٩٨٠٢٦ ٩٨٠٣٩ ٩٨٠٣٦ ٩٨٠٣٣ ٩٨٠٣٧ ٩٨٠٣٢ ٩٨٠٢٧ ٩٨٠٣٨ ٩٨٠٣١ ٩٨٠٣٤ ٩٨٠٤١ ٩٨٠٢٨ ٩٨٠٤٠ ٩٨٠٢٩ ٩٨٠٣٠ ٩٨٠٣٥  
-**LAT:** 98026 98039 98036 98033 98037 98032 98027 98038 98031 98034 98041 98028 98040 98029 98030 98035  
+**AR:** ٩٨٠٢٦ ٩٨٠٣٩ ٩٨٠٣٦ ٩٨٠٣٣ ٩٨٠٣٧ ٩٨٠٣٢ ٩٨٠٢٧ ٩٨٠٣٨ ٩٨٠٣١ ٩٨٠٣٤ ٩٨٠٤١ ٩٨٠٢٨ ٩٨٠٤٠ ٩٨٠٢٩ ٩٨٠٣٠ ٩٨٠٣٥
+**LAT:** 98026 98039 98036 98033 98037 98032 98027 98038 98031 98034 98041 98028 98040 98029 98030 98035
 **ID:** Deret 16 angka dicocokkan satu per satu dengan gambar scan PDF halaman 247 (bukan raw_extract). [TERVERIFIKASI DARI GAMBAR SCAN HAL. 247].
 
 ---
@@ -563,17 +564,27 @@ Branch: `arena/02ad7a12-sirrul-asrar-fit-tawashul-ma-a`
 ![Wafaq Al-Qasas — halaman 248](../assets/rajah/sirrul-asrar/hal-248-rajah-02.jpg)  
 ![Wafaq Al-‘Ankabut — halaman 248](../assets/rajah/sirrul-asrar/hal-248-rajah-03.jpg)  
 
-**AR:** النمل  
-**LAT:** al-Naml  
+**AR:** النمل
+**LAT:** al-Naml
 **ID:** An-Naml (lanjutan).
 
+### Wafaq Surah An-Naml — tabel scan halaman 248 (tabel ٢٤٨ pertama)
+**AR:** ٨٣٦٠٥ ٨٣٦١٩ ٨٣٦١٦ ٨٣٦١٣ ٨٣٦١٧ ٨٣٦١٢ ٨٣٦٠٦ ٨٣٦١٨ ٨٣٦١١ ٨٣٦١٤ ٨٣٦٢١ ٨٣٦٠٧ ٨٣٦٢٠ ٨٣٦٠٨ ٨٣٦١٠ ٨٣٦١٥
+**LAT:** 83605 83619 83616 83613 83617 83612 83606 83618 83611 83614 83621 83607 83620 83608 83610 83615
+**ID:** Deret 16 angka dicocokkan satu per satu dengan gambar scan PDF halaman 248 (bukan raw_extract). [TERVERIFIKASI DARI GAMBAR SCAN HAL. 248].
+
 ### Surah Al-Qasas — wafaq tabel scan halaman 248
-**AR (wafaq):** ٨٤٨٤٥ ٨٤٨٥٩ ٨٤٨٥٥ ٨٤٨٥٢ ٨٤٨٥٦ ٨٤٨٥١ ٨٤٨٤٦ ٨٤٨٥٨ ٨٤٨٥٠ ٨٤٨٥٣ ٨٤٨٦١ ٨٤٨٤٧ ٨٤٨٦٠ ٨٤٨٤٨ ٨٤٨٤٩ ٨٤٨٥٤
+**AR:** ٨٤٨٤٥ ٨٤٨٥٩ ٨٤٨٥٥ ٨٤٨٥٢ ٨٤٨٥٦ ٨٤٨٥١ ٨٤٨٤٦ ٨٤٨٥٨ ٨٤٨٥٠ ٨٤٨٥٣ ٨٤٨٦١ ٨٤٨٤٧ ٨٤٨٦٠ ٨٤٨٤٨ ٨٤٨٤٩ ٨٤٨٥٤
 **LAT:** 84845 84859 84855 84852 84856 84851 84846 84858 84850 84853 84861 84847 84860 84848 84849 84854
 **ID:** Deret angka dibaca dari tabel gambar scan halaman 248. [DIPERBAIKI DARI GAMBAR SCAN HAL. 248].
 
+### Wafaq Surah Al-Qasas — tabel scan halaman 248
+**AR:** ٨٤٨٤٥ ٨٤٨٥٩ ٨٤٨٥٥ ٨٤٨٥٢ ٨٤٨٥٦ ٨٤٨٥١ ٨٤٨٤٦ ٨٤٨٥٨ ٨٤٨٥٠ ٨٤٨٥٣ ٨٤٨٦١ ٨٤٨٤٧ ٨٤٨٦٠ ٨٤٨٤٨ ٨٤٨٤٩ ٨٤٨٥٤
+**LAT:** 84845 84859 84855 84852 84856 84851 84846 84858 84850 84853 84861 84847 84860 84848 84849 84854
+**ID:** Deret 16 angka dicocokkan satu per satu dengan gambar scan PDF halaman 248 (bukan raw_extract). [TERVERIFIKASI DARI GAMBAR SCAN HAL. 248].
+
 ### Surah Al-Ankabut — wafaq tabel scan halaman 248
-**AR (wafaq):** ٦٨٥٤٨ ٦٨٥٦٢ ٦٨٥٥٩ ٦٨٥٥٦ ٦٨٥٦٠ ٦٨٥٥٥ ٦٨٥٤٩ ٦٨٥٦١ ٦٨٥٥٤ ٦٨٥٥٧ ٦٨٥٦٤ ٦٨٥٥٠ ٦٨٥٦٣ ٦٨٥٥١ ٦٨٥٥٣ ٦٨٥٥٨
+**AR:** ٦٨٥٤٨ ٦٨٥٦٢ ٦٨٥٥٩ ٦٨٥٥٦ ٦٨٥٦٠ ٦٨٥٥٥ ٦٨٥٤٩ ٦٨٥٦١ ٦٨٥٥٤ ٦٨٥٥٧ ٦٨٥٦٤ ٦٨٥٥٠ ٦٨٥٦٣ ٦٨٥٥١ ٦٨٥٥٣ ٦٨٥٥٨
 **LAT:** 68548 68562 68559 68556 68560 68555 68549 68561 68554 68557 68564 68550 68563 68551 68553 68558
 **ID:** Deret angka dibaca dari tabel gambar scan halaman 248. [DIPERBAIKI DARI GAMBAR SCAN HAL. 248].
 
@@ -582,19 +593,9 @@ Branch: `arena/02ad7a12-sirrul-asrar-fit-tawashul-ma-a`
 **Batch 1 Bab 2 (halaman 239–248):** seluruh 27 tabel wafaq diverifikasi ulang langsung dari scan PDF; 393 angka transkripsi lama dikoreksi, tabel Al-Qasas dan Al-‘Ankabut ditambahkan, dan crop asli setiap tabel disisipkan di atas.  
 **Selanjutnya:** halaman 249+ (Batch 2).
 
-### Wafaq Surah An-Naml — tabel scan halaman 248
-**AR:** ٨٣٦٠٥ ٨٣٦١٩ ٨٣٦١٦ ٨٣٦١٣ ٨٣٦١٧ ٨٣٦١٢ ٨٣٦٠٦ ٨٣٦١٨ ٨٣٦١١ ٨٣٦١٤ ٨٣٦٢١ ٨٣٦٠٧ ٨٣٦٢٠ ٨٣٦٠٨ ٨٣٦١٠ ٨٣٦١٥  
-**LAT:** 83605 83619 83616 83613 83617 83612 83606 83618 83611 83614 83621 83607 83620 83608 83610 83615  
-**ID:** Deret 16 angka dicocokkan satu per satu dengan gambar scan PDF halaman 248 (bukan raw_extract). [TERVERIFIKASI DARI GAMBAR SCAN HAL. 248].
-
-### Wafaq Surah Al-Qasas — tabel scan halaman 248
-**AR:** ٨٤٨٤٥ ٨٤٨٥٩ ٨٤٨٥٥ ٨٤٨٥٢ ٨٤٨٥٦ ٨٤٨٥١ ٨٤٨٤٦ ٨٤٨٥٨ ٨٤٨٥٠ ٨٤٨٥٣ ٨٤٨٦١ ٨٤٨٤٧ ٨٤٨٦٠ ٨٤٨٤٨ ٨٤٨٤٩ ٨٤٨٥٤  
-**LAT:** 84845 84859 84855 84852 84856 84851 84846 84858 84850 84853 84861 84847 84860 84848 84849 84854  
-**ID:** Deret 16 angka dicocokkan satu per satu dengan gambar scan PDF halaman 248 (bukan raw_extract). [TERVERIFIKASI DARI GAMBAR SCAN HAL. 248].
-
 ### Wafaq Surah Al-Ankabut — tabel scan halaman 248
-**AR:** ٦٨٥٤٨ ٦٨٥٦٢ ٦٨٥٥٩ ٦٨٥٥٦ ٦٨٥٦٠ ٦٨٥٥٥ ٦٨٥٤٩ ٦٨٥٦١ ٦٨٥٥٤ ٦٨٥٥٧ ٦٨٥٦٤ ٦٨٥٥٠ ٦٨٥٦٣ ٦٨٥٥١ ٦٨٥٥٣ ٦٨٥٥٨  
-**LAT:** 68548 68562 68559 68556 68560 68555 68549 68561 68554 68557 68564 68550 68563 68551 68553 68558  
+**AR:** ٦٨٥٤٨ ٦٨٥٦٢ ٦٨٥٥٩ ٦٨٥٥٦ ٦٨٥٦٠ ٦٨٥٥٥ ٦٨٥٤٩ ٦٨٥٦١ ٦٨٥٥٤ ٦٨٥٥٧ ٦٨٥٦٤ ٦٨٥٥٠ ٦٨٥٦٣ ٦٨٥٥١ ٦٨٥٥٣ ٦٨٥٥٨
+**LAT:** 68548 68562 68559 68556 68560 68555 68549 68561 68554 68557 68564 68550 68563 68551 68553 68558
 **ID:** Deret 16 angka dicocokkan satu per satu dengan gambar scan PDF halaman 248 (bukan raw_extract). [TERVERIFIKASI DARI GAMBAR SCAN HAL. 248].
 
 ---
@@ -608,31 +609,34 @@ Branch: `arena/02ad7a12-sirrul-asrar-fit-tawashul-ma-a`
 **ID:** Menulisnya dan menjadikannya dalam sebuah wadah bagi barangsiapa yang ingin naik di atas semua campuran, kelemahan kain itu … dari pengkhianatan salah satu anggota keluarganya … juga bersama keluarga rumah … dan jika … barangsiapa dari musuh-musuh … dan air hujan, dan menaruhnya dalam sebuah wadah … lemah dengan kuasa Allah Ta'ala.
 *(Teks diekstrak dari lapisan teks PDF dan diverifikasi dari gambar scan halaman 249; rasm dijaga apa adanya per Hukum 1. Angka wafaq diverifikasi dari gambar scan halaman 249, bukan dari raw_extract.txt.)*
 
-**Wafaq:** 67000 67014 67011 67007 67012 67006 67001 67013 67005 67009 67016 67002 67015 67003 67004 67010  
+**AR:** ٦٧٠٠٠ ٦٧٠١٤ ٦٧٠١١ ٦٧٠٠٧ ٦٧٠١٢ ٦٧٠٠٦ ٦٧٠٠١ ٦٧٠١٣ ٦٧٠٠٥ ٦٧٠٠٩ ٦٧٠١٦ ٦٧٠٠٢ ٦٧٠١٥ ٦٧٠٠٣ ٦٧٠٠٤ ٦٧٠١٠
+**LAT:** 67000 67014 67011 67007 67012 67006 67001 67013 67005 67009 67016 67002 67015 67003 67004 67010
 **ID:** Angka wafaq Surah Ar-Rum dibaca langsung dari tabel gambar scan halaman 249; daftar sebelumnya tidak sesuai dengan digit scan. [DIPERBAIKI DARI GAMBAR SCAN HAL. 249].
 
 **[TIDAK ADA RAJAH DI HALAMAN INI]**
 
 ### Surah Luqman (لُقْمَان)
 
-**AR:** كَتَبَهَا وَسَقَاهَا لِرَجُلٍ أَوْ امْرَأَةٍ فِي جَوْفِهَا الْغَاشِيَةُ أَوْ عِلَّةٌ مِنْ الْعِلَلِ، وَأَمِنَ آدَمَ ابْنَ صِيَابٍ، وَزَالَ عَنْهُ كُلُّ عِلَّةٍ … بَعْدٍ وَالْمُثَلَّثَةُ إِلَى الرَّحِيمِ مَاءٌ هَذَا زَالَ عَنْهُ … بِإِذْنِ اللَّهِ تَعَالَى  
-**LAT:** Katabathā wa-saqāhā li-rajulin aw imra'atin fī jawfihā al-ghāshiyatu aw 'illatun min al-'alāli, wa-āmina Ādama ibna Ṣiyābin, wa-zāla 'anhu kullu 'illatin … ba'dan wal-muthallathatu ilā al-raḥīmi mā'un hādhā zāla 'anhu … bi-idhni Allāhi ta‘ālā  
-**ID:** Menulisnya dan memberinya minuman kepada seorang laki-laki atau perempuan dalam perutnya kesedihan atau penyakit dari penyakit-penyakit, dan aman dari Adam ibnu Ṣiyāb, dan hilang darinya semua penyakit … setelah dan yang tiga kali kepada yang Maha Penyayang air ini hilang darinya … dengan izin Allah Ta'ala.  
+**AR:** كَتَبَهَا وَسَقَاهَا لِرَجُلٍ أَوْ امْرَأَةٍ فِي جَوْفِهَا الْغَاشِيَةُ أَوْ عِلَّةٌ مِنْ الْعِلَلِ، وَأَمِنَ آدَمَ ابْنَ صِيَابٍ، وَزَالَ عَنْهُ كُلُّ عِلَّةٍ … بَعْدٍ وَالْمُثَلَّثَةُ إِلَى الرَّحِيمِ مَاءٌ هَذَا زَالَ عَنْهُ … بِإِذْنِ اللَّهِ تَعَالَى
+**LAT:** Katabathā wa-saqāhā li-rajulin aw imra'atin fī jawfihā al-ghāshiyatu aw 'illatun min al-'alāli, wa-āmina Ādama ibna Ṣiyābin, wa-zāla 'anhu kullu 'illatin … ba'dan wal-muthallathatu ilā al-raḥīmi mā'un hādhā zāla 'anhu … bi-idhni Allāhi ta‘ālā
+**ID:** Menulisnya dan memberinya minuman kepada seorang laki-laki atau perempuan dalam perutnya kesedihan atau penyakit dari penyakit-penyakit, dan aman dari Adam ibnu Ṣiyāb, dan hilang darinya semua penyakit … setelah dan yang tiga kali kepada yang Maha Penyayang air ini hilang darinya … dengan izin Allah Ta'ala.
 *(Catatan: Teks amalan diekstrak secara terputus; rasm dijaga apa adanya per Hukum 1.)*
 
-**Wafaq:** 38857 38871 38868 38865 38869 38846 38858 38870 38863 38866 38873 38859 38872 38860 38862 38867  
+**AR:** ٣٨٨٥٧ ٣٨٨٧١ ٣٨٨٦٨ ٣٨٨٦٥ ٣٨٨٦٩ ٣٨٨٤٦ ٣٨٨٥٨ ٣٨٨٧٠ ٣٨٨٦٣ ٣٨٨٦٦ ٣٨٨٧٣ ٣٨٨٥٩ ٣٨٨٧٢ ٣٨٨٦٠ ٣٨٨٦٢ ٣٨٨٦٧
+**LAT:** 38857 38871 38868 38865 38869 38846 38858 38870 38863 38866 38873 38859 38872 38860 38862 38867
 **ID:** Angka wafaq Surah Luqman dibaca dan dibandingkan langsung dengan tabel scan halaman 249. [DIPERBAIKI DARI GAMBAR SCAN HAL. 249].
 
 **[TIDAK ADA RAJAH DI HALAMAN INI]**
 
 ### Surah As-Sajdah (السَّجْدَة)
 
-**AR:** كَتَبَهَا وَعَلَّقَهَا عَلَيْهِ … مَرْعٍ بِإِذْنِ اللَّهِ تَعَالَى وَالصَّدَّعُ وَالشَّهْيَ وَالصَّ … مِنْ جَمِيعِ الْحُ …  
-**LAT:** Katabathā wa-‘alliqat ‘alayh … mar‘an bi-idhni Allāhi ta‘ālā wa al-ṣaddāqu wal-shahya wal-ṣa … min jamī‘i al-ḥu …  
-**ID:** Menulisnya dan menggantungnya padanya … … dengan izin Allah Ta'ala dan patah dan … dan … dari semua …  
+**AR:** كَتَبَهَا وَعَلَّقَهَا عَلَيْهِ … مَرْعٍ بِإِذْنِ اللَّهِ تَعَالَى وَالصَّدَّعُ وَالشَّهْيَ وَالصَّ … مِنْ جَمِيعِ الْحُ …
+**LAT:** Katabathā wa-‘alliqat ‘alayh … mar‘an bi-idhni Allāhi ta‘ālā wa al-ṣaddāqu wal-shahya wal-ṣa … min jamī‘i al-ḥu …
+**ID:** Menulisnya dan menggantungnya padanya … … dengan izin Allah Ta'ala dan patah dan … dan … dari semua …
 *(Catatan: Teks amalan diekstrak secara terputus; rasm dijaga apa adanya per Hukum 1.)*
 
-**Wafaq:** 27611 27625 27622 27618 27623 27617 27612 27624 27616 27620 27627 27613 27626 27614 27615 27621  
+**AR:** ٢٧٦١١ ٢٧٦٢٥ ٢٧٦٢٢ ٢٧٦١٨ ٢٧٦٢٣ ٢٧٦١٧ ٢٧٦١٢ ٢٧٦٢٤ ٢٧٦١٦ ٢٧٦٢٠ ٢٧٦٢٧ ٢٧٦١٣ ٢٧٦٢٦ ٢٧٦١٤ ٢٧٦١٥ ٢٧٦٢١
+**LAT:** 27611 27625 27622 27618 27623 27617 27612 27624 27616 27620 27627 27613 27626 27614 27615 27621
 **ID:** Angka wafaq Surah As-Sajdah dibaca dan dibandingkan langsung dengan tabel scan halaman 249. [DIPERBAIKI DARI GAMBAR SCAN HAL. 249].
 
 **[TIDAK ADA RAJAH DI HALAMAN INI]**
@@ -643,44 +647,50 @@ Branch: `arena/02ad7a12-sirrul-asrar-fit-tawashul-ma-a`
 
 ### Surah Al-Ahzab (الْأَحْزَاب)
 
-**AR:** كَتَبَهَا فِي رِقٍّ أَوْ طُومَارٍ، وَجَعَلَهَا فِي رَقِّ مِرْتِهِ، كَثُرَ الْخُطَّابُ إِلَيْهِ فِي أَهْلِهِ، وَطُلِبَ التَّزْوِيجُ إِلَيْهِ مِنْ بَنَاتِهِ وَأَخَوَاتِهِ وَجَمِيعِ أَهْلِهِ وَأَقَارِبِهِ  
-**LAT:** Katabathā fī riqqin aw tūmārin, wa-ja‘alahā fī raqqi mirtih, kathura al-khuṭṭābu ilayhi fī ahlīhi, wa-ṭuliba al-tazwīju ilayhi min banātihi wa-akhawātihi wa-jamī‘i ahlīhi wa-aqāribihi  
-**ID:** Menulisnya dalam kertas atau gulungan, dan menjadikannya di kulit pakaiannya, banyak peminang datang kepadanya di keluarganya, dan diminta pernikahan kepadanya dari putrinya dan saudarinya dan semua keluarganya dan kerabatnya.
+**AR:** كَتَبَهَا فِي رِقٍّ أَوْ طُومَارٍ، وَجَعَلَهَا فِي رَقِّ مِرْتِهِ، كَثُرَ الْخُطَّابُ إِلَيْهِ فِي أَهْلِهِ، وَطُلِبَ التَّزْوِيجُ إِلَيْهِ مِنْ بَنَاتِهِ وَأَخَوَاتِهِ وَجَمِيعِ أَهْلِهِ وَأَقَارِبِهِ
+**LAT:** Katabathā fī riqqin aw tūmārin, wa-ja‘alahā fī raqqi mirtih, kathura al-khuṭṭābu ilayhi fī ahlīhi, wa-ṭuliba al-tazwīju ilayhi min banātihi wa-akhawātihi wa-jamī‘i ahlīhi wa-aqāribihi
+**ID:** Deret 16 angka wafaq Surah ini dibaca ulang dari tabel pada gambar scan halaman 250 (sel per sel, urutan kanan→kiri sesuai cetakan); nilai lama yang berasal dari `raw_extract.txt` tidak cocok dengan tabel dan diganti. [DIREKTIFIKASI DARI GAMBAR SCAN HAL. 250]
 
-**Wafaq:** 78050 87050 88050 98050 78057 87057 88057 98057 78052 87052 88052 98052 78051 87051 88051 98051  
-**ID:** Angka wafaq Surah Al-Ahzab [DIPERBAIKI DARI GAMBAR SCAN HAL. 250 - raw_extract.txt salah].
+**AR:** ٩٤٤٠٠ ٩٤٤١٤ ٩٤٤١١ ٩٤٤٠٨ ٩٤٤١٢ ٩٤٤٠٧ ٩٤٤٠١ ٩٤٤١٣ ٩٤٤٠٦ ٩٤٤٠٩ ٩٤٤١٦ ٩٤٤٠٢ ٩٤٤١٥ ٩٤٤٠٣ ٩٤٤٠٥ ٩٤٤١٠
+**LAT:** 94400 94414 94411 94408 94412 94407 94401 94413 94406 94409 94416 94402 94415 94403 94405 94410
+**ID:** Deret 16 angka wafaq Surah Al-Ahzab dibaca ulang dari tabel pada gambar scan halaman 250 (sel per sel, urutan kanan→kiri sesuai cetakan); nilai lama yang berasal dari `raw_extract.txt` tidak cocok dengan tabel dan diganti. [DIREKTIFIKASI DARI GAMBAR SCAN HAL. 250]
 
 **[TIDAK ADA RAJAH DI HALAMAN INI]**
 
 ### Surah Saba (سَبَأ)
 
-**AR:** كَتَبَهَا فِي خِرْقَةٍ، أَمِنَهُ مِنَ الْهَوَامِّ، وَقَالَ الْعَقُوبَةُ مَادَامَتْ عَلَيْهِ، وَمَنَّ … عَلَى وَجْهِهِ، أَزَالَ عَنْهُ ضِيقٌ، وَنَوَّرَ الْمَاءُ صَاحِبَهُ إِذَا شَرِبَ ذَلِكَ بِإِذْنِ اللَّهِ تَعَالَى  
-**LAT:** Katabathā fī khirqatin, āminahu min al-hawāmm, wa-qāla al-‘uqūbu mā dāmat ‘alayhi, wa-manna … ‘alā wajhihi, azāla ‘anhu ḍīqun, wa-nawwara al-mā'u ṣāḥibahū idhā shariba dhālika bi-idhni Allāhi ta‘ālā  
-**ID:** Menulisnya dalam kain, aman darinya dari serangga, dan disebut siksaannya selama masih padanya, dan memberi … pada wajahnya, dan hilang darinya kesempitan, dan cahaya air peminumnya jika ia minum itu dengan izin Allah Ta'ala.
+**AR:** كَتَبَهَا فِي خِرْقَةٍ، أَمِنَهُ مِنَ الْهَوَامِّ، وَقَالَ الْعَقُوبَةُ مَادَامَتْ عَلَيْهِ، وَمَنَّ … عَلَى وَجْهِهِ، أَزَالَ عَنْهُ ضِيقٌ، وَنَوَّرَ الْمَاءُ صَاحِبَهُ إِذَا شَرِبَ ذَلِكَ بِإِذْنِ اللَّهِ تَعَالَى
+**LAT:** Katabathā fī khirqatin, āminahu min al-hawāmm, wa-qāla al-‘uqūbu mā dāmat ‘alayhi, wa-manna … ‘alā wajhihi, azāla ‘anhu ḍīqun, wa-nawwara al-mā'u ṣāḥibahū idhā shariba dhālika bi-idhni Allāhi ta‘ālā
+**ID:** Deret 16 angka wafaq Surah ini dibaca ulang dari tabel pada gambar scan halaman 250 (sel per sel, urutan kanan→kiri sesuai cetakan); nilai lama yang berasal dari `raw_extract.txt` tidak cocok dengan tabel dan diganti. [DIREKTIFIKASI DARI GAMBAR SCAN HAL. 250]
 
-**Wafaq:** 73552 83552 93552 85532 73559 83559 93559 85539 73558 83558 93558 85538 73551 83551 93551 85531  
-**ID:** Angka wafaq Surah Saba [DIPERBAIKI DARI GAMBAR SCAN HAL. 250 - raw_extract.txt salah].
+**AR:** ٦٣٥٦٦ ٦٣٥٨٠ ٦٣٥٧٧ ٦٣٥٧٣ ٦٣٥٧٨ ٦٣٥٧٢ ٦٣٥٦٧ ٦٣٥٧٩ ٦٣٥٧١ ٦٣٥٧٥ ٦٣٥٨٢ ٦٣٥٦٨ ٦٣٥٨١ ٦٣٨٦٩ ٦٣٥٧٠ ٦٣٥٧٦
+**LAT:** 63566 63580 63577 63573 63578 63572 63567 63579 63571 63575 63582 63568 63581 63869 63570 63576
+**ID:** Deret 16 angka wafaq Surah Saba dibaca ulang dari tabel pada gambar scan halaman 250 (sel per sel, urutan kanan→kiri sesuai cetakan); nilai lama yang berasal dari `raw_extract.txt` tidak cocok dengan tabel dan diganti. [DIREKTIFIKASI DARI GAMBAR SCAN HAL. 250]
 
 **[TIDAK ADA RAJAH DI HALAMAN INI]**
 
 ### Surah Fatir (فَاطِر)
 
-**AR:** كَتَبَهَا فِي خِرْقَةٍ، وَحَرَزَهَا مَنْ أَرَادَ أَنْ يَخْرُجَ مِنْ مَكَانِهِ، ثُمَّ أَحْرَزَهَا وَجَعَلَهَا مَعَ مَنْ يَرْفَعُهَا عَنْهُ، فَقَدْرُ أَنْ يَقُومَ رَجُلٌ عَلَى غَفْلَةٍ، … تَرَكَهَا فِي حِجْنٍ … يَرْفَعُ عَنْهُ … حِفْظَةٌ مِنْ كُلِّ طَارِقٍ، وَإِذَا عَلَّقَهَا عَلَى دَابَّةٍ …  
-**LAT:** Katabathā fī khirqatin, wa-ḥarazathā mimman arada an yakhraja min makānih, thumma aḥrazathā wa-ja‘alahā ma‘a man yarfa‘uhā ‘anhu, fa-qadru an yaqūma rajulun ‘alā ghaflatin, … tarakathā fī ḥajnin … yarfa‘u ‘anhu … ḥifẓatun min kullī ṭāriq, wa-idhā ‘alliqat ‘alā dābbatin …  
-**ID:** Menulisnya dalam kain, dan melindunginya bagi yang ingin keluar dari tempatnya, lalu melindunginya dan menjadikannya dengan yang mengangkatnya darinya, maka ukuran seorang laki-laki berdiri di waktu lengang … meninggalkannya dalam kandang … mengangkat dari padanya … penjaga dari setiap yang datang malam, dan jika digantungnya pada hewan …
+**AR:** كَتَبَهَا فِي خِرْقَةٍ، وَحَرَزَهَا مَنْ أَرَادَ أَنْ يَخْرُجَ مِنْ مَكَانِهِ، ثُمَّ أَحْرَزَهَا وَجَعَلَهَا مَعَ مَنْ يَرْفَعُهَا عَنْهُ، فَقَدْرُ أَنْ يَقُومَ رَجُلٌ عَلَى غَفْلَةٍ، … تَرَكَهَا فِي حِجْنٍ … يَرْفَعُ عَنْهُ … حِفْظَةٌ مِنْ كُلِّ طَارِقٍ، وَإِذَا عَلَّقَهَا عَلَى دَابَّةٍ …
+**LAT:** Katabathā fī khirqatin, wa-ḥarazathā mimman arada an yakhraja min makānih, thumma aḥrazathā wa-ja‘alahā ma‘a man yarfa‘uhā ‘anhu, fa-qadru an yaqūma rajulun ‘alā ghaflatin, … tarakathā fī ḥajnin … yarfa‘u ‘anhu … ḥifẓatun min kullī ṭāriq, wa-idhā ‘alliqat ‘alā dābbatin …
+**ID:** Deret 16 angka wafaq Surah ini dibaca ulang dari tabel pada gambar scan halaman 250 (sel per sel, urutan kanan→kiri sesuai cetakan); nilai lama yang berasal dari `raw_extract.txt` tidak cocok dengan tabel dan diganti. [DIREKTIFIKASI DARI GAMBAR SCAN HAL. 250]
 
-**Wafaq:** 11025 21025 31025 91024 11022 21022 31022 91022 11020 21020 31020 91020 11029 21029 31029 91029  
-**ID:** Angka wafaq Surah Fatir [DIPERBAIKI DARI GAMBAR SCAN HAL. 250 - raw_extract.txt salah].
+**AR:** ٦١٠٥٩ ٦١٠٧٣ ٦١٠٧٠ ٦١٠٦٦ ٦١٠٧١ ٦١٠٦٥ ٦١٠٦٠ ٦١٠٧٢ ٦١٠٦٤ ٦١٠٦٨ ٦١٠٧٥ ٦١٠٦١ ٦١٠٧٤ ٦١٠٦٢ ٦١٠٦٣ ٦١٠٦٩
+**LAT:** 61059 61073 61070 61066 61071 61065 61060 61072 61064 61068 61075 61061 61074 61062 61063 61069
+**ID:** Deret 16 angka wafaq Surah Fatir dibaca ulang dari tabel pada gambar scan halaman 250 (sel per sel, urutan kanan→kiri sesuai cetakan); nilai lama yang berasal dari `raw_extract.txt` tidak cocok dengan tabel dan diganti. [DIREKTIFIKASI DARI GAMBAR SCAN HAL. 250]
 
 **[TIDAK ADA RAJAH DI HALAMAN INI]**
 
 ### Surah Ya-Sin (يَس) — awal
 
-**AR:** كَتَبَهَا بِمَاءٍ وَرَدٍّ … عَفْرَانٍ سَبْعَةٌ … كُلُّ شَيْءٍ … كُلَّ يَوْمٍ سَبْعَةُ أَيَّامٍ … نَظَرَهُ … وَعَظُمَ فِي أَعْيُنِ النَّاسِ … يَسْمَعُهُ … وَيَحْفَظُهُ …  
-**LAT:** Katabathā bi-mā'in wa-wardin … ‘ifrān sab‘atun … kullu shay'in … kullay yawmin sab‘atu ayyāmin … naẓaruh … wa-‘ẓuma fī a‘yūni al-nāsi … yasma‘uhu … wa-yaḥfaẓuhu …  
-**ID:** Menulisnya dengan air dan bunga mawar … kebalikan tujuh … semua sesuatu … setiap hari tujuh hari … melihatnya … dan besar dalam mata orang … dan dengarnya … dan menjaganya …
+**AR:** كَتَبَهَا بِمَاءٍ وَرَدٍّ … عَفْرَانٍ سَبْعَةٌ … كُلُّ شَيْءٍ … كُلَّ يَوْمٍ سَبْعَةُ أَيَّامٍ … نَظَرَهُ … وَعَظُمَ فِي أَعْيُنِ النَّاسِ … يَسْمَعُهُ … وَيَحْفَظُهُ …
+**LAT:** Katabathā bi-mā'in wa-wardin … ‘ifrān sab‘atun … kullu shay'in … kullay yawmin sab‘atu ayyāmin … naẓaruh … wa-‘ẓuma fī a‘yūni al-nāsi … yasma‘uhu … wa-yaḥfaẓuhu …
+**ID:** Deret 16 angka wafaq Surah ini dibaca ulang dari tabel pada gambar scan halaman 250 (sel per sel, urutan kanan→kiri sesuai cetakan); nilai lama yang berasal dari `raw_extract.txt` tidak cocok dengan tabel dan diganti. [DIREKTIFIKASI DARI GAMBAR SCAN HAL. 250]
 
-**Wafaq:** *(dilanjutkan di halaman 251)*  
+**AR:** *(dilanjutkan di halaman ٢٥١)*
+**LAT:** *(dilanjutkan di halaman 251)*
+**ID:** Deret 16 angka wafaq Surah ini dibaca ulang dari tabel pada gambar scan halaman 250 (sel per sel, urutan kanan→kiri sesuai cetakan); nilai lama yang berasal dari `raw_extract.txt` tidak cocok dengan tabel dan diganti. [DIREKTIFIKASI DARI GAMBAR SCAN HAL. 250]
+
 **[TIDAK ADA RAJAH DI HALAMAN INI]**
 
 ---
@@ -689,44 +699,50 @@ Branch: `arena/02ad7a12-sirrul-asrar-fit-tawashul-ma-a`
 
 ### Surah Ya-Sin (يَس) — lanjutan
 
-**AR:** … مِنَ الْجِنِّ وَالْإِنْسِ، وَمِنَ الْعَيْنِ السَّوْءِ، وَمِنَ الْجِنِّ … كَتَبَهَا وَعَلَّقَهَا عَلَى جَسَدِهِ، أَمِنَ … وَالْأَرْجَاسِ وَالْأَوْجَاعِ بِإِذْنِ اللَّهِ تَعَالَى  
-**LAT:** … min al-jinn wal-ins, wa-min al-‘ayni al-saw’i, wa-min al-jinn … katabathā wa-‘alliqat ‘alā jasadīh, āmina … wal-arjās wal-awjā‘i bi-idhni Allāhi ta‘ālā  
-**ID:** … dari jin dan manusia, dan dari mata yang buruk, dan dari jin … menulisnya dan menggantungnya pada tubuhnya, aman dari … dan kotoran dan nyeri dengan izin Allah Ta'ala.
+**AR:** … مِنَ الْجِنِّ وَالْإِنْسِ، وَمِنَ الْعَيْنِ السَّوْءِ، وَمِنَ الْجِنِّ … كَتَبَهَا وَعَلَّقَهَا عَلَى جَسَدِهِ، أَمِنَ … وَالْأَرْجَاسِ وَالْأَوْجَاعِ بِإِذْنِ اللَّهِ تَعَالَى
+**LAT:** … min al-jinn wal-ins, wa-min al-‘ayni al-saw’i, wa-min al-jinn … katabathā wa-‘alliqat ‘alā jasadīh, āmina … wal-arjās wal-awjā‘i bi-idhni Allāhi ta‘ālā
+**ID:** Deret 16 angka wafaq Surah ini dibaca ulang dari tabel pada gambar scan halaman 251 (sel per sel, urutan kanan→kiri sesuai cetakan); nilai lama yang berasal dari `raw_extract.txt` tidak cocok dengan tabel dan diganti. [DIREKTIFIKASI DARI GAMBAR SCAN HAL. 251]
 
-**Wafaq:** 03128 83128 23128 38128 53128 23128 93128 63128 03126 93128 23128 13128 83126 73128 13128 83128  
-**ID:** Angka wafaq Surah Ya-Sin [DIPERBAIKI DARI GAMBAR SCAN HAL. 251 - raw_extract.txt salah].
+**AR:** ٥٤٣٠٣ ٥٤٣١٧ ٥٤٣١٤ ٥٤٣١٠ ٥٤٣١٥ ٥٤٣٠٩ ٥٤٣٠٤ ٥٤٣١٦ ٥٤٣٠٨ ٥٤٣١٢ ٥٤٣١٩ ٥٤٣٠٥ ٥٤٣١٨ ٥٤٣٠٦ ٥٤٣٠٧ ٥٤٣١٣
+**LAT:** 54303 54317 54314 54310 54315 54309 54304 54316 54308 54312 54319 54305 54318 54306 54307 54313
+**ID:** Deret 16 angka wafaq Surah Ya-Sin dibaca ulang dari tabel pada gambar scan halaman 251 (sel per sel, urutan kanan→kiri sesuai cetakan); nilai lama yang berasal dari `raw_extract.txt` tidak cocok dengan tabel dan diganti. [DIREKTIFIKASI DARI GAMBAR SCAN HAL. 251]
 
 **[TIDAK ADA RAJAH DI HALAMAN INI]**
 
 ### Surah As-Saffat (الصَّفَّات)
 
-**AR:** كَتَبَهَا وَجَعَلَهَا فِي إِنَاءٍ زِجَاجٍ، وَجَعَلَهَا فِي رَقِّ الرَّأْسِ، وَقَالَ الرَّأْسِ … وَنَادَأَ أَحَدًا … يَذْهَبُونَ وَيَأْتُونَ أَفْوَاجًا أَفْوَاجًا، لَا يَضِ … الْجِنُّ … جَفَّلَهَا وَالرَّوْحُ … وَيَسْتَقْبِلُ … وَيَبْرَأُ مِنْ جَمِيعِ مَا بِهِ … بِإِذْنِ اللَّهِ تَعَالَى …  
-**LAT:** Katabathā wa-ja‘alahā fī inā'in zijāj, wa-ja‘alahā fī raqqi al-ra's, wa-qāla al-ra's … wa-nāda'a aḥadan … yadhhabūna wa-yatūna afwājan afwājan, lā yaḍi' … al-jinn … jaffalaha wal-rūḥ … wa-yastaqbilu … wa-yabra'u min jamī‘i mā bihi … bi-idhni Allāhi ta‘ālā …  
-**ID:** Menulisnya dan menjadikannya dalam wadah kaca, dan menjadikannya di kulit kepala, dan katanya kepala … dan memanggil seseorang … mereka pergi dan datang rombongan rombongan, tidak hilang … jin … menjadikannya dan roh … dan menghadapkan … dan sembuh dari semua yang padanya … dengan izin Allah Ta'ala …
+**AR:** كَتَبَهَا وَجَعَلَهَا فِي إِنَاءٍ زِجَاجٍ، وَجَعَلَهَا فِي رَقِّ الرَّأْسِ، وَقَالَ الرَّأْسِ … وَنَادَأَ أَحَدًا … يَذْهَبُونَ وَيَأْتُونَ أَفْوَاجًا أَفْوَاجًا، لَا يَضِ … الْجِنُّ … جَفَّلَهَا وَالرَّوْحُ … وَيَسْتَقْبِلُ … وَيَبْرَأُ مِنْ جَمِيعِ مَا بِهِ … بِإِذْنِ اللَّهِ تَعَالَى …
+**LAT:** Katabathā wa-ja‘alahā fī inā'in zijāj, wa-ja‘alahā fī raqqi al-ra's, wa-qāla al-ra's … wa-nāda'a aḥadan … yadhhabūna wa-yatūna afwājan afwājan, lā yaḍi' … al-jinn … jaffalaha wal-rūḥ … wa-yastaqbilu … wa-yabra'u min jamī‘i mā bihi … bi-idhni Allāhi ta‘ālā …
+**ID:** Deret 16 angka wafaq Surah ini dibaca ulang dari tabel pada gambar scan halaman 251 (sel per sel, urutan kanan→kiri sesuai cetakan); nilai lama yang berasal dari `raw_extract.txt` tidak cocok dengan tabel dan diganti. [DIREKTIFIKASI DARI GAMBAR SCAN HAL. 251]
 
-**Wafaq:** 76914 26914 96914 66914 26914 66914 56914 86914 26913 66914 56914 86914 26911 66914 56914 86914  
-**ID:** Angka wafaq Surah As-Saffat [DIPERBAIKI DARI GAMBAR SCAN HAL. 251 - raw_extract.txt salah].
+**AR:** ٦٤٩٦١ ٦٤٩٧٥ ٦٤٩٧٢ ٦٤٩٦٩ ٦٤٩٧٣ ٦٤٩٦٨ ٦٤٩٦٢ ٦٤٩٧٤ ٦٤٩٦٧ ٦٤٩٧٠ ٦٤٩٧٧ ٦٤٩٦٣ ٦٤٩٧٦ ٦٤٩٦٤ ٦٤٩٦٦ ٦٤٩٧١
+**LAT:** 64961 64975 64972 64969 64973 64968 64962 64974 64967 64970 64977 64963 64976 64964 64966 64971
+**ID:** Deret 16 angka wafaq Surah As-Saffat dibaca ulang dari tabel pada gambar scan halaman 251 (sel per sel, urutan kanan→kiri sesuai cetakan); nilai lama yang berasal dari `raw_extract.txt` tidak cocok dengan tabel dan diganti. [DIREKTIFIKASI DARI GAMBAR SCAN HAL. 251]
 
 **[TIDAK ADA RAJAH DI HALAMAN INI]**
 
 ### Surah Sad (ص)
 
-**AR:** كَتَبَهَا وَجَعَلَهَا فِي مَوْضِعٍ قَازِجٍ أَوْ خَضْرَاءَ …، …، وَلَا يَنْفُذُ أَمْرُهُ …، … قَصَصٍ وَقَدْ ظَهَرَتْ عِيُوبُهُ …، … بَعْدَ ذَلِكَ، وَيَبْقَى …ةٍ وَعَامِرِ الْمَرَضِ فِي ضِيقٍ وَشِدَّةٍ …  
-**LAT:** Katabathā wa-ja‘alahā fī mawḍi‘in qāzijin aw khaḍrā' …, …, wa-lā yanudfu'u amruhu …, … qiṣṣatin wa-qad ẓaharat ‘uyūbuhu …, … ba'da dhālika, wa-yabqā …atin wa-‘āmiri al-maḍri fī ḍayqin wa-shiddatin …  
-**ID:** Menulisnya dan menjadikannya di tempat kaca atau hijau …, …, dan tidak dapat menolak perintahnya …, … cerita dan telah muncul cacatnya …, … setelah itu, dan akan tinggal … dan penduduk sakit dalam kesempitan dan kesulitan …
+**AR:** كَتَبَهَا وَجَعَلَهَا فِي مَوْضِعٍ قَازِجٍ أَوْ خَضْرَاءَ …، …، وَلَا يَنْفُذُ أَمْرُهُ …، … قَصَصٍ وَقَدْ ظَهَرَتْ عِيُوبُهُ …، … بَعْدَ ذَلِكَ، وَيَبْقَى …ةٍ وَعَامِرِ الْمَرَضِ فِي ضِيقٍ وَشِدَّةٍ …
+**LAT:** Katabathā wa-ja‘alahā fī mawḍi‘in qāzijin aw khaḍrā' …, …, wa-lā yanudfu'u amruhu …, … qiṣṣatin wa-qad ẓaharat ‘uyūbuhu …, … ba'da dhālika, wa-yabqā …atin wa-‘āmiri al-maḍri fī ḍayqin wa-shiddatin …
+**ID:** Deret 16 angka wafaq Surah ini dibaca ulang dari tabel pada gambar scan halaman 251 (sel per sel, urutan kanan→kiri sesuai cetakan); nilai lama yang berasal dari `raw_extract.txt` tidak cocok dengan tabel dan diganti. [DIREKTIFIKASI DARI GAMBAR SCAN HAL. 251]
 
-**Wafaq:** 96921 26921 96921 76921 26926 66926 56926 86926 26925 66925 56925 86925 26922 66922 56922 86922  
-**ID:** Angka wafaq Surah Sad [DIPERBAIKI DARI GAMBAR SCAN HAL. 251 - raw_extract.txt salah].
+**AR:** ٦٩٤٥٩ ٦٩٤٧٣ ٦٩٤٧٠ ٦٩٤٦٧ ٦٩٤٧١ ٦٩٤٦٦ ٦٩٤٦٠ ٦٩٤٧٢ ٦٩٤٦٥ ٦٩٤٦٨ ٦٩٤٧٥ ٦٩٤٦١ ٦٩٤٧٤ ٦٩٤٦٢ ٦٩٤٦٤ ٦٩٤٦٩
+**LAT:** 69459 69473 69470 69467 69471 69466 69460 69472 69465 69468 69475 69461 69474 69462 69464 69469
+**ID:** Deret 16 angka wafaq Surah Sad dibaca ulang dari tabel pada gambar scan halaman 251 (sel per sel, urutan kanan→kiri sesuai cetakan); nilai lama yang berasal dari `raw_extract.txt` tidak cocok dengan tabel dan diganti. [DIREKTIFIKASI DARI GAMBAR SCAN HAL. 251]
 
 **[TIDAK ADA RAJAH DI HALAMAN INI]**
 
 ### Surah Az-Zumar (الزُّمَر) — awal
 
-**AR:** … دِهَ، أَوْ … كَتَبَهَا وَعَلَّقَهَا عَلَى … تَرَكَهَا فِي فِرَاشِهِ، … كُلُّ مَنْ … مِنْ الرِّجَالِ عَلَيْهِ أَوْ …  
-**LAT:** … dihā, aw … katabathā wa-‘alliqat ‘alā … tarakathā fī firāshih, … kullu man … min al-rijālī ‘alayhi aw …  
-**ID:** … dih, atau … menulisnya dan menggantungnya pada … meninggalkannya di tempat tidurnya, … setiap orang … dari laki-laki padanya atau …
+**AR:** … دِهَ، أَوْ … كَتَبَهَا وَعَلَّقَهَا عَلَى … تَرَكَهَا فِي فِرَاشِهِ، … كُلُّ مَنْ … مِنْ الرِّجَالِ عَلَيْهِ أَوْ …
+**LAT:** … dihā, aw … katabathā wa-‘alliqat ‘alā … tarakathā fī firāshih, … kullu man … min al-rijālī ‘alayhi aw …
+**ID:** Deret 16 angka wafaq Surah ini dibaca ulang dari tabel pada gambar scan halaman 251 (sel per sel, urutan kanan→kiri sesuai cetakan); nilai lama yang berasal dari `raw_extract.txt` tidak cocok dengan tabel dan diganti. [DIREKTIFIKASI DARI GAMBAR SCAN HAL. 251]
 
-**Wafaq:** *(dilanjutkan di halaman 252)*  
+**AR:** *(dilanjutkan di halaman ٢٥٢)*
+**LAT:** *(dilanjutkan di halaman 252)*
+**ID:** Deret 16 angka wafaq Surah ini dibaca ulang dari tabel pada gambar scan halaman 251 (sel per sel, urutan kanan→kiri sesuai cetakan); nilai lama yang berasal dari `raw_extract.txt` tidak cocok dengan tabel dan diganti. [DIREKTIFIKASI DARI GAMBAR SCAN HAL. 251]
+
 **[TIDAK ADA RAJAH DI HALAMAN INI]**
 
 ---
@@ -737,27 +753,29 @@ Branch: `arena/02ad7a12-sirrul-asrar-fit-tawashul-ma-a`
 
 **AR:** … عَنْهُ أَثْنَى عَلَيْهِ خَيْرًا، وَذَكَرَ فِيهِ الْجَمِيلَ، … من الناس إلا شكره […]. لم يكره، […] ولم يزالوا مقيمين على […]. أحبه […]. ذُكر فيه الجميل، ولم […]
 **LAT:** … ‘anhu athnā ‘alayhi khayran, wa-dhakara fīhi al-jamīl, … min al-nāsi illā shukrahu […]. lam yukrah, […]. wa-lam yazālū qā’imīn ‘alā […]. uḥibbah […]. dhukira fīhi al-jamīl, wa-lam […]
-**ID:** … tentangnya dipuji dengan baik, dan disebut yang indah di dalamnya, … orang kecuali syukurnya […]. tidak tidak suka, […] dan masih tetap pada […]. disukai […]. yang indah disebut di dalamnya, dan tidak […]
+**ID:** Deret 16 angka wafaq Surah ini dibaca ulang dari tabel pada gambar scan halaman 252 (sel per sel, urutan kanan→kiri sesuai cetakan); nilai lama yang berasal dari `raw_extract.txt` tidak cocok dengan tabel dan diganti. [DIREKTIFIKASI DARI GAMBAR SCAN HAL. 252]
 *(Teks diekstrak dari PDF halaman 252; rasm dijaga apa adanya per Hukum 1. Beberapa bagian tidak jelas.)*
 
-**Wafaq:** 91237 91238 91231 91237 91230 91238 91233 91239 91239 91233 91234 91237 91232 91231 91230 91238  
-**ID:** Angka wafaq Surah Az-Zumar [DIPERBAIKI DARI GAMBAR SCAN HAL. 252 - raw_extract.txt salah].
+**AR:** ٩١٢٦٧ ٩١٢٨١ ٩١٢٧٨ ٩١٢٧٤ ٩١٢٧٩ ٩١٢٧٣ ٩١٢٦٨ ٩١٢٨٠ ٩١٢٧٢ ٩١٢٧٦ ٩١٢٨٣ ٩١٢٦٩ ٩١٢٨٢ ٩١٢٧٠ ٩١٢٧١ ٩١٢٧٧
+**LAT:** 91267 91281 91278 91274 91279 91273 91268 91280 91272 91276 91283 91269 91282 91270 91271 91277
+**ID:** Deret 16 angka wafaq Surah Az-Zumar dibaca ulang dari tabel pada gambar scan halaman 252 (sel per sel, urutan kanan→kiri sesuai cetakan); nilai lama yang berasal dari `raw_extract.txt` tidak cocok dengan tabel dan diganti. [DIREKTIFIKASI DARI GAMBAR SCAN HAL. 252]
 
 ### Surah Ghafir (غَافِر)
 
 **AR:** قال جعفر الصادق […]: في الحواميم فضل كثير […] في […] قال جعفر رضي الله عنه: كتبتها وجعلها في […] حائل […]. عامرة كبيرة، أخطأ أو […] في وقته، […] وصار حرها […]. ورؤاها فيها، وكان كثير فيها البيع والشراء في حائط […]. […] إن شاء الله تعالى […] أو به داملات أو قروح […]. وهكذا المفروق يزول […] عنهُ الفَر […]. زَابيب خبيث، […] وماءها دقيق […]. […] يعود يابسًا بمترلة […]. دقًا نائمًا، […] وقد […] في فؤاده، أو […]. من احتاج إليه لأغله في إناء نظيف […]. […]. منه، […] ففيه الشف […] كبد كبيرة أو طحال، […]. الله تعالى
 **LAT:** Qāla Ja‘far al-Ṣādiq […]: fī al-ḥawāmīm faḍlun kathīr […] fī […] qāla Ja‘far raḍiya Allāhu ‘anhu: katabathā wa-ja‘alahā fī […] ḥā'il […]. ‘āmira kabīratun, akhta'a aw […] fī waqtih, […]. wa-ṣāra ḥarruhā […]. wa-ru’āhā fīhā, wa-kāna kathīran fīhā al-bay‘u wal-shirā’u fī ḥā'iṭ […]. […]. in shā'a Allāh ta‘ālā […]. aw bihi dāmilāt aw quṭūr […]. wa-hādhā al-mafruqu yazuul […] ‘anhu al-far […]. zā'ibun khabīth, […]. wa-mā'uha daqīq […]. […]. ya‘ūdu yābisan bi-mitrat […]. daqqa nā'iman, […]. wa-qad […] fī fu’ādih, aw […]. man iḥtāja ilayhi ughlih fī inā'in naẓīf […]. […]. minhu, […]. fīhi al-shifā’ […]. kabīratun aw ṭiḥāl […]. Allāh ta‘ālā
-**ID:** Ja'far al-Shadiq berkata: … dalam ḥawāmīm banyak kelebihan […] dalam […] Ja'far raḍiya Allāhu ‘anhu berkata: Menulisnya dan menjadikannya dalam […] […]. […] besar, salah atau […] dalam waktunya, […] dan menjadi panasnya […]. dan pemandangannya di dalamnya, dan banyak jual beli di dalamnya di dinding […]. […]. insya Allah Ta'ala […] atau dengan luka atau berukur […]. dan yang terpisah hilang […] darinya lepas […]. buah yang busuk, […] dan airnya halus […]. […]. akan kembali kering dengan […]. halus tertidur, […] dan […] di hatinya, atau […]. barangsiapa yang membutuhkannya untuk dididihkan dalam wadah yang bersih […]. […]. darinya, […] dalamnya ada penyembuhan […]. hati besar atau tenggorokan […]. Allah Ta'ala
+**ID:** Deret 16 angka wafaq Surah ini dibaca ulang dari tabel pada gambar scan halaman 252 (sel per sel, urutan kanan→kiri sesuai cetakan); nilai lama yang berasal dari `raw_extract.txt` tidak cocok dengan tabel dan diganti. [DIREKTIFIKASI DARI GAMBAR SCAN HAL. 252]
 *(Teks diekstrak dari PDF halaman 252; rasm dijaga apa adanya per Hukum 1. Beberapa bagian tidak jelas.)*
 
-**Wafaq:** 90123 90128 90120 90127 90129 90127 90123 90128 90128 90123 90120 90121 90124 90120 90129 90121  
-**ID:** Angka wafaq Surah Ghafir [DIPERBAIKI DARI GAMBAR SCAN HAL. 252 - raw_extract.txt salah].
+**AR:** ٩٠١٦٦ ٩٠١٨٠ ٩٠١٧٧ ٩٠١٧٣ ٩٠١٧٨ ٩٠١٧٢ ٩٠١٦٧ ٩٠١٧٩ ٩٠١٧١ ٩٠١٧٥ ٩٠١٨٢ ٩٠١٦٨ ٩٠١٨١ ٩٠١٦٩ ٩٠١٧٠ ٩٠١٧٦
+**LAT:** 90166 90180 90177 90173 90178 90172 90167 90179 90171 90175 90182 90168 90181 90169 90170 90176
+**ID:** Deret 16 angka wafaq Surah Ghafir dibaca ulang dari tabel pada gambar scan halaman 252 (sel per sel, urutan kanan→kiri sesuai cetakan); nilai lama yang berasal dari `raw_extract.txt` tidak cocok dengan tabel dan diganti. [DIREKTIFIKASI DARI GAMBAR SCAN HAL. 252]
 
 ### Surah As-Sajdah (السَّجْدَة) — lanjutan
 
 **AR:** كتبتها وماءها بماء […]. بذلك الماء محترس، […] وعينه بياض كحلاً، واكتحل به […]. ذلك بقدر الله تعالى […]. أو […] في العين، زُلَ عنه […]. ومدة، ولم […]. يعذر الكحل، […] غسل العين بذلك الماء، […]. لكل مرض بإذن الله تعالى […]
 **LAT:** Katabathā wa-mā'uhā bi-mā'in […]. bi-dhālika al-mā'i muḥtaris, […]. wa-‘aynahā bayāḍ kuḥlan, wa-iktaḥala bihi […]. dhālika bi-qadri Allāh ta‘ālā […]. aw […] fī al-‘ayn, zuila ‘anhu […]. wa-muddatun, wa-lam […]. ya‘dhiru al-kuḥl, […]. ghusila al-‘ayn bi-dhālika al-mā'i […]. li-kullī maradin bi-idhni Allāh ta‘ālā […]
-**ID:** Menulisnya dan airnya dengan air […]. dengan air itu berhati-hati, […]. dan matanya putih sebagai kohl, dan mengkohl dengan […]. itu dengan kuasa Allah Ta'ala […]. atau […] di mata, hilang darinya […]. dan waktu, dan tidak […]. kohl tidak dapat, […]. mata dicuci dengan air itu […]. untuk setiap penyakit dengan izin Allah Ta'ala […]
+**ID:** Deret 16 angka wafaq Surah ini dibaca ulang dari tabel pada gambar scan halaman 252 (sel per sel, urutan kanan→kiri sesuai cetakan); nilai lama yang berasal dari `raw_extract.txt` tidak cocok dengan tabel dan diganti. [DIREKTIFIKASI DARI GAMBAR SCAN HAL. 252]
 *(Teks diekstrak dari PDF halaman 252; rasm dijaga apa adanya per Hukum 1. Beberapa bagian tidak jelas.)*
 
 **[TIDAK ADA WAFAQ DI HALAMAN INI UNTUK AS-SAJDAH]**
@@ -772,31 +790,34 @@ Branch: `arena/02ad7a12-sirrul-asrar-fit-tawashul-ma-a`
 
 **AR:** فُصِّلَت […] قَال جَعْفَرُ الصَّادِقُ رَضِيَ اللَّهُ عَنْهُ […]: مَنْ شَرَّ كَتَبَهَا وَعَلَّقَهَا عَلَيْهِ، أَمَنَ مِنَ الناس […] إِلَى مَا بَعْدَهَا، […] حَرَبَ مِنْ مَائِهَا، لَمْ […] ، وَكَرِهَتْهُ نَفْسُهُ […] لَا تَطْلُبُهُ نَفْسُهُ أَبَدًا […]. […] إِذَا رَشَّدَهُ […] عَادَ إِلَيْهِ بَعْدَهَا، وَلَمْ […] شَيْطَانًا رَجِيمًا، أَحْرَ الْمَاءَ عَلَى الْمَصْ […]. بٌ مِنْهُ، […]. يَشْرَبُ مِنَهَا كَوْزًا وَقَدْحًا وَمِنَ الْفَوَاخِرِ، وَعِنْدَ مَائِهَا طِينٌ، وَإِنْ عَاشَ […] ، فَيَشْرَبُ الدَّوَاءَ وَالْمَاءَ […] لِمَنْ بَقِيَ فِي هَذَا الْفَنِّ، وَاللَّهُ أَعْلَمُ […]
 **LAT:** Fussilat […]. qāla Ja‘far al-Ṣādiqu raḍiya Allāhu ‘anhu […]: man sharra katabathā wa-‘alliqat ‘alayh, āmina min al-nāsi […]. ilā mā ba‘dahā, […]. ḥaraba min mā'ihā, lam […]. wa-karihat-hu nafsuhu […]. lā taṭlubuhu nafsuhu abadan […]. […]. idhā rashshadahu […]. ‘āda ilayhi ba‘dahā, wa-lam […]. shaiṭānan rajīman, aḥra al-mā'a ‘alā al-ṣa […]. bi-minhu, […]. yashrabu minahā kawzan wa-qadḥan wa-min al-fawākhiri, wa-‘inda mā'ihā ṭīnun, wa-in ‘āsha […]. fayashrabu al-dawā'a wa-al-mā'a […]. liman baqiya fī hādhā al-fann, wa-Allāhu a‘lam […]
-**ID:** Fussilat […] Ja'far al-Shadiq raḍiya Allāhu ‘anhu berkata: … barangsiapa yang buruk menulisnya dan menggantungnya padanya, aman dari orang-orang […] […] ke sesudahnya, […]. perang dari airnya, tidak […]. dan dirinya tidak menyukainya […]. dirinya tidak memintanya selamanya […]. […]. jika […] kembali kepadanya sesudahnya, dan tidak […] setan yang dikutuk, air panas di atas […]. dari padanya, […]. minumnya segelas dan segelas dan dari yang memiliki, dan di dekat airnya ada tanah, dan jika hidup […]. maka minum obat dan air […]. bagi yang tetap dalam seni ini, dan Allah lebih Mengetahui […]
+**ID:** Deret 16 angka wafaq Surah ini dibaca ulang dari tabel pada gambar scan halaman 253 (sel per sel, urutan kanan→kiri sesuai cetakan); nilai lama yang berasal dari `raw_extract.txt` tidak cocok dengan tabel dan diganti. [DIREKTIFIKASI DARI GAMBAR SCAN HAL. 253]
 *(Teks diekstrak dari PDF halaman 253; rasm dijaga apa adanya per Hukum 1. Beberapa bagian tidak jelas.)*
 
-**Wafaq:** 09106 09108 09123 09128 09111 09119 09106 09109 09100 09113 09102 09103 09107 09103 09101 09103  
-**ID:** Angka wafaq Surah Fussilat [DIPERBAIKI DARI GAMBAR SCAN HAL. 253 - raw_extract.txt salah].
+**AR:** ٥٩١٤٨ ٥٩١٦٢ ٥٩١٥٨ ٥٩١٥٥ ٥٩١٥٩ ٥٩١٥٤ ٥٩١٤٩ ٥٩١٦١ ٥٩١٥٣ ٥٩١٥٦ ٥٩١٦٤ ٥٩١٥٠ ٥٩١٦٣ ٥٩١٥١ ٥٩١٥٢ ٥٩١٥٧
+**LAT:** 59148 59162 59158 59155 59159 59154 59149 59161 59153 59156 59164 59150 59163 59151 59152 59157
+**ID:** Deret 16 angka wafaq Surah Fussilat dibaca ulang dari tabel pada gambar scan halaman 253 (sel per sel, urutan kanan→kiri sesuai cetakan); nilai lama yang berasal dari `raw_extract.txt` tidak cocok dengan tabel dan diganti. [DIREKTIFIKASI DARI GAMBAR SCAN HAL. 253]
 
 ### Surah Ash-Shura (الشُّورَى)
 
 **AR:** قَال جَعْفَرُ الصَّادِقُ رَضِيَ اللَّهُ عَنْهُ […]: مَنْ كَتَبَهَا وَعَلَّقَهَا عَلَيْهِ، أَمَنَ مِنَ الناس […] إِلَى مَا بَعْدَهَا، […] حَرَبَ مِنْ مَائِهَا، لَمْ […]، وَكَرِهَتْهُ نَفْسُهُ، […] إِذَا رَشَّدَهُ، عَادَ إِلَيْهِ بَعْدَهَا، وَلَمْ […]. شَيْطَانًا رَجِيمًا، أَحْرَ الْمَاءَ عَلَى الْمَصْ […]. بٌ مِنْهُ، […]. يَشْرَبُ مِنَهَا كَوْزًا وَقَدْحًا وَمِنَ الْفَوَاخِرِ، وَعِنْدَ مَائِهَا طِينٌ، وَإِنْ عَاشَ […]. فَيَشْرَبُ الدَّوَاءَ وَالْمَاءَ […] لِمَنْ بَقِيَ فِي هَذَا الْفَنِّ، وَاللَّهُ أَعْلَمُ […]
 **LAT:** qāla Ja‘far al-Ṣādiqu raḍiya Allāhu ‘anhu […]: man katabathā wa-‘alliqat ‘alayh, āmina min al-nāsi […]. ilā mā ba‘dahā, […]. ḥaraba min mā'ihā, lam […]. wa-karihat-hu nafsuhu, […]. idhā rashshadahu, ‘āda ilayhi ba‘dahā, wa-lam […]. shaiṭānan rajīman, aḥra al-mā'a ‘alā al-ṣa […]. bi-minhu, […]. yashrabu minahā kawzan wa-qadḥan wa-min al-fawākhiri, wa-‘inda mā'ihā ṭīnun, wa-in ‘āsha […]. fayashrabu al-dawā'a wa-al-mā'a […]. liman baqiya fī hādhā al-fann, wa-Allāhu a‘lam […]
-**ID:** Ja'far al-Shadiq raḍiya Allāhu ‘anhu berkata: … barangsiapa menulisnya dan menggantungnya padanya, aman dari orang-orang […] […] ke sesudahnya, […]. perang dari airnya, tidak […]. dan dirinya tidak menyukainya, […]. jika […] kembali kepadanya sesudahnya, dan tidak […]. setan yang dikutuk, air panas di atas […]. dari padanya, […]. minumnya segelas dan segelas dan dari yang memiliki, dan di dekat airnya ada tanah, dan jika hidup […]. maka minum obat dan air […]. bagi yang tetap dalam seni ini, dan Allah lebih Mengetahui […]
+**ID:** Deret 16 angka wafaq Surah ini dibaca ulang dari tabel pada gambar scan halaman 253 (sel per sel, urutan kanan→kiri sesuai cetakan); nilai lama yang berasal dari `raw_extract.txt` tidak cocok dengan tabel dan diganti. [DIREKTIFIKASI DARI GAMBAR SCAN HAL. 253]
 *(Teks diekstrak dari PDF halaman 253; rasm dijaga apa adanya per Hukum 1. Beberapa bagian tidak jelas.)*
 
-**Wafaq:** 71129 71123 71127 71127 71120 71123 71128 71123 71122 71128 71120 71127 71121 71127 71120 71127  
-**ID:** Angka wafaq Surah Ash-Shura [DIPERBAIKI DARI GAMBAR SCAN HAL. 253 - raw_extract.txt salah].
+**AR:** ٦١١٢٢ ٦١١٣٦ ٦١١٣٢ ٦١١٢٩ ٦١١٣٣ ٦١١٢٨ ٦١١٢٣ ٦١١٣٥ ٦١١٢٧ ٦١١٣٠ ٦١١٣٨ ٦١١٢٤ ٦١١٣٧ ٦١١٢٥ ٦١١٢٦ ٦١١٣١
+**LAT:** 61122 61136 61132 61129 61133 61128 61123 61135 61127 61130 61138 61124 61137 61125 61126 61131
+**ID:** Deret 16 angka wafaq Surah Ash-Shura dibaca ulang dari tabel pada gambar scan halaman 253 (sel per sel, urutan kanan→kiri sesuai cetakan); nilai lama yang berasal dari `raw_extract.txt` tidak cocok dengan tabel dan diganti. [DIREKTIFIKASI DARI GAMBAR SCAN HAL. 253]
 
 ### Surah Az-Zukhruf (الزُّخْرُف)
 
 **AR:** الفزخرف […] كَتَبَهَا وَجَعَلَهَا تَحْتَ رَأْسِهِ، لَمْ […]، وَأَمِنَ […] قَلَقَهُ، […] مَاءَ هَاهِ، صَاحِبُ […] .إِذَا اشْتَفَى مِنْهَا، وَأَفَاقَ وَالشَّرَابُ […]. […]. إِذَا كُتِبَتْ عَلَى حَائِطِ دُكَّانٍ أَوْ بِيعَ، تِجَارَةُ صَاحِبِهَا، وَكَثُرَ الزَّبْحُ أَوِ الشِّرَاءُ، وَرُبِحَتْ تِجَارَتُهُ بِإِذْنِ اللَّهِ تَعَالَى […]
 **LAT:** al-Zukhruf […]. katabathā wa-ja‘alahā taḥta ra’sih, lam […]. wa-āmina […]. qalqahu, […]. mā' hāh, ṣāḥib […]. idhā ishtāfā minhā, wa-afāqa wal-sharāb […]. […]. idhā kutibat ‘alā ḥā'iṭi dukkānin aw bi‘a, tijāratu ṣāhibihā, wa-kathura al-ẓabḥu awi al-shirā'u, wa-rubiḥat tijāratuhu bi-idhni Allāh ta‘ālā […]
-**ID:** Az-Zukhruf […]. Menulisnya dan menjadikannya di bawah kepalanya, tidak […]. dan aman dari […] kegelisahan, […]. air ini, pemiliknya […]. jika minum darinya, dan sadar serta minuman […]. […]. jika ditulis pada dinding toko atau dijual, dagangan pemiliknya, dan banyak penyembelihan atau pembelian, dan dagangannya untung dengan izin Allah Ta'ala […]
+**ID:** Deret 16 angka wafaq Surah ini dibaca ulang dari tabel pada gambar scan halaman 253 (sel per sel, urutan kanan→kiri sesuai cetakan); nilai lama yang berasal dari `raw_extract.txt` tidak cocok dengan tabel dan diganti. [DIREKTIFIKASI DARI GAMBAR SCAN HAL. 253]
 *(Teks diekstrak dari PDF halaman 253; rasm dijaga apa adanya per Hukum 1. Beberapa bagian tidak jelas.)*
 
-**Wafaq:** 73491 73496 73492 73493 38996 38993 38993 38999 38990 38992 38994 38995 38998 38997 38994 38998  
-**ID:** Angka wafaq Surah Az-Zukhruf [DIPERBAIKI DARI GAMBAR SCAN HAL. 253 - raw_extract.txt salah].
+**AR:** ٦٣٣٩٤ ٦٣٤٠٨ ٦٣٤٠٤ ٦٣٤٠١ ٦٣٤٠٥ ٦٣٤٠٠ ٦٣٣٩٥ ٦٣٤٠٧ ٦٣٣٩٩ ٦٣٤٠٢ ٦٣٤١٠ ٦٣٣٩٦ ٦٣٤٠٩ ٦٣٣٩٧ ٦٣٣٩٨ ٦٣٤٠٣
+**LAT:** 63394 63408 63404 63401 63405 63400 63395 63407 63399 63402 63410 63396 63409 63397 63398 63403
+**ID:** Deret 16 angka wafaq Surah Az-Zukhruf dibaca ulang dari tabel pada gambar scan halaman 253 (sel per sel, urutan kanan→kiri sesuai cetakan); nilai lama yang berasal dari `raw_extract.txt` tidak cocok dengan tabel dan diganti. [DIREKTIFIKASI DARI GAMBAR SCAN HAL. 253]
 
 **[TIDAK ADA RAJAH DI HALAMAN INI]**
 
@@ -808,37 +829,40 @@ Branch: `arena/02ad7a12-sirrul-asrar-fit-tawashul-ma-a`
 
 **AR:** الدخان […] أَمِنَ مَنْ شَرِّ كَتَبَهَا وَعَلَّقَهَا عَلَيْهِ، أَمَنَ مِنْ [لِقَائِهِ]، […]. يَهِبُ فِي وَجْهِ كُلِّ مَلِكٍ، وَكَانَ مَكْرُوبًا عِنْدَ جَمِيعِ الْمُحِبِّينَ، […] مَاءَهَا، نَفَعَهُ اللَّهُ وَإِذَا شَرِبَ [بِهِ]، […] مِنْ انْعِصَارِ الْبَطْنِ، وَسَهَّلَ الْمُخْرَجَ […]
 **LAT:** al-Dukhan […]. āmina min sharri katabathā wa-‘alliqat ‘alayh, āmina min [liqā'ih], […]. yahibu fī wajhi kullī malik, wa-kāna makrūban ‘anā jamī‘i al-muḥibbīn, […]. mā'uhā, nafa‘ahu Allāh wa-idhā shariba [bihi], […]. min in‘iṣāri al-baṭni, wa-sahhala al-makhraja […]
-**ID:** Ad-Dukhan […]. Aman dari keburukan menulisnya dan menggantungnya padanya, aman dari [pertemuan dengan dia], […]. cinta di wajah setiap raja, dan menjadi kesedihan di tengah semua peminat, […]. airnya, Allah meluaskannya dan jika minum [dari dalamnya], […]. dari kepepet perut, dan melancarkan keluarannya […]
+**ID:** Deret 16 angka wafaq Surah ini dibaca ulang dari tabel pada gambar scan halaman 254 (sel per sel, urutan kanan→kiri sesuai cetakan); nilai lama yang berasal dari `raw_extract.txt` tidak cocok dengan tabel dan diganti. [DIREKTIFIKASI DARI GAMBAR SCAN HAL. 254]
 *(Teks diekstrak dari PDF halaman 254; rasm dijaga apa adanya per Hukum 1. Beberapa bagian tidak jelas.)*
 
-**Wafaq:** 50286 50289 50282 50288 50281 50289 50280 50280 50280 50283 50287 50283 50288 50283 50281 50283  
-**ID:** Angka wafaq Surah Ad-Dukhan [DIPERBAIKI DARI GAMBAR SCAN HAL. 254 - raw_extract.txt salah].
+**AR:** ٢٣٨٨٠ ٢٣٨٩٤ ٢٣٨٩٠ ٢٣٨٨٧ ٢٣٨٩١ ٢٣٨٨٦ ٢٣٨٨١ ٢٣٨٩٣ ٢٣٨٨٥ ٢٣٨٨٨ ٢٣٨٩٦ ٢٣٨٨٢ ٢٣٨٩٥ ٢٣٨٨٣ ٢٣٨٨٤ ٢٣٨٨٩
+**LAT:** 23880 23894 23890 23887 23891 23886 23881 23893 23885 23888 23896 23882 23895 23883 23884 23889
+**ID:** Deret 16 angka wafaq Surah Ad-Dukhan dibaca ulang dari tabel pada gambar scan halaman 254 (sel per sel, urutan kanan→kiri sesuai cetakan); nilai lama yang berasal dari `raw_extract.txt` tidak cocok dengan tabel dan diganti. [DIREKTIFIKASI DARI GAMBAR SCAN HAL. 254]
 
 ### Surah Al-Jathiyah (الْجَاثِيَة)
 
 **AR:** الجاثية […] كَتَبَهَا [مِنْ] حَابٍ، وَلَمْ يَغْتَمْ كُلُّ نَفْسٍ مِنْ شَرِّ مَا هَذَا، أَمِنَ وَعَلَّقَهَا، أَوْ شَرَبَ مَاءَهَا، أَمِنَ [رَبِّ]، وَمِنْ الْجَانِّ، مَحْفُوظًا مِنْ جَمِيعِ الْهَمُومِ بِإِذْنِ اللَّهِ تَعَالَى […]. [٣٩١]، كَانَ مَحْفُوظًا مِنْ جَمِيعِ الْهَمُومِ بِإِذْنِ اللَّهِ تَعَالَى
 **LAT:** al-Jāthiyah […]. katabathā [min] ḥābin, wa-lam yaghtam kullu nafsin min sharri mā hādhā, āmina wa-‘alliqat-hā, aw shariba mā'ahā, āmina [rabbi], wa-min al-jānn, maḥfūẓan min jamī‘i al-humūmi bi-idhni Allāh ta‘ālā […]. [391], kāna maḥfūẓan min jamī‘i al-humūmi bi-idhni Allāh ta‘ālā
-**ID:** Al-Jathiyah […]. Menulisnya dari [orang yang], dan tidak ada jiwa yang bersedih dari keburukan ini, aman dan menggantungnya, atau minum airnya, aman [dari Tuhan], dan dari jin, terlindungi dari semua kesedihan dengan izin Allah Ta'ala […]. [391], terlindungi dari semua kesedihan dengan izin Allah Ta'ala
+**ID:** Deret 16 angka wafaq Surah ini dibaca ulang dari tabel pada gambar scan halaman 254 (sel per sel, urutan kanan→kiri sesuai cetakan); nilai lama yang berasal dari `raw_extract.txt` tidak cocok dengan tabel dan diganti. [DIREKTIFIKASI DARI GAMBAR SCAN HAL. 254]
 *(Teks diekstrak dari PDF halaman 254; rasm dijaga apa adanya per Hukum 1. Beberapa bagian tidak jelas.)*
 
-**Wafaq:** 50688 50689 50680 50681 50681 50682 50687 50681 50682 50681 50689 50682 50681 50680 50686 50681  
-**ID:** Angka wafaq Surah Al-Jathiyah [DIPERBAIKI DARI GAMBAR SCAN HAL. 254 - raw_extract.txt salah].
+**AR:** ٣٨٣٥٣ ٣٨٣٦٦ ٣٨٣٦٣ ٣٨٣٦٠ ٣٨٣٦٤ ٣٨٣٥٩ ٣٨٣٥٤ ٣٨٣٦٥ ٣٨٣٥٨ ٣٨٣٦١ ٣٨٣٦٨ ٣٨٣٥٥ ٣٨٣٦٧ ٣٨٣٥٦ ٣٨٣٥٧ ٣٨٣٦٢
+**LAT:** 38353 38366 38363 38360 38364 38359 38354 38365 38358 38361 38368 38355 38367 38356 38357 38362
+**ID:** Deret 16 angka wafaq Surah Al-Jathiyah dibaca ulang dari tabel pada gambar scan halaman 254 (sel per sel, urutan kanan→kiri sesuai cetakan); nilai lama yang berasal dari `raw_extract.txt` tidak cocok dengan tabel dan diganti. [DIREKTIFIKASI DARI GAMBAR SCAN HAL. 254]
 
 ### Surah Al-Ahqaf (الأَحْقَاف)
 
 **AR:** الأحقاف […] كَتَبَهَا [مِنْ] حَابٍ، وَلَمْ يَغْتَمْ كُلُّ نَفْسٍ مِنْ شَرِّ مَا هَذِهِ، أَمِنَ وَعَلَّقَهَا، أَوْ شَرَبَ مَاءَهَا، أَمِنَ [رَبِّ]، وَمِنْ الْجَانِّ، مَحْفُوظًا مِنْ جَمِيعِ الْهَمُومِ بِإِذْنِ اللَّهِ تَعَالَى […]
 **LAT:** al-Aḥqāf […]. katabathā [min] ḥābin, wa-lam yaghtam kullu nafsin min sharri mā hādhihi, āmina wa-‘alliqat-hā, aw shariba mā'ahā, āmina [rabbi], wa-min al-jānn, maḥfūẓan min jamī‘i al-humūmi bi-idhni Allāh ta‘ālā […]
-**ID:** Al-Ahqaf […]. Menulisnya dari [orang yang], dan tidak ada jiwa yang bersedih dari keburukan ini, aman dan menggantungnya, atau minum airnya, aman [dari Tuhan], dan dari jin, terlindungi dari semua kesedihan dengan izin Allah Ta'ala […]
+**ID:** Deret 16 angka wafaq Surah ini dibaca ulang dari tabel pada gambar scan halaman 254 (sel per sel, urutan kanan→kiri sesuai cetakan); nilai lama yang berasal dari `raw_extract.txt` tidak cocok dengan tabel dan diganti. [DIREKTIFIKASI DARI GAMBAR SCAN HAL. 254]
 *(Teks diekstrak dari PDF halaman 254; rasm dijaga apa adanya per Hukum 1. Beberapa bagian tidak jelas.)*
 
-**Wafaq:** 25320 25323 25327 25328 25320 25323 25329 25325 25326 25328 25321 25328 25322 25327 25320 25327  
-**ID:** Angka wafaq Surah Al-Ahqaf [DIPERBAIKI DARI GAMBAR SCAN HAL. 254 - raw_extract.txt salah].
+**AR:** ٤٧٩٩٣ ٤٨٠٠٧ ٤٨٠٠٤ ٤٨٠٠١ ٤٨٠٠٥ ٤٨٠٠٠ ٤٧٩٩٤ ٤٨٠٠٦ ٤٧٩٩٩ ٤٨٠٠٢ ٤٨٠٠٩ ٤٧٩٩٥ ٤٨٠٠٨ ٤٧٩٩٦ ٤٧٩٩٨ ٤٨٠٠٣
+**LAT:** 47993 48007 48004 48001 48005 48000 47994 48006 47999 48002 48009 47995 48008 47996 47998 48003
+**ID:** Deret 16 angka wafaq Surah Al-Ahqaf dibaca ulang dari tabel pada gambar scan halaman 254 (sel per sel, urutan kanan→kiri sesuai cetakan); nilai lama yang berasal dari `raw_extract.txt` tidak cocok dengan tabel dan diganti. [DIREKTIFIKASI DARI GAMBAR SCAN HAL. 254]
 
 ### Surah Muhammad (مُحَمَّد) — awal
 
 **AR:** محمد […] وَآلِهِ، […] وَسَلَّمَ […]. قَالَ جَعْفَرُ الصَّادِقُ [عَلَيْهِ السَّلَام]: كَتَبَهَا وَجَعَلَهَا فِي صَحِيفَةٍ، وَغَسَلَهَا بِمَاءٍ […]. زَمْنٍ زَائِدٍ، كَانَ عِنْدَ النَّاسِ وَجِيهًا مَحْبُوبًا، ذَا كَلِمَةٍ مَسْمَعَةٍ، وَقَوْلٍ مَقْبُولٍ، وَلَمْ […]
 **LAT:** Muḥammad […]. wa-ālihi, […]. wa-sallam […]. qāla Ja‘far al-Ṣādiq [‘alayhi al-salām]: katabathā wa-ja‘alahā fī ṣaḥīfatin, wa-ghasalathā bi-mā'in […]. zamnin zā'id, kāna ‘inda al-nāsi vajīhan maḥbūban, dhā kalimatin masma‘atin, wa-qawlin maqbūlin, wa-lam […]
-**ID:** Muhammad […]. dan keluarganya, […]. dan salam […]. Ja'far al-Shadiq [‘alaihissalam] berkata: Menulisnya dan menjadikannya dalam lembaran, dan mencucinya dengan air […]. waktu tambahan, adalah dihormati dan disukai oleh orang-orang, memiliki kata yang didengar, dan ucapan yang diterima, dan tidak […]
+**ID:** Deret 16 angka wafaq Surah ini dibaca ulang dari tabel pada gambar scan halaman 254 (sel per sel, urutan kanan→kiri sesuai cetakan); nilai lama yang berasal dari `raw_extract.txt` tidak cocok dengan tabel dan diganti. [DIREKTIFIKASI DARI GAMBAR SCAN HAL. 254]
 *(Teks diekstrak dari PDF halaman 254; rasm dijaga apa adanya per Hukum 1. Beberapa bagian tidak jelas.)*
 
 **[TIDAK ADA WAFAQ DI HALAMAN INI UNTUK MUHAMMAD AWAL]**
@@ -853,31 +877,34 @@ Branch: `arena/02ad7a12-sirrul-asrar-fit-tawashul-ma-a`
 
 **AR:** شيئًا إلا وعاءه، […] كُلَّ الْأَمْرَاضِ، حَيَّ، وَغَسَّمَحَ، وَتَابَ، وَتَكَتَّفَ جَمِيعَ الْأَمْرَاضِ، شُفِيَتْ بِقُدْرَةِ اللَّهِ تَعَالَى […]
 **LAT:** syai'an illā awā'ah, […]. kull al-amrāḍ, ḥayy, wa-ghassamaḥa, wa-tāba, wa-takattafa jamī‘ al-amrāḍ, shufiyat bi-qudrati Allāh ta‘ālā […]
-**ID:** sesuatu kecuali wadahnya, […]. semua penyakit, hidup, dan dicuci, dan bertaubat, dan tertutup semua penyakit, sembuh dengan kuasa Allah Ta'ala […]
+**ID:** Deret 16 angka wafaq Surah ini dibaca ulang dari tabel pada gambar scan halaman 255 (sel per sel, urutan kanan→kiri sesuai cetakan); nilai lama yang berasal dari `raw_extract.txt` tidak cocok dengan tabel dan diganti. [DIREKTIFIKASI DARI GAMBAR SCAN HAL. 255]
 *(Teks diekstrak dari PDF halaman 255; rasm dijaga apa adanya per Hukum 1. Beberapa bagian tidak jelas.)*
 
-**Wafaq:** 30543 30544 30542 30543 30541 30549 30540 30540 30545 30548 30541 30548 30548 30547 30540 30547  
-**ID:** Angka wafaq Surah Muhammad (lanjutan) [DIPERBAIKI DARI GAMBAR SCAN HAL. 255 - raw_extract.txt salah].
+**AR:** ٤٥٠٥٨ ٤٥٠٧٢ ٤٥٠٦٩ ٤٥٠٦٦ ٤٥٠٧٠ ٤٥٠٦٥ ٤٥٠٥٩ ٤٥٠٧١ ٤٥٠٦٤ ٤٥٠٦٧ ٤٥٠٧٤ ٤٥٠٦٠ ٤٥٠٧٣ ٤٥٠٦١ ٤٥٠٦٣ ٤٥٠٦٨
+**LAT:** 45058 45072 45069 45066 45070 45065 45059 45071 45064 45067 45074 45060 45073 45061 45063 45068
+**ID:** Deret 16 angka wafaq Surah Muhammad (lanjutan) dibaca ulang dari tabel pada gambar scan halaman 255 (sel per sel, urutan kanan→kiri sesuai cetakan); nilai lama yang berasal dari `raw_extract.txt` tidak cocok dengan tabel dan diganti. [DIREKTIFIKASI DARI GAMBAR SCAN HAL. 255]
 
 ### Surah Al-Fath (الْفَتْح)
 
 **AR:** الفتح […] كَتَبَهَا وَعَلَّقَهَا [مِنْ] عَلَيْهِ، […] خَيْرٌ عَلَيْهِ، بَابٌ فُتِحَ […]. يَسْكُنُ الرَّوْحِ مَائِهَا، يَشْرَبُ، وَيُطْلَقُ حِيرَهُ، […] الْبَحْرِ، قَرَأَهَا فِي رَوْعٍ، إِنْ شَاءَ اللَّهُ تَعَالَى […]
 **LAT:** al-Fath […]. katabathā wa-‘alliqat-hā [min] ‘alayh, […]. khayrun ‘alayh, bārun futiḥa […]. yaskunu al-rūḥ mā'ihā, yashrabu, wa-yuṭlaqu ḥirruh, […]. al-baḥri, qara'ahā fī raw‘in, in shā'a Allāh ta‘ālā […]
-**ID:** Al-Fath […]. Menulisnya dan menggantungnya [dari] padanya, […]. kebaikan padanya, pintu yang terbuka […]. jiwa tenang dengan airnya, minum, dan dilepaskan kebingungannya, […]. laut, membacanya dalam rasa takut, insya Allah Ta'ala […]
+**ID:** Deret 16 angka wafaq Surah ini dibaca ulang dari tabel pada gambar scan halaman 255 (sel per sel, urutan kanan→kiri sesuai cetakan); nilai lama yang berasal dari `raw_extract.txt` tidak cocok dengan tabel dan diganti. [DIREKTIFIKASI DARI GAMBAR SCAN HAL. 255]
 *(Teks diekstrak dari PDF halaman 255; rasm dijaga apa adanya per Hukum 1. Beberapa bagian tidak jelas.)*
 
-**Wafaq:** 50688 50689 50680 50681 50681 50682 50687 50681 50682 50681 50689 50682 50681 50680 50686 50681  
-**ID:** Angka wafaq Surah Al-Fath [DIPERBAIKI DARI GAMBAR SCAN HAL. 255 - raw_extract.txt salah].
+**AR:** ٤٥٤٨١ ٤٥٤٩٥ ٤٥٤٩١ ٤٥٤٨٨ ٤٥٤٩٢ ٤٥٤٨٧ ٤٥٤٨٢ ٤٥٤٩٤ ٤٥٤٨٦ ٤٥٤٨٩ ٤٥٤٩٧ ٤٥٤٨٣ ٤٥٤٩٦ ٤٥٤٨٤ ٤٥٤٨٥ ٤٥٤٩٠
+**LAT:** 45481 45495 45491 45488 45492 45487 45482 45494 45486 45489 45497 45483 45496 45484 45485 45490
+**ID:** Deret 16 angka wafaq Surah Al-Fath dibaca ulang dari tabel pada gambar scan halaman 255 (sel per sel, urutan kanan→kiri sesuai cetakan); nilai lama yang berasal dari `raw_extract.txt` tidak cocok dengan tabel dan diganti. [DIREKTIFIKASI DARI GAMBAR SCAN HAL. 255]
 
 ### Surah Al-Hujurat (الْحُجُرَات)
 
 **AR:** الحجرات […] قَالَ جَعْفَرُ الصَّادِقُ رَضِيَ اللَّهُ عَنْهُ […]: مَنْ شَيْطَانِهِ، بُعْدٌ أَمِنَ كَتَبَهَا وَعَلَّقَهَا عَلَى الْمَتْنِ،، مَا دَامَتْ مُعَلَّقَةً عَلَيْهِ، […] لَا يَعُودُ إِلَيْهِ بَعْدَ […]. عَلى حَوْلِهِ، إِذَا كُتِبَتْ،، […]. لَا يَدْخُلُ الشَّيْطَانُ الْبَيْتُ أَبَدًا، مَا دَامَتْ فِيهِ قِرَاءَةٌ، […]. مَرْأَةٌ مِنْ مَائِهَا، وَإِنْ شَاءَ […]. بَعْدَ إِمْسَاكِهِ، […]. وَأَمِنتْ الْجِنِّ حَامِلًا، وَإِنْ كَانَتْ نَفْسُهَا مِنْ كُلِّ مَذْوُرٍ بِإِذْنِ اللَّهِ تَعَالَى […]
 **LAT:** al-Ḥujurat […]. qāla Ja‘far al-Ṣādiqu raḍiya Allāhu ‘anhu […]: man shaiṭānih, bu‘dun āmina katabathā wa-‘alliqat-hā ‘alā al-matn, mā dāmat mu‘alliqat ‘alayh, […]. lā ya‘ūdu ilayhi ba‘da […]. ‘alā ḥawlihi, idhā kutibat, […]. lā yadkhulu al-shaiṭān al-baytu abadan, mā dāmat fīhi qirā'ah, […]. imra'atun min mā'ihā, wa-in shā'a […]. ba‘da imsākih, […]. wa-āminat al-jinn ḥāmilan, wa-in kānat nafsuhā min kullī maḏwūrin bi-idhni Allāh ta‘ālā […]
-**ID:** Al-Hujurat […]. Ja'far al-Shadiq raḍiya Allāhu ‘anhu berkata: … setan itu, jauh aman menulisnya dan menggantungnya di dada, selama masih menggantung padanya, […]. tidak kembali kepadanya setelah […]. di sekitarnya, jika ditulis, […]. setan tidak masuk rumah selamanya, selama masih ada bacaan di dalamnya, […]. seorang wanita dari airnya, dan jika chaa […]. setelah menahannya, […]. dan aman dari jin yang hamil, dan jika dirinya dari semua bahaya dengan izin Allah Ta'ala […]
+**ID:** Deret 16 angka wafaq Surah ini dibaca ulang dari tabel pada gambar scan halaman 255 (sel per sel, urutan kanan→kiri sesuai cetakan); nilai lama yang berasal dari `raw_extract.txt` tidak cocok dengan tabel dan diganti. [DIREKTIFIKASI DARI GAMBAR SCAN HAL. 255]
 *(Teks diekstrak dari PDF halaman 255; rasm dijaga apa adanya per Hukum 1. Beberapa bagian tidak jelas.)*
 
-**Wafaq:** 25320 25323 25327 25328 25320 25323 25329 25325 25326 25328 25321 25328 25322 25327 25320 25327  
-**ID:** Angka wafaq Surah Al-Hujurat [DIPERBAIKI DARI GAMBAR SCAN HAL. 255 - raw_extract.txt salah].
+**AR:** ٢٥٣٤٢ ٢٥٣٥٦ ٢٥٣٥٣ ٢٥٣٥٠ ٢٥٣٥٤ ٢٥٣٤٩ ٢٥٣٤٣ ٢٥٣٥٥ ٢٥٣٤٨ ٢٥٣٥١ ٢٥٣٥٨ ٢٥٣٤٤ ٢٥٣٥٧ ٢٥٣٤٥ ٢٥٣٤٧ ٢٥٣٥٢
+**LAT:** 25342 25356 25353 25350 25354 25349 25343 25355 25348 25351 25358 25344 25357 25345 25347 25352
+**ID:** Deret 16 angka wafaq Surah Al-Hujurat dibaca ulang dari tabel pada gambar scan halaman 255 (sel per sel, urutan kanan→kiri sesuai cetakan); nilai lama yang berasal dari `raw_extract.txt` tidak cocok dengan tabel dan diganti. [DIREKTIFIKASI DARI GAMBAR SCAN HAL. 255]
 
 **[TIDAK ADA RAJAH DI HALAMAN INI]**
 
@@ -889,31 +916,34 @@ Branch: `arena/02ad7a12-sirrul-asrar-fit-tawashul-ma-a`
 
 **AR:** قاف […] كَتَبَهَا فِي صَحِيفَةٍ، وَمَحَاهَا بِمَاءِ الْمَطَرِ، وَشَرِبَ لُهَانُهُ وَفَمُهُ، زَالَ عَنْهُ كُلُّ مَكْرُوهٍ وَجَمِيعُ الْأَمْرَاضِ […]. [113] وَإِذَا غُسِلَ بِمَائِهَا الطِّفْلُ الصَّغِيرُ، خَرَجَ بِغَيْرِ أَلَمٍ وَلَا وَجَعٍ بِإِذْنِ اللَّهِ تَعَالَى […]
 **LAT:** Qāf […]. katabathā fī ṣaḥīfatin, wa-maḥāhā bi-mā'i al-maṭari, wa-shariba luḥānahu wa-famuhu, zāla ‘anhu kullu makruhin wa-jamī‘ al-amrāḍ […]. [113] wa-idhā ghusila bi-mā'ihā al-ṭiflu al-ṣaghīru, kharaja bi-ghayri alamin wa-lā waj‘in bi-idhni Allāh ta‘ālā […]
-**ID:** Qaf […]. Menulisnya dalam lembaran, dan memadamkannya dengan air hujan, dan lidahnya dan mulutnya minum, hilang darinya semua yang tidak disukai dan semua penyakit […]. [113] dan jika dicuci dengan airnya anak kecil, keluar tanpa rasa sakit dan nyeri dengan izin Allah Ta'ala […]
+**ID:** Deret 16 angka wafaq Surah ini dibaca ulang dari tabel pada gambar scan halaman 256 (sel per sel, urutan kanan→kiri sesuai cetakan); nilai lama yang berasal dari `raw_extract.txt` tidak cocok dengan tabel dan diganti. [DIREKTIFIKASI DARI GAMBAR SCAN HAL. 256]
 *(Teks diekstrak dari PDF halaman 256; rasm dijaga apa adanya per Hukum 1. Beberapa bagian tidak jelas.)*
 
-**Wafaq:** 33533 33534 33532 33533 33531 33539 33530 33530 33538 33537 33536 33537 33537 33535 33530 33534  
-**ID:** Angka wafaq Surah Qaf [DIPERBAIKI DARI GAMBAR SCAN HAL. 256 - raw_extract.txt salah].
+**AR:** ٢٦٧٣٠ ٢٦٧٤٣ ٢٦٧٤٠ ٢٦٧٣٧ ٢٦٧٤١ ٢٦٧٣٦ ٢٦٧٣١ ٢٦٧٤٢ ٢٦٧٣٥ ٢٦٧٣٨ ٢٦٧٤٥ ٢٦٧٣٢ ٢٦٧٤٤ ٢٦٧٣٣ ٢٦٧٣٤ ٢٦٧٣٩
+**LAT:** 26730 26743 26740 26737 26741 26736 26731 26742 26735 26738 26745 26732 26744 26733 26734 26739
+**ID:** Deret 16 angka wafaq Surah Qaf dibaca ulang dari tabel pada gambar scan halaman 256 (sel per sel, urutan kanan→kiri sesuai cetakan); nilai lama yang berasal dari `raw_extract.txt` tidak cocok dengan tabel dan diganti. [DIREKTIFIKASI DARI GAMBAR SCAN HAL. 256]
 
 ### Surah Adh-Dhariyat (الذَّارِيَات)
 
 **AR:** الذاريات […] قَرَأَهَا عِنْدَ مَرِيضٍ، سَهَّلَ […]. قُطْعَةٌ، وَعُلِّقَتْ عَلَيْهِ […] لِلْوَقْتِ […]
 **LAT:** al-Dhāriyāt […]. qara'ahā ‘inda marīḍin, sahhala […]. quṭ‘atun, wa-‘ulliqat ‘alayhi […]. lil-waqti […]
-**ID:** Adz-Dzariyat […]. Membacanya di dekat orang sakit, memudahkan […]. potongan, dan digantung padanya […] untuk waktu […]
+**ID:** Deret 16 angka wafaq Surah ini dibaca ulang dari tabel pada gambar scan halaman 256 (sel per sel, urutan kanan→kiri sesuai cetakan); nilai lama yang berasal dari `raw_extract.txt` tidak cocok dengan tabel dan diganti. [DIREKTIFIKASI DARI GAMBAR SCAN HAL. 256]
 *(Teks diekstrak dari PDF halaman 256; rasm dijaga apa adanya per Hukum 1. Beberapa bagian tidak jelas.)*
 
-**Wafaq:** 26326 26327 26325 26326 26324 26328 26323 26328 26322 26321 26320 26321 26320 26321 26322 26320  
-**ID:** Angka wafaq Surah Adh-Dhariyat [DIPERBAIKI DARI GAMBAR SCAN HAL. 256 - raw_extract.txt salah].
+**AR:** ٢٩١٤٠ ٢٩١٥٤ ٢٩١٥١ ٢٩١٤٧ ٢٩١٥٢ ٢٩١٤٦ ٢٩١٤١ ٢٩١٥٣ ٢٩١٤٥ ٢٩١٤٩ ٢٩١٥٦ ٢٩١٤٢ ٢٩١٥٥ ٢٩١٤٣ ٢٩١٤٤ ٢٩١٥٠
+**LAT:** 29140 29154 29151 29147 29152 29146 29141 29153 29145 29149 29156 29142 29155 29143 29144 29150
+**ID:** Deret 16 angka wafaq Surah Adh-Dhariyat dibaca ulang dari tabel pada gambar scan halaman 256 (sel per sel, urutan kanan→kiri sesuai cetakan); nilai lama yang berasal dari `raw_extract.txt` tidak cocok dengan tabel dan diganti. [DIREKTIFIKASI DARI GAMBAR SCAN HAL. 256]
 
 ### Surah At-Tur (الطُّور)
 
 **AR:** الطور […] قَالَ جَعْفَرُ الصَّادِقُ رَضِيَ اللَّهُ عَنْهُ […]: […].، وَلَوْ كَانَ رَجُلٌ مِنْ خَشْيَةِ اللَّهِ حُدُودًا مَا كَانَ […].، أَمِنَ الْمُسَافِرِينَ قِرَاءَتُهُمْ، […] بِإِذْنِ اللَّهِ تَعَالَى، وَحُكْرًا فِي طَرِيقِهِمْ […]
 **LAT:** al-Ṭūr […]. qāla Ja‘far al-Ṣādiqu raḍiya Allāhu ‘anhu […]: […]. wa-law kāna rajulun min khashyati Allāhi ḥudūdan mā kān […]. āmina al-musāfirīna qirā'atuhum, […]. bi-idhni Allāh ta‘ālā, wa-ḥukran fī ṭariqihim […]
-**ID:** At-Tur […]. Ja'far al-Shadiq raḍiya Allāhu ‘anhu berkata: […]. dan jika seorang laki-laki karena takut Allah dalam batas-batas apa yang ada […]. aman dari para pelancong, bacaan mereka, […]. dengan izin Allah Ta'ala, dan dihormati dalam jalannya […]
+**ID:** Deret 16 angka wafaq Surah ini dibaca ulang dari tabel pada gambar scan halaman 256 (sel per sel, urutan kanan→kiri sesuai cetakan); nilai lama yang berasal dari `raw_extract.txt` tidak cocok dengan tabel dan diganti. [DIREKTIFIKASI DARI GAMBAR SCAN HAL. 256]
 *(Teks diekstrak dari PDF halaman 256; rasm dijaga apa adanya per Hukum 1. Beberapa bagian tidak jelas.)*
 
-**Wafaq:** 35323 35324 35322 35323 35321 35329 35320 35320 35328 35327 35326 35327 35327 35325 35320 35324  
-**ID:** Angka wafaq Surah At-Tur [DIPERBAIKI DARI GAMBAR SCAN HAL. 256 - raw_extract.txt salah].
+**AR:** ٢٣٣٥٨ ٢٣٣٧٢ ٢٣٣٦٩ ٢٣٣٦٦ ٢٣٣٧٠ ٢٣٣٦٥ ٢٣٣٥٩ ٢٣٣٧١ ٢٣٣٦٤ ٢٣٣٦٧ ٢٣٣٧٤ ٢٣٣٦٠ ٢٣٣٧٣ ٢٣٣٦١ ٢٣٣٦٣ ٢٣٣٦٨
+**LAT:** 23358 23372 23369 23366 23370 23365 23359 23371 23364 23367 23374 23360 23373 23361 23363 23368
+**ID:** Deret 16 angka wafaq Surah At-Tur dibaca ulang dari tabel pada gambar scan halaman 256 (sel per sel, urutan kanan→kiri sesuai cetakan); nilai lama yang berasal dari `raw_extract.txt` tidak cocok dengan tabel dan diganti. [DIREKTIFIKASI DARI GAMBAR SCAN HAL. 256]
 
 **[TIDAK ADA RAJAH DI HALAMAN INI]**
 
@@ -925,37 +955,40 @@ Branch: `arena/02ad7a12-sirrul-asrar-fit-tawashul-ma-a`
 
 **AR:** النجوم […] كَتَبَهَا فِي جِلْدِ نَمِيرٍ، أَمِنَ […] كَتَبَهَا وَعَلَّقَهَا عَلَى كُلِّ قَوِيٍّ […] خَادِمِهِمْ مِنَ الشَّيَاطِينِ، وَيَغْلِبُهُمْ بِقُدْرَةِ اللَّهِ تَعَالَى، وَيَقْهَرُهُمْ […]. وَمَا، وَقَوْلُ أَحَدٍ إِلَّا قَهَرَهُ، وَكَانَ لَهُ الْيَخْصَاصُ […]
 **LAT:** al-Nujūm […]. katabathā fī jildin namirin, āmina […]. katabathā wa-‘alliqat-hā ‘alā kullin qawiyyin […]. khādimihim min al-shayāṭīn, wa-yaghlibuhum bi-qudrati Allāh ta‘ālā, wa-yuqhariruhum […]. wa-mā, wa-qawlu aḥadin illā qaharahu, wa-kāna lahu al-yakhaṣṣu […]
-**ID:** An-Najm […]. Menulisnya dalam kulit harimau, aman dari […]. menulisnya dan menggantungnya pada setiap yang kuat […]. penakluk mereka dari syaitan, dan mengalahkannya dengan kuasa Allah Ta'ala, dan mengalahkan mereka […]. dan apa, dan ucapan siapa pun melainkan mengalahkannya, dan ada untuknya kesempatan […]
+**ID:** Deret 16 angka wafaq Surah ini dibaca ulang dari tabel pada gambar scan halaman 257 (sel per sel, urutan kanan→kiri sesuai cetakan); nilai lama yang berasal dari `raw_extract.txt` tidak cocok dengan tabel dan diganti. [DIREKTIFIKASI DARI GAMBAR SCAN HAL. 257]
 *(Teks diekstrak dari PDF halaman 257; rasm dijaga apa adanya per Hukum 1. Beberapa bagian tidak jelas.)*
 
-**Wafaq:** 84554 84555 84552 84553 84551 84559 84550 84550 84558 84557 84556 84557 84557 84555 84550 84554  
-**ID:** Angka wafaq Surah An-Najm [DIPERBAIKI DARI GAMBAR SCAN HAL. 257 - raw_extract.txt salah].
+**AR:** ٢٦٦٥٨ ٢٦٦٧٢ ٢٦٦٦٩ ٢٦٦٦٦ ٢٦٦٧٠ ٢٦٦٦٥ ٢٦٦٥٩ ٢٦٦٧١ ٢٦٦٦٤ ٢٦٦٦٧ ٢٦٦٧٤ ٢٦٦٦٠ ٢٦٦٧٣ ٢٦٦٦١ ٢٦٦٦٣ ٢٦٦٦٨
+**LAT:** 26658 26672 26669 26666 26670 26665 26659 26671 26664 26667 26674 26660 26673 26661 26663 26668
+**ID:** Deret 16 angka wafaq Surah An-Najm dibaca ulang dari tabel pada gambar scan halaman 257 (sel per sel, urutan kanan→kiri sesuai cetakan); nilai lama yang berasal dari `raw_extract.txt` tidak cocok dengan tabel dan diganti. [DIREKTIFIKASI DARI GAMBAR SCAN HAL. 257]
 
 ### Surah Al-Qamar (الْقَمَر)
 
 **AR:** القمر […] كَتَبَهَا فِي يَوْمِ الْجُمْعَةِ، وَقَتٌ مِنْ الْجُمْعَةِ، وَعَلَّقَهَا عَلَيْهِ، أَوْ تَحْتَ عِمَامَتِهِ، كَانَ عِنْدَ [...] وَجِيهًا، وَسَخَّرَ الْأُمُورَ لَهُ بِإِذْنِ اللَّهِ تَعَالَى […]
 **LAT:** al-Qamar […]. katabathā fī yawmi al-jum‘ati, wa-qat min al-jum‘ati, wa-‘alliqat-hā ‘alayh, aw taḥta ‘imāmatih, kāna ‘inda [...] vajīhan, wa-sakhkhara al-umūra lahu bi-idhni Allāh ta‘ālā […]
-**ID:** Al-Qamar […]. Menulisnya pada hari Jumat, dan waktu pada hari Jumat, dan menggantungnya padanya, atau di bawah amamannya, adalah di sisi [...] dihormati, dan menundukkan segala urusan baginya dengan izin Allah Ta'ala […]
+**ID:** Deret 16 angka wafaq Surah ini dibaca ulang dari tabel pada gambar scan halaman 257 (sel per sel, urutan kanan→kiri sesuai cetakan); nilai lama yang berasal dari `raw_extract.txt` tidak cocok dengan tabel dan diganti. [DIREKTIFIKASI DARI GAMBAR SCAN HAL. 257]
 *(Teks diekstrak dari PDF halaman 257; rasm dijaga apa adanya per Hukum 1. Beberapa bagian tidak jelas.)*
 
-**Wafaq:** 23522 23523 23520 23521 23521 23528 23527 23528 23526 23525 23524 23525 23525 23523 23522 23523  
-**ID:** Angka wafaq Surah Al-Qamar [DIPERBAIKI DARI GAMBAR SCAN HAL. 257 - raw_extract.txt salah].
+**AR:** ٢٩٦٠١ ٢٩٦١٥ ٢٩٦١١ ٢٩٦٠٨ ٢٩٦١٢ ٢٩٦٠٧ ٢٩٦٠٢ ٢٩٦١٤ ٢٩٦٠٦ ٢٩٦٠٩ ٢٩٦١٧ ٢٩٦٠٣ ٢٩٦١٦ ٢٩٦٠٤ ٢٩٦٠٥ ٢٩٦١٠
+**LAT:** 29601 29615 29611 29608 29612 29607 29602 29614 29606 29609 29617 29603 29616 29604 29605 29610
+**ID:** Deret 16 angka wafaq Surah Al-Qamar dibaca ulang dari tabel pada gambar scan halaman 257 (sel per sel, urutan kanan→kiri sesuai cetakan); nilai lama yang berasal dari `raw_extract.txt` tidak cocok dengan tabel dan diganti. [DIREKTIFIKASI DARI GAMBAR SCAN HAL. 257]
 
 ### Surah Ar-Rahman (الرَّحْمَن)
 
 **AR:** الرحمن […] كَتَبَهَا وَعَلَّقَهَا عَلَى الرَّقَبَةِ، فَقَدْ أَمَنَهُ اللَّهُ تَعَالَى مِنْهَا، وَمِنْ دَوَابِّ الْأَرْضِ، وَإِذَا عُلِّقَتِ الْوَلَدُ […]. إِذَا عُلِّقَتِ الْوَلَدَةُ عَلَى حَائِطِ الْبَيْتِ، وُلِدَ الْوَلَدُ سَرِيعًا، وَتَنْفَعُ الْعِلَلُ بِإِذْنِ اللَّهِ تَعَالَى […]
 **LAT:** al-Raḥmān […]. katabathā wa-‘alliqat-hā ‘alā al-raqabah, fa-qad āmanah Allāh ta‘ālā minhuā, wa-min dawābb al-arḍ, wa-idhā ‘ulliqat al-waladu […]. idhā ‘ulliqat al-waladatu ‘alā ḥā'iṭi al-bayti, wulida al-waladu sarī'an, wa-tanfa‘u al-‘ilal bi-idhni Allāh ta‘ālā […]
-**ID:** Ar-Rahman […]. Menulisnya dan menggantungnya di leher, maka Allah Ta'ala melindunginya darinya, dan dari binatang-binatang di bumi, dan jika anak digantung […]. jika anak perempuan digantung di dinding rumah, anak akan lahir dengan cepat, dan penyakit bermanfaat dengan izin Allah Ta'ala […]
+**ID:** Deret 16 angka wafaq Surah ini dibaca ulang dari tabel pada gambar scan halaman 257 (sel per sel, urutan kanan→kiri sesuai cetakan); nilai lama yang berasal dari `raw_extract.txt` tidak cocok dengan tabel dan diganti. [DIREKTIFIKASI DARI GAMBAR SCAN HAL. 257]
 *(Teks diekstrak dari PDF halaman 257; rasm dijaga apa adanya per Hukum 1. Beberapa bagian tidak jelas.)*
 
-**Wafaq:** 82524 82525 82522 82523 82521 82529 82520 82520 82528 82527 82526 82527 82527 82525 82520 82524  
-**ID:** Angka wafaq Surah Ar-Rahman [DIPERBAIKI DARI GAMBAR SCAN HAL. 257 - raw_extract.txt salah].
+**AR:** ٣٢٠٣٦ ٣٢٠٤٩ ٣٢٠٤٦ ٣٢٠٤٣ ٣٢٠٤٧ ٣٢٠٤٢ ٣٢٠٣٧ ٣٢٠٤٨ ٣٢٠٤١ ٣٢٠٤٤ ٣٢٠٥١ ٣٢٠٣٨ ٣٢٠٥٠ ٣٢٠٣٩ ٣٢٠٤٠ ٣٢٠٤٥
+**LAT:** 32036 32049 32046 32043 32047 32042 32037 32048 32041 32044 32051 32038 32050 32039 32040 32045
+**ID:** Deret 16 angka wafaq Surah Ar-Rahman dibaca ulang dari tabel pada gambar scan halaman 257 (sel per sel, urutan kanan→kiri sesuai cetakan); nilai lama yang berasal dari `raw_extract.txt` tidak cocok dengan tabel dan diganti. [DIREKTIFIKASI DARI GAMBAR SCAN HAL. 257]
 
 ### Surah Al-Waqiah (الْوَاقِعَة) — awal
 
 **AR:** الواقعة […] كَتَبَهَا [مِنْ] وَعَلَّقَهَا فِي مِطْرَلِهِ، كَثُرَ الْخَيْرُ عَلَيْهِ، […]. قَالَ جَعْفَرُ [عَلَيْهِ السَّلَام]: […]: إِذَا أَخَذَهُ بَعْضُ الْعُلَمَاءِ، فِيهَا مَا […]. حَفِظَ، فَمَنْ ذَلِكَ […]. إِذَا، [أَجَلُهُ]، سَهْلٌ قَرَأَ عَلَى مُقْرِئٍ، […] وَحُجَّةٌ خُرُوجُهُ، […]. إِذَا عُلِّقَتِ الْوَلَدَةُ عَلَى حَائِطِ الْبَيْتِ، وَجَمِيعُ مَا تَسْرَعُ، وَتَنْفَعُ الْعِلَلُ بِإِذْنِ اللَّهِ تَعَالَى […]
 **LAT:** al-Wāqi‘ah […]. katabathā [min] wa-‘alliqat-hā fī miṭrilih, kathura al-khayru ‘alayh, […]. qāla Ja‘far [‘alayhi al-salām]: […]: idhā akhadhahu ba‘du al-‘ulamā’, fīhā mā […]. ḥafiẓa, fa-man dhālika […]. idhā, [ajaluh], sahlun qara‘a ‘alā muqri'in, […]. wa-ḥujjatun khurūjuh, […]. idhā ‘ulliqat al-waladatu ‘alā ḥā'iṭi al-bayti, wa-jamī‘u mā tasra‘u, wa-tanfa‘u al-‘ilal bi-idhni Allāh ta‘ālā […]
-**ID:** Al-Waqiah […]. Menulisnya [dari] dan menggantungnya dalam kainnya, banyak kebaikan padanya, […]. Ja'far [‘alaihissalam] berkata: […]: jika diambil oleh beberapa ulama, di dalamnya ada […]. menjaga, maka barangsiapa itu […]. jika, [ ajalnya ], mudah dibaca pada pembaca Quran, […]. dan dalil keluarannya, […]. jika anak perempuan digantung di dinding rumah, dan semua yang cepat, dan penyakit bermanfaat dengan izin Allah Ta'ala […]
+**ID:** Deret 16 angka wafaq Surah ini dibaca ulang dari tabel pada gambar scan halaman 257 (sel per sel, urutan kanan→kiri sesuai cetakan); nilai lama yang berasal dari `raw_extract.txt` tidak cocok dengan tabel dan diganti. [DIREKTIFIKASI DARI GAMBAR SCAN HAL. 257]
 *(Teks diekstrak dari PDF halaman 257; rasm dijaga apa adanya per Hukum 1. Beberapa bagian tidak jelas.)*
 
 **[TIDAK ADA WAFAQ DI HALAMAN INI UNTUK AL-WAQIAH AWAL]**
@@ -970,31 +1003,34 @@ Branch: `arena/02ad7a12-sirrul-asrar-fit-tawashul-ma-a`
 
 **AR:** الواقعة […] كَتَبَهَا [مِنْ] وَعَلَّقَهَا فِي مِطْرَلِهِ، كَثُرَ الْخَيْرُ عَلَيْهِ، […]. قَالَ جَعْفَرُ [عَلَيْهِ السَّلَام]: […]: إِذَا أَخَذَهُ بَعْضُ الْعُلَمَاءِ، فِيهَا مَا […]. حَفِظَ، فَمَنْ ذَلِكَ […]. إِذَا، [أَجَلُهُ]، سَهْلٌ قَرَأَ عَلَى مُقْرِئٍ، […]. وَحُجَّةٌ خُرُوجُهُ، […]. إِذَا عُلِّقَتِ الْوَلَدَةُ عَلَى حَائِطِ الْبَيْتِ، وَجَمِيعُ مَا تَسْرَعُ، وَتَنْفَعُ الْعِلَلُ بِإِذْنِ اللَّهِ تَعَالَى […]
 **LAT:** al-Wāqi‘ah […]. katabathā [min] wa-‘alliqat-hā fī miṭrilih, kathura al-khayru ‘alayh, […]. qāla Ja‘far [‘alayhi al-salām]: […]: idhā akhadhahu ba‘du al-‘ulamā’, fīhā mā […]. ḥafiẓa, fa-man dhālika […]. idhā, [ajaluh], sahlun qara‘a ‘alā muqri'in, […]. wa-ḥujjatun khurūjuh, […]. idhā ‘ulliqat al-waladatu ‘alā ḥā'iṭi al-bayti, wa-jamī‘u mā tasra‘u, wa-tanfa‘u al-‘ilal bi-idhni Allāh ta‘ālā […]
-**ID:** Al-Waqiah […]. Menulisnya [dari] dan menggantungnya dalam kainnya, banyak kebaikan padanya, […]. Ja'far [‘alaihissalam] berkata: […]: jika diambil oleh beberapa ulama, di dalamnya ada […]. menjaga, maka barangsiapa itu […]. jika, [ ajalnya ], mudah dibaca pada pembaca Quran, […]. dan dalil keluarannya, […]. jika anak perempuan digantung di dinding rumah, dan semua yang cepat, dan penyakit bermanfaat dengan izin Allah Ta'ala […]
+**ID:** Deret 16 angka wafaq Surah ini dibaca ulang dari tabel pada gambar scan halaman 258 (sel per sel, urutan kanan→kiri sesuai cetakan); nilai lama yang berasal dari `raw_extract.txt` tidak cocok dengan tabel dan diganti. [DIREKTIFIKASI DARI GAMBAR SCAN HAL. 258]
 *(Teks diekstrak dari PDF halaman 258; rasm dijaga apa adanya per Hukum 1. Beberapa bagian tidak jelas.)*
 
-**Wafaq:** 26921 26922 26920 26921 26928 26927 26926 26927 26924 26923 26922 26923 26925 26923 26920 26924  
-**ID:** Angka wafaq Surah Al-Waqiah (lanjutan) [DIPERBAIKI DARI GAMBAR SCAN HAL. 258 - raw_extract.txt salah].
+**AR:** ٣٠٩٦١ ٣٠٩٧٤ ٣٠٩٧١ ٣٠٩٦٨ ٣٠٩٧٢ ٣٠٩٦٧ ٣٠٩٦٢ ٣٠٩٧٣ ٣٠٩٦٦ ٣٠٩٦٩ ٣٠٩٧٦ ٣٠٩٦٣ ٣٠٩٧٥ ٣٠٩٦٤ ٣٠٩٦٥ ٣٠٩٧٠
+**LAT:** 30961 30974 30971 30968 30972 30967 30962 30973 30966 30969 30976 30963 30975 30964 30965 30970
+**ID:** Deret 16 angka wafaq Surah Al-Waqiah (lanjutan) dibaca ulang dari tabel pada gambar scan halaman 258 (sel per sel, urutan kanan→kiri sesuai cetakan); nilai lama yang berasal dari `raw_extract.txt` tidak cocok dengan tabel dan diganti. [DIREKTIFIKASI DARI GAMBAR SCAN HAL. 258]
 
 ### Surah Al-Hadid (الْحَدِيد)
 
 **AR:** الحديد […] إِذَا كُتِبَتْ، يُرِيدُ اللَّقَاءَ، وَلَمْ يَخَفْ قَتَالًا، وَلَمْ يَكُنْ خَائِفًا، […] الْحَدِيدَ، وَكَانَ قَوِيًّا فِيهِ، وَلَمْ يَصْفَ، […] خَائِلَةً أَوْ حَرَّةً وَالْحُمْرَةُ تَنْفَعُ، […] وَإِذَا غُسِلَ بِمَائِهَا ذَلِكَ جَمِيعًا زَالَ، […] وَإِذَا قُرِئَتْ عَلَى مَوْضِعِ الْحَدِيدِ، أَخْرَجَتْهُ بِغَيْرِ أَلَمٍ، […] وَإِذَا غُسِلَ بِمَائِهَا الْجُرْحُ خَطَرَ، خَرَجَ بِغَيْرِ تَأَهُّمٍ، وَأَزَالَتْهُ بِقُدْرَةِ اللَّهِ بِغَيْرِ أَلَمٍ عَلَى الْقَدِّ إِذَا عُلِّقَتْ، […] أَلَمٌ […]
 **LAT:** al-Ḥadīd […]. idhā kutibat, yurīdu al-liqā', wa-lam yakhaf qitālān, wa-lam yakun khā'ifan, […]. al-ḥadīd, wa-kāna qawiyyan fīhi, wa-lam ṣaff, […]. khā'ilatan aw ḥarratan wal-ḥumra'u tanfa‘u, […]. wa-idhā ghusila bi-mā'ihā dhālika jamī‘an zāla, […]. wa-idhā quri'at ‘alā mawḍi‘ al-ḥadīdi, akhrajet-hu bi-ghayri alamin, […]. wa-idhā ghusila bi-mā'ihā al-jurḥ khatara, kharaja bi-ghayri ta‘ahhumin, wa-azalathu bi-qudrati Allāh bi-ghayri alamin ‘alā al-qad idhā ‘ulliqat, […]. al-alam […]
-**ID:** Al-Hadid […]. jika ditulis, ingin bertemu, dan tidak takut perang, dan tidak takut, […]. besi, dan kuat di dalamnya, dan tidak […] , […] khawatir atau panas dan kemerahan bermanfaat, […]. dan jika dicuci dengan airnya semuanya hilang, […]. dan jika dibaca di tempat besi, mengeluarkannya tanpa rasa sakit, […]. dan jika dicuci dengan airnya luka bahaya, keluar tanpa khawatir, dan menghilangkannya dengan kuasa Allah tanpa rasa sakit pada waktu tertentu jika digantung, […]. rasa sakit […]
+**ID:** Deret 16 angka wafaq Surah ini dibaca ulang dari tabel pada gambar scan halaman 258 (sel per sel, urutan kanan→kiri sesuai cetakan); nilai lama yang berasal dari `raw_extract.txt` tidak cocok dengan tabel dan diganti. [DIREKTIFIKASI DARI GAMBAR SCAN HAL. 258]
 *(Teks diekstrak dari PDF halaman 258; rasm dijaga apa adanya per Hukum 1. Beberapa bagian tidak jelas.)*
 
-**Wafaq:** 32523 32524 32522 32523 32521 32529 32520 32520 32528 32527 32526 32527 32527 32525 32520 32524  
-**ID:** Angka wafaq Surah Al-Hadid [DIPERBAIKI DARI GAMBAR SCAN HAL. 258 - raw_extract.txt salah].
+**AR:** ٤٧٢٦١ ٤٧٢٧٤ ٤٧٢٧١ ٤٧٢٦٨ ٤٧٢٧٢ ٤٧٢٦٧ ٤٧٢٦٢ ٤٧٢٧٣ ٤٧٢٦٦ ٤٧٢٦٩ ٤٧٢٧٦ ٤٧٢٦٣ ٤٧٢٧٥ ٤٧٢٦٤ ٤٧٢٦٥ ٤٧٢٧٠
+**LAT:** 47261 47274 47271 47268 47272 47267 47262 47273 47266 47269 47276 47263 47275 47264 47265 47270
+**ID:** Deret 16 angka wafaq Surah Al-Hadid dibaca ulang dari tabel pada gambar scan halaman 258 (sel per sel, urutan kanan→kiri sesuai cetakan); nilai lama yang berasal dari `raw_extract.txt` tidak cocok dengan tabel dan diganti. [DIREKTIFIKASI DARI GAMBAR SCAN HAL. 258]
 
 ### Surah Al-Mujadila (الْمُجَادِلَة)
 
 **AR:** المجادلة […] كَتَبَهَا وَقَرَأَهَا عَلَى مَرِيضٍ، سَكَنَتْهُ، وَوَهْهَا فِي لَيْلِهِ، قَرَأَ أَدَمٌ مِنْهَا، حَارِسُهُ، وَمِنْ كُلِّ طَارِقٍ يَخْخَشُ، […] وَإِذَا قُرِئَتْ، حَفِظَ إِلَى أَنَّ يَكُونُ، حَرَكَتْهُ وَيَخْزَانُ، […]. وَإِذَا، […]. فَسَدَهَا وَيَزِيدُ عَلَى الْحُبُوبِ، أَزَالَتْ عَنِهَا مَا يَتَ، وَطُرِحَ كِتَبَتَهَا، […]. وَإِذَا، […]. فَسَدَهَا وَيَزِيدُ عَلَى الْحُبُوبِ، أَزَالَتْ عَنِهَا مَا يَتَ، وَطُرِحَ كِتَبَتَهَا، […]
 **LAT:** al-Mujādala […]. katabathā wa-qara'ahā ‘alā marīḍin, sakunat-hu, wa-wahhā fī laylīhi, qara'a ādum minhu, ḥārisuh, wa-min kullī ṭāriqin yakhkhush, […]. wa-idhā quri‘at, ḥafiẓa ilā an yakūn, ḥarrakathu wa-yakhzan, […]. wa-idhā, […]. fasadathā wa-yazīdu ‘alā al-ḥubūbi, azālat ‘anhā mā yata, wa-tuḥi katabathā, […]. wa-idhā, […]. fasadathā wa-yazīdu ‘alā al-ḥubūbi, azālat ‘anhā mā yata, wa-tuḥi katabathā, […]
-**ID:** Al-Mujadila […]. Menulisnya dan membacanya kepada orang sakit, tenang, dan padanya dalam malamnya, Adam membacanya darinya, penjaganya, dan dari setiap yang datang malam yang menakutkan, […]. dan jika dibaca, melindungi sampai akan menjadi, memindahkannya dan sedih, […]. dan jika, […]. merusaknya dan menambah pada biji-bijian, menghilangkan darinya apa yang ada, dan ditolak tulisannya, […]. dan jika, […]. merusaknya dan menambah pada biji-bijian, menghilangkan darinya apa yang ada, dan ditolak tulisannya, […]
+**ID:** Deret 16 angka wafaq Surah ini dibaca ulang dari tabel pada gambar scan halaman 258 (sel per sel, urutan kanan→kiri sesuai cetakan); nilai lama yang berasal dari `raw_extract.txt` tidak cocok dengan tabel dan diganti. [DIREKTIFIKASI DARI GAMBAR SCAN HAL. 258]
 *(Teks diekstrak dari PDF halaman 258; rasm dijaga apa adanya per Hukum 1. Beberapa bagian tidak jelas.)*
 
-**Wafaq:** 61823 61824 61822 61823 61821 61829 61820 61820 61828 61827 61826 61827 61827 61825 61820 61824  
-**ID:** Angka wafaq Surah Al-Mujadila [DIPERBAIKI DARI GAMBAR SCAN HAL. 258 - raw_extract.txt salah].
+**AR:** ٣٢٨١٣ ٣٢٨٢٧ ٣٢٨٢٣ ٣٢٨٢٠ ٣٢٨٢٤ ٣٢٨١٩ ٣٢٨١٤ ٣٢٨٢٦ ٣٢٨١٨ ٣٢٨٢١ ٣٢٨٢٩ ٣٢٨١٥ ٣٢٨٢٨ ٣٢٨١٦ ٣٢٨١٧ ٣٢٨٢٢
+**LAT:** 32813 32827 32823 32820 32824 32819 32814 32826 32818 32821 32829 32815 32828 32816 32817 32822
+**ID:** Deret 16 angka wafaq Surah Al-Mujadila dibaca ulang dari tabel pada gambar scan halaman 258 (sel per sel, urutan kanan→kiri sesuai cetakan); nilai lama yang berasal dari `raw_extract.txt` tidak cocok dengan tabel dan diganti. [DIREKTIFIKASI DARI GAMBAR SCAN HAL. 258]
 
 **[TIDAK ADA RAJAH DI HALAMAN INI]**
 
@@ -1027,7 +1063,7 @@ Branch: `arena/02ad7a12-sirrul-asrar-fit-tawashul-ma-a`
 **AR:** قال جعفر عليه السلام: من قرأها ليلة الجمعة أمن من بلائها إلى أن يصبح. ومن توضأ في طلب الحاجة، ثم صلى أربع ركعات يقرأ في كل ركعة الحمد والسورة، إلى أن يفرغ منها ويتوجه في أي حاجة أرادها، سهل الله عليه أمرها وقضيت له. ومن كتبها في جام وغسلها بماء طاهر وشربها ورث الذكاء والفطنة وقلة النسيان بإذن الله تعالى.
 **LAT:** Qāla Ja‘far ‘alayhi al-salām: man qara’ahā laylata al-jum‘ah amina min balā’ihā ilā an yuṣbiḥ. Wa-man tawadda’a fī ṭalabi al-ḥājah, thumma ṣallā arba‘a raka‘ātin yaqra’u fī kulli rak‘atin al-ḥamda wa-al-sūrah, fa-idhā faragha minhā wa-tawajjaha fī ayy ḥājatin arādahā, sahhala Allāhu amrahā wa-quḍiyat lahu. Wa-man katabahā fī jāmin wa-ghasalahā bi-mā’in ṭāhirin wa-sharibahā waritha al-dhakā’a wa-al-fiṭnata wa-qillata al-nisyān bi-idhni Allāh ta‘ālā.
 **ID:** Ja‘far berkata: siapa yang membacanya pada malam Jumat akan aman dari bala hingga pagi. Siapa yang berwudu untuk suatu hajat, lalu salat empat rakaat dan membaca Al-Fatihah serta surah pada setiap rakaat, kemudian memohon hajatnya, Allah memudahkan urusannya dan mengabulkannya. Siapa yang menulisnya pada wadah, membasuhnya dengan air suci lalu meminumnya, akan memperoleh kecerdasan, ketajaman pemahaman, dan berkurangnya lupa, dengan izin Allah.
-**AR (wafaq Al-Hashr):** ٣٢٣٤١ ٣٢٣٥٥ ٣٢٣٥٢ ٣٢٣٤٩ ٣٢٣٥٣ ٣٢٣٤٨ ٣٢٣٤٢ ٣٢٣٥٤ ٣٢٣٤٧ ٣٢٣٥٠ ٣٢٣٥٧ ٣٢٣٤٣ ٣٢٣٥٦ ٣٢٣٤٤ ٣٢٣٤٦ ٣٢٣٥١
+**AR:** ٣٢٣٤١ ٣٢٣٥٥ ٣٢٣٥٢ ٣٢٣٤٩ ٣٢٣٥٣ ٣٢٣٤٨ ٣٢٣٤٢ ٣٢٣٥٤ ٣٢٣٤٧ ٣٢٣٥٠ ٣٢٣٥٧ ٣٢٣٤٣ ٣٢٣٥٦ ٣٢٣٤٤ ٣٢٣٤٦ ٣٢٣٥١
 **LAT:** 32341 32355 32352 32349 32353 32348 32342 32354 32347 32350 32357 32343 32356 32344 32346 32351
 **ID:** Deret angka wafaq Al-Hashr disalin persis dari tabel pada gambar scan halaman terkait.
 
@@ -1036,7 +1072,7 @@ Branch: `arena/02ad7a12-sirrul-asrar-fit-tawashul-ma-a`
 **LAT:** Man buliya bi-al-ṭiḥāl wa-‘asura ‘alayhi bur’uhu, yaktubuhā fī [TIDAK JELAS — LIHAT SCAN HALAMAN 259], wa-yashrabuhā thalāthata ayyāmin mutawāliyah, yazūlu ‘anhu al-ṭiḥāl bi-idhni Allāh ta‘ālā.
 **ID:** Bagi orang yang mengalami penyakit limpa dan sulit pulih, surah ini ditulis pada [TIDAK JELAS], lalu diminum selama tiga hari berturut-turut; naskah menyebut keluhan limpa itu hilang dengan izin Allah.
 **Hasil zoom scan (200 DPI, pembesaran bagian teks):** bagian tepat setelah «يكتبها في» tercetak sebagai tiga tanda tanya (؟؟؟), bukan huruf yang dapat dibaca. Karena itu bahan/tempat penulisan tidak dapat dipastikan dan tidak saya tebak. Konteks di gambar, sebelum bagian ini: «من بلي بالطحال» (menderita limpa), «وعسر عليه برؤه» (sulit pulih); sesudahnya: «ويشربها ثلاثة أيام متوالية» (diminum tiga hari berturut-turut), «يزول عنه الطحال بإذن الله تعالى» (keluhan limpa hilang dengan izin Allah). Kalimat di sekelilingnya: tepat sebelumnya pada Al-Hashr «ومن كتبها في جام… وشربها ورث الذكاء والفطنة وقلة النسيان»، dan sesudahnya pada As-Saff «من قرأها وأدمن قراءتها في سفر… أمن فيه من كل داء وآفة… وكان محفوظًا إلى أن يرجع إلى بيته». Konteks tidak mengungkap apa yang seharusnya ditulis pada tempat yang ditandai tanda tanya; tag dipertahankan.
-**AR (wafaq Al-Mumtahanah):** ٢٤٧٢٠ ٢٤٧٣٣ ٢٤٧٣٠ ٢٤٧٢٧ ٢٤٧٣١ ٢٤٧٢٦ ٢٤٧٢١ ٢٤٧٣٢ ٢٤٧٢٥ ٢٤٧٢٨ ٢٤٧٣٥ ٢٤٧٢٢ ٢٤٧٣٤ ٢٤٧٢٣ ٢٤٧٢٤ ٢٤٧٢٩
+**AR:** ٢٤٧٢٠ ٢٤٧٣٣ ٢٤٧٣٠ ٢٤٧٢٧ ٢٤٧٣١ ٢٤٧٢٦ ٢٤٧٢١ ٢٤٧٣٢ ٢٤٧٢٥ ٢٤٧٢٨ ٢٤٧٣٥ ٢٤٧٢٢ ٢٤٧٣٤ ٢٤٧٢٣ ٢٤٧٢٤ ٢٤٧٢٩
 **LAT:** 24720 24733 24730 24727 24731 24726 24721 24732 24725 24728 24735 24722 24734 24723 24724 24729
 **ID:** Deret angka wafaq Al-Mumtahanah disalin persis dari tabel pada gambar scan halaman terkait.
 
@@ -1044,7 +1080,7 @@ Branch: `arena/02ad7a12-sirrul-asrar-fit-tawashul-ma-a`
 **AR:** من قرأها وأدمن قراءتها في سفر، أمن فيه من كل داء وآفة، وكان محفوظًا إلى أن يرجع إلى بيته.
 **LAT:** Man qara’ahā wa-admana qirā’atahā fī safarin, amina fīhi min kulli dā’in wa-āfah, wa-kāna maḥfūẓan ilā an yarji‘a ilā baytih.
 **ID:** Siapa yang membaca dan merutinkan bacaannya saat bepergian, menurut naskah akan terlindung dari penyakit dan musibah serta dijaga hingga kembali ke rumah.
-**AR (wafaq As-Saff):** ١٥٤٤٣ ١٥٤٥٧ ١٥٤٥٤ ١٥٤٥٠ ١٥٤٥٥ ١٥٤٤٩ ١٥٤٤٤ ١٥٤٥٦ ١٥٤٤٨ ١٥٤٥٢ ١٥٤٥٩ ١٥٤٤٥ ١٥٤٥٨ ١٥٤٤٦ ١٥٤٤٧ ١٥٤٥٣
+**AR:** ١٥٤٤٣ ١٥٤٥٧ ١٥٤٥٤ ١٥٤٥٠ ١٥٤٥٥ ١٥٤٤٩ ١٥٤٤٤ ١٥٤٥٦ ١٥٤٤٨ ١٥٤٥٢ ١٥٤٥٩ ١٥٤٤٥ ١٥٤٥٨ ١٥٤٤٦ ١٥٤٤٧ ١٥٤٥٣
 **LAT:** 15443 15457 15454 15450 15455 15449 15444 15456 15448 15452 15459 15445 15458 15446 15447 15453
 **ID:** Deret angka wafaq As-Saff disalin persis dari tabel pada gambar scan halaman terkait.
 
@@ -1062,7 +1098,7 @@ Branch: `arena/02ad7a12-sirrul-asrar-fit-tawashul-ma-a`
 **AR:** من قرأها في ليله ونهاره وصباحه ومسائه، أمن من وسوسة الشيطان، وغفر له ما يأتي في الليل والنهار.
 **LAT:** Man qara’ahā fī laylihi wa-nahārihi wa-ṣabāḥihi wa-masā’ihi, amina min waswasati al-shayṭān, wa-ghufira lahu mā ya’tī fī al-layli wa-al-nahār.
 **ID:** Siapa yang membacanya pada malam, siang, pagi, dan petangnya, menurut naskah akan aman dari bisikan setan dan diampuni dosa-dosanya.
-**AR (wafaq Al-Jumu‘ah):** ١٤٩٠١ ١٤٩١٥ ١٤٩١٢ ١٤٩٠٨ ١٤٩١٣ ١٤٩٠٧ ١٤٩٠٢ ١٤٩١٤ ١٤٩٠٦ ١٤٩١٠ ١٤٩١٧ ١٤٩٠٣ ١٤٩١٦ ١٤٩٠٤ ١٤٩٠٥ ١٤٩١١
+**AR:** ١٤٩٠١ ١٤٩١٥ ١٤٩١٢ ١٤٩٠٨ ١٤٩١٣ ١٤٩٠٧ ١٤٩٠٢ ١٤٩١٤ ١٤٩٠٦ ١٤٩١٠ ١٤٩١٧ ١٤٩٠٣ ١٤٩١٦ ١٤٩٠٤ ١٤٩٠٥ ١٤٩١١
 **LAT:** 14901 14915 14912 14908 14913 14907 14902 14914 14906 14910 14917 14903 14916 14904 14905 14911
 **ID:** Deret angka wafaq Al-Jumu‘ah disalin persis dari tabel pada gambar scan halaman terkait.
 
@@ -1070,7 +1106,7 @@ Branch: `arena/02ad7a12-sirrul-asrar-fit-tawashul-ma-a`
 **AR:** من قرأها على الرمد خف عنه، وأزاله الله تعالى. ومن قرأها على الأوجاع الباطنية أزالها بقدرة الله تعالى.
 **LAT:** Man qara’ahā ‘alā al-ramad khaffa ‘anhu wa-azālahu Allāhu ta‘ālā. Wa-man qara’ahā ‘alā al-awjā‘i al-bāṭiniyyah azālahā bi-qudrati Allāh ta‘ālā.
 **ID:** Jika dibacakan atas sakit mata, naskah menyebut sakitnya diringankan dan dihilangkan. Jika dibacakan atas nyeri bagian dalam, naskah menyatakan nyeri itu dihilangkan dengan kuasa Allah.
-**AR (wafaq Al-Munafiqun):** ١٣٣٢٨ ١٣٣٤٢ ١٣٣٣٩ ١٣٣٣٥ ١٣٣٤٠ ١٣٣٣٤ ١٣٣٢٩ ١٣٣٤١ ١٣٣٣٣ ١٣٣٣٧ ١٣٣٤٤ ١٣٣٣٠ ١٣٣٤٣ ١٣٣٣١ ١٣٣٣٢ ١٣٣٣٨
+**AR:** ١٣٣٢٨ ١٣٣٤٢ ١٣٣٣٩ ١٣٣٣٥ ١٣٣٤٠ ١٣٣٣٤ ١٣٣٢٩ ١٣٣٤١ ١٣٣٣٣ ١٣٣٣٧ ١٣٣٤٤ ١٣٣٣٠ ١٣٣٤٣ ١٣٣٣١ ١٣٣٣٢ ١٣٣٣٨
 **LAT:** 13328 13342 13339 13335 13340 13334 13329 13341 13333 13337 13344 13330 13343 13331 13332 13338
 **ID:** Deret angka wafaq Al-Munafiqun disalin persis dari tabel pada gambar scan halaman terkait.
 
@@ -1078,7 +1114,7 @@ Branch: `arena/02ad7a12-sirrul-asrar-fit-tawashul-ma-a`
 **AR:** من خاف من سلطان جائر أو خاف أحدًا يدخل عليه، فليقرأها فإنه يكفى شره بإذن الله تعالى. إذا كتبت وغسلت ورش ماؤها في موضع، لم يسكن أبدًا، وإن كان مسكونًا أثار القتال في ذلك الموضع والبغضاء، وربما صار إلى الفراق.
 **LAT:** Man khāfa min sulṭānin jā’ir aw khāfa aḥadan yadkhulu ‘alayh, fal-yaqra’ahā fa-innahū yukfā sharrahu bi-idhni Allāh ta‘ālā. Idhā kutibat wa-ghusilat wa-rushsha mā’uhā fī mawḍi‘in, lam yaskun abadan; wa-in kāna maskūnan athāra al-qitāla fī dhālika al-mawḍi‘i wa-al-baghḍā’a, wa-rubbamā ṣāra ilā al-firāq.
 **ID:** Siapa yang takut kepada penguasa zalim atau orang yang hendak mendatanginya, hendaklah membacanya; naskah menyatakan ia dicukupkan dari keburukannya dengan izin Allah. Naskah kemudian menyebut penulisan, pembasuhan, dan pemercikan airnya di suatu tempat sebagai amalan yang menimbulkan pertengkaran dan permusuhan di tempat itu. (Terjemahan menyampaikan isi naskah, bukan anjuran.)
-**AR (wafaq At-Taghabun):** ١٩٦٥١ ١٩٦٦٥ ١٩٦٦٢ ١٩٦٥٨ ١٩٦٦٣ ١٩٦٥٧ ١٩٦٥٢ ١٩٦٦٤ ١٩٦٥٦ ١٩٦٦٠ ١٩٦٦٧ ١٩٦٥٣ ١٩٦٦٦ ١٩٦٥٤ ١٩٦٥٥ ١٩٦٦١
+**AR:** ١٩٦٥١ ١٩٦٦٥ ١٩٦٦٢ ١٩٦٥٨ ١٩٦٦٣ ١٩٦٥٧ ١٩٦٥٢ ١٩٦٦٤ ١٩٦٥٦ ١٩٦٦٠ ١٩٦٦٧ ١٩٦٥٣ ١٩٦٦٦ ١٩٦٥٤ ١٩٦٥٥ ١٩٦٦١
 **LAT:** 19651 19665 19662 19658 19663 19657 19652 19664 19656 19660 19667 19653 19666 19654 19655 19661
 **ID:** Deret angka wafaq At-Taghabun disalin persis dari tabel pada gambar scan halaman terkait.
 
@@ -1096,7 +1132,7 @@ Branch: `arena/02ad7a12-sirrul-asrar-fit-tawashul-ma-a`
 **AR:** قال جعفر الصادق عليه السلام: من قرأها على الرمد أزاله، وقراءتها على المسلوع تخفف عنه. وقراءتها على السهران تنومه. ومن أدمن قراءتها وكان عليه دين كثير، لم يبق عليه دين ولا خردلة بإذن الله تعالى.
 **LAT:** Qāla Ja‘far al-Ṣādiq ‘alayhi al-salām: man qara’ahā ‘alā al-ramad azālahu, wa-qirā’atuhā ‘alā al-maslu‘ tukhaffifu ‘anhu. Wa-qirā’atuhā ‘alā al-sahrān tunawwimuhu. Wa-man admana qirā’atahā wa-kāna ‘alayhi daynun kathīr, lam yabqa ‘alayhi daynun wa-lā khardalah bi-idhni Allāh ta‘ālā.
 **ID:** Ja‘far aṣ-Ṣādiq berkata: membacakannya atas sakit mata menghilangkannya; membacakannya kepada orang yang terkena [istilah pada naskah kurang jelas] meringankan keadaannya, dan membacakannya kepada orang yang tidak tidur membuatnya tertidur. Siapa yang merutinkan bacaannya ketika memiliki banyak utang, naskah menyatakan utangnya akan lunas.
-**AR (wafaq At-Tahrim):** ٢١١٠٨ ٢١١٢٢ ٢١١١٨ ٢١١١٥ ٢١١١٩ ٢١١١٤ ٢١١٠٩ ٢١١٢١ ٢١١١٣ ٢١١١٦ ٢١١٢٤ ٢١١١٠ ٢١١٢٣ ٢١١١١ ٢١١١٢ ٢١١١٧
+**AR:** ٢١١٠٨ ٢١١٢٢ ٢١١١٨ ٢١١١٥ ٢١١١٩ ٢١١١٤ ٢١١٠٩ ٢١١٢١ ٢١١١٣ ٢١١١٦ ٢١١٢٤ ٢١١١٠ ٢١١٢٣ ٢١١١١ ٢١١١٢ ٢١١١٧
 **LAT:** 21108 21122 21118 21115 21119 21114 21109 21121 21113 21116 21124 21110 21123 21111 21112 21117
 **ID:** Deret angka wafaq At-Tahrim disalin persis dari tabel pada gambar scan halaman terkait.
 
@@ -1104,7 +1140,7 @@ Branch: `arena/02ad7a12-sirrul-asrar-fit-tawashul-ma-a`
 **AR:** من قرأها على ميت، خفف عنه ما هو فيه. وإذا قرئت على الموتى وأهديت إليهم أسرعت إليهم كالبرق الخاطف، وأنستهم وخففت عنهم.
 **LAT:** Man qara’ahā ‘alā mayyitin, khuffifa ‘anhu mā huwa fīh. Wa-idhā quri’at ‘alā al-mawtā wa-uhdiyat ilayhim, asra‘at ilayhim ka-al-barqi al-khāṭif, wa-anasathum wa-khaffafat ‘anhum.
 **ID:** Membacakannya kepada orang yang wafat, menurut teks, meringankan keadaannya. Jika dibacakan dan dihadiahkan kepada orang-orang yang wafat, pahalanya segera sampai seperti kilat, menghibur dan meringankan mereka.
-**AR (wafaq At-Talaq):** ٢٢٣٦٤ ٢٢٣٧٨ ٢٢٣٧٥ ٢٢٣٧١ ٢٢٣٧٦ ٢٢٣٧٠ ٢٢٣٦٥ ٢٢٣٧٧ ٢٢٣٦٩ ٢٢٣٧٣ ٢٢٣٨٠ ٢٢٣٦٦ ٢٢٣٧٩ ٢٢٣٦٧ ٢٢٣٦٨ ٢٢٣٧٤
+**AR:** ٢٢٣٦٤ ٢٢٣٧٨ ٢٢٣٧٥ ٢٢٣٧١ ٢٢٣٧٦ ٢٢٣٧٠ ٢٢٣٦٥ ٢٢٣٧٧ ٢٢٣٦٩ ٢٢٣٧٣ ٢٢٣٨٠ ٢٢٣٦٦ ٢٢٣٧٩ ٢٢٣٦٧ ٢٢٣٦٨ ٢٢٣٧٤
 **LAT:** 22364 22378 22375 22371 22376 22370 22365 22377 22369 22373 22380 22366 22379 22367 22368 22374
 **ID:** Deret angka wafaq At-Talaq disalin persis dari tabel pada gambar scan halaman terkait.
 
@@ -1112,7 +1148,7 @@ Branch: `arena/02ad7a12-sirrul-asrar-fit-tawashul-ma-a`
 **AR:** قال جعفر عليه السلام: من قرأها على الصداع الدائم أزالته، وإذا علقت على صاحب الضرس الدائم الضربان أسكنته بإذن الله تعالى بلا ألم.
 **LAT:** Qāla Ja‘far ‘alayhi al-salām: man qara’ahā ‘alā al-ṣudā‘i al-dā’im azālat-hu; wa-idhā ‘ulliqāt ‘alā ṣāḥibi al-ḍirsi al-dā’imi al-ḍarabān askanat-hu bi-idhni Allāh ta‘ālā bilā alam.
 **ID:** Ja‘far berkata: membacakannya atas sakit kepala yang menetap akan menghilangkannya; jika digantungkan pada orang yang mengalami denyutan sakit geraham, naskah menyatakan rasa sakitnya mereda dengan izin Allah.
-**AR (wafaq Al-Mulk):** ٢٥٥٥٩ ٢٥٥٧٣ ٢٥٥٧٠ ٢٥٥٦٦ ٢٥٥٧١ ٢٥٥٦٥ ٢٥٥٦٠ ٢٥٥٧٢ ٢٥٥٦٤ ٢٥٥٦٨ ٢٥٥٧٥ ٢٥٥٦١ ٢٥٥٧٤ ٢٥٥٦٢ ٢٥٥٦٣ ٢٥٥٦٩
+**AR:** ٢٥٥٥٩ ٢٥٥٧٣ ٢٥٥٧٠ ٢٥٥٦٦ ٢٥٥٧١ ٢٥٥٦٥ ٢٥٥٦٠ ٢٥٥٧٢ ٢٥٥٦٤ ٢٥٥٦٨ ٢٥٥٧٥ ٢٥٥٦١ ٢٥٥٧٤ ٢٥٥٦٢ ٢٥٥٦٣ ٢٥٥٦٩
 **LAT:** 25559 25573 25570 25566 25571 25565 25560 25572 25564 25568 25575 25561 25574 25562 25563 25569
 **ID:** Deret angka wafaq Al-Mulk disalin persis dari tabel pada gambar scan halaman terkait.
 
@@ -1135,7 +1171,7 @@ Branch: `arena/02ad7a12-sirrul-asrar-fit-tawashul-ma-a`
 **AR:** الحاقة
 **LAT:** Al-Ḥāqqah.
 **ID:** Nama surah sebagaimana judul tabel.
-**AR (wafaq Al-Haqqah):** ٢١٠١٩ ٢١٠٣٣ ٢١٠٣٠ ٢١٠٢٦ ٢١٠٣١ ٢١٠٢٥ ٢١٠٢٠ ٢١٠٢١ ٢١٠٢٤ ٢١٠٢٨ ٢١٠٣٥ ٢١٠٢١ ٢١٠٣٤ ٢١٠٢٢ ٢١٠٢٣ ٢١٠٢٩
+**AR:** ٢١٠١٩ ٢١٠٣٣ ٢١٠٣٠ ٢١٠٢٦ ٢١٠٣١ ٢١٠٢٥ ٢١٠٢٠ ٢١٠٢١ ٢١٠٢٤ ٢١٠٢٨ ٢١٠٣٥ ٢١٠٢١ ٢١٠٣٤ ٢١٠٢٢ ٢١٠٢٣ ٢١٠٢٩
 **LAT:** 21019 21033 21030 21026 21031 21025 21020 21021 21024 21028 21035 21021 21034 21022 21023 21029
 **ID:** Deret angka wafaq Al-Haqqah disalin persis dari tabel pada gambar scan halaman terkait.
 
@@ -1143,7 +1179,7 @@ Branch: `arena/02ad7a12-sirrul-asrar-fit-tawashul-ma-a`
 **AR:** قال جعفر رضي الله عنه: من قرأها في كل ليلة، أمن من الجنابة والأحلام المفزعة، وحفظ من تمام ليلته إلى أن يصبح.
 **LAT:** Qāla Ja‘far raḍiya Allāhu ‘anhu: man qara’ahā fī kulli laylah, amina min al-janābah wa-al-aḥlām al-mufzi‘ah, wa-ḥufiẓa min tamāmi laylatih ilā an yuṣbiḥ.
 **ID:** Ja‘far berkata: siapa yang membacanya setiap malam, menurut naskah akan aman dari junub dan mimpi yang menakutkan, serta dijaga sepanjang malam hingga pagi.
-**AR (wafaq Al-Ma‘arij):** ١٧٦٤٢ ١٧٦٥٦ ١٧٦٥٣ ١٧٦٤٩ ١٧٦٥٤ ١٧٦٤٨ ١٧٦٤٣ ١٧٦٥٥ ١٧٦٤٧ ١٧٦٥١ ١٧٦٥٨ ١٧٦٤٤ ١٧٦٥٧ ١٧٦٤٥ ١٧٦٤٦ ١٧٦٥٢
+**AR:** ١٧٦٤٢ ١٧٦٥٦ ١٧٦٥٣ ١٧٦٤٩ ١٧٦٥٤ ١٧٦٤٨ ١٧٦٤٣ ١٧٦٥٥ ١٧٦٤٧ ١٧٦٥١ ١٧٦٥٨ ١٧٦٤٤ ١٧٦٥٧ ١٧٦٤٥ ١٧٦٤٦ ١٧٦٥٢
 **LAT:** 17642 17656 17653 17649 17654 17648 17643 17655 17647 17651 17658 17644 17657 17645 17646 17652
 **ID:** Deret angka wafaq Al-Ma‘arij disalin persis dari tabel pada gambar scan halaman terkait.
 
@@ -1151,7 +1187,7 @@ Branch: `arena/02ad7a12-sirrul-asrar-fit-tawashul-ma-a`
 **AR:** قال جعفر رضي الله عنه: من قرأها في كل ليلة لم يمت حتى يرى مقعده من الجنة. وإذا قرئت في طلب الحاجة، سهلت وقضيت بإذن الله تعالى.
 **LAT:** Qāla Ja‘far raḍiya Allāhu ‘anhu: man qara’ahā fī kulli laylah lam yamut ḥattā yarā maq‘adahu min al-jannah. Wa-idhā quri’at fī ṭalabi al-ḥājah, sahulat wa-quḍiyat bi-idhni Allāh ta‘ālā.
 **ID:** Ja‘far berkata: siapa yang membacanya setiap malam, naskah menyebut ia tidak wafat sebelum melihat tempatnya di surga. Jika dibaca untuk memohon hajat, hajat itu dimudahkan dan dikabulkan, dengan izin Allah.
-**AR (wafaq Nuh):** ١٨٨٢٤ ١٨٨٣٨ ١٨٨٣٥ ١٨٨٣١ ١٨٨٣٦ ١٨٨٣٠ ١٨٨٢٥ ١٨٨٣٧ ١٨٨٢٩ ١٨٨٣٣ ١٨٨٤٠ ١٨٨٢٦ ١٨٨٣٩ ١٨٨٢٧ ١٨٨٢٨ ١٨٨٣٤
+**AR:** ١٨٨٢٤ ١٨٨٣٨ ١٨٨٣٥ ١٨٨٣١ ١٨٨٣٦ ١٨٨٣٠ ١٨٨٢٥ ١٨٨٣٧ ١٨٨٢٩ ١٨٨٣٣ ١٨٨٤٠ ١٨٨٢٦ ١٨٨٣٩ ١٨٨٢٧ ١٨٨٢٨ ١٨٨٣٤
 **LAT:** 18824 18838 18835 18831 18836 18830 18825 18837 18829 18833 18840 18826 18839 18827 18828 18834
 **ID:** Deret angka wafaq Nuh disalin persis dari tabel pada gambar scan halaman terkait.
 
@@ -1174,7 +1210,7 @@ Branch: `arena/02ad7a12-sirrul-asrar-fit-tawashul-ma-a`
 **AR:** الجن
 **LAT:** Al-Jinn.
 **ID:** Nama surah sebagaimana judul tabel.
-**AR (wafaq Al-Jinn):** ١٦٦٢٨ ١٦٦٤١ ١٦٦٣٨ ١٦٦٣٥ ١٦٦٣٩ ١٦٦٣٤ ١٦٦٢٩ ١٦٦٤٠ ١٦٦٣٣ ١٦٦٣٦ ١٦٦٤٣ ١٦٦٣٠ ١٦٦٤٢ ١٦٦٣١ ١٦٦٣٢ ١٦٦٣٧
+**AR:** ١٦٦٢٨ ١٦٦٤١ ١٦٦٣٨ ١٦٦٣٥ ١٦٦٣٩ ١٦٦٣٤ ١٦٦٢٩ ١٦٦٤٠ ١٦٦٣٣ ١٦٦٣٦ ١٦٦٤٣ ١٦٦٣٠ ١٦٦٤٢ ١٦٦٣١ ١٦٦٣٢ ١٦٦٣٧
 **LAT:** 16628 16641 16638 16635 16639 16634 16629 16640 16633 16636 16643 16630 16642 16631 16632 16637
 **ID:** Deret angka wafaq Al-Jinn disalin persis dari tabel pada gambar scan halaman terkait.
 
@@ -1182,7 +1218,7 @@ Branch: `arena/02ad7a12-sirrul-asrar-fit-tawashul-ma-a`
 **AR:** من أدمن قراءتها، رأى النبي صلى الله عليه وآله وسلم، وسأله فيما يريده. ومن قرأها ليلة الجمعة مائة مرة، غفر له مائة ذنب، وكتب له مائة حسنة؛ الحسنة بعشر أمثالها كما قال الله تعالى.
 **LAT:** Man admana qirā’atahā ra’ā al-nabiyya ṣallā Allāhu ‘alayhi wa-ālihi wa-sallam wa-sa’alahu fīmā yurīd. Wa-man qara’ahā laylata al-jum‘ah mi’ata marrah, ghufira lahu mi’atu dhanb, wa-kutiba lahu mi’atu ḥasanah; al-ḥasanatu bi-‘ashri amthālihā kamā qāla Allāhu ta‘ālā.
 **ID:** Siapa yang merutinkan bacaannya, naskah menyebut ia akan melihat Nabi dan menanyakan apa yang diinginkannya. Siapa yang membacanya seratus kali pada malam Jumat, diampuni seratus dosa dan dicatat seratus kebaikan; satu kebaikan dilipatgandakan sepuluh kali, sebagaimana disebutkan dalam teks.
-**AR (wafaq Al-Muzzammil):** ١٦٧٩٣ ١٦٨٠٧ ١٦٨٠٤ ١٦٨٠٠ ١٦٨٠٥ ١٦٧٩٩ ١٦٧٩٤ ١٦٨٠٦ ١٦٧٩٨ ١٦٨٠٢ ١٦٨٠٩ ١٦٧٩٥ ١٦٨٠٨ ١٦٧٩٦ ١٦٧٩٧ ١٦٨٠٣
+**AR:** ١٦٧٩٣ ١٦٨٠٧ ١٦٨٠٤ ١٦٨٠٠ ١٦٨٠٥ ١٦٧٩٩ ١٦٧٩٤ ١٦٨٠٦ ١٦٧٩٨ ١٦٨٠٢ ١٦٨٠٩ ١٦٧٩٥ ١٦٨٠٨ ١٦٧٩٦ ١٦٧٩٧ ١٦٨٠٣
 **LAT:** 16793 16807 16804 16800 16805 16799 16794 16806 16798 16802 16809 16795 16808 16796 16797 16803
 **ID:** Deret angka wafaq Al-Muzzammil disalin persis dari tabel pada gambar scan halaman terkait.
 
@@ -1190,7 +1226,7 @@ Branch: `arena/02ad7a12-sirrul-asrar-fit-tawashul-ma-a`
 **AR:** قال جعفر عليه السلام: من أدمن قراءتها وسأل الله تعالى في آخرها حفظ القرآن، لم يمت حتى يحفظه، أو سأل الله تعالى حاجة قضاها، والله أعلم.
 **LAT:** Qāla Ja‘far ‘alayhi al-salām: man admana qirā’atahā wa-sa’ala Allāha ta‘ālā fī ākhirihā ḥifẓa al-Qur’ān, lam yamut ḥattā yaḥfaẓah; aw sa’ala Allāha ta‘ālā ḥājatan qaḍāhā, wa-Allāhu a‘lam.
 **ID:** Ja‘far berkata: siapa yang merutinkan bacaannya dan memohon kepada Allah di akhirnya agar hafal Al-Qur’an, naskah menyebut ia tidak wafat sebelum menghafalnya; atau jika memohon suatu hajat, hajat itu dikabulkan. Allah lebih mengetahui.
-**AR (wafaq Al-Muddaththir):** ٢١٦٥١ ٢١٦٦٤ ٢١٦٦١ ٢١٦٥٨ ٢١٦٦٢ ٢١٦٥٧ ٢١٦٥٢ ٢١٦٦٣ ٢١٦٥٦ ٢١٦٥٩ ٢١٦٦٦ ٢١٦٥٣ ٢١٦٦٥ ٢١٦٥٤ ٢١٦٥٥ ٢١٦٦٠
+**AR:** ٢١٦٥١ ٢١٦٦٤ ٢١٦٦١ ٢١٦٥٨ ٢١٦٦٢ ٢١٦٥٧ ٢١٦٥٢ ٢١٦٦٣ ٢١٦٥٦ ٢١٦٥٩ ٢١٦٦٦ ٢١٦٥٣ ٢١٦٦٥ ٢١٦٥٤ ٢١٦٥٥ ٢١٦٦٠
 **LAT:** 21651 21664 21661 21658 21662 21657 21652 21663 21656 21659 21666 21653 21665 21654 21655 21660
 **ID:** Deret angka wafaq Al-Muddaththir disalin persis dari tabel pada gambar scan halaman terkait.
 
@@ -1213,7 +1249,7 @@ Branch: `arena/02ad7a12-sirrul-asrar-fit-tawashul-ma-a`
 **AR:** القيامة
 **LAT:** Al-Qiyāmah.
 **ID:** Nama surah sebagaimana judul tabel.
-**AR (wafaq Al-Qiyamah):** ١٢٢٥٩ ١٢٢٧٣ ١٢٢٧٠ ١٢٢٦٦ ١٢٢٧١ ١٢٢٦٥ ١٢٢٦٠ ١٢٢٧٢ ١٢٢٦٤ ١٢٢٦٨ ١٢٢٧٥ ١٢٢٦١ ١٢٢٧٤ ١٢٢٦٢ ١٢٢٦٣ ١٢٢٦٩
+**AR:** ١٢٢٥٩ ١٢٢٧٣ ١٢٢٧٠ ١٢٢٦٦ ١٢٢٧١ ١٢٢٦٥ ١٢٢٦٠ ١٢٢٧٢ ١٢٢٦٤ ١٢٢٦٨ ١٢٢٧٥ ١٢٢٦١ ١٢٢٧٤ ١٢٢٦٢ ١٢٢٦٣ ١٢٢٦٩
 **LAT:** 12259 12273 12270 12266 12271 12265 12260 12272 12264 12268 12275 12261 12274 12262 12263 12269
 **ID:** Deret angka wafaq Al-Qiyamah disalin persis dari tabel pada gambar scan halaman terkait.
 
@@ -1221,7 +1257,7 @@ Branch: `arena/02ad7a12-sirrul-asrar-fit-tawashul-ma-a`
 **AR:** قال جعفر الصادق عليه السلام: قراءتها تقوي النفس، وتشد العصب، وتسكن القلق. وإن ضعف عن قراءتها، كتبت ومحيت وشرب ماؤها لضعف النفس، يزول عنه ذلك بإذن الله تعالى.
 **LAT:** Qāla Ja‘far al-Ṣādiq ‘alayhi al-salām: qirā’atuhā tuqawwī al-nafs, wa-tashuddu al-‘aṣab, wa-tusakkinu al-qalaq. Wa-in ḍa‘ufa ‘an qirā’atihā, kutibat wa-muḥiyat wa-shuriba mā’uhā li-ḍa‘fi al-nafs, yazūlu ‘anhu dhālika bi-idhni Allāh ta‘ālā.
 **ID:** Ja‘far aṣ-Ṣādiq berkata: bacaannya menguatkan jiwa, meneguhkan saraf, dan menenangkan kecemasan. Jika seseorang tidak mampu membacanya, naskah menyebut surah itu ditulis, dihapus dengan air, lalu airnya diminum; kelemahan jiwa akan hilang dengan izin Allah.
-**AR (wafaq Al-Insan):** ١٨٣٧٤ ١٨٣٨٨ ١٨٣٨٥ ١٨٣٨٢ ١٨٣٨٦ ١٨٣٨١ ١٨٣٧٥ ١٨٣٨٧ ١٨٣٨٠ ١٨٣٨٣ ١٨٣٩٠ ١٨٣٧٦ ١٨٣٨٩ ١٨٣٧٧ ١٨٣٧٩ ١٨٣٨٤
+**AR:** ١٨٣٧٤ ١٨٣٨٨ ١٨٣٨٥ ١٨٣٨٢ ١٨٣٨٦ ١٨٣٨١ ١٨٣٧٥ ١٨٣٨٧ ١٨٣٨٠ ١٨٣٨٣ ١٨٣٩٠ ١٨٣٧٦ ١٨٣٨٩ ١٨٣٧٧ ١٨٣٧٩ ١٨٣٨٤
 **LAT:** 18374 18388 18385 18382 18386 18381 18375 18387 18380 18383 18390 18376 18389 18377 18379 18384
 **ID:** Deret angka wafaq Al-Insan disalin persis dari tabel pada gambar scan halaman terkait.
 
@@ -1229,7 +1265,7 @@ Branch: `arena/02ad7a12-sirrul-asrar-fit-tawashul-ma-a`
 **AR:** قال جعفر رضي الله عنه: من قرأها في حكومة قوي فيها، وقدر على من يحاكمه. وإذا كتبت في فخار وغربل، ثم شربه بماء المطر من به مرض في بطنه، زال عنه المرض بقدرة الله تعالى ولم يعد إليه. ومن علقها على حامل به دمل، أزالهن بغير ألم بإذن الله تعالى.
 **LAT:** Qāla Ja‘far raḍiya Allāhu ‘anhu: man qara’ahā fī ḥukūmatin qawiya fīhā wa-qadara ‘alā man yuḥākimuhu. Wa-idhā kutibat fī fakhkhārin wa-ghuribil, thumma shuriba bi-mā’i al-maṭar man bihi maraḍun fī baṭnih, zāla ‘anhu al-maraḍu bi-qudrati Allāh ta‘ālā wa-lam ya‘ud ilayh. Wa-man ‘allaqahā ‘alā ḥāmilin bihi dummal, azālahunna bi-ghayri alamin bi-idhni Allāh ta‘ālā.
 **ID:** Ja‘far berkata: siapa yang membacanya dalam perkara hukum akan menjadi kuat dan mampu menghadapi lawannya. Naskah juga menyebut penulisan pada tembikar, lalu airnya diminum oleh orang yang sakit perut, sebagai amalan yang menghilangkan penyakit. Jika digantungkan pada orang yang memiliki bisul, teks menyatakan bisulnya hilang tanpa rasa sakit. (Klaim pengobatan diterjemahkan sebagai isi naskah.)
-**AR (wafaq Al-Mursalat):** ١٧٩٤٧ ١٧٩٦١ ١٧٩٥٨ ١٧٩٥٥ ١٧٩٥٩ ١٧٩٥٤ ١٧٩٤٨ ١٧٩٦٠ ١٧٩٥٣ ١٧٩٥٦ ١٧٩٦٣ ١٧٩٤٩ ١٧٩٦٢ ١٧٩٥٠ ١٧٩٥٢ ١٧٩٥٧
+**AR:** ١٧٩٤٧ ١٧٩٦١ ١٧٩٥٨ ١٧٩٥٥ ١٧٩٥٩ ١٧٩٥٤ ١٧٩٤٨ ١٧٩٦٠ ١٧٩٥٣ ١٧٩٥٦ ١٧٩٦٣ ١٧٩٤٩ ١٧٩٦٢ ١٧٩٥٠ ١٧٩٥٢ ١٧٩٥٧
 **LAT:** 17947 17961 17958 17955 17959 17954 17948 17960 17953 17956 17963 17949 17962 17950 17952 17957
 **ID:** Deret angka wafaq Al-Mursalat disalin persis dari tabel pada gambar scan halaman terkait.
 
@@ -1252,7 +1288,7 @@ Branch: `arena/02ad7a12-sirrul-asrar-fit-tawashul-ma-a`
 **AR:** ومن جعلها في وسطه لم يقربه قتل ولا غيره من الهوام، وإذا علقت على الذراع كان فيه قوة عظيمة.
 **LAT:** Wa-man ja‘alahā fī wasaṭih lam yaqrubhu qatlu wa-lā ghayruhu min al-hawāmm; wa-idhā ‘ulliqāt ‘alā al-dhirā‘ kāna fīhi quwwatun ‘aẓīmah.
 **ID:** Naskah menyatakan bahwa orang yang meletakkannya di bagian tengah tubuhnya terhindar dari bahaya dan gangguan binatang; jika diikatkan pada lengan, ia memperoleh kekuatan besar.
-**AR (wafaq An-Naba’):** ١٣٢٦٧ ١٣٢٨٠ ١٣٢٧٧ ١٣٢٧٤ ١٣٢٧٨ ١٣٢٧٣ ١٣٢٦٨ ١٣٢٧٩ ١٣٢٧٢ ١٣٢٧٥ ١٣٢٨٢ ١٣٢٦٩ ١٣٢٨١ ١٣٢٧٠ ١٣٢٧١ ١٣٢٧٦
+**AR:** ١٣٢٦٧ ١٣٢٨٠ ١٣٢٧٧ ١٣٢٧٤ ١٣٢٧٨ ١٣٢٧٣ ١٣٢٦٨ ١٣٢٧٩ ١٣٢٧٢ ١٣٢٧٥ ١٣٢٨٢ ١٣٢٦٩ ١٣٢٨١ ١٣٢٧٠ ١٣٢٧١ ١٣٢٧٦
 **LAT:** 13267 13280 13277 13274 13278 13273 13268 13279 13272 13275 13282 13269 13281 13270 13271 13276
 **ID:** Deret angka wafaq An-Naba’ disalin persis dari tabel pada gambar scan halaman terkait.
 
@@ -1260,7 +1296,7 @@ Branch: `arena/02ad7a12-sirrul-asrar-fit-tawashul-ma-a`
 **AR:** من قرأها وهو مواجه العدو لم ينتصروا وانحرفوا عنه. ومن قرأها وهو داخل على سلطان يخافه، أمن منه وسلم بقدرة الله تعالى.
 **LAT:** Man qara’ahā wa-huwa muwājihu al-‘aduww lam yantaṣirū wa-inḥarafū ‘anhu. Wa-man qara’ahā wa-huwa dākhilun ‘alā sulṭānin yakhāfuh, amina minhu wa-salima bi-qudrati Allāh ta‘ālā.
 **ID:** Siapa yang membacanya ketika berhadapan dengan musuh, menurut teks, musuh akan gagal dan berpaling. Siapa yang membacanya saat menghadap penguasa yang ditakuti, akan aman dan selamat dengan kuasa Allah.
-**AR (wafaq An-Nazi‘at):** ١٤٩٥٢ ١٤٩٦٦ ١٤٩٦٣ ١٤٩٥٩ ١٤٩٦٤ ١٤٩٥٨ ١٤٩٥٣ ١٤٩٦٥ ١٤٩٥٧ ١٤٩٦١ ١٤٩٦٨ ١٤٩٥٤ ١٤٩٦٧ ١٤٩٥٥ ١٤٩٥٦ ١٤٩٦٢
+**AR:** ١٤٩٥٢ ١٤٩٦٦ ١٤٩٦٣ ١٤٩٥٩ ١٤٩٦٤ ١٤٩٥٨ ١٤٩٥٣ ١٤٩٦٥ ١٤٩٥٧ ١٤٩٦١ ١٤٩٦٨ ١٤٩٥٤ ١٤٩٦٧ ١٤٩٥٥ ١٤٩٥٦ ١٤٩٦٢
 **LAT:** 14952 14966 14963 14959 14964 14958 14953 14965 14957 14961 14968 14954 14967 14955 14956 14962
 **ID:** Deret angka wafaq An-Nazi‘at disalin persis dari tabel pada gambar scan halaman terkait.
 
@@ -1268,7 +1304,7 @@ Branch: `arena/02ad7a12-sirrul-asrar-fit-tawashul-ma-a`
 **AR:** قال جعفر الصادق رضي الله عنه وعن آبائه الطاهرين: من كتبها في رق بياض، وجعله معه حيث يتوجه، لم ير في طريقه إلا خيرًا، وكفي غائلة الطريق بقدرة الله تعالى.
 **LAT:** Qāla Ja‘far al-Ṣādiq raḍiya Allāhu ‘anhu wa-‘an ābā’ihi al-ṭāhirīn: man katabahā fī riqqin bayāḍ, wa-ja‘alahu ma‘ahu ḥaythu yatawajjahu, lam yara fī ṭarīqihi illā khayran, wa-kufiya ghā’ilata al-ṭarīq bi-qudrati Allāh ta‘ālā.
 **ID:** Ja‘far aṣ-Ṣādiq berkata: siapa yang menulisnya pada lembaran putih dan membawanya ke mana pun ia pergi, menurut naskah hanya akan menjumpai kebaikan dalam perjalanan dan terlindung dari bahaya perjalanan dengan kuasa Allah.
-**AR (wafaq ‘Abasa):** ١١٧٥٠ ١١٧٦٤ ١١٧٦٠ ١١٧٥٧ ١١٧٦١ ١١٧٦٦ ١١٧٥١ ١١٧٦٣ ١١٧٥٥ ١١٧٥٨ ١١٧٦٦ ١١٧٥٢ ١١٧٦٥ ١١٧٥٣ ١١٧٥٤ ١١٧٥٩
+**AR:** ١١٧٥٠ ١١٧٦٤ ١١٧٦٠ ١١٧٥٧ ١١٧٦١ ١١٧٦٦ ١١٧٥١ ١١٧٦٣ ١١٧٥٥ ١١٧٥٨ ١١٧٦٦ ١١٧٥٢ ١١٧٦٥ ١١٧٥٣ ١١٧٥٤ ١١٧٥٩
 **LAT:** 11750 11764 11760 11757 11761 11766 11751 11763 11755 11758 11766 11752 11765 11753 11754 11759
 **ID:** Deret angka wafaq ‘Abasa disalin persis dari tabel pada gambar scan halaman terkait.
 
@@ -1291,7 +1327,7 @@ Branch: `arena/02ad7a12-sirrul-asrar-fit-tawashul-ma-a`
 **AR:** التكوير
 **LAT:** At-Takwīr.
 **ID:** Nama surah sebagaimana judul tabel.
-**AR (wafaq At-Takwir):** ١٠٠٧٥ ١٠٠٨٨ ١٠٠٨٥ ١٠٠٨٢ ١٠٠٨٦ ١٠٠٨١ ١٠٠٧٦ ١٠٠٨٧ ١٠٠٨٠ ١٠٠٨٣ ١٠٠٩٠ ١٠٠٧٧ ١٠٠٨٩ ١٠٠٧٨ ١٠٠٧٩ ١٠٠٧٤
+**AR:** ١٠٠٧٥ ١٠٠٨٨ ١٠٠٨٥ ١٠٠٨٢ ١٠٠٨٦ ١٠٠٨١ ١٠٠٧٦ ١٠٠٨٧ ١٠٠٨٠ ١٠٠٨٣ ١٠٠٩٠ ١٠٠٧٧ ١٠٠٨٩ ١٠٠٧٨ ١٠٠٧٩ ١٠٠٧٤
 **LAT:** 10075 10088 10085 10082 10086 10081 10076 10087 10080 10083 10090 10077 10089 10078 10079 10074
 **ID:** Deret angka wafaq At-Takwir disalin persis dari tabel pada gambar scan halaman terkait.
 
@@ -1299,7 +1335,7 @@ Branch: `arena/02ad7a12-sirrul-asrar-fit-tawashul-ma-a`
 **AR:** قال جعفر الصادق رحمة الله عليه: إذا قرأها المسجون سهل الله عليه الخروج، وهكذا المسحور والخائف. وإذا غسل بمائها من به الحمرة موضع الحمرة أزالها بإذن الله تعالى.
 **LAT:** Qāla Ja‘far al-Ṣādiq raḥmatu Allāhi ‘alayh: idhā qara’ahā al-masjūn sahhala Allāhu ‘alayhi al-khurūj, wa-hākadhā al-masḥūr wa-al-khā’if. Wa-idhā ghusila bi-mā’ihā man bihi al-ḥumrah mawḍi‘a al-ḥumrah azālahā bi-idhni Allāh ta‘ālā.
 **ID:** Ja‘far aṣ-Ṣādiq berkata: jika orang yang dipenjara membacanya, Allah memudahkan jalan keluarnya; demikian pula bagi orang yang terkena sihir dan yang ketakutan. Jika airnya digunakan membasuh bagian yang mengalami kemerahan, naskah menyebutnya akan hilang dengan izin Allah.
-**AR (wafaq Al-Infitar):** ٦٥٦٠ ٦٥٧٤ ٦٥٧١ ٦٥٦٨ ٦٥٧٢ ٦٥٦٧ ٦٥٦١ ٦٥٧٣ ٦٥٦٦ ٦٥٦٩ ٦٥٧٦ ٦٥٦٢ ٦٥٧٥ ٦٥٦٣ ٦٥٦٥ ٦٥٧٠
+**AR:** ٦٥٦٠ ٦٥٧٤ ٦٥٧١ ٦٥٦٨ ٦٥٧٢ ٦٥٦٧ ٦٥٦١ ٦٥٧٣ ٦٥٦٦ ٦٥٦٩ ٦٥٧٦ ٦٥٦٢ ٦٥٧٥ ٦٥٦٣ ٦٥٦٥ ٦٥٧٠
 **LAT:** 6560 6574 6571 6568 6572 6567 6561 6573 6566 6569 6576 6562 6575 6563 6565 6570
 **ID:** Deret angka wafaq Al-Infitar disalin persis dari tabel pada gambar scan halaman terkait.
 
@@ -1307,7 +1343,7 @@ Branch: `arena/02ad7a12-sirrul-asrar-fit-tawashul-ma-a`
 **AR:** قال جعفر رحمة الله عليه: لا تقرأ على مخزون إلا حفظ، وكفي شر حشاش الأرض، وأمن من الدبيب كله بإذن الله تعالى.
 **LAT:** Qāla Ja‘far raḥmatu Allāhi ‘alayh: lā tuqra’ ‘alā makhzūnin illā ḥufiẓ, wa-kufiya sharra ḥashāshi al-arḍ, wa-umina min al-dabīb kullih bi-idhni Allāh ta‘ālā.
 **ID:** Ja‘far berkata: teks menyebut pembacaan atas harta simpanan menjaganya, mencukupkan dari keburukan makhluk yang merayap di bumi, dan memberi perlindungan dari binatang melata.
-**AR (wafaq Al-Mutaffifin):** ١٤١٧٨ ١٤١٩١ ١٤١٨٨ ١٤١٨٥ ١٤١٨٩ ١٤١٨٤ ١٤١٧٩ ١٤١٩٠ ١٤١٨٣ ١٤١٨٦ ١٤١٩٣ ١٤١٨٠ ١٤١٩٢ ١٤١٨١ ١٤١٨٢ ١٤١٨٧
+**AR:** ١٤١٧٨ ١٤١٩١ ١٤١٨٨ ١٤١٨٥ ١٤١٨٩ ١٤١٨٤ ١٤١٧٩ ١٤١٩٠ ١٤١٨٣ ١٤١٨٦ ١٤١٩٣ ١٤١٨٠ ١٤١٩٢ ١٤١٨١ ١٤١٨٢ ١٤١٨٧
 **LAT:** 14178 14191 14188 14185 14189 14184 14179 14190 14183 14186 14193 14180 14192 14181 14182 14187
 **ID:** Deret angka wafaq Al-Mutaffifin disalin persis dari tabel pada gambar scan halaman terkait.
 
@@ -1330,7 +1366,7 @@ Branch: `arena/02ad7a12-sirrul-asrar-fit-tawashul-ma-a`
 **AR:** الانشقاق
 **LAT:** Al-Inshiqāq.
 **ID:** Nama surah sebagaimana judul tabel.
-**AR (wafaq Al-Inshiqaq):** ٨٢٣٥ ٨٢٤٩ ٨٢٤٦ ٨٢٤٣ ٨٢٤٧ ٨٢٤٢ ٨٢٣٦ ٨٢٤٨ ٨٢٤١ ٨٢٤٤ ٨٢٥١ ٨٢٣٧ ٨٢٥٠ ٨٢٣٨ ٨٢٤٠ ٨٢٤٥
+**AR:** ٨٢٣٥ ٨٢٤٩ ٨٢٤٦ ٨٢٤٣ ٨٢٤٧ ٨٢٤٢ ٨٢٣٦ ٨٢٤٨ ٨٢٤١ ٨٢٤٤ ٨٢٥١ ٨٢٣٧ ٨٢٥٠ ٨٢٣٨ ٨٢٤٠ ٨٢٤٥
 **LAT:** 8235 8249 8246 8243 8247 8242 8236 8248 8241 8244 8251 8237 8250 8238 8240 8245
 **ID:** Deret angka wafaq Al-Inshiqaq disalin persis dari tabel pada gambar scan halaman terkait.
 
@@ -1338,7 +1374,7 @@ Branch: `arena/02ad7a12-sirrul-asrar-fit-tawashul-ma-a`
 **AR:** ما علقت على مولود مفطوم إلا سهل الله عليه فطامه، وكان فيه غناء حسن. ومن قرأها في فراشه كان في أمان الله تعالى حتى يصبح.
 **LAT:** Mā ‘ulliqāt ‘alā mawlūdin mafṭūmin illā sahhala Allāhu ‘alayhi fiṭāmah, wa-kāna fīhi ghinā’un ḥasan. Wa-man qara’ahā fī firāshih kāna fī amāni Allāhi ta‘ālā ḥattā yuṣbiḥ.
 **ID:** Jika digantungkan pada anak yang disapih, naskah menyebut Allah memudahkan penyapihannya dan memberi kecukupan yang baik. Siapa yang membacanya di tempat tidurnya berada dalam perlindungan Allah hingga pagi.
-**AR (wafaq Al-Buruj):** ٨٢٠٨ ٨٢٢٢ ٨٢١٩ ٨٢١٥ ٨٢٢٠ ٨٢١٤ ٨٢٠٩ ٨٢٢١ ٨٢١٣ ٨٢١٧ ٨٢٢٤ ٨٢١٠ ٨٢٢٣ ٨٢١١ ٨٢١٢ ٨٢١٨
+**AR:** ٨٢٠٨ ٨٢٢٢ ٨٢١٩ ٨٢١٥ ٨٢٢٠ ٨٢١٤ ٨٢٠٩ ٨٢٢١ ٨٢١٣ ٨٢١٧ ٨٢٢٤ ٨٢١٠ ٨٢٢٣ ٨٢١١ ٨٢١٢ ٨٢١٨
 **LAT:** 8208 8222 8219 8215 8220 8214 8209 8221 8213 8217 8224 8210 8223 8211 8212 8218
 **ID:** Deret angka wafaq Al-Buruj disalin persis dari tabel pada gambar scan halaman terkait.
 
@@ -1346,7 +1382,7 @@ Branch: `arena/02ad7a12-sirrul-asrar-fit-tawashul-ma-a`
 **AR:** قال جعفر الصادق عليه السلام وعلى آبائه الطاهرين: من غسل بها الجرح لم يفتح وسكن ألمه وكان فيه الشفاء. وقراءتها على كل مشروب ودواء، تأمن فيه القيء بإذن الله تعالى.
 **LAT:** Qāla Ja‘far al-Ṣādiq ‘alayhi al-salām wa-‘alā ābā’ihi al-ṭāhirīn: man ghasala bihā al-jurḥ lam yaftaḥ wa-sakana alamuhu wa-kāna fīhi al-shifā’. Wa-qirā’atuhā ‘alā kulli mashrūbin wa-dawā’, ta’mana fīhi al-qay’ bi-idhni Allāh ta‘ālā.
 **ID:** Ja‘far aṣ-Ṣādiq dan para leluhurnya yang suci berkata: membasuh luka dengannya mencegah luka terbuka dan meredakan sakit; teks menyebut adanya kesembuhan. Membacakannya atas minuman dan obat disebut melindungi dari muntah dengan izin Allah.
-**AR (wafaq At-Tariq):** ٤١٤١ ٤١٥٥ ٤١٥٢ ٤١٤٩ ٤١٥٣ ٤١٤٨ ٤١٤٢ ٤١٥٤ ٤١٤٧ ٤١٥٠ ٤١٥٧ ٤١٤٣ ٤١٥٦ ٤١٤٤ ٤١٤٦ ٤١٥١
+**AR:** ٤١٤١ ٤١٥٥ ٤١٥٢ ٤١٤٩ ٤١٥٣ ٤١٤٨ ٤١٤٢ ٤١٥٤ ٤١٤٧ ٤١٥٠ ٤١٥٧ ٤١٤٣ ٤١٥٦ ٤١٤٤ ٤١٤٦ ٤١٥١
 **LAT:** 4141 4155 4152 4149 4153 4148 4142 4154 4147 4150 4157 4143 4156 4144 4146 4151
 **ID:** Deret angka wafaq At-Tariq disalin persis dari tabel pada gambar scan halaman terkait.
 
@@ -1369,7 +1405,7 @@ Branch: `arena/02ad7a12-sirrul-asrar-fit-tawashul-ma-a`
 **AR:** الأعلى
 **LAT:** Al-A‘lā.
 **ID:** Nama surah sebagaimana judul tabel.
-**AR (wafaq Al-A‘la):** ٦٣٦٨ ٦٣٨٢ ٦٣٧٩ ٦٣٧٥ ٦٣٨٠ ٦٣٧٤ ٦٣٦٩ ٦٣٨١ ٦٣٧٣ ٦٣٧٧ ٦٣٨٤ ٦٣٧٠ ٦٣٨٣ ٦٣٧١ ٦٣٧٢ ٦٣٧٨
+**AR:** ٦٣٦٨ ٦٣٨٢ ٦٣٧٩ ٦٣٧٥ ٦٣٨٠ ٦٣٧٤ ٦٣٦٩ ٦٣٨١ ٦٣٧٣ ٦٣٧٧ ٦٣٨٤ ٦٣٧٠ ٦٣٨٣ ٦٣٧١ ٦٣٧٢ ٦٣٧٨
 **LAT:** 6368 6382 6379 6375 6380 6374 6369 6381 6373 6377 6384 6370 6383 6371 6372 6378
 **ID:** Deret angka wafaq Al-A‘la disalin persis dari tabel pada gambar scan halaman terkait.
 
@@ -1377,7 +1413,7 @@ Branch: `arena/02ad7a12-sirrul-asrar-fit-tawashul-ma-a`
 **AR:** قال جعفر الصادق رضي الله عنه: من قرأها على ما يؤلمه سكنته وهدأته بإذن الله تعالى. ومن قرأها على ما يؤكل أمن من الكدر، ورزق فيه السلامة بقدرة الله تعالى.
 **LAT:** Qāla Ja‘far al-Ṣādiq raḍiya Allāhu ‘anhu: man qara’ahā ‘alā mā yu’limuhu sakkanathu wa-hadda’at-hu bi-idhni Allāh ta‘ālā. Wa-man qara’ahā ‘alā mā yu’kulu amina min al-kadar, wa-ruziqa fīhi al-salāmah bi-qudrati Allāh ta‘ālā.
 **ID:** Ja‘far aṣ-Ṣādiq berkata: jika dibacakan atas sesuatu yang menyakitkan, naskah menyebut rasa sakitnya reda dan tenang dengan izin Allah. Jika dibacakan atas makanan, teks menyebut makanan itu aman dari kekeruhan dan membawa keselamatan dengan kuasa Allah.
-**AR (wafaq Al-Ghashiyah):** ٧٧٧٢ ٧٧٨٦ ٧٧٨٣ ٧٧٧٩ ٧٧٨٤ ٧٧٧٨ ٧٧٧٣ ٧٧٨٥ ٧٧٧٧ ٧٧٨١ ٧٧٨٨ ٧٧٧٤ ٧٧٨٧ ٧٧٧٥ ٧٧٧٦ ٧٧٨٢
+**AR:** ٧٧٧٢ ٧٧٨٦ ٧٧٨٣ ٧٧٧٩ ٧٧٨٤ ٧٧٧٨ ٧٧٧٣ ٧٧٨٥ ٧٧٧٧ ٧٧٨١ ٧٧٨٨ ٧٧٧٤ ٧٧٨٧ ٧٧٧٥ ٧٧٧٦ ٧٧٨٢
 **LAT:** 7772 7786 7783 7779 7784 7778 7773 7785 7777 7781 7788 7774 7787 7775 7776 7782
 **ID:** Deret angka wafaq Al-Ghashiyah disalin persis dari tabel pada gambar scan halaman terkait.
 
@@ -1385,7 +1421,7 @@ Branch: `arena/02ad7a12-sirrul-asrar-fit-tawashul-ma-a`
 **AR:** من قرأها وقت طلوع الفجر، أمن من كل شيء يخافه إلى حين طلوعه من اليوم الثاني، ويكون ذلك إحدى عشرة مرة. ومن كتبها وعلقها على وسطه، ثم جامع زوجته، رزق به ولدًا وأقر عينه به، ويفرح به، ويسر عند الله تعالى.
 **LAT:** Man qara’ahā waqt ṭulū‘i al-fajr, amina min kulli shay’in yakhāfuhu ilā ḥīni ṭulū‘ihi min al-yawmi al-thānī, wa-yakūnu dhālika iḥdā ‘ashrata marrah. Wa-man katabahā wa-‘allaqahā ‘alā wasaṭih, thumma jāma‘a zawjatah, ruziqa bihi waladan wa-qarrat ‘aynuhu bih, wa-yafraḥu bih, wa-yusarru ‘inda Allāh ta‘ālā.
 **ID:** Siapa yang membacanya saat fajar, sebelas kali, naskah menyebut ia aman dari hal yang ditakutinya hingga fajar hari berikutnya. Siapa yang menulis dan mengikatkannya di pinggang lalu bersetubuh dengan istrinya, teks menyebut ia dikaruniai anak yang menyenangkan hatinya.
-**AR (wafaq Al-Fajr):** ١١٩٩٥ ١٢٠٠٨ ١٢٠٠٥ ١٢٠٠٢ ١٢٠٠٦ ١٢٠٠١ ١١٩٩٦ ١٢٠٠٧ ١٢٠٠٠ ١٢٠٠٣ ١٢٠١٠ ١١٩٩٧ ١٢٠٠٩ ١١٩٩٨ ١١٩٩٩ ١٢٠٠٤
+**AR:** ١١٩٩٥ ١٢٠٠٨ ١٢٠٠٥ ١٢٠٠٢ ١٢٠٠٦ ١٢٠٠١ ١١٩٩٦ ١٢٠٠٧ ١٢٠٠٠ ١٢٠٠٣ ١٢٠١٠ ١١٩٩٧ ١٢٠٠٩ ١١٩٩٨ ١١٩٩٩ ١٢٠٠٤
 **LAT:** 11995 12008 12005 12002 12006 12001 11996 12007 12000 12003 12010 11997 12009 11998 11999 12004
 **ID:** Deret angka wafaq Al-Fajr disalin persis dari tabel pada gambar scan halaman terkait.
 
@@ -1422,18 +1458,18 @@ Branch: `arena/02ad7a12-sirrul-asrar-fit-tawashul-ma-a`
 ### Daftar angka wafaq (urutan baca kanan-ke-kiri, baris demi baris)
 
 #### Al-Balad
-**AR:** ٥٠٧٣ ٥٠٨٧ ٥٠٨٤ ٥٠٨١ ٥٠٨٥ ٥٠٨٠ ٥٠٧٤ ٥٠٨٦ ٥٠٧٩ ٥٠٨٢ ٥٠٨٩ ٥٠٧٥ ٥٠٨٨ ٥٠٧٦ ٥٠٧٨ ٥٠٨٣  
-**LAT:** 5073 5087 5084 5081 5085 5080 5074 5086 5079 5082 5089 5075 5088 5076 5078 5083  
+**AR:** ٥٠٧٣ ٥٠٨٧ ٥٠٨٤ ٥٠٨١ ٥٠٨٥ ٥٠٨٠ ٥٠٧٤ ٥٠٨٦ ٥٠٧٩ ٥٠٨٢ ٥٠٨٩ ٥٠٧٥ ٥٠٨٨ ٥٠٧٦ ٥٠٧٨ ٥٠٨٣
+**LAT:** 5073 5087 5084 5081 5085 5080 5074 5086 5079 5082 5089 5075 5088 5076 5078 5083
 **ID:** Tabel 4×4 dibaca dari gambar scan PDF halaman 269; seluruh angka dipertahankan persis seperti tampak, termasuk bentuk yang tidak lazim. [TERVERIFIKASI DARI GAMBAR SCAN HAL. 269].
 
 #### Ash-Shams
-**AR:** ٤٧٣٧ ٤٧٥١ ٤٧٤٨ ٤٧٤٥ ٤٧٤٩ ٤٧٤٤ ٤٧٣٨ ٤٧٥٠ ٤٧٤٣ ٤٧٤٦ ٤٧٥٣ ٤٧٣٩ ٤٧٥٢ ٤٧٤٠ ٤٧٤٢ ٤٧٤٧  
-**LAT:** 4737 4751 4748 4745 4749 4744 4738 4750 4743 4746 4753 4739 4752 4740 4742 4747  
+**AR:** ٤٧٣٧ ٤٧٥١ ٤٧٤٨ ٤٧٤٥ ٤٧٤٩ ٤٧٤٤ ٤٧٣٨ ٤٧٥٠ ٤٧٤٣ ٤٧٤٦ ٤٧٥٣ ٤٧٣٩ ٤٧٥٢ ٤٧٤٠ ٤٧٤٢ ٤٧٤٧
+**LAT:** 4737 4751 4748 4745 4749 4744 4738 4750 4743 4746 4753 4739 4752 4740 4742 4747
 **ID:** Tabel 4×4 dibaca dari gambar scan PDF halaman 269; seluruh angka dipertahankan persis seperti tampak, termasuk bentuk yang tidak lazim. [TERVERIFIKASI DARI GAMBAR SCAN HAL. 269].
 
 #### Al-Layl
-**AR:** ٧٢٠٢ ٧٢١٥ ٧٢١٢ ٧٢٠٩ ٧٢١٣ ٧٢٠٨ ٧٢٠٣ ٧٢١٤ ٧٢٠٧ ٧٢١٠ ٧٢١٧ ٧٢٠٤ ٧٢١٦ ٧٢٠٥ ٧٢٠٦ ٧٢١١  
-**LAT:** 7202 7215 7212 7209 7213 7208 7203 7214 7207 7210 7217 7204 7216 7205 7206 7211  
+**AR:** ٧٢٠٢ ٧٢١٥ ٧٢١٢ ٧٢٠٩ ٧٢١٣ ٧٢٠٨ ٧٢٠٣ ٧٢١٤ ٧٢٠٧ ٧٢١٠ ٧٢١٧ ٧٢٠٤ ٧٢١٦ ٧٢٠٥ ٧٢٠٦ ٧٢١١
+**LAT:** 7202 7215 7212 7209 7213 7208 7203 7214 7207 7210 7217 7204 7216 7205 7206 7211
 **ID:** Tabel 4×4 dibaca dari gambar scan PDF halaman 269; seluruh angka dipertahankan persis seperti tampak, termasuk bentuk yang tidak lazim. [TERVERIFIKASI DARI GAMBAR SCAN HAL. 269].
 ---
 
@@ -1472,18 +1508,18 @@ Branch: `arena/02ad7a12-sirrul-asrar-fit-tawashul-ma-a`
 ### Daftar angka wafaq (urutan baca kanan-ke-kiri, baris demi baris)
 
 #### Ad-Duha
-**AR:** ٣١٢٥ ٣١٣٩ ٣١٣٦ ٣١٣٢ ٣١٣٧ ٣١٣١ ٣١٢٦ ٣١٣٨ ٣١٣٠ ٣١٣٤ ٣١٤١ ٣١٢٧ ٣١٤٠ ٣١٢٨ ٣١٢٩ ٣١٣٥  
-**LAT:** 3125 3139 3136 3132 3137 3131 3126 3138 3130 3134 3141 3127 3140 3128 3129 3135  
+**AR:** ٣١٢٥ ٣١٣٩ ٣١٣٦ ٣١٣٢ ٣١٣٧ ٣١٣١ ٣١٢٦ ٣١٣٨ ٣١٣٠ ٣١٣٤ ٣١٤١ ٣١٢٧ ٣١٤٠ ٣١٢٨ ٣١٢٩ ٣١٣٥
+**LAT:** 3125 3139 3136 3132 3137 3131 3126 3138 3130 3134 3141 3127 3140 3128 3129 3135
 **ID:** Tabel 4×4 dibaca dari gambar scan PDF halaman 270; seluruh angka dipertahankan persis seperti tampak, termasuk bentuk yang tidak lazim. [TERVERIFIKASI DARI GAMBAR SCAN HAL. 270].
 
 #### Ash-Sharh
-**AR:** ٣٠٩٦ ٣١١٠ ٣١٠٧ ٣١٠٣ ٣١٠٨ ٣١٠٢ ٣٠٩٧ ٣١٠٩ ٣١٠١ ٣١٠٥ ٣١١٢ ٣٠٩٨ ٣١١١ ٣٠٩٩ ٣١٠٠ ٣١٠٦  
-**LAT:** 3096 3110 3107 3103 3108 3102 3097 3109 3101 3105 3112 3098 3111 3099 3100 3106  
+**AR:** ٣٠٩٦ ٣١١٠ ٣١٠٧ ٣١٠٣ ٣١٠٨ ٣١٠٢ ٣٠٩٧ ٣١٠٩ ٣١٠١ ٣١٠٥ ٣١١٢ ٣٠٩٨ ٣١١١ ٣٠٩٩ ٣١٠٠ ٣١٠٦
+**LAT:** 3096 3110 3107 3103 3108 3102 3097 3109 3101 3105 3112 3098 3111 3099 3100 3106
 **ID:** Tabel 4×4 dibaca dari gambar scan PDF halaman 270; seluruh angka dipertahankan persis seperti tampak, termasuk bentuk yang tidak lazim. [TERVERIFIKASI DARI GAMBAR SCAN HAL. 270].
 
 #### Al-‘Alaq
-**AR:** ٥١٣٣ ٥١٤٧ ٥١٤٤ ٥١٤ ٥١٤٥ ٥١٣٩ ٥١٣٤ ٥١٤٦ ٥١٣٨ ٥١٤٢ ٥١٤٩ ٥١٣٥ ٥١٤٨ ٥١٣٦ ٥١٣٧ ٥١٤٣  
-**LAT:** 5133 5147 5144 514 5145 5139 5134 5146 5138 5142 5149 5135 5148 5136 5137 5143  
+**AR:** ٥١٣٣ ٥١٤٧ ٥١٤٤ ٥١٤ ٥١٤٥ ٥١٣٩ ٥١٣٤ ٥١٤٦ ٥١٣٨ ٥١٤٢ ٥١٤٩ ٥١٣٥ ٥١٤٨ ٥١٣٦ ٥١٣٧ ٥١٤٣
+**LAT:** 5133 5147 5144 514 5145 5139 5134 5146 5138 5142 5149 5135 5148 5136 5137 5143
 **ID:** Tabel 4×4 dibaca dari gambar scan PDF halaman 270; seluruh angka dipertahankan persis seperti tampak, termasuk bentuk yang tidak lazim. [TERVERIFIKASI DARI GAMBAR SCAN HAL. 270].
 ---
 
@@ -1511,13 +1547,13 @@ Branch: `arena/02ad7a12-sirrul-asrar-fit-tawashul-ma-a`
 ### Daftar angka wafaq (urutan baca kanan-ke-kiri, baris demi baris)
 
 #### Al-Qadr
-**AR:** ١٦٧٣ ١٦٨٧ ١٦٨٤ ١٦٨١ ١٦٨٥ ١٦٨٠ ١٦٧٤ ١٦٨٦ ١٦٧٩ ١٦٨٢ ١٦٨٩ ١٦٧٥ ١٦٨٨ ١٦٧٦ ١٦٧٨ ١٦٨٣  
-**LAT:** 1673 1687 1684 1681 1685 1680 1674 1686 1679 1682 1689 1675 1688 1676 1678 1683  
+**AR:** ١٦٧٣ ١٦٨٧ ١٦٨٤ ١٦٨١ ١٦٨٥ ١٦٨٠ ١٦٧٤ ١٦٨٦ ١٦٧٩ ١٦٨٢ ١٦٨٩ ١٦٧٥ ١٦٨٨ ١٦٧٦ ١٦٧٨ ١٦٨٣
+**LAT:** 1673 1687 1684 1681 1685 1680 1674 1686 1679 1682 1689 1675 1688 1676 1678 1683
 **ID:** Tabel 4×4 dibaca dari gambar scan PDF halaman 271; seluruh angka dipertahankan persis seperti tampak, termasuk bentuk yang tidak lazim. [TERVERIFIKASI DARI GAMBAR SCAN HAL. 271].
 
 #### Al-Bayyinah
-**AR:** ٧٠١١ ٧٠٢٥ ٧٠٢١ ٧٠١٨ ٧٠٢٢ ٧٠١٧ ٧٠١٢ ٧٠٢٤ ٧٠١٦ ٧٠١٩ ٧٠٢٧ ٧٠١٣ ٧٠٢٦ ٧٠١٤ ٧٠١٥ ٧٠٢٠  
-**LAT:** 7011 7025 7021 7018 7022 7017 7012 7024 7016 7019 7027 7013 7026 7014 7015 7020  
+**AR:** ٧٠١١ ٧٠٢٥ ٧٠٢١ ٧٠١٨ ٧٠٢٢ ٧٠١٧ ٧٠١٢ ٧٠٢٤ ٧٠١٦ ٧٠١٩ ٧٠٢٧ ٧٠١٣ ٧٠٢٦ ٧٠١٤ ٧٠١٥ ٧٠٢٠
+**LAT:** 7011 7025 7021 7018 7022 7017 7012 7024 7016 7019 7027 7013 7026 7014 7015 7020
 **ID:** Tabel 4×4 dibaca dari gambar scan PDF halaman 271; seluruh angka dipertahankan persis seperti tampak, termasuk bentuk yang tidak lazim. [TERVERIFIKASI DARI GAMBAR SCAN HAL. 271].
 ---
 
@@ -1551,18 +1587,18 @@ Branch: `arena/02ad7a12-sirrul-asrar-fit-tawashul-ma-a`
 ### Daftar angka wafaq (urutan baca kanan-ke-kiri, baris demi baris)
 
 #### Az-Zalzalah
-**AR:** ٤١٤٤ ٤١٥٨ ٤١٥٥ ٤١٥٢ ٤١٥٦ ٤١٥١ ٤١٤٥ ٤١٥٧ ٤١٥٠ ٤١٥٣ ٤١٦٠ ٤١٤٦ ٤١٥٩ ٤١٤٧ ٤١٤٩ ٤١٥٤  
-**LAT:** 4144 4158 4155 4152 4156 4151 4145 4157 4150 4153 4160 4146 4159 4147 4149 4154  
+**AR:** ٤١٤٤ ٤١٥٨ ٤١٥٥ ٤١٥٢ ٤١٥٦ ٤١٥١ ٤١٤٥ ٤١٥٧ ٤١٥٠ ٤١٥٣ ٤١٦٠ ٤١٤٦ ٤١٥٩ ٤١٤٧ ٤١٤٩ ٤١٥٤
+**LAT:** 4144 4158 4155 4152 4156 4151 4145 4157 4150 4153 4160 4146 4159 4147 4149 4154
 **ID:** Tabel 4×4 dibaca dari gambar scan PDF halaman 272; seluruh angka dipertahankan persis seperti tampak, termasuk bentuk yang tidak lazim. [TERVERIFIKASI DARI GAMBAR SCAN HAL. 272].
 
 #### Al-‘Adiyat
-**AR:** ٣٣٣٥ ٣٣٤٩ ٣٣٤٥ ٣٣٤٢ ٣٣٤٦ ٣٣٤١ ٣٣٣٦ ٣٣٤٨ ٣٣٤٠ ٣٣٤٣ ٣٣٥١ ٣٣٣٧ ٣٣٥٠ ٣٣٣٨ ٣٣٣٩ ٣٣٤٤  
-**LAT:** 3335 3349 3345 3342 3346 3341 3336 3348 3340 3343 3351 3337 3350 3338 3339 3344  
+**AR:** ٣٣٣٥ ٣٣٤٩ ٣٣٤٥ ٣٣٤٢ ٣٣٤٦ ٣٣٤١ ٣٣٣٦ ٣٣٤٨ ٣٣٤٠ ٣٣٤٣ ٣٣٥١ ٣٣٣٧ ٣٣٥٠ ٣٣٣٨ ٣٣٣٩ ٣٣٤٤
+**LAT:** 3335 3349 3345 3342 3346 3341 3336 3348 3340 3343 3351 3337 3350 3338 3339 3344
 **ID:** Tabel 4×4 dibaca dari gambar scan PDF halaman 272; seluruh angka dipertahankan persis seperti tampak, termasuk bentuk yang tidak lazim. [TERVERIFIKASI DARI GAMBAR SCAN HAL. 272].
 
 #### Al-Qari‘ah
-**AR:** ٢٤٦٣ ٢٤٧٧ ٢٤٧٤ ٢٤٧١ ٢٤٧٥ ٢٤٧٠ ٢٤٦٤ ٢٤٧٦ ٢٤٦٩ ٢٤٧٢ ٢٤٧٩ ٢٤٦٥ ٢٤٧٨ ٢٤٦٦ ٢٤٦٨ ٢٤٧٣  
-**LAT:** 2463 2477 2474 2471 2475 2470 2464 2476 2469 2472 2479 2465 2478 2466 2468 2473  
+**AR:** ٢٤٦٣ ٢٤٧٧ ٢٤٧٤ ٢٤٧١ ٢٤٧٥ ٢٤٧٠ ٢٤٦٤ ٢٤٧٦ ٢٤٦٩ ٢٤٧٢ ٢٤٧٩ ٢٤٦٥ ٢٤٧٨ ٢٤٦٦ ٢٤٦٨ ٢٤٧٣
+**LAT:** 2463 2477 2474 2471 2475 2470 2464 2476 2469 2472 2479 2465 2478 2466 2468 2473
 **ID:** Tabel 4×4 dibaca dari gambar scan PDF halaman 272; seluruh angka dipertahankan persis seperti tampak, termasuk bentuk yang tidak lazim. [TERVERIFIKASI DARI GAMBAR SCAN HAL. 272].
 ---
 
@@ -1597,23 +1633,23 @@ Branch: `arena/02ad7a12-sirrul-asrar-fit-tawashul-ma-a`
 ### Daftar angka wafaq (urutan baca kanan-ke-kiri, baris demi baris)
 
 #### At-Takathur
-**AR:** ٢٥٨٦ ٢٦٠٠ ٢٥٩٧ ٢٥٩٤ ٢٥٩٨ ٢٥٩٣ ٢٥٨٦ ٢٥٩٩ ٢٥٩٢ ٢٥٩٥ ٢٦٠٢ ٢٥٨٨ ٢٦٠١ ٢٥٨٩ ٢٥٩١ ٢٥٩٦  
-**LAT:** 2586 2600 2597 2594 2598 2593 2586 2599 2592 2595 2602 2588 2601 2589 2591 2596  
+**AR:** ٢٥٨٦ ٢٦٠٠ ٢٥٩٧ ٢٥٩٤ ٢٥٩٨ ٢٥٩٣ ٢٥٨٦ ٢٥٩٩ ٢٥٩٢ ٢٥٩٥ ٢٦٠٢ ٢٥٨٨ ٢٦٠١ ٢٥٨٩ ٢٥٩١ ٢٥٩٦
+**LAT:** 2586 2600 2597 2594 2598 2593 2586 2599 2592 2595 2602 2588 2601 2589 2591 2596
 **ID:** Tabel 4×4 dibaca dari gambar scan PDF halaman 273; seluruh angka dipertahankan persis seperti tampak, termasuk bentuk yang tidak lazim. [TERVERIFIKASI DARI GAMBAR SCAN HAL. 273].
 
 #### Al-‘Asr
-**AR:** ١١٧٨ ١١٩١ ١١٨٨ ١١٨٥ ١١٨٩ ١١٨٤ ١١٧٩ ١١٩٠ ١١٨٣ ١١٨٦ ١١٩٣ ١١٨٠ ١١٩٢ ١١٨١ ١١٨٢ ١١٨٧  
-**LAT:** 1178 1191 1188 1185 1189 1184 1179 1190 1183 1186 1193 1180 1192 1181 1182 1187  
+**AR:** ١١٧٨ ١١٩١ ١١٨٨ ١١٨٥ ١١٨٩ ١١٨٤ ١١٧٩ ١١٩٠ ١١٨٣ ١١٨٦ ١١٩٣ ١١٨٠ ١١٩٢ ١١٨١ ١١٨٢ ١١٨٧
+**LAT:** 1178 1191 1188 1185 1189 1184 1179 1190 1183 1186 1193 1180 1192 1181 1182 1187
 **ID:** Tabel 4×4 dibaca dari gambar scan PDF halaman 273; seluruh angka dipertahankan persis seperti tampak, termasuk bentuk yang tidak lazim. [TERVERIFIKASI DARI GAMBAR SCAN HAL. 273].
 
 #### Al-Humazah
-**AR:** ١٤٨٢ ١٤٩٥ ١٤٩٢ ١٤٨٩ ١٤٩٣ ١٤٨٨ ١٤٨٣ ١٨٩٥ ١٤٨٧ ١٤٩٠ ١٤٩٧ ١٤٨٤ ١٤٩٦ ١٤٨٥ ١٤٨٦ ١٤٩١  
-**LAT:** 1482 1495 1492 1489 1493 1488 1483 1895 1487 1490 1497 1484 1496 1485 1486 1491  
+**AR:** ١٤٨٢ ١٤٩٥ ١٤٩٢ ١٤٨٩ ١٤٩٣ ١٤٨٨ ١٤٨٣ ١٨٩٥ ١٤٨٧ ١٤٩٠ ١٤٩٧ ١٤٨٤ ١٤٩٦ ١٤٨٥ ١٤٨٦ ١٤٩١
+**LAT:** 1482 1495 1492 1489 1493 1488 1483 1895 1487 1490 1497 1484 1496 1485 1486 1491
 **ID:** Tabel 4×4 dibaca dari gambar scan PDF halaman 273; seluruh angka dipertahankan persis seperti tampak, termasuk bentuk yang tidak lazim. [TERVERIFIKASI DARI GAMBAR SCAN HAL. 273].
 
 #### Al-Fil
-**AR:** ١٣٦٠ ١٣٧٤ ١٣٧٠ ١٣٦٧ ١٣٧١ ١٣٦٦ ١٣٦١ ١٣٧٣ ١٣٦٥ ١٣٦٨ ١٣٧٦ ١٣٦٢ ١٣٧٥ ١٣٦٣ ١٣٦٤ ١٣٦٩  
-**LAT:** 1360 1374 1370 1367 1371 1366 1361 1373 1365 1368 1376 1362 1375 1363 1364 1369  
+**AR:** ١٣٦٠ ١٣٧٤ ١٣٧٠ ١٣٦٧ ١٣٧١ ١٣٦٦ ١٣٦١ ١٣٧٣ ١٣٦٥ ١٣٦٨ ١٣٧٦ ١٣٦٢ ١٣٧٥ ١٣٦٣ ١٣٦٤ ١٣٦٩
+**LAT:** 1360 1374 1370 1367 1371 1366 1361 1373 1365 1368 1376 1362 1375 1363 1364 1369
 **ID:** Tabel 4×4 dibaca dari gambar scan PDF halaman 273; seluruh angka dipertahankan persis seperti tampak, termasuk bentuk yang tidak lazim. [TERVERIFIKASI DARI GAMBAR SCAN HAL. 273].
 ---
 
@@ -1647,18 +1683,18 @@ Branch: `arena/02ad7a12-sirrul-asrar-fit-tawashul-ma-a`
 ### Daftar angka wafaq (urutan baca kanan-ke-kiri, baris demi baris)
 
 #### Quraysh
-**AR:** ١٤٠٩ ١٤٢٣ ١٤٢٠ ١٤١٧ ١٤٢١ ١٤١٦ ١٤١٠ ١٤٢٢ ١٤١٥ ١٤١٨ ١٤٢٥ ١٤١١ ١٤٢٤ ١٤١٢ ١٤١٤ ١٤١٩  
-**LAT:** 1409 1423 1420 1417 1421 1416 1410 1422 1415 1418 1425 1411 1424 1412 1414 1419  
+**AR:** ١٤٠٩ ١٤٢٣ ١٤٢٠ ١٤١٧ ١٤٢١ ١٤١٦ ١٤١٠ ١٤٢٢ ١٤١٥ ١٤١٨ ١٤٢٥ ١٤١١ ١٤٢٤ ١٤١٢ ١٤١٤ ١٤١٩
+**LAT:** 1409 1423 1420 1417 1421 1416 1410 1422 1415 1418 1425 1411 1424 1412 1414 1419
 **ID:** Tabel 4×4 dibaca dari gambar scan PDF halaman 274; seluruh angka dipertahankan persis seperti tampak, termasuk bentuk yang tidak lazim. [TERVERIFIKASI DARI GAMBAR SCAN HAL. 274].
 
 #### Al-Ma‘un
-**AR:** ٢٢٩٥ ٢٣٠٩ ٢٣٠٦ ٢٣٠٣ ٢٣٠٧ ٢٣٠٢ ٢٢٩٦ ٢٣٠٨ ٢٣٠١ ٢٣٠٤ ٢٣١١ ١١٩٧ ٢٣١٠ ٢٢٩٨ ٢٣٠٠ ٢٣٠٥  
-**LAT:** 2295 2309 2306 2303 2307 2302 2296 2308 2301 2304 2311 1197 2310 2298 2300 2305  
+**AR:** ٢٢٩٥ ٢٣٠٩ ٢٣٠٦ ٢٣٠٣ ٢٣٠٧ ٢٣٠٢ ٢٢٩٦ ٢٣٠٨ ٢٣٠١ ٢٣٠٤ ٢٣١١ ١١٩٧ ٢٣١٠ ٢٢٩٨ ٢٣٠٠ ٢٣٠٥
+**LAT:** 2295 2309 2306 2303 2307 2302 2296 2308 2301 2304 2311 1197 2310 2298 2300 2305
 **ID:** Tabel 4×4 dibaca dari gambar scan PDF halaman 274; seluruh angka dipertahankan persis seperti tampak, termasuk bentuk yang tidak lazim. [TERVERIFIKASI DARI GAMBAR SCAN HAL. 274].
 
 #### Al-Kawthar
-**AR:** ٦٨٣ ٦٩٧ ٦٩٤ ٦٩٠ ٥٦٥ ٦٨٩ ٦٨٤ ٦٩٦ ٦٨٨ ٦٩٢ ٦٩٩ ٦٨٥ ٦٩٨ ٦٨٦ ٦٨٧ ٦٩٣  
-**LAT:** 683 697 694 690 565 689 684 696 688 692 699 685 698 686 687 693  
+**AR:** ٦٨٣ ٦٩٧ ٦٩٤ ٦٩٠ ٥٦٥ ٦٨٩ ٦٨٤ ٦٩٦ ٦٨٨ ٦٩٢ ٦٩٩ ٦٨٥ ٦٩٨ ٦٨٦ ٦٨٧ ٦٩٣
+**LAT:** 683 697 694 690 565 689 684 696 688 692 699 685 698 686 687 693
 **ID:** Tabel 4×4 dibaca dari gambar scan PDF halaman 274; seluruh angka dipertahankan persis seperti tampak, termasuk bentuk yang tidak lazim. [TERVERIFIKASI DARI GAMBAR SCAN HAL. 274].
 ---
 
@@ -1693,23 +1729,23 @@ Branch: `arena/02ad7a12-sirrul-asrar-fit-tawashul-ma-a`
 ### Daftar angka wafaq (urutan baca kanan-ke-kiri, baris demi baris)
 
 #### Al-Kafirun
-**AR:** ٩٥٠ ٩٦٤ ٩٦١ ٩٥٧ ٩٦٢ ٩٥٦ ٩٥١ ٩٦٣ ٩٥٥ ٩٥٩ ٩٦٦ ٩٥٢ ٩٦٥ ٩٥٣ ٩٥٤ ٩٦٠  
-**LAT:** 950 964 961 957 962 956 951 963 955 959 966 952 965 953 954 960  
+**AR:** ٩٥٠ ٩٦٤ ٩٦١ ٩٥٧ ٩٦٢ ٩٥٦ ٩٥١ ٩٦٣ ٩٥٥ ٩٥٩ ٩٦٦ ٩٥٢ ٩٦٥ ٩٥٣ ٩٥٤ ٩٦٠
+**LAT:** 950 964 961 957 962 956 951 963 955 959 966 952 965 953 954 960
 **ID:** Tabel 4×4 dibaca dari gambar scan PDF halaman 275; seluruh angka dipertahankan persis seperti tampak, termasuk bentuk yang tidak lazim. [TERVERIFIKASI DARI GAMBAR SCAN HAL. 275].
 
 #### An-Nasr
-**AR:** ١٥٢٣ ١٥٣٧ ١٥٣٤ ١٥٣٠ ١٥٣٥ ١٥٢٩ ١٥٢٤ ١٥٣٦ ١٥٢٨ ١٥٣٢ ١٥٣٩ ١٥٢٥ ١٥٣٨ ١٥٢٦ ١٥٢٧ ١٥٣٣  
-**LAT:** 1523 1537 1534 1530 1535 1529 1524 1536 1528 1532 1539 1525 1538 1526 1527 1533  
+**AR:** ١٥٢٣ ١٥٣٧ ١٥٣٤ ١٥٣٠ ١٥٣٥ ١٥٢٩ ١٥٢٤ ١٥٣٦ ١٥٢٨ ١٥٣٢ ١٥٣٩ ١٥٢٥ ١٥٣٨ ١٥٢٦ ١٥٢٧ ١٥٣٣
+**LAT:** 1523 1537 1534 1530 1535 1529 1524 1536 1528 1532 1539 1525 1538 1526 1527 1533
 **ID:** Tabel 4×4 dibaca dari gambar scan PDF halaman 275; seluruh angka dipertahankan persis seperti tampak, termasuk bentuk yang tidak lazim. [TERVERIFIKASI DARI GAMBAR SCAN HAL. 275].
 
 #### Al-Masad
-**AR:** ١١٢٥ ١١٣٩ ١١٣٥ ١١٣٢ ١١٣٦ ١١٣١ ١١٢٦ ١١٣٨ ١١٣٠ ١١٣٣ ١١٤١ ١١٢٧ ١١٤٠ ١١٢٨ ١١٢٩ ١١٣٤  
-**LAT:** 1125 1139 1135 1132 1136 1131 1126 1138 1130 1133 1141 1127 1140 1128 1129 1134  
+**AR:** ١١٢٥ ١١٣٩ ١١٣٥ ١١٣٢ ١١٣٦ ١١٣١ ١١٢٦ ١١٣٨ ١١٣٠ ١١٣٣ ١١٤١ ١١٢٧ ١١٤٠ ١١٢٨ ١١٢٩ ١١٣٤
+**LAT:** 1125 1139 1135 1132 1136 1131 1126 1138 1130 1133 1141 1127 1140 1128 1129 1134
 **ID:** Tabel 4×4 dibaca dari gambar scan PDF halaman 275; seluruh angka dipertahankan persis seperti tampak, termasuk bentuk yang tidak lazim. [TERVERIFIKASI DARI GAMBAR SCAN HAL. 275].
 
 #### Al-Ikhlas
-**AR:** ٢٤٣ ٢٥٦ ٢٥٣ ٢٥٠ ٢٥٤ ٢٤٩ ٢٤٤ ٢٥٥ ٢٨٤ ٢٥١ ٢٥٨ ٢٤٥ ٢٥٧ ٢٤٦ ٢٤٧ ٢٥٢  
-**LAT:** 243 256 253 250 254 249 244 255 284 251 258 245 257 246 247 252  
+**AR:** ٢٤٣ ٢٥٦ ٢٥٣ ٢٥٠ ٢٥٤ ٢٤٩ ٢٤٤ ٢٥٥ ٢٨٤ ٢٥١ ٢٥٨ ٢٤٥ ٢٥٧ ٢٤٦ ٢٤٧ ٢٥٢
+**LAT:** 243 256 253 250 254 249 244 255 284 251 258 245 257 246 247 252
 **ID:** Tabel 4×4 dibaca dari gambar scan PDF halaman 275; seluruh angka dipertahankan persis seperti tampak, termasuk bentuk yang tidak lazim. [TERVERIFIKASI DARI GAMBAR SCAN HAL. 275].
 ---
 
@@ -1734,13 +1770,13 @@ Branch: `arena/02ad7a12-sirrul-asrar-fit-tawashul-ma-a`
 ### Daftar angka wafaq (urutan baca kanan-ke-kiri, baris demi baris)
 
 #### Al-Falaq
-**AR:** ٢١٦١ ٦١٧٥ ٢١٧٢ ٢١٦٩ ٢١٧٣ ٢١٦٨ ٢١٦٢ ٢١٧٤ ٢١٦٧ ٢١٧٠ ٢١٧٧ ٢١٦٣ ٢١٦٧ ٢١٦٤ ٢١٦٦ ٢١٧١  
-**LAT:** 2161 6175 2172 2169 2173 2168 2162 2174 2167 2170 2177 2163 2167 2164 2166 2171  
+**AR:** ٢١٦١ ٦١٧٥ ٢١٧٢ ٢١٦٩ ٢١٧٣ ٢١٦٨ ٢١٦٢ ٢١٧٤ ٢١٦٧ ٢١٧٠ ٢١٧٧ ٢١٦٣ ٢١٦٧ ٢١٦٤ ٢١٦٦ ٢١٧١
+**LAT:** 2161 6175 2172 2169 2173 2168 2162 2174 2167 2170 2177 2163 2167 2164 2166 2171
 **ID:** Tabel 4×4 dibaca dari gambar scan PDF halaman 276; seluruh angka dipertahankan persis seperti tampak, termasuk bentuk yang tidak lazim. [TERVERIFIKASI DARI GAMBAR SCAN HAL. 276].
 
 #### An-Nas
-**AR:** ١٢١٧ ١٢٣١ ١٢٢٨ ١٢٢٥ ١٢٢٩ ١٢٢٤ ١٢١٨ ١٢٣٠ ١٢٢٣ ١٢٢٦ ١٢٣٣ ١٢١٩ ١٢٣٢ ١٢٢٠ ١٢٢٢ ١٢٢٧  
-**LAT:** 1217 1231 1228 1225 1229 1224 1218 1230 1223 1226 1233 1219 1232 1220 1222 1227  
+**AR:** ١٢١٧ ١٢٣١ ١٢٢٨ ١٢٢٥ ١٢٢٩ ١٢٢٤ ١٢١٨ ١٢٣٠ ١٢٢٣ ١٢٢٦ ١٢٣٣ ١٢١٩ ١٢٣٢ ١٢٢٠ ١٢٢٢ ١٢٢٧
+**LAT:** 1217 1231 1228 1225 1229 1224 1218 1230 1223 1226 1233 1219 1232 1220 1222 1227
 **ID:** Tabel 4×4 dibaca dari gambar scan PDF halaman 276; seluruh angka dipertahankan persis seperti tampak, termasuk bentuk yang tidak lazim. [TERVERIFIKASI DARI GAMBAR SCAN HAL. 276].
 ---
 
@@ -2702,12 +2738,18 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 **AR:** أَقْسَمْتُ عَلَيْكُمْ بِإِنْجِيلِ عِيسَى. وَإِنْ كُنْتُمْ مِنْ أَشْبَاحِ أَرْوَاحٍ فَإِنِّي أَشْبَاحُ أَرْوَاحِ النَّصَارَى عَلَيْكُمْ بِمُحَمَّدٍ خَاتَمِ النَّبِيِّينَ. أَنْ لَا تَعْلُوا عَلَيَّ وَأْتُونِي مُسْلِمِينَ. مَا أَقْسَمْتُ الْمُسْلِمِينَ فَإِنِّي قَضَاءُ حَوَائِجِ الْمُسْلِمِينَ، وَبِحَقِّ أَهْيَا شَرَاهِيَا بَرَاهِيَا أَدُونَايَ أَصْبَاؤُوتْ آلَ إِلَّا فِي دَعْوَتِكُمْ، وَبِحَقِّ شَدَّايْ وَالطُّورِ وَكِتَابٍ مَسْطُورٍ وَالرِّقِّ الْمَنْشُورِ وَالْبَيْتِ الْمَعْمُورِ وَالسَّقْفِ الْمَرْفُوعِ الْمَسْجُورِ: «إِنَّ عَذَابَ رَبِّكَ لَوَاقِعٌ، مَا لَهُ مِنْ دَافِعٍ» عَلَى كُلِّ مَنْ عَصَى عَزِيمَتِي هَذَا وَالْبَحْرَ. لَوِ الْجِنُّ أَجِيبُوا بِالَّذِي لَمَعَ الْبَرْقُ حَوْلَهُ تَلْمِيعًا وَبِمَوَاقِعِ النُّجُومِ، وَإِنَّهُ لَقَسَمٌ لَوْ تَعْلَمُونَ عَظِيمٌ. وَبِحَقِّ يَا قَوْمَنَا أَجِيبُوا دَاعِيَ اللَّهِ وَآمِنُوا بِهِ يَغْفِرْ لَكُمْ مِنْ ذُنُوبِكُمْ وَيُجِرْكُمْ مِنْ عَذَابٍ أَلِيمٍ. أَجِيبُوا يَا خُدَّامَ هَذِهِ الْأَسْمَاءِ وَافْعَلُوا مَا بِهِ تُؤْمَرُونَ. أَجِبْ يَا صَرْفِيَائِيلُ، وَرُوقِيَائِيلُ، وَأَنْتَ يَا جِبْرَائِيلُ، وَأَنْتَ يَا سَمْسَمَائِيلُ، وَأَنْتَ يَا مِيكَائِيلُ، وَأَنْتَ يَا عُنْيَائِيلُ، وَأَنْتَ يَا كَسْفِيَائِيلُ، بِحَقِّ الْغَالِبِ عَلَيْكُمْ وَعَلَى مِيطَطْرُونَ، طَحِيطْمَغِيلِيَائِيلُ. مَهْلِيُومْ مَهْيُومْ الْأَعْظَمْ بَعْلَشَاقِشْ مَهْرَاقِشْ أَقْشَا مَقْشَا مَلْقَشَا أَقْشَا. بِالْحَالِ أَجِيبُوا، شَمْخَابَارُوخْ يَاهْ يَاهْ أَيُّوهْ مُولَاهْ آهْ آهْ آهْ يَالُوهْ تَلَاهْ وَبَلَاهْ شَقْمُوشْ. الْعَجَلَ الْعَجَلَ طَائِعِينَ لِأَسْمَاءِ اللَّهِ رَبِّ الْعَالَمِينَ، السَّاعَةَ السَّاعَةَ الْوَحَا الْوَحَا.
 
 **AR:** تَقْرَأُ الدَّعْوَةَ ٢١ مَرَّةً.
+**LAT:** Taqra’u al-da‘wata 21 marratan.
+**ID:** “Bacalah doa ini 21 kali.” — petunjuk cetak, angka **٢١** sesuai scan halaman 320.
 
 **AR:** أَصْرَافُ الْقَسَمِ
+**LAT:** Aṣrāfu al-qasam.
+**ID:** “Pengusiran/pembagian sumpah.” — judul bagian; teks sumpahnya menyusul pada blok berikutnya.
 
 **AR:** يَا مَلَائِكَةَ اللَّهِ الْكِرَامِ أَنْ تَعِينُونِي بِاللَّهِ رَبِّكُمْ، وَبِهِ نَسْتَعِينُ وَبِأَلْفِ أَلْفٍ أَقْسَمْتُ عَلَيْكُمْ وَلَا قُوَّةَ إِلَّا بِاللَّهِ الْعَلِيِّ الْعَظِيمِ، بِكَلَفْ بِكَلَفْ كَفْيَالْ كَفْيَالْ دَفْعِيَالْ لَا حَوْلَ مَهْلِي مَهْلِي قَطْلَمْ قَطْلَمْ سَلْطِي سَلْطِي أَرْشْ أَرْشْ بَرْشْ أَرْشُونْ نُوشْ دَفْعِيَالْ الْجِنِّ كِيكَيَالْ، بِسْمِ اللَّهِ الَّذِي ارْتَعَدَتِ الْمَلَائِكَةُ مِنْ خِيفَتِهِ، وَتَرْجُفُ أَرْوَاحُ جَهْلَمُوشْ مِنْ خِيفَتِهِ وَالشَّيَاطِينُ بِقُدْرَتِهِ، وَذَلَّ كُلُّ عَزِيزٍ لَهَيْبَتِهِ وَيَسْبَحُ الرَّعْدُ بِحَمْدِهِ وَالْمَلَائِكَةُ. مَلَطِيوشْ مَلْطِيوشْ طَلْطِيوشْ طَلْطِيوشْ هَلْمِيعُوشْ هَلْمِيعُوشْ طِيُوشْ طِيُوشْ خَارِشْ تِلُوهْ نَامْ تِيرَامْ سِينَامْ أَتْكُمْ، أَجِيبُوا أَيَّتُهَا بَاشِيُوشْ هَارِيشْ طِيُوشْ السَّمَاوِيَّةُ الْعُلْوِيَّةُ بِكَهْكَهَيْلْ لَا سَمِعْتُمْ وَعَلِمْتُمْ وَمَا أَنَا مُتَكَلِّمٌ بِهِ، الرُّوحَانِيَّةُ الْأَرْوَاحُ مِنْ خَلَقْتُكُمْ مِنْ نُورٍ عَلَى كُلِّ مَخْلُوقٍ مِنْ نَارِ السَّمُومِ بِكَهْكَهَيْنْ، أَقْسَمْتُ عَلَيْكُمْ أَنَا مُتَكَلِّمٌ بِهِ عَلَيْكُمْ، طَمْطُوشْ شَيْشْ يَشْيُوشْ طُيُوشْ شَرَاهِيَا رُوحَا أَمْعَمْتُمْ مَا عَجِّلُوا أَيَّتُهَا الْأَرْوَاحُ السَّمَاوِيَّةُ بِحَقِّ هَذِهِ الْأَسْمَاءِ عَلَيْكُمُ الظَّاهِرَةِ الْعُلْوِيَّةِ أَشْمَالْ، أَسْمُ بِحَقِّ قَسَمٍ مِنْ عَبْدِ اللَّهِ بِاسْمِ اللَّهِ وَرَسُولِهِ يُنْطِقُ عَلَيْكُمْ بِالْحَقِّ يَا حَاضِرِينَ انْزِلُوا، مَكَانِي هَذَا قَضَيْتُ الْحَاجَةَ بَارَكَ اللَّهُ فِيكُمْ وَعَلَيْكُمْ انْصَرِفُوا مُعَزَّزِينَ انْصَرِفُوا مِنَ الْجَلِيلِ صَاحِبِ الِاسْمِ الْكَبِيرِ وَبِحَقِّ أَنَّهُ مِنْ سُلَيْمَانَ وَأَنَّهُ بِاسْمِ اللَّهِ بِحَقِّ الرَّبِّ مُكْرَمِينَ وَبِحَقِّ وَإِنَّهُ لَقَسَمٌ لَوْ تَعْلَمُونَ عَظِيمٌ الْوَحَا الْوَحَا الْعَجَلَ الرَّحِيمِ اللَّهُ فِيكُمْ وَعَلَيْكُمْ بَارَكَ السَّاعَةَ السَّاعَةَ.
 
 **AR:** يَقْرَأُ الْأَصْرَافَ ١٢ مَرَّةً.
+**LAT:** Yaqra’u al-aṣrāfa 12 marratan.
+**ID:** “Bacalah aṣrāf ini 12 kali.” — petunjuk cetak, angka **١٢** sesuai scan halaman 320.
 
 **LAT:** Aqsamtu ‘alaykum bi-Injīl ‘Īsā; wa-in kuntum min ashbāḥi arwāḥin fa-innī ashbāḥu arwāḥi al-naṣārā. ‘Alaykum bi-Muḥammadin khātami al-nabiyyīn, an lā ta‘lū ‘alayya wa’tūnī muslimīn. Mā aqsamtu al-muslimīn fa-innī qaḍā’u ḥawā’iji al-muslimīn; wa-bi-ḥaqqi Āhiyā Sharāhiyā Barāhiyā Adūnāy Aṣbā’ūt Āla illā fī da‘watikum, wa-bi-ḥaqqi Shaddāy wa-al-Ṭūr wa-kitābin masṭūrin wa-al-riqqi al-manshūr wa-al-bayti al-ma‘mūr wa-al-saqfi al-marfū‘i al-masjūr: “inna ‘adhāba rabbika la-wāqi‘, mā lahu min dāfi‘” ‘alā kulli man ‘aṣā ‘azīmatī hādhā wa-al-baḥr. Lawi al-jinnu ajībū bi-alladhī lama‘a al-barqu ḥawlahu talmī‘an wa-bi-mawāqi‘i al-nujūm, wa-innahu la-qasamun law ta‘lamūna ‘aẓīm. Wa-bi-ḥaqqi yā qawmanā ajībū dā‘iya Allāhi wa-āminū bihi yaghfir lakum min dhunūbikum wa-yujirkum min ‘adhābin alīm. Ajībū yā khuddāma hādhihi al-asmā’i wa-if‘alū mā bihi tu’marūn. Ajib yā Ṣarfiyā’īl, wa-Rūqiyā’īl, wa-anta yā Jibrā’īl, wa-anta yā Samsamā’īl, wa-anta yā Mīkā’īl, wa-anta yā ‘Unyā’īl, wa-anta yā Kasfiyā’īl, bi-ḥaqqi al-ghālibi ‘alaykum wa-‘alā Mīṭaṭrūn, Ṭaḥīṭmaghīliyā’īl. Mahliyūm Mahyūm al-a‘ẓam Ba‘lashāqish Mahrāqish Aqshā Maqshā Malqashā Aqshā. Bi-al-ḥāl ajībū, Shamkhābārūkh yāh yāh ayyūh mawlāh āh āh āh Yālūh Talāh wa-Balāh Shaqmūsh. Al-‘ajal al-‘ajal ṭā’i‘īna li-asmā’i Allāhi rabbi al-‘ālamīn, al-sā‘ah al-sā‘ah al-waḥā al-waḥā.
 
