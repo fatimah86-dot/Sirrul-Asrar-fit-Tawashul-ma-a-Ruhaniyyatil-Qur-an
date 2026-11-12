@@ -12399,3 +12399,430 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 **[TIDAK ADA RAJAH - TERVERIFIKASI DARI GAMBAR SCAN]** — `get_image_info()` = `[]`؛ halaman **teks murni**.
 
 ---
+## HALAMAN 494 — lanjutan «فصل في كيفية الصلاة»: **١٠ bentuk** salawat Ibrāhīmiyyah (varian lafaz, tanpa angka)
+
+**AR:** كِتَابُ سِرِّ الْاَسْرَارِ فِي التَّوَاصُلِ مَعَ رُوحَانِيَّاتِ الْقُرْآنِ — شَيْخُ الرُّوحَانِيِّينَ الشَّيْخُ عَطِيَّةُ عَبْدُ الْحَمِيْدِ
+
+**LAT:** kitābu sirri al-asrāri fī al-tawāṣuli ma‘a rūḥāniyyāti al-qur’āni — shaykhu al-rūḥāniyyīna al-shaykhu ‘Aṭiyyatu ‘Abdu al-Ḥamīdi
+
+**ID:** “Kitab «Sirr al-Asrār fī al-Tawāṣul ma‘a Rūḥāniyyāt al-Qur’ān» — Syaikh para ruhaniyyin, Syaikh ‘Aṭiyyah ‘Abd al-Ḥamīd.” (Kepala halaman.)
+
+**AR:** **اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ وَعَلٰى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلٰى اِبْرَاهِيْمَ اِنَّكَ حَمِيْدٌ مَجِيْدٌ، وَبَارِكْ عَلٰى مُحَمَّدٍ وَعَلٰى آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلٰى آلِ اِبْرَاهِيْمَ اِنَّكَ حَمِيْدٌ مَجِيْدٌ**.
+
+**LAT:** allāhumma ṣalli ‘alā Muḥammadin wa-‘alā āli Muḥammadin kamā ṣallayta ‘alā Ibrāhīma innaka ḥamīdun majīdun, wa-bārik ‘alā Muḥammadin wa-‘alā āli Muḥammadin kamā bārakta ‘alā āli Ibrāhīma innaka ḥamīdun majīdun.
+
+**ID:** “**Ya Allah, limpahkanlah salawat atas Muhammad dan keluarga Muhammad sebagaimana Engkau bersalawat atas Ibrāhīm; sesungguhnya Engkau Maha Terpuji lagi Mahamulia; dan berkahilah Muhammad dan keluarga Muhammad sebagaimana Engkau memberkahi keluarga Ibrāhīm; sesungguhnya Engkau Maha Terpuji lagi Mahamulia**.” (**Bentuk ١** — sambungan dari p.493.)
+
+**AR:** **اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ وَعَلٰى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلٰى اِبْرَاهِيْمَ وَآلِ اِبْرَاهِيْمَ اِنَّكَ حَمِيْدٌ مَجِيْدٌ، وَبَارِكْ عَلٰى مُحَمَّدٍ وَعَلٰى آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلٰى اِبْرَاهِيْمَ وَآلِ اِبْرَاهِيْمَ اِنَّكَ حَمِيْدٌ مَجِيْدٌ**.
+
+**LAT:** allāhumma ṣalli ‘alā Muḥammadin wa-‘alā āli Muḥammadin kamā ṣallayta ‘alā Ibrāhīma wa-āli Ibrāhīma innaka ḥamīdun majīdun, wa-bārik ‘alā Muḥammadin wa-‘alā āli Muḥammadin kamā bārakta ‘alā Ibrāhīma wa-āli Ibrāhīma innaka ḥamīdun majīdun.
+
+**ID:** “**Bentuk ٢**: dengan **«وآل إبراهيم»** pada kedua bagian (salawat dan berkah), **tanpa «على»** sebelum **«آل إبراهيم»** pada bagian pertama — **sebagaimana tercetak**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ وَعَلٰى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلٰى اِبْرَاهِيْمَ وَعَلٰى آلِ اِبْرَاهِيْمَ، وَبَارِكْ عَلٰى مُحَمَّدٍ وَعَلٰى آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلٰى اِبْرَاهِيْمَ وَعَلٰى آلِ اِبْرَاهِيْمَ اِنَّكَ حَمِيْدٌ مَجِيْدٌ**.
+
+**LAT:** allāhumma ṣalli ‘alā Muḥammadin wa-‘alā āli Muḥammadin kamā ṣallayta ‘alā Ibrāhīma wa-‘alā āli Ibrāhīma, wa-bārik ‘alā Muḥammadin wa-‘alā āli Muḥammadin kamā bārakta ‘alā Ibrāhīma wa-‘alā āli Ibrāhīma innaka ḥamīdun majīdun.
+
+**ID:** “**Bentuk ٣**: memakai **«وعلى آل إبراهيم»** pada kedua bagian؛ **«إنك حميد مجيد»** hanya **sekali**, di akhir.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ وَعَلٰى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلٰى اِبْرَاهِيْمَ وَعَلٰى آلِ اِبْرَاهِيْمَ اِنَّكَ حَمِيْدٌ مَجِيْدٌ، اَللّٰهُمَّ بَارِكْ عَلٰى مُحَمَّدٍ وَعَلٰى آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلٰى اِبْرَاهِيْمَ وَآلِ اِبْرَاهِيْمَ اِنَّكَ حَمِيْدٌ مَجِيْدٌ**.
+
+**LAT:** allāhumma ṣalli ‘alā Muḥammadin wa-‘alā āli Muḥammadin kamā ṣallayta ‘alā Ibrāhīma wa-‘alā āli Ibrāhīma innaka ḥamīdun majīdun, allāhumma bārik ‘alā Muḥammadin wa-‘alā āli Muḥammadin kamā bārakta ‘alā Ibrāhīma wa-āli Ibrāhīma innaka ḥamīdun majīdun.
+
+**ID:** “**Bentuk ٤**: **«اللهم»** diulang pada bagian berkah؛ bagian pertama memakai **«وعلى آل إبراهيم»**, bagian kedua **«وآل إبراهيم»** — **perbedaan cetakan dipertahankan**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ وَعَلٰى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلٰى اِبْرَاهِيْمَ وَآلِ اِبْرَاهِيْمَ اِنَّكَ حَمِيْدٌ مَجِيْدٌ، اَللّٰهُمَّ بَارِكْ عَلٰى مُحَمَّدٍ وَعَلٰى آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلٰى اِبْرَاهِيْمَ وَعَلٰى آلِ اِبْرَاهِيْمَ اِنَّكَ حَمِيْدٌ مَجِيْدٌ**.
+
+**LAT:** allāhumma ṣalli ‘alā Muḥammadin wa-‘alā āli Muḥammadin kamā ṣallayta ‘alā Ibrāhīma wa-āli Ibrāhīma innaka ḥamīdun majīdun, allāhumma bārik ‘alā Muḥammadin wa-‘alā āli Muḥammadin kamā bārakta ‘alā Ibrāhīma wa-‘alā āli Ibrāhīma innaka ḥamīdun majīdun.
+
+**ID:** “**Bentuk ٥**: kebalikan susunan bentuk ٤ — bagian pertama **«وآل»**, bagian kedua **«وعلى آل»**.”
+
+**AR:** **اَللّٰهُمَّ اجْعَلْ صَلَوَاتِكَ وَبَرَكَاتِكَ عَلٰى مُحَمَّدٍ وَعَلٰى آلِ مُحَمَّدٍ كَمَا جَعَلْتَهَا عَلٰى اِبْرَاهِيْمَ وَآلِ اِبْرَاهِيْمَ اِنَّكَ حَمِيْدٌ مَجِيْدٌ، اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ وَعَلٰى اَزْوَاجِهِ وَذُرِّيَّتِهِ كَمَا صَلَّيْتَ عَلٰى آلِ اِبْرَاهِيْمَ، وَبَارِكْ عَلٰى مُحَمَّدٍ وَاَزْوَاجِهِ وَذُرِّيَّتِهِ كَمَا بَارَكْتَ عَلٰى آلِ اِبْرَاهِيْمَ اِنَّكَ حَمِيْدٌ مَجِيْدٌ**.
+
+**LAT:** allāhumma ij‘al ṣalawātika wa-barakātika ‘alā Muḥammadin wa-‘alā āli Muḥammadin kamā ja‘altahā ‘alā Ibrāhīma wa-āli Ibrāhīma innaka ḥamīdun majīdun, allāhumma ṣalli ‘alā Muḥammadin wa-‘alā azwājihi wa-dhurriyyatihi kamā ṣallayta ‘alā āli Ibrāhīma, wa-bārik ‘alā Muḥammadin wa-azwājihi wa-dhurriyyatihi kamā bārakta ‘alā āli Ibrāhīma innaka ḥamīdun majīdun.
+
+**ID:** “**Bentuk ٦** (dua bagian): (a) **«اللهم اجعل صلواتك وبركاتك… كما جعلتها على إبراهيم وآل إبراهيم»**؛ (b) **«اللهم صل على محمد وعلى أزواجه وذريته كما صليت على آل إبراهيم، وبارك على محمد وأزواجه وذريته كما باركت على آل إبراهيم»** — **menyebut istri dan keturunan**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ عَبْدِكَ وَرَسُوْلِكَ كَمَا صَلَّيْتَ عَلٰى اِبْرَاهِيْمَ، وَبَارِكْ عَلٰى مُحَمَّدٍ وَعَلٰى آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلٰى آلِ اِبْرَاهِيْمَ**.
+
+**LAT:** allāhumma ṣalli ‘alā Muḥammadin ‘abdika wa-rasūlika kamā ṣallayta ‘alā Ibrāhīma, wa-bārik ‘alā Muḥammadin wa-‘alā āli Muḥammadin kamā bārakta ‘alā āli Ibrāhīma.
+
+**ID:** “**Bentuk ٧**: dengan **«عبدك ورسولك»** — **tanpa «إنك حميد مجيد»** pada akhir؛ **dipertahankan**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ عَبْدِكَ وَرَسُوْلِكَ كَمَا صَلَّيْتَ عَلٰى اِبْرَاهِيْمَ، وَبَارِكْ عَلٰى مُحَمَّدٍ وَعَلٰى آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلٰى اِبْرَاهِيْمَ وَعَلٰى آلِ اِبْرَاهِيْمَ**.
+
+**LAT:** allāhumma ṣalli ‘alā Muḥammadin ‘abdika wa-rasūlika kamā ṣallayta ‘alā Ibrāhīma, wa-bārik ‘alā Muḥammadin wa-‘alā āli Muḥammadin kamā bārakta ‘alā Ibrāhīma wa-‘alā āli Ibrāhīma.
+
+**ID:** “**Bentuk ٨**: seperti bentuk ٧ tetapi **menambah «وعلى آل إبراهيم»** pada bagian berkah.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ عَبْدِكَ وَرَسُوْلِكَ كَمَا صَلَّيْتَ عَلٰى آلِ اِبْرَاهِيْمَ، وَبَارِكْ عَلٰى مُحَمَّدٍ كَمَا بَارَكْتَ عَلٰى اِبْرَاهِيْمَ وَآلِ اِبْرَاهِيْمَ فِى الْعَالَمِيْنَ اِنَّكَ حَمِيْدٌ مَجِيْدٌ**.
+
+**LAT:** allāhumma ṣalli ‘alā Muḥammadin ‘abdika wa-rasūlika kamā ṣallayta ‘alā āli Ibrāhīma, wa-bārik ‘alā Muḥammadin kamā bārakta ‘alā Ibrāhīma wa-āli Ibrāhīma fī al-‘ālamīna innaka ḥamīdun majīdun.
+
+**ID:** “**Bentuk ٩**: bagian pertama **«على آل إبراهيم»**؛ bagian berkah **tanpa «آل محمد»** dan **menambah «في العالمين»**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ وَعَلٰى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلٰى آلِ اِبْرَاهِيْمَ، وَبَارِكْ عَلٰى مُحَمَّدٍ …** (وَيَتِمُّ فِى الصَّفْحَةِ التَّالِيَةِ)
+
+**LAT:** allāhumma ṣalli ‘alā Muḥammadin wa-‘alā āli Muḥammadin kamā ṣallayta ‘alā āli Ibrāhīma, wa-bārik ‘alā Muḥammadin … (wa-yatimm fī al-ṣafḥati al-tāliyati)
+
+**ID:** “**Bentuk ١٠**: «**اللهم صل على محمد وعلى آل محمد كما صليت على آل إبراهيم، وبارك على محمد …**» (**berlanjut ke halaman berikut**).”
+
+**Keterangan halaman.** Halaman ini **seluruhnya berisi varian lafaz salawat Ibrāhīmiyyah** — **sepuluh bentuk** yang berbeda pada: (a) penyebutan **«آل إبراهيم»** dengan/tanpa **«على»**؛ (b) ada/tidaknya **«إنك حميد مجيد»** di tengah؛ (c) pengulangan **«اللهم»**؛ (d) penambahan **«أزواجه وذريته»**؛ (e) penggunaan **«عبدك ورسولك»**؛ (f) penambahan **«في العالمين»**. **Tidak ada penomoran** pada cetakan — **nomor bentuk ١–١٠ adalah penomoran pentranskripsi**.
+
+**Angka pada halaman ini.** **Tidak ada angka Arab** sama sekali — lapisan teks **tidak** mengekstrak angka (`NUMS: []`) dan pindaian **tanpa angka**؛ seluruh bilangan hanya **urutan yang kuberi nomor**. **Tidak ada koreksi**, **tidak ada penambahan angka**.
+
+**Wafaq:** **tidak ada**؛ halaman **teks doa** → **tidak ada** uji penjumlahan.
+
+**[TIDAK JELAS - HALAMAN 494]** (1) **Jumlah pasti bentuk salawat** — **tidak dinomori pada cetakan**؛ hitungan **١٠ bentuk** (termasuk bentuk terakhir yang **terpotong**) adalah **hasil pengamatan pentranskripsi** dan **ditandai**. (2) **Perbedaan «وآل» vs «وعلى آل»** — **tidak konsisten pada cetakan**؛ **dipertahankan apa adanya** dan **tidak diseragamkan**. (3) **Bentuk ٧ dan ٨ tanpa «إنك حميد مجيد»** — **perbedaan** dari bentuk lain؛ **dipertahankan**. (4) **«اَللّٰهُمَّ اجْعَلْ صَلَوَاتِكَ»** — **lafaz** jarang؛ **dipertahankan**. (5) **«وَاَزْوَاجِهِ»** — tanpa **«على»** pada satu tempat؛ **dipertahankan**. (6) **Bentuk ١٠ terpotong** di tengah kalimat؛ **tidak dilengkapi** dan **disambung ke halaman berikut**. (7) **Posisi «إنك حميد مجيد»** — kadang **sekali**, kadang **dua kali**, kadang **tidak ada**؛ **semua varian dicatat**, **tidak dipilih salah satu**.
+
+**Catatan (dicatat apa adanya, bukan fatwa).** Isi halaman ini **salawat** dan **tidak memuat praktik okultisme**؛ yang dicatat hanyalah **banyaknya varian lafaz** yang **tidak diberi sumber** per varian.
+
+**[TIDAK ADA RAJAH - TERVERIFIKASI DARI GAMBAR SCAN]** — `get_image_info()` = `[]`؛ halaman **teks murni**.
+
+---
+## HALAMAN 495 — lanjutan salawat Ibrāhīmiyyah: penggalan bentuk ١٠ (dari p.494) + varian «النَّبِىِّ الْاُمِّىِّ» + bentuk-bentuk ringkas
+
+**AR:** كِتَابُ سِرِّ الْاَسْرَارِ فِي التَّوَاصُلِ مَعَ رُوحَانِيَّاتِ الْقُرْآنِ — شَيْخُ الرُّوحَانِيِّينَ الشَّيْخُ عَطِيَّةُ عَبْدُ الْحَمِيْدِ
+
+**LAT:** kitābu sirri al-asrāri fī al-tawāṣuli ma‘a rūḥāniyyāti al-qur’āni — shaykhu al-rūḥāniyyīna al-shaykhu ‘Aṭiyyatu ‘Abdu al-Ḥamīdi
+
+**ID:** “Kitab «Sirr al-Asrār fī al-Tawāṣul ma‘a Rūḥāniyyāt al-Qur’ān» — Syaikh para ruhaniyyin, Syaikh ‘Aṭiyyah ‘Abd al-Ḥamīd.” (Kepala halaman.)
+
+**AR:** (تَكْمِلَةُ الصِّيْغَةِ الْعَاشِرَةِ مِنْ ص ٤٩٤) … **وَعَلٰى آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلٰى آلِ اِبْرَاهِيْمَ فِى الْعَالَمِيْنَ اِنَّكَ حَمِيْدٌ مَجِيْدٌ**.
+
+**LAT:** (takmilatu al-ṣīghati al-‘āshirati min ṣ 494) … wa-‘alā āli Muḥammadin kamā bārakta ‘alā āli Ibrāhīma fī al-‘ālamīna innaka ḥamīdun majīdun.
+
+**ID:** “**(Pelengkap bentuk ١٠ dari p.494)** … **dan atas keluarga Muhammad sebagaimana Engkau memberkahi keluarga Ibrāhīm di seluruh alam; sesungguhnya Engkau Maha Terpuji lagi Mahamulia**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ وَعَلٰى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلٰى آلِ اِبْرَاهِيْمَ اِنَّكَ حَمِيْدٌ مَجِيْدٌ، وَبَارِكْ عَلٰى مُحَمَّدٍ وَعَلٰى آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلٰى آلِ اِبْرَاهِيْمَ فِى الْعَالَمِيْنَ اِنَّكَ حَمِيْدٌ مَجِيْدٌ**.
+
+**LAT:** allāhumma ṣalli ‘alā Muḥammadin wa-‘alā āli Muḥammadin kamā ṣallayta ‘alā āli Ibrāhīma innaka ḥamīdun majīdun, wa-bārik ‘alā Muḥammadin wa-‘alā āli Muḥammadin kamā bārakta ‘alā āli Ibrāhīma fī al-‘ālamīna innaka ḥamīdun majīdun.
+
+**ID:** “**Bentuk ١١**: bagian pertama **«على آل إبراهيم»**؛ bagian berkah **«في العالمين»** dan **«إنك حميد مجيد»** **dua kali**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ وَعَلٰى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلٰى آلِ اِبْرَاهِيْمَ اِنَّكَ حَمِيْدٌ مَجِيْدٌ، وَبَارِكْ عَلٰى مُحَمَّدٍ وَعَلٰى آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلٰى آلِ اِبْرَاهِيْمَ فِى الْعَالَمِيْنَ اِنَّكَ حَمِيْدٌ مَجِيْدٌ**. (بِلَفْظٍ قَرِيْبٍ جِدًّا مِنَ السَّابِقِ)
+
+**LAT:** allāhumma ṣalli ‘alā Muḥammadin wa-‘alā āli Muḥammadin kamā ṣallayta ‘alā āli Ibrāhīma innaka ḥamīdun majīdun, wa-bārik ‘alā Muḥammadin wa-‘alā āli Muḥammadin kamā bārakta ‘alā āli Ibrāhīma fī al-‘ālamīna innaka ḥamīdun majīdun. (bi-lafẓin qarībin jiddan mina al-sābiqi)
+
+**ID:** “**Bentuk ١٢** — **lafaznya hampir identik** dengan bentuk ١١; **perbedaan cetakan hanya pada tata letak baris**, bukan lafaz. **Dicatat sebagai pengulangan cetakan** dan **tidak dihapus**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ وَعَلٰى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلٰى آلِ اِبْرَاهِيْمَ اِنَّكَ حَمِيْدٌ مَجِيْدٌ، وَبَارِكْ عَلٰى مُحَمَّدٍ وَعَلٰى آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلٰى آلِ اِبْرَاهِيْمَ اِنَّكَ حَمِيْدٌ مَجِيْدٌ**.
+
+**LAT:** allāhumma ṣalli ‘alā Muḥammadin wa-‘alā āli Muḥammadin kamā ṣallayta ‘alā āli Ibrāhīma innaka ḥamīdun majīdun, wa-bārik ‘alā Muḥammadin wa-‘alā āli Muḥammadin kamā bārakta ‘alā āli Ibrāhīma innaka ḥamīdun majīdun.
+
+**ID:** “**Bentuk ١٣**: **tanpa «في العالمين»** — **lebih pendek** dari bentuk ١١–١٢.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ وَعَلٰى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلٰى آلِ اِبْرَاهِيْمَ اِنَّكَ حَمِيْدٌ مَجِيْدٌ، وَبَارِكْ عَلٰى مُحَمَّدٍ وَعَلٰى آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلٰى آلِ اِبْرَاهِيْمَ فِى الْعَالَمِيْنَ اِنَّكَ حَمِيْدٌ مَجِيْدٌ**.
+
+**LAT:** allāhumma ṣalli ‘alā Muḥammadin wa-‘alā āli Muḥammadin kamā ṣallayta ‘alā āli Ibrāhīma innaka ḥamīdun majīdun, wa-bārik ‘alā Muḥammadin wa-‘alā āli Muḥammadin kamā bārakta ‘alā āli Ibrāhīma fī al-‘ālamīna innaka ḥamīdun majīdun.
+
+**ID:** “**Bentuk ١٤**: seperti bentuk ١١ — **pengulangan cetakan ketiga** dengan lafaz yang sama؛ **dicatat**, **tidak dihapus**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ النَّبِىِّ الْاُمِّىِّ وَعَلٰى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلٰى اِبْرَاهِيْمَ، وَبَارِكْ عَلٰى مُحَمَّدٍ النَّبِىِّ الْاُمِّىِّ وَعَلٰى آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلٰى اِبْرَاهِيْمَ وَعَلٰى آلِ اِبْرَاهِيْمَ اِنَّكَ حَمِيْدٌ مَجِيْدٌ**.
+
+**LAT:** allāhumma ṣalli ‘alā Muḥammadin al-nabiyyi al-ummiyyi wa-‘alā āli Muḥammadin kamā ṣallayta ‘alā Ibrāhīma, wa-bārik ‘alā Muḥammadin al-nabiyyi al-ummiyyi wa-‘alā āli Muḥammadin kamā bārakta ‘alā Ibrāhīma wa-‘alā āli Ibrāhīma innaka ḥamīdun majīdun.
+
+**ID:** “**Bentuk ١٥**: memakai **«النَّبِىِّ الْاُمِّىِّ»** (Nabi yang ummi) pada **kedua bagian**؛ **menggantikan** «محمد» saja.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ النَّبِىِّ الْاُمِّىِّ وَعَلٰى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلٰى اِبْرَاهِيْمَ، وَبَارِكْ عَلٰى مُحَمَّدٍ النَّبِىِّ الْاُمِّىِّ كَمَا بَارَكْتَ عَلٰى اِبْرَاهِيْمَ اِنَّكَ حَمِيْدٌ مَجِيْدٌ**.
+
+**LAT:** allāhumma ṣalli ‘alā Muḥammadin al-nabiyyi al-ummiyyi wa-‘alā āli Muḥammadin kamā ṣallayta ‘alā Ibrāhīma, wa-bārik ‘alā Muḥammadin al-nabiyyi al-ummiyyi kamā bārakta ‘alā Ibrāhīma innaka ḥamīdun majīdun.
+
+**ID:** “**Bentuk ١٦**: bagian berkah **tanpa «وعلى آل محمد»**؛ **lebih ringkas**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ النَّبِىِّ الْاُمِّىِّ وَعَلٰى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلٰى اِبْرَاهِيْمَ وَعَلٰى آلِ اِبْرَاهِيْمَ، وَبَارِكْ عَلٰى مُحَمَّدٍ النَّبِىِّ الْاُمِّىِّ وَعَلٰى آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلٰى اِبْرَاهِيْمَ وَعَلٰى آلِ اِبْرَاهِيْمَ اِنَّكَ حَمِيْدٌ مَجِيْدٌ**.
+
+**LAT:** allāhumma ṣalli ‘alā Muḥammadin al-nabiyyi al-ummiyyi wa-‘alā āli Muḥammadin kamā ṣallayta ‘alā Ibrāhīma wa-‘alā āli Ibrāhīma, wa-bārik ‘alā Muḥammadin al-nabiyyi al-ummiyyi wa-‘alā āli Muḥammadin kamā bārakta ‘alā Ibrāhīma wa-‘alā āli Ibrāhīma innaka ḥamīdun majīdun.
+
+**ID:** “**Bentuk ١٧**: **memuat «وعلى آل إبراهيم» pada kedua bagian**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ كَمَا صَلَّيْتَ عَلٰى اِبْرَاهِيْمَ. اَللّٰهُمَّ بَارِكْ عَلٰى مُحَمَّدٍ كَمَا بَارَكْتَ عَلٰى اِبْرَاهِيْمَ**.
+
+**LAT:** allāhumma ṣalli ‘alā Muḥammadin kamā ṣallayta ‘alā Ibrāhīma. allāhumma bārik ‘alā Muḥammadin kamā bārakta ‘alā Ibrāhīma.
+
+**ID:** “**Bentuk ١٨** (paling ringkas): **dua kalimat terpisah** — **tanpa «آل»** dan **tanpa «إنك حميد مجيد»**؛ **dua titik (.)** pemisah pada cetakan.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ كَمَا صَلَّيْتَ عَلٰى اِبْرَاهِيْمَ اِنَّكَ حَمِيْدٌ مَجِيْدٌ، وَبَارِكْ عَلٰى مُحَمَّدٍ وَعَلٰى آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلٰى اِبْرَاهِيْمَ اِنَّكَ حَمِيْدٌ مَجِيْدٌ. اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ وَعَلٰى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلٰى اِبْرَاهِيْمَ وَآلِ اِبْرَاهِيْمَ اِنَّكَ حَمِيْدٌ مَجِيْدٌ، وَبَارِكْ عَلٰى مُحَمَّدٍ وَعَلٰى آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلٰى اِبْرَاهِيْمَ اِنَّكَ حَمِيْدٌ مَجِيْدٌ**.
+
+**LAT:** allāhumma ṣalli ‘alā Muḥammadin kamā ṣallayta ‘alā Ibrāhīma innaka ḥamīdun majīdun, wa-bārik ‘alā Muḥammadin wa-‘alā āli Muḥammadin kamā bārakta ‘alā Ibrāhīma innaka ḥamīdun majīdun. allāhumma ṣalli ‘alā Muḥammadin wa-‘alā āli Muḥammadin kamā ṣallayta ‘alā Ibrāhīma wa-āli Ibrāhīma innaka ḥamīdun majīdun, wa-bārik ‘alā Muḥammadin wa-‘alā āli Muḥammadin kamā bārakta ‘alā Ibrāhīma innaka ḥamīdun majīdun.
+
+**ID:** “**Bentuk ١٩** (dua salawat berurutan tanpa pemisah baris): (a) **tanpa «آل» pada bagian salawat**؛ (b) **dengan «وآل إبراهيم»**؛ **keduanya digabung dalam satu paragraf panjang**.”
+
+**Keterangan halaman.** Halaman ini meneruskan **daftar varian salawat** dari p.494 tanpa judul dan **tanpa penomoran**. Pola yang tampak: **pengulangan lafaz yang sama** beberapa kali (kemungkinan **kesalahan susun cetak / duplikasi**), lalu **varian dengan «النبي الأمي»**, lalu **bentuk-bentuk yang makin ringkas** hingga **dua kalimat terpisah**. **Nomor bentuk ١١–١٩ = penomoran pentranskripsi** (cetakan tidak menomori).
+
+**Angka pada halaman ini.** **Tidak ada angka Arab** — lapisan teks `NUMS: []` dan pindaian **tanpa angka**؛ semua nomor adalah **penomoran pentranskripsi**. **Tidak ada koreksi angka**.
+
+**Wafaq:** **tidak ada**؛ halaman **teks doa** → **tidak ada** uji penjumlahan.
+
+**[TIDAK JELAS - HALAMAN 495]** (1) **Bentuk ١١، ١٢، ١٤ lafaznya sama** — **kemungkinan duplikasi cetak**؛ **dicatat sebagai pengulangan**, **tidak dihapus**. (2) **Batas antara bentuk** tidak jelas karena **tidak ada nomor/garis**؛ pembagian **١١–١٩ adalah tafsir pentranskripsi** dan **ditandai**. (3) **«اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ كَمَا صَلَّيْتَ عَلٰى اِبْرَاهِيْمَ.»** — **titik pemisah** tidak lazim dalam teks doa؛ **dipertahankan**. (4) **Baris terakhir bentuk ١٩** — **dua salawat menyatu** tanpa jeda؛ **dipertahankan** dan **dipisah hanya dengan (a)/(b) sebagai keterangan**. (5) **«النَّبِىِّ الْاُمِّىِّ»** — **tiga kali** disebut؛ **dipertahankan**. (6) **Tidak ada «إنك حميد مجيد»** pada bentuk ١٨ — **perbedaan**؛ **dipertahankan**.
+
+**Catatan (dicatat apa adanya, bukan fatwa).** Halaman **doa/salawat** murni؛ **tidak ada praktik okultisme** dan **tidak ada angka**. Yang dicatat: **banyak pengulangan lafaz** yang **tidak dijelaskan** oleh penulis.
+
+**[TIDAK ADA RAJAH - TERVERIFIKASI DARI GAMBAR SCAN]** — `get_image_info()` = `[]`؛ halaman **teks murni**.
+
+---
+## HALAMAN 496 — lanjutan varian salawat: bentuk ringkas, «أمهات المؤمنين»، «وارحم»، dan rumus «اللهم صل علينا معهم»
+
+**AR:** كِتَابُ سِرِّ الْاَسْرَارِ فِي التَّوَاصُلِ مَعَ رُوحَانِيَّاتِ الْقُرْآنِ — شَيْخُ الرُّوحَانِيِّينَ الشَّيْخُ عَطِيَّةُ عَبْدُ الْحَمِيْدِ
+
+**LAT:** kitābu sirri al-asrāri fī al-tawāṣuli ma‘a rūḥāniyyāti al-qur’āni — shaykhu al-rūḥāniyyīna al-shaykhu ‘Aṭiyyatu ‘Abdu al-Ḥamīdi
+
+**ID:** “Kitab «Sirr al-Asrār fī al-Tawāṣul ma‘a Rūḥāniyyāt al-Qur’ān» — Syaikh para ruhaniyyin, Syaikh ‘Aṭiyyah ‘Abd al-Ḥamīd.” (Kepala halaman.)
+
+**AR:** **اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ وَعَلٰى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلٰى آلِ اِبْرَاهِيْمَ، وَبَارِكْ عَلٰى مُحَمَّدٍ وَعَلٰى آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلٰى اِبْرَاهِيْمَ اِنَّكَ حَمِيْدٌ مَجِيْدٌ**.
+
+**LAT:** allāhumma ṣalli ‘alā Muḥammadin wa-‘alā āli Muḥammadin kamā ṣallayta ‘alā āli Ibrāhīma, wa-bārik ‘alā Muḥammadin wa-‘alā āli Muḥammadin kamā bārakta ‘alā Ibrāhīma innaka ḥamīdun majīdun.
+
+**ID:** “**Bentuk ٢٠**: bagian pertama **«على آل إبراهيم»**؛ bagian berkah **«على إبراهيم»** saja (tanpa **«آل»**) — **perbedaan dicatat**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ وَعَلٰى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ وَبَارَكْتَ عَلٰى آلِ اِبْرَاهِيْمَ، وَبَارِكْ عَلٰى مُحَمَّدٍ اِنَّكَ حَمِيْدٌ مَجِيْدٌ**.
+
+**LAT:** allāhumma ṣalli ‘alā Muḥammadin wa-‘alā āli Muḥammadin kamā ṣallayta wa-bārakta ‘alā āli Ibrāhīma, wa-bārik ‘alā Muḥammadin innaka ḥamīdun majīdun.
+
+**ID:** “**Bentuk ٢١**: **salawat dan berkah digabung** pada bagian pertama (**«كما صليت وباركت»**)؛ bagian kedua **hanya «وبارك على محمد»** — **paling ringkas di halaman ini**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ النَّبِىِّ الْاُمِّىِّ وَاَزْوَاجِهِ اُمَّهَاتِ الْمُؤْمِنِيْنَ وَذُرِّيَّتِهِ وَاَهْلِ بَيْتِهِ كَمَا صَلَّيْتَ عَلٰى آلِ اِبْرَاهِيْمَ اِنَّكَ حَمِيْدٌ مَجِيْدٌ**.
+
+**LAT:** allāhumma ṣalli ‘alā Muḥammadin al-nabiyyi al-ummiyyi wa-azwājihi ummahāti al-mu’minīna wa-dhurriyyatihi wa-ahli baytihi kamā ṣallayta ‘alā āli Ibrāhīma innaka ḥamīdun majīdun.
+
+**ID:** “**Bentuk ٢٢**: menyebut **«أزواجه أمهات المؤمنين»** (istri-istrinya, para ibu orang mukmin), **keturunan**, dan **ahlulbait** sekaligus — **satu-satunya bentuk yang menyebut keempat unsur ini bersamaan**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ وَعَلٰى آلِ مُحَمَّدٍ وَبَارِكْ عَلٰى مُحَمَّدٍ وَعَلٰى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ وَبَارَكْتَ عَلٰى اِبْرَاهِيْمَ وَآلِ اِبْرَاهِيْمَ فِى الْعَالَمِيْنَ اِنَّكَ حَمِيْدٌ مَجِيْدٌ**.
+
+**LAT:** allāhumma ṣalli ‘alā Muḥammadin wa-‘alā āli Muḥammadin wa-bārik ‘alā Muḥammadin wa-‘alā āli Muḥammadin kamā ṣallayta wa-bārakta ‘alā Ibrāhīma wa-āli Ibrāhīma fī al-‘ālamīna innaka ḥamīdun majīdun.
+
+**ID:** “**Bentuk ٢٣**: **empat permohonan berurutan** (salawat + berkah, untuk Nabi + keluarganya) dengan **«في العالمين»**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ وَعَلٰى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلٰى اِبْرَاهِيْمَ وَعَلٰى آلِ اِبْرَاهِيْمَ وَبَارِكْ عَلٰى مُحَمَّدٍ وَعَلٰى آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلٰى اِبْرَاهِيْمَ وَآلِ اِبْرَاهِيْمَ اِنَّكَ حَمِيْدٌ مَجِيْدٌ**.
+
+**LAT:** allāhumma ṣalli ‘alā Muḥammadin wa-‘alā āli Muḥammadin kamā ṣallayta ‘alā Ibrāhīma wa-‘alā āli Ibrāhīma wa-bārik ‘alā Muḥammadin wa-‘alā āli Muḥammadin kamā bārakta ‘alā Ibrāhīma wa-āli Ibrāhīma innaka ḥamīdun majīdun.
+
+**ID:** “**Bentuk ٢٤**: **«إنك حميد مجيد» hanya sekali**؛ bagian pertama **«وعلى آل إبراهيم»**، bagian kedua **«وآل إبراهيم»**.”
+
+**AR:** **اَللّٰهُمَّ اجْعَلْ صَلَوَاتِكَ وَرَحْمَتِكَ وَبَرَكَاتِكَ عَلٰى مُحَمَّدٍ وَعَلٰى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ وَبَارَكْتَ عَلٰى آلِ اِبْرَاهِيْمَ اِنَّكَ حَمِيْدٌ مَجِيْدٌ**.
+
+**LAT:** allāhumma ij‘al ṣalawātika wa-raḥmatika wa-barakātika ‘alā Muḥammadin wa-‘alā āli Muḥammadin kamā ṣallayta wa-bārakta ‘alā āli Ibrāhīma innaka ḥamīdun majīdun.
+
+**ID:** “**Bentuk ٢٥**: **tiga unsur** — **salawat, rahmat, berkah** — dengan **«اجعل»**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ وَعَلٰى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلٰى اِبْرَاهِيْمَ وَآلِ اِبْرَاهِيْمَ اِنَّكَ حَمِيْدٌ مَجِيْدٌ، وَارْحَمْ مُحَمَّدًا وَآلَ مُحَمَّدٍ كَمَا رَحِمْتَ آلَ اِبْرَاهِيْمَ اِنَّكَ حَمِيْدٌ مَجِيْدٌ، وَبَارِكْ عَلٰى مُحَمَّدٍ وَعَلٰى آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلٰى آلِ اِبْرَاهِيْمَ اِنَّكَ حَمِيْدٌ مَجِيْدٌ**.
+
+**LAT:** allāhumma ṣalli ‘alā Muḥammadin wa-‘alā āli Muḥammadin kamā ṣallayta ‘alā Ibrāhīma wa-āli Ibrāhīma innaka ḥamīdun majīdun, wa-irḥam Muḥammadan wa-āla Muḥammadin kamā raḥimta āla Ibrāhīma innaka ḥamīdun majīdun, wa-bārik ‘alā Muḥammadin wa-‘alā āli Muḥammadin kamā bārakta ‘alā āli Ibrāhīma innaka ḥamīdun majīdun.
+
+**ID:** “**Bentuk ٢٦**: **tiga kalimat berurutan** (salawat → **«وارحم»** → berkah), masing-masing **ditutup «إنك حميد مجيد»**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ وَعَلٰى آلِ بَيْتِهِ كَمَا صَلَّيْتَ عَلٰى آلِ اِبْرَاهِيْمَ اِنَّكَ حَمِيْدٌ مَجِيْدٌ. اَللّٰهُمَّ صَلِّ عَلَيْنَا مَعَهُمْ**.
+
+**LAT:** allāhumma ṣalli ‘alā Muḥammadin wa-‘alā āli baytihi kamā ṣallayta ‘alā āli Ibrāhīma innaka ḥamīdun majīdun. allāhumma ṣalli ‘alaynā ma‘ahum.
+
+**ID:** “**Bentuk ٢٧**: **«وعلى آل بيته»** (keluarga rumahnya)؛ ditutup doa **«اللهم صل علينا معهم»** — **«semoga Allah bersalawat kepada kami bersama mereka»**.”
+
+**AR:** **صَلَوَاتُ اللهِ وَصَلَوَاتُ الْمُؤْمِنِيْنَ عَلٰى مُحَمَّدٍ النَّبِىِّ الْاُمِّىِّ، اَلسَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ**.
+
+**LAT:** ṣalawātu allāhi wa-ṣalawātu al-mu’minīna ‘alā Muḥammadin al-nabiyyi al-ummiyyi, al-salāmu ‘alaykum wa-raḥmatu allāhi wa-barakātuhu.
+
+**ID:** “**Bentuk ٢٨** (bukan permohonan, melainkan **pernyataan**): **«Salawat Allah dan salawat orang-orang mukmin atas Muhammad, Nabi yang ummi; semoga keselamatan, rahmat Allah, dan berkah-Nya atas kalian»**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ وَعَلٰى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلٰى اِبْرَاهِيْمَ وَعَلٰى آلِ اِبْرَاهِيْمَ اِنَّكَ حَمِيْدٌ مَجِيْدٌ. اَللّٰهُمَّ بَارِكْ عَلٰى مُحَمَّدٍ وَعَلٰى آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلٰى اِبْرَاهِيْمَ وَعَلٰى آلِ اِبْرَاهِيْمَ اِنَّكَ حَمِيْدٌ مَجِيْدٌ**.
+
+**LAT:** allāhumma ṣalli ‘alā Muḥammadin wa-‘alā āli Muḥammadin kamā ṣallayta ‘alā Ibrāhīma wa-‘alā āli Ibrāhīma innaka ḥamīdun majīdun. allāhumma bārik ‘alā Muḥammadin wa-‘alā āli Muḥammadin kamā bārakta ‘alā Ibrāhīma wa-‘alā āli Ibrāhīma innaka ḥamīdun majīdun.
+
+**ID:** “**Bentuk ٢٩** — **dua kalimat terpisah dengan titik**, keduanya **lengkap** (dengan **«آل إبراهيم»** dan **«إنك حميد مجيد»**).”
+
+**AR:** **اَللّٰهُمَّ اجْعَلْ صَلَوَاتِكَ وَبَرَكَاتِكَ عَلٰى مُحَمَّدٍ النَّبِىِّ الْاُمِّىِّ وَاَزْوَاجِهِ اُمَّهَاتِ الْمُؤْمِنِيْنَ …** (وَيَتِمُّ فِى الصَّفْحَةِ التَّالِيَةِ)
+
+**LAT:** allāhumma ij‘al ṣalawātika wa-barakātika ‘alā Muḥammadin al-nabiyyi al-ummiyyi wa-azwājihi ummahāti al-mu’minīna … (wa-yatimm fī al-ṣafḥati al-tāliyati)
+
+**ID:** “**Bentuk ٣٠**: «**Ya Allah, jadikanlah salawat dan berkah-Mu atas Muhammad, Nabi yang ummi, dan istri-istrinya, para ibu orang mukmin …**» (**terpotong di akhir halaman**).”
+
+**Keterangan halaman.** Halaman ini **melanjutkan daftar varian salawat** tanpa judul dan tanpa nomor. Ciri baru yang muncul: **«أمهات المؤمنين»** (dua kali), **«وارحم … كما رحمت»** (satu kali), **«صل علينا معهم»** (satu kali), dan **bentuk pernyataan** **«صلوات الله وصلوات المؤمنين…»**. **Nomor bentuk ٢٠–٣٠ adalah penomoran pentranskripsi**.
+
+**Angka pada halaman ini.** **Tidak ada angka Arab** — `NUMS: []`؛ pindaian **bersih dari angka**. **Tidak ada koreksi angka.**
+
+**Wafaq:** **tidak ada**؛ halaman **doa** → **tidak ada** uji penjumlahan.
+
+**[TIDAK JELAS - HALAMAN 496]** (1) **Bentuk ٢٠** memakai **«على إبراهيم»** pada bagian berkah tetapi **«على آل إبراهيم»** pada bagian salawat — **tidak simetris**؛ **dipertahankan**. (2) **Bentuk ٢١** **menggabung salawat dan berkah** menjadi satu frasa (**«كما صليت وباركت»**)؛ **bentuk unik**؛ **dipertahankan**. (3) **«وَاَزْوَاجِهِ»** tanpa **«على»** pada bentuk ٢٢ dan ٣٠؛ **dipertahankan**. (4) **«آل بيته»** — **susunan** jarang؛ **dipertahankan**. (5) **Bentuk ٢٨** **bukan doa** melainkan **pernyataan + salam**؛ **ditandai** agar tidak disalahpahami sebagai lafaz salawat. (6) **Bentuk ٣٠ terpotong**؛ **tidak dilengkapi**.
+
+**Catatan (dicatat apa adanya, bukan fatwa).** Halaman **kumpulan lafaz salawat**؛ **tidak ada praktik okultisme**. Yang dicatat: **penulis tidak menyebut sumber** untuk satu pun varian, dan **beberapa lafaz menyimpang dari rumus baku** (mis. **«صل علينا معهم»**)؛ **statusnya tidak dinilai di sini**.
+
+**[TIDAK ADA RAJAH - TERVERIFIKASI DARI GAMBAR SCAN]** — `get_image_info()` = `[]`؛ halaman **teks murni**.
+
+---
+## HALAMAN 497 — penutup daftar varian salawat + **«اللهم صل على محمد… كما سلمت»** + doa panjang («داحي المدحوات») + ayat al-Aḥzāb ٥٦
+
+**AR:** كِتَابُ سِرِّ الْاَسْرَارِ فِي التَّوَاصُلِ مَعَ رُوحَانِيَّاتِ الْقُرْآنِ — شَيْخُ الرُّوحَانِيِّينَ الشَّيْخُ عَطِيَّةُ عَبْدُ الْحَمِيْدِ
+
+**LAT:** kitābu sirri al-asrāri fī al-tawāṣuli ma‘a rūḥāniyyāti al-qur’āni — shaykhu al-rūḥāniyyīna al-shaykhu ‘Aṭiyyatu ‘Abdu al-Ḥamīdi
+
+**ID:** “Kitab «Sirr al-Asrār fī al-Tawāṣul ma‘a Rūḥāniyyāt al-Qur’ān» — Syaikh para ruhaniyyin, Syaikh ‘Aṭiyyah ‘Abd al-Ḥamīd.” (Kepala halaman.)
+
+**AR:** (تَكْمِلَةُ الصِّيْغَةِ الثَّلَاثِيْنَ مِنْ ص ٤٩٦) … **وَذُرِّيَّتِهِ وَاَهْلِ بَيْتِهِ كَمَا صَلَّيْتَ عَلٰى آلِ اِبْرَاهِيْمَ اِنَّكَ حَمِيْدٌ مَجِيْدٌ**.
+
+**LAT:** (takmilatu al-ṣīghati al-thalāthīna min ṣ 496) … wa-dhurriyyatihi wa-ahli baytihi kamā ṣallayta ‘alā āli Ibrāhīma innaka ḥamīdun majīdun.
+
+**ID:** “**(Pelengkap bentuk ٣٠ dari p.496)** … **dan keturunannya serta keluarganya, sebagaimana Engkau bersalawat atas keluarga Ibrāhīm; sesungguhnya Engkau Maha Terpuji lagi Mahamulia**.”
+
+**AR:** **اَللّٰهُمَّ اجْعَلْ صَلَوَاتِكَ وَرَحْمَتِكَ عَلٰى مُحَمَّدٍ وَاَزْوَاجِهِ وَذُرِّيَّتِهِ وَاُمَّهَاتِ الْمُؤْمِنِيْنَ، كَمَا صَلَّيْتَ عَلٰى آلِ اِبْرَاهِيْمَ اِنَّكَ حَمِيْدٌ مَجِيْدٌ**.
+
+**LAT:** allāhumma ij‘al ṣalawātika wa-raḥmatika ‘alā Muḥammadin wa-azwājihi wa-dhurriyyatihi wa-ummahāti al-mu’minīna, kamā ṣallayta ‘alā āli Ibrāhīma innaka ḥamīdun majīdun.
+
+**ID:** “**Bentuk ٣١**: **«اجعل صلواتك ورحمتك»** atas Nabi, **istri-istrinya**, **keturunannya**, dan **«أمهات المؤمنين»** — **empat sasaran**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ وَعَلٰى اَزْوَاجِهِ اُمَّهَاتِ الْمُؤْمِنِيْنَ وَذُرِّيَّتِهِ وَاَهْلِ بَيْتِهِ، كَمَا صَلَّيْتَ عَلٰى اِبْرَاهِيْمَ اِنَّكَ حَمِيْدٌ مَجِيْدٌ**.
+
+**LAT:** allāhumma ṣalli ‘alā Muḥammadin wa-‘alā azwājihi ummahāti al-mu’minīna wa-dhurriyyatihi wa-ahli baytihi, kamā ṣallayta ‘alā Ibrāhīma innaka ḥamīdun majīdun.
+
+**ID:** “**Bentuk ٣٢**: susunan sama tetapi dengan **fi‘l «صلِّ»** dan **tanpa «آل»** pada «إبراهيم».”
+
+**AR:** **اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ وَعَلٰى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلٰى اِبْرَاهِيْمَ اِنَّكَ حَمِيْدٌ مَجِيْدٌ، وَبَارِكْ عَلٰى مُحَمَّدٍ وَعَلٰى آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلٰى اِبْرَاهِيْمَ وَآلِ اِبْرَاهِيْمَ اِنَّكَ حَمِيْدٌ مَجِيْدٌ**.
+
+**LAT:** allāhumma ṣalli ‘alā Muḥammadin wa-‘alā āli Muḥammadin kamā ṣallayta ‘alā Ibrāhīma innaka ḥamīdun majīdun, wa-bārik ‘alā Muḥammadin wa-‘alā āli Muḥammadin kamā bārakta ‘alā Ibrāhīma wa-āli Ibrāhīma innaka ḥamīdun majīdun.
+
+**ID:** “**Bentuk ٣٣**: bagian pertama **«على إبراهيم»** saja؛ bagian berkah **«على إبراهيم وآل إبراهيم»**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ وَعَلٰى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلٰى اِبْرَاهِيْمَ وَعَلٰى آلِ اِبْرَاهِيْمَ اِنَّكَ حَمِيْدٌ مَجِيْدٌ. اَللّٰهُمَّ بَارِكْ عَلٰى مُحَمَّدٍ وَعَلٰى آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلٰى اِبْرَاهِيْمَ وَعَلٰى آلِ اِبْرَاهِيْمَ اِنَّكَ حَمِيْدٌ مَجِيْدٌ. اَللّٰهُمَّ وَتَرَحَّمْ عَلٰى مُحَمَّدٍ وَعَلٰى آلِ مُحَمَّدٍ كَمَا تَرَحَّمْتَ عَلٰى اِبْرَاهِيْمَ وَعَلٰى آلِ اِبْرَاهِيْمَ اِنَّكَ حَمِيْدٌ مَجِيْدٌ. اَللّٰهُمَّ وَسَلِّمْ عَلٰى مُحَمَّدٍ وَعَلٰى آلِ مُحَمَّدٍ كَمَا سَلَّمْتَ عَلٰى اِبْرَاهِيْمَ وَعَلٰى آلِ اِبْرَاهِيْمَ اِنَّكَ حَمِيْدٌ مَجِيْدٌ**.
+
+**LAT:** allāhumma ṣalli ‘alā Muḥammadin wa-‘alā āli Muḥammadin kamā ṣallayta ‘alā Ibrāhīma wa-‘alā āli Ibrāhīma innaka ḥamīdun majīdun. allāhumma bārik ‘alā Muḥammadin wa-‘alā āli Muḥammadin kamā bārakta ‘alā Ibrāhīma wa-‘alā āli Ibrāhīma innaka ḥamīdun majīdun. allāhumma wa-taraḥḥam ‘alā Muḥammadin wa-‘alā āli Muḥammadin kamā taraḥḥamta ‘alā Ibrāhīma wa-‘alā āli Ibrāhīma innaka ḥamīdun majīdun. allāhumma wa-sallim ‘alā Muḥammadin wa-‘alā āli Muḥammadin kamā sallamta ‘alā Ibrāhīma wa-‘alā āli Ibrāhīma innaka ḥamīdun majīdun.
+
+**ID:** “**Bentuk ٣٤** — **empat kalimat berurutan** yang masing-masing ditutup **«إنك حميد مجيد»**: (a) **صلِّ**، (b) **بارك**، (c) **وترحَّم**، (d) **وسلِّم**؛ **lafaz terlengkap dalam daftar ini**.”
+
+**AR:** **﴿اِنَّ اللهَ وَمَلَائِكَتَهُ يُصَلُّوْنَ عَلَى النَّبِىِّ يَا اَيُّهَا الَّذِيْنَ آمَنُوْا صَلُّوْا عَلَيْهِ وَسَلِّمُوْا تَسْلِيْمًا﴾**
+
+**LAT:** innā allāha wa-malā’ikatahu yuṣallūna ‘alā al-nabiyyi yā ayyuhā alladhīna āmanū ṣallū ‘alayhi wa-sallimū taslīman
+
+**ID:** “**«Sesungguhnya Allah dan para malaikat-Nya bersalawat kepada Nabi. Wahai orang-orang yang beriman, bersalawatlah kepadanya dan ucapkanlah salam dengan penuh penghormatan.»** — **Q.S. al-Aḥzāb ٣٣:٥٦** (ayat dikutip **dalam kurung** pada cetakan).”
+
+**AR:** **صَلَوَاتُ اللهِ الْبَرِّ الرَّحِيْمِ وَالْمَلَائِكَةِ الْمُقَرَّبِيْنَ وَالنَّبِيِّيْنَ وَالصِّدِّيْقِيْنَ وَالشُّهَدَاءِ وَالصَّالِحِيْنَ وَمَا سَبَّحَ لَكَ مِنْ شَىْءٍ يَا رَبَّ الْعَالَمِيْنَ عَلٰى سَيِّدِنَا مُحَمَّدٍ بْنِ عَبْدِ اللهِ خَاتَمِ النَّبِيِّيْنَ وَسَيِّدِ الْمُرْسَلِيْنَ، وَاِمَامِ الْمُتَّقِيْنَ وَرَسُوْلِ رَبِّ الْعَالَمِيْنَ، الشَّاهِدِ الْبَشِيْرِ الدَّاعِىْ اِلَيْكَ بِاِذْنِكَ السِّرَاجِ الْمُنِيْرِ وَعَلَيْهِ السَّلَامُ**.
+
+**LAT:** ṣalawātu allāhi al-barri al-raḥīmi wa-al-malā’ikati al-muqarrabīna wa-al-nabiyyīna wa-al-ṣiddīqīna wa-al-shuhadā’i wa-al-ṣāliḥīna wa-mā sabbaḥa laka min shay’in yā rabba al-‘ālamīna ‘alā sayyidinā Muḥammadin bni ‘Abdi allāhi khātami al-nabiyyīna wa-sayyidi al-mursalīna, wa-imāmi al-muttaqīna wa-rasūli rabbi al-‘ālamīna, al-shāhidi al-bashīri al-dā‘ī ilayka bi-idhnika al-sirāji al-munīri wa-‘alayhi al-salāmu.
+
+**ID:** “**Bentuk ٣٥** (rangkaian salawat panjang tanpa fi‘l permohonan): **«Salawat Allah Yang Mahabaik lagi Maha Penyayang, para malaikat yang didekatkan, para nabi, para ṣiddīq, para syuhada, orang-orang saleh, dan segala yang bertasbih kepada-Mu, wahai Tuhan semesta alam, atas penghulu kami Muhammad bin ‘Abdillah, penutup para nabi dan penghulu para rasul, imam orang-orang bertakwa dan rasul Tuhan semesta alam, saksi, pembawa kabar gembira, penyeru kepada-Mu dengan izin-Mu, lentera yang menerangi — dan salam atasnya»**.”
+
+**AR:** **اَللّٰهُمَّ دَاحِىَ الْمَدْحُوَّاتِ وَبَارِئَ الْمَسْمُوْكَاتِ وَبَانِىَ الْمَبْنِيَّاتِ، وَجَبَّارَ الْقُلُوْبِ عَلٰى فِطْرَتِهَا شَقِيِّهَا وَسَعِيْدِهَا، وَبَاسِطَ الرَّحْمَةِ لِلْمُتَّقِيْنَ، اِجْعَلْ شَرَائِفَ صَلَوَاتِكَ وَنَوَامِىْ بَرَكَاتِكَ عَلٰى مُحَمَّدٍ عَبْدِكَ وَرَسُوْلِكَ الْاَمِيْنِ**.
+
+**LAT:** allāhumma dāḥī al-madḥuwwāti wa-bāri’a al-masmūkāti wa-bāniya al-mabniyyāti, wa-jabbāra al-qulūbi ‘alā fiṭratihā shaqiyyihā wa-sa‘īdihā, wa-bāsiṭa al-raḥmati lil-muttaqīna, ij‘al sharā’ifa ṣalawātika wa-nawāmī barakātika ‘alā Muḥammadin ‘abdika wa-rasūlika al-amīni.
+
+**ID:** “**Ya Allah, Yang menghamparkan hamparan, Yang menciptakan yang ditinggikan, Yang membangun bangunan, Yang memaksa hati atas fitrahnya — yang sengsara maupun yang bahagia — dan Yang melapangkan rahmat bagi orang-orang bertakwa: jadikanlah salawat-salawat-Mu yang mulia dan berkah-Mu yang tumbuh atas Muhammad, hamba dan rasul-Mu yang terpercaya**.”
+
+**AR:** **اَللّٰهُمَّ افْسَحْ لَهُ فِىْ عَدْنِكَ مُفْسَحًا فِى الْخَيْرِ مِنْ فَضْلِكَ، وَاَجْزِهِ مُضَاعَفَاتِ ثَوَابِكَ الْمَحْلُوْلِ وَجَزِيْلِ عَطَائِكَ الْمُعْلُوْلِ. اَللّٰهُمَّ اَعْلِ عَلٰى بِنَاءِ النَّاسِ بِنَاءَهُ، وَاَكْرِمْ مَثْوَاهُ لَدَيْكَ وَنُزُلَهُ، وَاَتِمَّ لَهُ نُوْرَهُ، وَاَجْزِهِ مِنِ ابْتِعَاثِكَ لَهُ مَقْبُوْلَ الشَّهَادَةِ وَمَرْضِىَّ الْمَقَالَةِ ذَا مَنْطِقٍ عَدْلٍ وَخُطَّةٍ فَصْلٍ وَحُجَّةٍ وَبُرْهَانٍ**.
+
+**LAT:** allāhumma ifsaḥ lahu fī ‘adnika mufsaḥan fī al-khayri min faḍlika, wa-ajzihi muḍā‘afāti thawābika al-maḥlūli wa-jazīli ‘aṭā’ika al-mu‘lūli. allāhumma a‘li ‘alā binā’i al-nāsi binā’ahu, wa-akrim mathwāhu ladayka wa-nuzulahu, wa-atimm lahu nūrahu, wa-ajzihi min ibti‘āthika lahu maqbūla al-shahādati wa-marḍiyya al-maqālati dhā manṭiqin ‘adlin wa-khuṭṭatin faṣlin wa-ḥujjatin wa-burhānin.
+
+**ID:** “**Ya Allah, lapangkanlah baginya di surga-Mu tempat yang lapang dalam kebaikan dari karunia-Mu, dan berilah ia pahala berganda dari pahala-Mu yang tak putus dan pemberian-Mu yang agung. Ya Allah, tinggikanlah bangunannya di atas bangunan manusia, muliakanlah tempat tinggal dan kedudukannya di sisi-Mu, sempurnakanlah cahayanya, dan berilah ia — karena Engkau mengutusnya — kesaksian yang diterima dan ucapan yang diridai, dengan tutur kata yang adil, langkah yang tegas, serta hujah dan bukti**.”
+
+**AR:** **اَللّٰهُمَّ اجْعَلْنَا لِدَعْوَتِهِ سَامِعِيْنَ وَلِاَمْرِهِ مُطِيْعِيْنَ وَمِنْ اَوْلِيَائِهِ الْمُخْلِصِيْنَ، وَمِنْ رُفَقَائِهِ الْمُصَاحِبِيْنَ. اَللّٰهُمَّ اَبْلِغْهُ مِنَّا السَّلَامَ**.
+
+**LAT:** allāhumma ij‘alnā li-da‘watihi sāmi‘īna wa-li-amrihi muṭī‘īna wa-min awliyā’ihi al-mukhliṣīna, wa-min rufaqā’ihi al-muṣāḥibīna. allāhumma ablighhu minnā al-salāma.
+
+**ID:** “**Ya Allah, jadikanlah kami pendengar seruannya dan penaat perintahnya, termasuk para kekasihnya yang ikhlas dan para pendampingnya yang menyertainya. Ya Allah, sampaikanlah salam kami kepadanya**.”
+
+**Keterangan halaman.** Halaman ini **menutup daftar varian salawat** (bentuk ٣١–٣٥) dan **mengubah corak**: dari **lafaz salawat pendek** ke **rangkaian panjang** (bentuk ٣٥) lalu ke **doa panjang bergaya saj‘** (empat paragraf: **«داحي المدحوات»** dst.) — ditutup **«اللهم أبلغه منا السلام»**. **Ayat al-Aḥzāb ٥٦** dikutip **di tengah halaman**, sebelum doa panjang. **Nomor bentuk ٣١–٣٥ = penomoran pentranskripsi**.
+
+**Angka pada halaman ini.**
+- **Tidak ada angka Arab-Indic** — lapisan teks `NUMS: []`. **Satu angka Arab Latin**: **٣٥** dalam keterangan saya (bukan dari cetakan)؛ dari cetakan hanya **nomor surah/ayat** yang **tidak dicetak** (ayat dikutip tanpa nomor).
+- **Rujukan ayat**: **al-Aḥzāb ٣٣:٥٦** — **bukan angka yang tercetak** di halaman, melainkan **identifikasi pentranskripsi** (dikuatkan **matan ayat** yang sama dengan kutipan p.491). **Tidak ada koreksi**.
+
+**Wafaq:** **tidak ada**؛ halaman **doa** → **tidak ada** uji penjumlahan.
+
+**[TIDAK JELAS - HALAMAN 497]** (1) **Awal halaman terpotong** (**«وذريته وأهل بيته…»**)؛ **disambung** dari p.496 dan **ditandai**. (2) **«مُحَمَّدٍ بْنِ عَبْدِ اللهِ»** — pada cetakan **«محمد بْنِ»** (tanpa **«بن»** yang jelas harakatnya)؛ **dipertahankan** dan **ditandai**. (3) **«الْمَحْلُوْلِ»** dan **«الْمُعْلُوْلِ»** — **dua kata** yang **tidak lazim** dan **tidak ditemukan dalam kamus umum**؛ **ditranskripsi apa adanya**, **tidak diperbaiki** karena **tidak ada dasar dari halaman untuk menetapkan bacaan lain**. (4) **«اَعْلِ عَلٰى بِنَاءِ النَّاسِ بِنَاءَهُ»** — **susunan** sulit؛ **dipertahankan**. (5) **«مَقْبُوْلَ الشَّهَادَةِ وَمَرْضِىَّ الْمَقَالَةِ»** — **susunan** tidak lazim؛ **dipertahankan**. (6) **«لِدَعْوَتِهِ … وَلِاَمْرِهِ»** — **lam** pada kedua kata؛ **dipertahankan**. (7) **Batas antara bentuk ٣٤ dan ٣٥** — **ayat al-Aḥzāb** berada **di antara** keduanya **tanpa penjelasan**؛ **dicatat**.
+
+**Catatan (dicatat apa adanya, bukan fatwa).** Halaman **doa dan salawat**؛ **tidak ada praktik okultisme**. Yang dicatat: **dua kata tidak lazim** («المحلول»، «المعلول») **kemungkinan salah cetak** tetapi **tidak diperbaiki**؛ **tidak ada keterangan penulis** tentang sumber doa panjang ini.
+
+**[TIDAK ADA RAJAH - TERVERIFIKASI DARI GAMBAR SCAN]** — `get_image_info()` = `[]`؛ halaman **teks murni**.
+
+---
+## HALAMAN 498 — salam kepada ruh Nabi («أبلغ روح محمد مني تحية وسلاماً (أربعاً)») + salawat «بعدد من صلى عليه» + «مقاماً محموداً» + salawat penutup
+
+**AR:** كِتَابُ سِرِّ الْاَسْرَارِ فِي التَّوَاصُلِ مَعَ رُوحَانِيَّاتِ الْقُرْآنِ — شَيْخُ الرُّوحَانِيِّينَ الشَّيْخُ عَطِيَّةُ عَبْدُ الْحَمِيْدِ
+
+**LAT:** kitābu sirri al-asrāri fī al-tawāṣuli ma‘a rūḥāniyyāti al-qur’āni — shaykhu al-rūḥāniyyīna al-shaykhu ‘Aṭiyyatu ‘Abdu al-Ḥamīdi
+
+**ID:** “Kitab «Sirr al-Asrār fī al-Tawāṣul ma‘a Rūḥāniyyāt al-Qur’ān» — Syaikh para ruhaniyyin, Syaikh ‘Aṭiyyah ‘Abd al-Ḥamīd.” (Kepala halaman.)
+
+**AR:** **اَللّٰهُمَّ رَبَّ الْحِلِّ وَالْحَرَمِ وَالْبَلَدِ الْحَرَامِ وَالرُّكْنِ وَالْمَقَامِ وَالْمَشْعَرِ الْحَرَامِ، اَبْلِغْ رُوْحَ مُحَمَّدٍ مِنِّىْ تَحِيَّةً وَسَلَامًا (اَرْبَعًا)**.
+
+**LAT:** allāhumma rabba al-ḥilli wa-al-ḥarami wa-al-baladi al-ḥarāmi wa-al-rukni wa-al-maqāmi wa-al-mash‘ari al-ḥarāmi, abligh rūḥa Muḥammadin minnī taḥiyyatan wa-salāman (arba‘an).
+
+**ID:** “**Ya Allah, Tuhan (tanah) halal dan tanah haram, negeri yang dihormati, rukun (Ka‘bah), maqam (Ibrāhīm), dan masy‘ar yang dihormati: sampaikanlah kepada ruh Muhammad salam dan penghormatan dariku — (empat kali)**.” (Kata **«أربعاً»** tercetak **dalam kurung** — **ditulis dengan huruf**, bukan angka.)
+
+**AR:** **اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ بِعَدَدِ مَنْ صَلّٰى عَلَيْهِ مِنْ خَلْقِكَ، وَصَلِّ عَلَيْهِ بِعَدَدِ مَنْ لَمْ يُصَلِّ عَلَيْهِ مِنْ خَلْقِكَ، وَصَلِّ عَلٰى مُحَمَّدٍ كَمَا تَنْبَغِى الصَّلَاةُ عَلَيْهِ، وَصَلِّ عَلٰى مُحَمَّدٍ كَمَا تَجِبُ الصَّلَاةُ عَلَيْهِ، وَصَلِّ عَلٰى مُحَمَّدٍ كَمَا اَمَرْتَنَا بِالصَّلَاةِ عَلَيْهِ**.
+
+**LAT:** allāhumma ṣalli ‘alā Muḥammadin bi-‘adadi man ṣallā ‘alayhi min khalqika, wa-ṣalli ‘alayhi bi-‘adadi man lam yuṣalli ‘alayhi min khalqika, wa-ṣalli ‘alā Muḥammadin kamā tanbaghī al-ṣalātu ‘alayhi, wa-ṣalli ‘alā Muḥammadin kamā tajibu al-ṣalātu ‘alayhi, wa-ṣalli ‘alā Muḥammadin kamā amartanā bi-al-ṣalāti ‘alayhi.
+
+**ID:** “**Ya Allah, bersalawatlah atas Muhammad sebanyak orang yang bersalawat kepadanya dari makhluk-Mu, dan bersalawatlah kepadanya sebanyak orang yang tidak bersalawat kepadanya dari makhluk-Mu, dan bersalawatlah atas Muhammad sebagaimana salawat yang sepatutnya, dan bersalawatlah atas Muhammad sebagaimana salawat yang wajib atasnya, dan bersalawatlah atas Muhammad sebagaimana Engkau memerintahkan kami bersalawat kepadanya**.”
+
+**AR:** **صَلَّى اللهُ عَلَى النَّبِىِّ الْمُخْتَارِ وَعَلٰى آلِ بَيْتِهِ الْاَبْرَارِ وَصَحْبِهِ الْاَخْيَارِ**.
+
+**LAT:** ṣallā allāhu ‘alā al-nabiyyi al-mukhtāri wa-‘alā āli baytihi al-abrāri wa-ṣaḥbihi al-akhyāri.
+
+**ID:** “**Semoga Allah bersalawat atas Nabi yang terpilih, atas keluarga rumahnya yang saleh, dan para sahabatnya yang terbaik**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ وَعَلٰى آلِ مُحَمَّدٍ، وَبَارِكْ عَلٰى مُحَمَّدٍ وَعَلٰى آلِ مُحَمَّدٍ، وَارْحَمْ مُحَمَّدًا وَآلَ مُحَمَّدٍ، كَمَا صَلَّيْتَ وَبَارَكْتَ وَتَرَحَّمْتَ عَلٰى اِبْرَاهِيْمَ وَآلِ اِبْرَاهِيْمَ اِنَّكَ حَمِيْدٌ مَجِيْدٌ**.
+
+**LAT:** allāhumma ṣalli ‘alā Muḥammadin wa-‘alā āli Muḥammadin, wa-bārik ‘alā Muḥammadin wa-‘alā āli Muḥammadin, wa-irḥam Muḥammadan wa-āla Muḥammadin, kamā ṣallayta wa-bārakta wa-taraḥḥamta ‘alā Ibrāhīma wa-āli Ibrāhīma innaka ḥamīdun majīdun.
+
+**ID:** “**Ya Allah, bersalawatlah atas Muhammad dan keluarga Muhammad, berkahilah Muhammad dan keluarga Muhammad, dan rahmatilah Muhammad dan keluarga Muhammad, sebagaimana Engkau bersalawat, memberkahi, dan merahmati Ibrāhīm dan keluarga Ibrāhīm; sesungguhnya Engkau Maha Terpuji lagi Mahamulia**.” (**Tiga fi‘l digabung** dalam satu kalimat.)
+
+**AR:** **اَللّٰهُمَّ اجْعَلْ صَلَوَاتِكَ وَبَرَكَاتِكَ وَرَحْمَتَكَ عَلٰى سَيِّدِ الْمُرْسَلِيْنَ وَاِمَامِ الْمُتَّقِيْنَ مُحَمَّدٍ عَبْدِكَ وَرَسُوْلِكَ اِمَامِ الْخَيْرِ وَقَائِدِ الْخَيْرِ وَرَسُوْلِ الرَّحْمَةِ. اَللّٰهُمَّ ابْعَثْهُ مَقَامًا مَحْمُوْدًا يَغْبِطُهُ الْاَوَّلُوْنَ وَالْآخِرُوْنَ**.
+
+**LAT:** allāhumma ij‘al ṣalawātika wa-barakātika wa-raḥmatika ‘alā sayyidi al-mursalīna wa-imāmi al-muttaqīna Muḥammadin ‘abdika wa-rasūlika imāmi al-khayri wa-qā’idi al-khayri wa-rasūli al-raḥmati. allāhumma ib‘athhu maqāman maḥmūdan yaghbiṭuhu al-awwalūna wa-al-ākhirūna.
+
+**ID:** “**Ya Allah, jadikanlah salawat, berkah, dan rahmat-Mu atas penghulu para rasul dan imam orang-orang bertakwa, Muhammad, hamba dan rasul-Mu, imam kebaikan, pemimpin kebaikan, dan rasul rahmat. Ya Allah, bangkitkanlah ia pada kedudukan yang terpuji yang membuat orang-orang terdahulu dan terakhir iri**.” (**Isyarat Q.S. al-Isrā’ ١٧:٧٩** — **tanpa nomor**.)
+
+**AR:** **اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ وَعَلٰى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلٰى آلِ اِبْرَاهِيْمَ اِنَّكَ حَمِيْدٌ مَجِيْدٌ**.
+
+**LAT:** allāhumma ṣalli ‘alā Muḥammadin wa-‘alā āli Muḥammadin kamā ṣallayta ‘alā āli Ibrāhīma innaka ḥamīdun majīdun.
+
+**ID:** “**Ya Allah, bersalawatlah atas Muhammad dan keluarga Muhammad sebagaimana Engkau bersalawat atas keluarga Ibrāhīm; sesungguhnya Engkau Maha Terpuji lagi Mahamulia**.”
+
+**AR:** **وَصَلَّى اللهُ عَلٰى مُحَمَّدٍ وَعَلٰى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلٰى اِبْرَاهِيْمَ وَآلِ اِبْرَاهِيْمَ اِنَّكَ حَمِيْدٌ مَجِيْدٌ**.
+
+**LAT:** wa-ṣallā allāhu ‘alā Muḥammadin wa-‘alā āli Muḥammadin kamā ṣallayta ‘alā Ibrāhīma wa-āli Ibrāhīma innaka ḥamīdun majīdun.
+
+**ID:** “**Dan semoga Allah bersalawat atas Muhammad dan keluarga Muhammad sebagaimana Engkau bersalawat atas Ibrāhīm dan keluarga Ibrāhīm; sesungguhnya Engkau Maha Terpuji lagi Mahamulia**.” (**Bentuk berita**, bukan permohonan — sama dengan **bentuk ٣٤ (c)** di p.497 tetapi **tanpa «اللهم»**.)
+
+**AR:** **اَللّٰهُمَّ اجْعَلْ صَلَوَاتِكَ وَبَرَكَاتِكَ عَلٰى اَحْمَدَ كَمَا جَعَلْتَهَا عَلٰى آلِ اِبْرَاهِيْمَ اِنَّكَ حَمِيْدٌ مَجِيْدٌ**.
+
+**LAT:** allāhumma ij‘al ṣalawātika wa-barakātika ‘alā Aḥmada kamā ja‘altahā ‘alā āli Ibrāhīma innaka ḥamīdun majīdun.
+
+**ID:** “**Ya Allah, jadikanlah salawat dan berkah-Mu atas Aḥmad (Nabi) sebagaimana Engkau menjadikannya atas keluarga Ibrāhīm; sesungguhnya Engkau Maha Terpuji lagi Mahamulia**.” (**Memakai nama «أحمد»**.)
+
+**AR:** **اَللّٰهُمَّ اجْعَلْ صَلَوَاتِكَ وَبَرَكَاتِكَ عَلٰى مُحَمَّدٍ كَمَا جَعَلْتَهَا عَلٰى آلِ اِبْرَاهِيْمَ اِنَّكَ حَمِيْدٌ مَجِيْدٌ**.
+
+**LAT:** allāhumma ij‘al ṣalawātika wa-barakātika ‘alā Muḥammadin kamā ja‘altahā ‘alā āli Ibrāhīma innaka ḥamīdun majīdun.
+
+**ID:** “**Ya Allah, jadikanlah salawat dan berkah-Mu atas Muhammad sebagaimana Engkau menjadikannya atas keluarga Ibrāhīm; sesungguhnya Engkau Maha Terpuji lagi Mahamulia**.” (**Sama dengan bentuk sebelumnya**, hanya **«أحمد» → «محمد»**.)
+
+**AR:** **اَلسَّلَامُ عَلَيْكَ اَيُّهَا النَّبِىُّ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ وَمَغْفِرَتُهُ وَرِضْوَانُ اللهِ**.
+
+**LAT:** al-salāmu ‘alayka ayyuhā al-nabiyyu wa-raḥmatu allāhi wa-barakātuhu wa-maghfiratuhu wa-riḍwānu allāhi.
+
+**ID:** “**Salam atasmu, wahai Nabi, beserta rahmat Allah, berkah-Nya, ampunan-Nya, dan keridaan Allah**.” (**Bentuk salam** — **bukan** lafaz salawat.)
+
+**AR:** **اَللّٰهُمَّ اٰتِهِ فِىْ اُمَّتِهِ وَذُرِّيَّتِهِ مَا تُقِرُّ بِهِ عَيْنَهُ، وَاجْزِهِ عَنَّا خَيْرَ مَا جَزَيْتَ نَبِيًّا عَنْ اُمَّتِهِ، وَاجْزِ الْاَنْبِيَاءَ كُلَّهُمْ خَيْرًا. اَلسَّلَامُ عَلَى الْمُرْسَلِيْنَ وَالْحَمْدُ لِلّٰهِ رَبِّ الْعَالَمِيْنَ**.
+
+**LAT:** allāhumma ātihi fī ummatihi wa-dhurriyyatihi mā tuqirru bihi ‘aynahu, wa-ajzihi ‘annā khayra mā jazayta nabiyyan ‘an ummatihi, wa-ajzi al-anbiyā’a kullahum khayran. al-salāmu ‘alā al-mursalīna wa-al-ḥamdu lillāhi rabbi al-‘ālamīna.
+
+**ID:** “**Ya Allah, berikanlah kepadanya — pada umatnya dan keturunannya — apa yang menyenangkan hatinya, dan berilah ia balasan dari kami sebaik-baik balasan yang Engkau berikan kepada seorang nabi dari umatnya; dan berilah balasan kebaikan kepada semua nabi. Salam atas para rasul, dan segala puji bagi Allah Tuhan semesta alam**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ وَعَلٰى آلِهِ وَاَصْحَابِهِ وَاَوْلَادِهِ وَاَهْلِ بَيْتِهِ وَذُرِّيَّتِهِ وَمُحِبِّيْهِ وَتَابِعِيْهِ** (وَيَتِمُّ فِى الصَّفْحَةِ التَّالِيَةِ)
+
+**LAT:** allāhumma ṣalli ‘alā Muḥammadin wa-‘alā ālihi wa-aṣḥābihi wa-awlādihi wa-ahli baytihi wa-dhurriyyatihi wa-muḥibbīhi wa-tābi‘īhi (wa-yatimm fī al-ṣafḥati al-tāliyati)
+
+**ID:** “**Ya Allah, bersalawatlah atas Muhammad, keluarganya, para sahabatnya, anak-anaknya, ahlulbaitnya, keturunannya, para pencintanya, dan para pengikutnya**” (**berlanjut ke halaman berikut**).
+
+**Keterangan halaman.** Halaman ini **campuran**: (1) **doa salam kepada ruh Nabi** dengan penegasan **«(أربعاً)»** — **empat kali**؛ (2) **salawat «بعدد من صلى عليه»** (menghitung **yang bersalawat** dan **yang tidak**)؛ (3) **salawat tiga fi‘l** (صلِّ/بارك/ارحم)؛ (4) **«مقاماً محموداً»**؛ (5) **tiga salawat pendek** memakai **«أحمد»** dan **«محمد»**؛ (6) **salam** dan **doa untuk Nabi serta seluruh nabi**؛ (7) **salawat panjang penutup** yang **terpotong di akhir halaman**.
+
+**Angka pada halaman ini.**
+- **Tidak ada angka Arab-Indic** — `NUMS: []`. **Satu bilangan tertulis huruf**: **«(أربعاً)»** = **empat** — **tercetak dalam kurung**؛ **bukan angka**, **dipertahankan sebagai kata**.
+- **Rujukan «مقاماً محموداً»** → **al-Isrā’ ١٧:٧٩** adalah **identifikasi pentranskripsi**, **tidak tercetak** sebagai nomor. **Tidak ada koreksi angka.**
+
+**Wafaq:** **tidak ada**؛ halaman **doa** → **tidak ada** uji penjumlahan.
+
+**[TIDAK JELAS - HALAMAN 498]** (1) **«(أربعاً)»** — **fungsi** kata ini (jumlah pengulangan? isyarat?) **tidak dijelaskan penulis**؛ **ditranskripsi apa adanya** dan **ditandai**. (2) **«رَبَّ الْحِلِّ وَالْحَرَمِ»** — **«الحِلّ»** (tanah halal) **berpasangan** dengan **«الحرم»**؛ **dibaca demikian** dan **ditandai**. (3) **«بِعَدَدِ مَنْ لَمْ يُصَلِّ عَلَيْهِ»** — **lafaz** tidak lazim (menghitung yang **tidak** bersalawat)؛ **dipertahankan**. (4) **«كَمَا صَلَّيْتَ»** pada kalimat **«وصلى الله على محمد…»** — **peralihan dari berita ke mukhatab** dalam satu kalimat؛ **dipertahankan**. (5) **«اَحْمَدَ»** tanpa **«وآل أحمد»** — **perbedaan** dari bentuk lain؛ **dipertahankan**. (6) **«وَرِضْوَانُ اللهِ»** — **ditulis «ورضوانُ»** (dengan ḍammah)؛ **dipertahankan**. (7) **Salawat terakhir terpotong**; **tidak dilengkapi** dan **disambung ke halaman berikutnya**.
+
+**Catatan (dicatat apa adanya, bukan fatwa).** Halaman **doa**؛ **tidak ada wafaq/ṭilasm**. Yang dicatat: **perintah «أبلغ روح محمد مني تحية وسلاماً (أربعاً)»** menyiratkan **praktik mengirim salam kepada ruh Nabi dengan bilangan tertentu**, tetapi **tata caranya tidak dijelaskan di halaman ini**؛ **tidak ditambahkan**.
+
+**[TIDAK ADA RAJAH - TERVERIFIKASI DARI GAMBAR SCAN]** — `get_image_info()` = `[]`؛ halaman **teks murni**.
+
+---
