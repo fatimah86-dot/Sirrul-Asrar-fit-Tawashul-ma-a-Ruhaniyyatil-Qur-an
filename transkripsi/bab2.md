@@ -11963,3 +11963,439 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 **[TIDAK ADA RAJAH - TERVERIFIKASI DARI GAMBAR SCAN]** — `get_image_info()` = `[]`؛ halaman **teks murni**.
 
 ---
+## HALAMAN 489 — lanjutan daftar terbitan (١٦ judul) + kolofon kontak «للكشف والمتابعة» (angka ٣٦٦ dikoreksi dari scan)
+
+**AR:** كِتَابُ سِرِّ الْاَسْرَارِ فِي التَّوَاصُلِ مَعَ رُوحَانِيَّاتِ الْقُرْآنِ — شَيْخُ الرُّوحَانِيِّينَ الشَّيْخُ عَطِيَّةُ عَبْدُ الْحَمِيْدِ
+
+**LAT:** kitābu sirri al-asrāri fī al-tawāṣuli ma‘a rūḥāniyyāti al-qur’āni — shaykhu al-rūḥāniyyīna al-shaykhu ‘Aṭiyyatu ‘Abdu al-Ḥamīdi
+
+**ID:** “Kitab «Sirr al-Asrār fī al-Tawāṣul ma‘a Rūḥāniyyāt al-Qur’ān» — Syaikh para ruhaniyyin, Syaikh ‘Aṭiyyah ‘Abd al-Ḥamīd.” (Kepala halaman.)
+
+**AR:** (تَكْمِلَةُ قَائِمَةِ الْاِصْدَارَاتِ مِنْ ص ٤٨٨) **«كِتَابُ الْكَفِّ وَاَسْرَارِهِ»**؛ **«كِتَابُ الْعِلَاجِ بِالْاَعْشَابِ وَكَيْفِيَّةِ الْاِسْتِفَادَةِ مِنْ كُلِّ عُشْبٍ»**؛ **«شِفَاءُ الْعَلِيْلِ بِالْفَوَائِدِ مِنَ الْقُرْآنِ وَالْاِنْجِيْلِ»**.
+
+**LAT:** (takmilatu qā’imati al-iṣdārāti min ṣ 488) «kitābu al-kaffi wa-asrārihi»؛ «kitābu al-‘ilāji bi-al-a‘shābi wa-kayfiyyati al-istifādati min kulli ‘ushbin»؛ «shifā’u al-‘alīli bi-al-fawā’idi mina al-qur’āni wa-al-injīli».
+
+**ID:** “**(Lanjutan daftar terbitan dari p.488)**: **«كتاب الكف وأسراره»**؛ **«كتاب العلاج بالأعشاب وكيفية الاستفادة من كل عشب»**؛ **«شفاء العليل بالفوائد من القرآن والإنجيل»**.”
+
+**AR:** **«فَضْلُ الدُّعَاءِ وَالصَّلَاةِ عَلَى الْحَبِيْبِ»**؛ **«عَجَائِبُ الْمُعَالِجِيْنَ بِالرُّقْيَةِ وَالْمَزْمُوْرِ وَحِكَايَاتُ الْمَرْضٰى»**؛ **«كِتَابٌ خَاصٌّ بِالدُّرُوْسِ الرُّوحَانِيَّةِ بِطَرِيْقَةٍ بَسِيْطَةٍ وَمُيَسَّرَةٍ لِلْجَمِيْعِ»**.
+
+**LAT:** «faḍlu al-du‘ā’i wa-al-ṣalāti ‘alā al-ḥabībi»؛ «‘ajā’ibu al-mu‘ālijīna bi-al-ruqyati wa-al-mazmūri wa-ḥikāyātu al-marḍā»؛ «kitābun khāṣṣun bi-al-durūsi al-rūḥāniyyati bi-ṭarīqatin basīṭatin wa-muyassaratin lil-jamī‘i».
+
+**ID:** “**«فضل الدعاء والصلاة على الحبيب»**؛ **«عجائب المعالجين بالرقية والمزمور وحكايات المرضى»**؛ **«كتاب خاص بالدروس الروحانية بطريقة بسيطة وميسرة للجميع»**.”
+
+**AR:** **«كِتَابُ مُلَخَّصِ لِسِفِّيْرِ جَهَنَّمَ وَمَكَائِدِ بَنِىْ اِسْرَائِيْلَ: الـ ٣٦٦ مَكِيْدَةً بِدُوْنِ تَحْرِيْفٍ»**.
+
+**LAT:** «kitābu mulakhkhaṣi li-siffīri jahannama wa-makā’idi banī isrā’īla: al- 366 makīdatan bidūni taḥrīfin».
+
+**ID:** “**«كتاب ملخص لسفير جهنم ومكائد بني إسرائيل: الـ ٣٦٦ مكيدة بدون تحريف»**.” (**Angka dikoreksi**: lapisan teks mengekstrak **«٦٦٣»** tetapi **pindaian menunjukkan «٣٦٦»** — lihat catatan angka di bawah.)
+
+**AR:** **«كِتَابُ تَحْضِيْرِ الْاَرْوَاحِ وَسِحْرِ الْعُصُوْرِ الْوُسْطٰى»**؛ **«مُجَلَّدُ الْفَوَائِدِ الرُّوحَانِيَّةِ مُتَرْجَمٌ لِلْاِنْجِلِيْزِيَّةِ وَالْفَرَنْسِيَّةِ»**؛ **«كِتَابُ الْاَسْحَارِ فِىْ تَعْلِيْمِ الرُّوحَانِيَّاتِ لِلْمَشَايِخِ الْكِبَارِ»**.
+
+**LAT:** «kitābu taḥḍīri al-arwāḥi wa-siḥri al-‘uṣūri al-wusṭā»؛ «mujalladu al-fawā’idi al-rūḥāniyyati mutarjamun lil-injiliziyyati wa-al-faransiyyati»؛ «kitābu al-asḥāri fī ta‘līmi al-rūḥāniyyāti lil-mashāyikhi al-kibāri».
+
+**ID:** “**«كتاب تحضير الأرواح وسحر العصور الوسطى»**؛ **«مجمد الفوائد الروحانية مترجم للإنجليزية والفرنسية»**؛ **«كتاب الأسحار في تعليم الروحانيات للمشايخ الكبار»**.”
+
+**AR:** **«كِتَابُ وَادِى الْجِنِّ وَطُرُقِ التَّحْضِيْرِ وَشَرْحِ الْخَلَوَاتِ»**؛ **«كِتَابُ سِرِّ الرُّوحَانِيَّةِ فِيْمَا يَتَعَلَّقُ بِالْاُمُوْرِ الْخَفِيَّةِ»**؛ **«كِتَابُ الشَّيْخِ الْكَبِيْرِ فِىْ عِلْمِ التَّنْزِيْلِ مِنَ الْمَزْمُوْرِ وَالْاِنْجِيْلِ»**.
+
+**LAT:** «kitābu wādī al-jinni wa-ṭuruqi al-taḥḍīri wa-sharḥi al-khalawāti»؛ «kitābu sirri al-rūḥāniyyati fīmā yata‘allaqu bi-al-umūri al-khafiyyati»؛ «kitābu al-shaykhi al-kabīri fī ‘ilmi al-tanzīli mina al-mazmūri wa-al-injīli».
+
+**ID:** “**«كتاب وادي الجن وطرق التحضير وشرح الخلوات»**؛ **«كتاب سر الروحانية فيما يتعلق بالأمور الخفية»**؛ **«كتاب الشيخ الكبير في علم التنزيل من المزمور والإنجيل»**.”
+
+**AR:** **«كِتَابُ الْاَوْفَاقِ وَخَوَاصِّ كُلِّ وَفَقٍ وَكَيْفِيَّةِ عَمَلِهِ»**؛ **«كِتَابُ الْبَوَّابَةِ الْكَوْنِيَّةِ فِى اسْتِحْضَارِ الرُّوحَانِيَّةِ»**؛ **«كِتَابُ الْاَحْجَارِ الْكَرِيْمَةِ وَطُرُقِ عَمَلِ الْخَوَاتِمِ الرُّوحَانِيَّةِ لِكُلِّ شَخْصٍ وَكَيْفِيَّةِ الِانْتِفَاعِ بِهِ»**.
+
+**LAT:** «kitābu al-awfāqi wa-khawāṣṣi kulli wafaqin wa-kayfiyyati ‘amalihi»؛ «kitābu al-bawwābati al-kawniyyati fī istiḥḍāri al-rūḥāniyyati»؛ «kitābu al-aḥjāri al-karīmati wa-ṭuruqi ‘amali al-khawātimi al-rūḥāniyyati li-kulli shakhṣin wa-kayfiyyati al-intifā‘i bihi».
+
+**ID:** “**«كتاب الأوفاق وخواص كل وفق وكيفية عمله»**؛ **«كتاب البوابة الكونية في استحضار الروحانية»**؛ **«كتاب الأحجار الكريمة وطرق عمل الخواتم الروحانية لكل شخص وكيفية الانتفاع به»**.”
+
+**AR:** **«كِتَابُ ذُرْوَةِ الْاَسْرَارِ وَمَا يَتَعَلَّقُ بِطِلَاسِمِ اللَّيْلِ وَالنَّهَارِ»**؛ **«مُجَلَّدَاتُ الْجَوَاهِرِ التِّسْعَةِ الرُّوحَانِيَّةِ»**.
+
+**LAT:** «kitābu dhurwati al-asrāri wa-mā yata‘allaqu bi-ṭilāsmi al-layli wa-al-nahāri»؛ «mujalladātu al-jawāhiri al-tis‘ati al-rūḥāniyyati».
+
+**ID:** “**«كتاب ذروة الأسرار وما يتعلق بطلاسم الليل والنهار»**؛ **«مجمدات الجواهر التسعة الروحانية»** (sembilan jilid).”
+
+**AR:** **لِلْكَشْفِ وَالْمُتَابَعَةِ مَعَ شَيْخِ الرُّوحَانِيِّيْنَ فِى الْوَطَنِ الْعَرَبِىِّ — الشَّيْخُ عَطِيَّةُ عَبْدُ الْحَمِيْدِ — ٠٠٢٠١٢٦٢٠٢٢٢٣٨**
+
+**LAT:** lil-kashfi wa-al-mutāba‘ati ma‘a shaykhi al-rūḥāniyyīna fī al-waṭani al-‘arabiyyi — al-shaykhu ‘Aṭiyyatu ‘Abdu al-Ḥamīdi — 00201262022238
+
+**ID:** “**Untuk kasyf dan pemantauan bersama Syaikh para ruhaniyyin di Tanah Arab — Syaikh ‘Aṭiyyah ‘Abd al-Ḥamīd — ٠٠٢٠١٢٦٢٠٢٢٢٣٨**.”
+
+**Keterangan halaman.** Halaman ini **melanjutkan daftar terbitan** p.488 (tanpa judul pembuka baru — langsung judul-judul) dan ditutup **kolofon kontak**. **١٦ judul** pada halaman ini؛ nomor **tidak dicetak** — urutan di atas **tidak diberi nomor** oleh pentranskripsi karena melanjutkan penomoran halaman sebelumnya.
+
+**Angka pada halaman ini.**
+- **٣٦٦** pada «الـ ٣٦٦ مكيدة» — **DIKOREKSI**. Lapisan teks mengekstrak **«٦٦٣»** (Rect(164, 221, 195, 246))، tetapi **pindaian** (diperiksa pada crop **1200 DPI**, Rect(150, 200, 470, 265)) menunjukkan **«٣٦٦»**. Ini **pola yang sama** dengan p.455 pada Batch 22؛ **angka cetakan dipertahankan ٣٦٦**.
+- **التِّسْعَة** (sembilan) pada «الجواهر التسعة» — **ditulis dengan huruf**, bukan angka؛ dipertahankan.
+- Kontak **٠٠٢٠١٢٦٢٠٢٢٢٣٨** — **cocok** antara lapisan teks (Rect(241, 625, 373, 650)) dan pindaian (crop 1400 DPI). **Perhatikan**: pada halaman **sebelumnya** (p.487) kontak yang tercetak adalah **٨٣٢٢٢٠٢٦١٠٢٠٠**؛ **kedua bentuk dipertahankan** apa adanya dan **dicatat** (sama seperti p.453–455/462 vs p.466).
+
+**Wafaq:** **tidak ada**؛ halaman **daftar judul + kolofon** → **tidak ada** uji penjumlahan.
+
+**[TIDAK JELAS - HALAMAN 489]** (1) **«كِتَابُ الْكَفِّ وَاَسْرَارِهِ»** — judul **tanpa keterangan isi**؛ **dipertahankan**. (2) **«مُجَلَّدُ الْفَوَائِدِ الرُّوحَانِيَّةِ»** — lapisan teks **tidak menyebut** kata «مجمد»/«مجمدات» secara konsisten؛ **dibaca «مجمد»** sesuai cetakan dan **ditandai** (kemungkinan **«مجموع»**؛ **tidak dikoreksi**). (3) **«الْخَلَوَاتِ»** — istilah **khalwah** (uzlah)؛ **dipertahankan** apa adanya. (4) **«التَّنْزِيْلِ مِنَ الْمَزْمُوْرِ»** — **istilah** tidak dijelaskan؛ **dipertahankan**. (5) **«الْبَوَّابَةِ الْكَوْنِيَّةِ»** — **lafaz** cetakan؛ **dipertahankan**. (6) **«ذُرْوَةِ الْاَسْرَارِ»** — judul ini **juga muncul** pada daftar p.455؛ **pengulangan cetakan dicatat**, **tidak dihapus**. (7) **Kontak berbeda** dengan p.487 (**٠٠٢…** vs **٨٣٢٢…**) — **keduanya dipertahankan**, **tidak disatukan**.
+
+**Peringatan (dicatat apa adanya, bukan fatwa).** Daftar ini **mempromosikan** buku-buku **perjinaan, sihir, dan ramalan** (mis. **«تحضير الأرواح وسحر العصور الوسطى»**، **«البوابة الكونية في استحضار الروحانية»**). Dicatat sebagai **isi cetakan**؛ pemuatan daftar **bukan pengesahan**.
+
+**[TIDAK ADA RAJAH - TERVERIFIKASI DARI GAMBAR SCAN]** — `get_image_info()` = `[]`؛ halaman **teks murni**.
+
+---
+## HALAMAN 490 — halaman judul bagian baru: «ذكر الصلاة على أشرف الخلائق» (bingkai ornamen) + kontak 0020162022238
+
+**AR:** كِتَابُ سِرِّ الْاَسْرَارِ فِي التَّوَاصُلِ مَعَ رُوحَانِيَّاتِ الْقُرْآنِ — شَيْخُ الرُّوحَانِيِّينَ الشَّيْخُ عَطِيَّةُ عَبْدُ الْحَمِيْدِ
+
+**LAT:** kitābu sirri al-asrāri fī al-tawāṣuli ma‘a rūḥāniyyāti al-qur’āni — shaykhu al-rūḥāniyyīna al-shaykhu ‘Aṭiyyatu ‘Abdu al-Ḥamīdi
+
+**ID:** “Kitab «Sirr al-Asrār fī al-Tawāṣul ma‘a Rūḥāniyyāt al-Qur’ān» — Syaikh para ruhaniyyin, Syaikh ‘Aṭiyyah ‘Abd al-Ḥamīd.” (Kepala halaman.)
+
+**Rajah:** ![Rajah hal. 490 — halaman judul berbingkai ornamen tumbuhan (sulur dan kuntum simetris di keempat sisi), berisi teks «ذكر الصلاة على أشرف الخلائق» / «شيخ الروحانيين فى الوطن العربى» / «الشيخ عطية عبد الحميد» / «للمتابعة والتواصل» / «0020162022238»](../assets/rajah/sirrul-asrar/hal-490-rajah-01.png)
+
+**AR:** **ذِكْرُ الصَّلَاةِ عَلٰى اَشْرَفِ الْخَلَائِقِ**
+
+**LAT:** dhikru al-ṣalāti ‘alā ashrafi al-khalā’iqi
+
+**ID:** “**Dzikir Salawat atas Makhluk yang Paling Mulia.**” (Judul bagian/halaman judul.)
+
+**AR:** **شَيْخُ الرُّوحَانِيِّيْنَ فِى الْوَطَنِ الْعَرَبِىِّ — الشَّيْخُ عَطِيَّةُ عَبْدُ الْحَمِيْدِ — لِلْمُتَابَعَةِ وَالتَّوَاصُلِ — ٠٠٢٠١٦٢٠٢٢٢٣٨**
+
+**LAT:** shaykhu al-rūḥāniyyīna fī al-waṭani al-‘arabiyyi — al-shaykhu ‘Aṭiyyatu ‘Abdu al-Ḥamīdi — lil-mutāba‘ati wa-al-tawāṣuli — 0020162022238
+
+**ID:** “**Syaikh para ruhaniyyin di Tanah Arab — Syaikh ‘Aṭiyyah ‘Abd al-Ḥamīd — untuk pemantauan dan komunikasi — ٠٠٢٠١٦٢٠٢٢٢٣٨**.”
+
+**AR:** (خُلَاصَةُ الصَّفْحَةِ) هٰذِهِ **صَفْحَةُ عُنْوَانٍ** لِبَابٍ جَدِيْدٍ («ذِكْرُ الصَّلَاةِ عَلٰى اَشْرَفِ الْخَلَائِقِ»)، مُزَيَّنَةٌ بِاِطَارٍ زَخْرَفِيٍّ نَبَاتِىٍّ، وَتَحْتَ الْعُنْوَانِ **بَيَانُ الْمُؤَلِّفِ وَرَقْمُ التَّوَاصُلِ** فَقَطْ — **بِلَا نَصٍّ آخَرَ**.
+
+**LAT:** (khulāṣatu al-ṣafḥati) hādhihi ṣafḥatu ‘unwānin li-bābin jadīdin (dhikru al-ṣalāti ‘alā ashrafi al-khalā’iqi), muzayyanatun bi-iṭārin zakhrafiyyin nabātiyyin, wa-taḥta al-‘unwāni bayānu al-mu’allifi wa-raqmu al-tawāṣuli faqaṭ — bilā naṣṣin ākhara.
+
+**ID:** “**(Ringkasan halaman)** ini adalah **halaman judul** untuk **bab baru** («Dzikir Salawat atas Makhluk yang Paling Mulia»), **dihiasi bingkai ornamen tumbuhan**؛ dan di bawah judul hanya ada **keterangan penulis dan nomor kontak** — **tanpa teks lain**.”
+
+**Keterangan halaman.** (1) **Halaman judul** bab baru; (2) **bingkai ornamen** tumbuhan (sulur + kuntum) mengelilingi kotak teks؛ (3) **isi kotak**: judul, identitas penulis, dan **kontak**؛ (4) **seluruh isi halaman adalah gambar** (citra tertanam) — **lapisan teks hanya memuat kepala halaman** (nama kitab + nama penulis) dan **tidak** memuat teks di dalam bingkai.
+
+**Angka pada halaman ini.** **٠٠٢٠١٦٢٠٢٢٢٣٨** dibaca dari **crop 1200 DPI** dan **cocok** dengan angka pada citra: **0020162022238**. **Perhatikan**: pada **p.489** (kolofon daftar terbitan) tercetak **٠٠٢٠١٢٦٢٠٢٢٢٣٨** — **berbeda satu digit**؛ **keduanya dipertahankan** sebagaimana tercetak, **tidak disatukan** dan **tidak dikoreksi**. (Lapisan teks halaman ini **tidak** mengekstrak angka apa pun karena seluruh isi berupa citra.)
+
+**Wafaq:** **tidak ada**؛ halaman **judul bergambar** → **tidak ada** uji penjumlahan.
+
+**[TIDAK JELAS - HALAMAN 490]** (1) **Teks di dalam bingkai seluruhnya berupa citra** — **tidak dapat diperiksa lewat lapisan teks**؛ dibaca dari **crop 700 DPI** dan **1200 DPI** untuk angka. (2) **«ذِكْرُ الصَّلَاةِ»** — **istilah** (dzikir salawat)؛ **dipertahankan**. (3) **«اَشْرَفِ الْخَلَائِقِ»** — **bentuk jamak**؛ **dipertahankan**. (4) **Ornamen bingkai** — **motif** dideskripsikan secara umum (sulur/kuntum)؛ **tidak ditafsirkan maknanya**. (5) **Beda nomor kontak** dengan p.489 dan p.487 — **tiga varian** kini tercatat: **٨٣٢٢٢٠٢٦١٠٢٠٠** (p.487)، **٠٠٢٠١٢٦٢٠٢٢٢٣٨** (p.489)، **٠٠٢٠١٦٢٠٢٢٢٣٨** (p.490)؛ **semuanya dipertahankan**. (6) **Ketiadaan teks lain** — dikonfirmasi dari pindaian penuh؛ **tidak ada yang ditambahkan**. (7) **Posisi bingkai** — menyisakan ruang kosong lebar di bawah halaman؛ **dipertahankan** (tata letak cetakan).
+
+**Catatan (dicatat apa adanya, bukan fatwa).** Halaman judul ini membuka **bab dzikir salawat**؛ pemuatan **kontak layanan kasyf** di dalam bingkai judul **dicatat sebagai isi cetakan**.
+
+**[ADA RAJAH]** — 1 crop: `assets/rajah/sirrul-asrar/hal-490-rajah-01.png` (700 DPI, Rect(111, 69, 502, 603)) — **seluruh halaman** karena isinya satu citra besar.
+
+---
+## HALAMAN 491 — «في ذكر الصلاة على أشرف الخلائق»: mukadimah + «فضل الصلاة على النبي» (Q.S. al-Aḥzāb 33:43, 44, 56) + riwayat Abu Hurayrah + kisah Sufyān al-Thawrī
+
+**AR:** كِتَابُ سِرِّ الْاَسْرَارِ فِي التَّوَاصُلِ مَعَ رُوحَانِيَّاتِ الْقُرْآنِ — شَيْخُ الرُّوحَانِيِّينَ الشَّيْخُ عَطِيَّةُ عَبْدُ الْحَمِيْدِ
+
+**LAT:** kitābu sirri al-asrāri fī al-tawāṣuli ma‘a rūḥāniyyāti al-qur’āni — shaykhu al-rūḥāniyyīna al-shaykhu ‘Aṭiyyatu ‘Abdu al-Ḥamīdi
+
+**ID:** “Kitab «Sirr al-Asrār fī al-Tawāṣul ma‘a Rūḥāniyyāt al-Qur’ān» — Syaikh para ruhaniyyin, Syaikh ‘Aṭiyyah ‘Abd al-Ḥamīd.” (Kepala halaman.)
+
+**AR:** فِىْ **ذِكْرِ الصَّلَاةِ عَلٰى اَشْرَفِ الْخَلَائِقِ الْاِنْسَانِىِّ سَيِّدِنَا مُحَمَّدٍ الْمُصْطَفَى الْعَدْنَانِىِّ**
+
+**LAT:** fī dhikri al-ṣalāti ‘alā ashrafi al-khalā’iqi al-insāniyyi sayyidinā Muḥammadin al-muṣṭafā al-‘adnāniyyi
+
+**ID:** “**Tentang Dzikir Salawat atas Makhluk yang Paling Mulia dari Bangsa Manusia, Penghulu Kami Muhammad al-Muṣṭafā al-‘Adnānī**.” (Judul bab; ditulis dalam **kurung siku** pada cetakan.)
+
+**AR:** فَاَسْئَلُ اللهَ تَعَالٰى اَنْ **يَجْعَلَ جَمْعِىْ لَهُ خَالِصًا لِوَجْهِهِ الْكَرِيْمِ**، وَ**مَحَبَّةً فِىْ نَبِيِّهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ**، وَ**اَنْ يَجْعَلَنَا مِنْ خِيَارِ الْمُصَلِّيْنَ وَالْمُسَلِّمِيْنَ عَلَيْهِ**، فَاِنَّهُ **عَلٰى ذٰلِكَ قَدِيْرٌ، لَا اِلٰهَ غَيْرُهُ، وَهُوَ حَسْبِىْ وَنِعْمَ الْوَكِيْلُ، وَلَا حَوْلَ وَلَا قُوَّةَ اِلَّا بِاللهِ، وَلَا مَلْجَاَ مِنَ اللهِ اِلَّا اِلَيْهِ**.
+
+**LAT:** fa-as’alu allāha ta‘ālā an yaj‘ala jam‘ī lahu khāliṣan li-wajhihi al-karīmi, wa-maḥabbatan fī nabiyyihi ṣallā allāhu ‘alayhi wa-sallama, wa-an yaj‘alanā min khiyāri al-muṣallīna wa-al-musallimīna ‘alayhi, fa-innahu ‘alā dhālika qadīrun, lā ilāha ghayruhu, wa-huwa ḥasbī wa-ni‘ma al-wakīlu, wa-lā ḥawla wa-lā quwwata illā bi-allāhi, wa-lā malja’a mina allāhi illā ilayhi.
+
+**ID:** “Maka aku memohon kepada Allah Ta‘ālā agar **menjadikan kumpulanku ini ikhlas karena wajah-Nya yang mulia**, dan **cinta kepada Nabi-Nya ﷺ**, serta **menjadikan kami termasuk sebaik-baik orang yang bersalawat dan bersalam kepadanya**؛ sesungguhnya Dia **Mahakuasa atas itu, tiada tuhan selain Dia, dan Dia adalah hasbī (penolongku) dan sebaik-baik pelindung; tiada daya dan kekuatan kecuali dengan Allah, dan tidak ada tempat berlindung dari Allah kecuali kepada-Nya**.”
+
+**AR:** فَضْلُ الصَّلَاةِ عَلَى النَّبِىِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ
+
+**LAT:** faḍlu al-ṣalāti ‘alā al-nabiyyi ṣallā allāhu ‘alayhi wa-sallama
+
+**ID:** “**Keutamaan Salawat atas Nabi ﷺ.**” (Subjudul.)
+
+**AR:** فَقَدْ قَالَ فِىْ حَقِّهِ مَنْ **جَمَعَ بَيْنَ خَلْقِهِ وَخُلُقِهِ**: «**وَكَانَ بِالْمُؤْمِنِيْنَ رَحِيْمًا**» [**الْاَحْزَاب ٣٤**]، وَ**بَشَّرَ مَنْ صَلّٰى عَلَيْهِ مِنْ اُمَّتِهِ بِالْفَضْلِ فِىْ جَنَّتِهِ بِالْاِكْرَامِ** فَقَالَ اللهُ تَعَالٰى: «**تَحِيَّتُهُمْ يَوْمَ يَلْقَوْنَهُ سَلَامٌ وَاَعَدَّ لَهُمْ اَجْرًا كَرِيْمًا**» [**الْاَحْزَاب ٤٤**].
+
+**LAT:** fa-qad qāla fī ḥaqqihi man jama‘a bayna khalqihi wa-khuluqihi: «wa-kāna bi-al-mu’minīna raḥīman» [al-aḥzāb 34]، wa-bashshara man ṣallā ‘alayhi min ummatihi bi-al-faḍli fī jannatihi bi-al-ikrāmi fa-qāla allāhu ta‘ālā: «taḥiyyatuhum yawma yalqawnahu salāmun wa-a‘adda lahum ajran karīman» [al-aḥzāb 44].
+
+**ID:** “Sungguh telah berfirman tentang dirinya Dia yang **menghimpun dalam diri-Nya «khalk» (ciptaan) dan «khuluq» (akhlak)**: «**وَكَانَ بِالْمُؤْمِنِينَ رَحِيمًا**» [**al-Aḥzāb ٣٤**]؛ dan **memberi kabar gembira kepada siapa yang bersalawat kepadanya dari umatnya dengan keutamaan di surga-Nya dan kemuliaan**, maka Allah Ta‘ālā berfirman: «**تَحِيَّتُهُمْ يَوْمَ يَلْقَوْنَهُ سَلَامٌ وَأَعَدَّ لَهُمْ أَجْرًا كَرِيمًا**» [**al-Aḥzāb ٤٤**].”
+
+**AR:** **فَيَا مَعْشَرَ الْعُصَاةِ مَا اَغْفَلَكُمْ عَنِ الصَّلَاةِ عَلَيْهِ!** فَاِنَّهَا **تُكَفِّرُ ذَنْبًا عَظِيْمًا وَتُوَرِّثُ عِزًّا وَتَكْرِيْمًا**، فَاَكْثِرُوْا مِنَ الصَّلَاةِ عَلَيْهِ، وَ**افْعَلُوْا مَا نَدَبَكُمْ مَوْلَاكُمْ اِلَيْهِ تَلْقَوْنَ جَنَّةً وَنَعِيْمًا**، وَ**تَجَنَّبُوْنَ عَذَابًا وَجَحِيْمًا**، وَقَدْ **اَمَرَ اللهُ بِالصَّلَاةِ عَلَيْهِ تَنْبِيْهًا لَنَا وَتَفْهِيْمًا وَتَذْكِيْرًا لَنَا وَتَعْلِيْمًا**: «**اِنَّ اللهَ وَمَلَائِكَتَهُ يُصَلُّوْنَ عَلَى النَّبِىِّ، يَا اَيُّهَا الَّذِيْنَ اٰمَنُوْا صَلُّوْا عَلَيْهِ وَسَلِّمُوْا تَسْلِيْمًا**» [**الْاَحْزَاب ٥٦**].
+
+**LAT:** fa-yā ma‘shara al-‘uṣāti mā aghfalakum ‘ani al-ṣalāti ‘alayhi! fa-innahā tukaffiru dhanban ‘aẓīman wa-tūrithu ‘izzan wa-takrīman, fa-akthirū mina al-ṣalāti ‘alayhi, wa-af‘alū mā nadabakum mawlākum ilayhi talqawna jannatan wa-na‘īman, wa-tajannabūna ‘adhāban wa-jaḥīman, wa-qad amara allāhu bi-al-ṣalāti ‘alayhi tanbīhan lanā wa-tafhīman wa-tadhkīran lanā wa-ta‘līman: «inna allāha wa-malā’ikatahu yuṣallūna ‘alā al-nabiyyi, yā ayyuhā alladhīna āmanū ṣallū ‘alayhi wa-sallimū taslīman» [al-aḥzāb 56].
+
+**ID:** “**Maka wahai golongan para pendurhaka, alangkah lalainya kalian dari salawat kepadanya!** Sesungguhnya salawat itu **menghapus dosa yang besar dan mewariskan kemuliaan serta penghormatan**؛ maka perbanyaklah salawat kepadanya, dan **lakukanlah apa yang dianjurkan Tuhanmu kepada kalian, niscaya kalian menjumpai surga dan kenikmatan**, dan **terjauhkan dari azab serta jahim**؛ dan sungguh **Allah memerintahkan salawat kepadanya sebagai peringatan, pemahaman, pengingat, dan pengajaran bagi kita**: «**إِنَّ اللَّهَ وَمَلَائِكَتَهُ يُصَلُّونَ عَلَى النَّبِيِّ، يَا أَيُّهَا الَّذِينَ آمَنُوا صَلُّوا عَلَيْهِ وَسَلِّمُوا تَسْلِيمًا**» [**al-Aḥzāb ٥٦**].”
+
+**AR:** وَ**رَوٰى اَبُوْ هُرَيْرَةَ رَضِىَ اللهُ عَنْهُ عَنِ النَّبِىِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ اَنَّهُ قَالَ**: «**صَلُّوْا عَلَىَّ، فَاِنَّ صَلَاتَكُمْ عَلَىَّ زَكَاةٌ لَكُمْ، وَاسْئَلُوا اللهَ تَعَالٰى لِىَ الْوَسِيْلَةَ**» — **قَالُوْا: يَا رَسُوْلَ اللهِ، وَمَا الْوَسِيْلَةُ؟** — **قَالَ**: «**اَعْلٰى دَرَجَةٍ فِى الْجَنَّةِ، لَا يَنَالُهَا اِلَّا رَجُلٌ وَاحِدٌ، وَاَنَا اَرْجُوْ اَنْ اَكُوْنَ ذٰلِكَ الرَّجُلَ**».
+
+**LAT:** wa-rawā Abū Hurayrata raḍiya allāhu ‘anhu ‘ani al-nabiyyi ṣallā allāhu ‘alayhi wa-sallama annahu qāla: «ṣallū ‘alayya, fa-inna ṣalātakum ‘alayya zakātun lakum, wa-s’alū allāha ta‘ālā liya al-wasīlata» — qālū: yā rasūla allāhi, wa-mā al-wasīlatu? — qāla: «a‘lā darajatin fī al-jannati, lā yanāluhā illā rajulun wāḥidun, wa-anā arjū an akūna dhālika al-rajula».
+
+**ID:** “Dan **Abū Hurayrah رضي الله عنه meriwayatkan dari Nabi ﷺ bahwa beliau bersabda**: «**Bersalawatlah kepadaku, karena salawat kalian kepadaku adalah zakat bagi kalian; dan mintakanlah kepada Allah Ta‘ālā untukku «al-wasīlah»**» — **mereka bertanya: «Wahai Rasulullah, apa itu al-wasīlah?»** — **beliau menjawab**: «**Derajat tertinggi di surga yang tidak dicapai kecuali oleh satu orang saja, dan aku berharap akulah orang itu**».”
+
+**AR:** وَ**قَالَ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ**: «**مَنْ صَلّٰى عَلَىَّ صَلَاةً وَاحِدَةً صَلَّى اللهُ عَلَيْهِ عَشْرَ مَرَّاتٍ، وَمَنْ صَلّٰى عَلَىَّ عَشْرَ مَرَّاتٍ صَلَّى اللهُ عَلَيْهِ مِائَةَ مَرَّةٍ**».
+
+**LAT:** wa-qāla ṣallā allāhu ‘alayhi wa-sallama: «man ṣallā ‘alayya ṣalātan wāḥidatan ṣallā allāhu ‘alayhi ‘ashra marrātin, wa-man ṣallā ‘alayya ‘ashra marrātin ṣallā allāhu ‘alayhi mi’ata marratin».
+
+**ID:** “Dan **beliau ﷺ bersabda**: «**Barangsiapa bersalawat kepadaku satu kali, Allah bersalawat kepadanya sepuluh kali; dan barangsiapa bersalawat kepadaku sepuluh kali, Allah bersalawat kepadanya seratus kali**».”
+
+**AR:** وَ**قَالَ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ**: «**مَنْ صَلّٰى عَلَىَّ صَلَاةً مِنْ تِلْقَاءِ نَفْسِهِ صَلَّى اللهُ عَلَيْهِ عَشْرَ صَلَوَاتٍ، وَكُتِبَ لَهُ عَشْرُ حَسَنَاتٍ، وَحُطَّ عَنْهُ عَشْرُ خَطِيَّاتٍ، وَرُفِعَ لَهُ عَشْرُ دَرَجَاتٍ**».
+
+**LAT:** wa-qāla ṣallā allāhu ‘alayhi wa-sallama: «man ṣallā ‘alayya ṣalātan min tilqā’i nafsihi ṣallā allāhu ‘alayhi ‘ashra ṣalawātin, wa-kutiba lahu ‘ashru ḥasanātin, wa-ḥuṭṭa ‘anhu ‘ashru khaṭī’ātin, wa-rufi‘a lahu ‘ashru darajātin».
+
+**ID:** “Dan **beliau ﷺ bersabda**: «**Barangsiapa bersalawat kepadaku satu kali dengan kesadaran sendiri, Allah bersalawat kepadanya sepuluh kali, dituliskan baginya sepuluh kebaikan, dihapus darinya sepuluh kesalahan, dan diangkat baginya sepuluh derajat**».”
+
+**AR:** وَ**قَالَ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ**: «**اَكْثِرُوْا عَلَىَّ مِنَ الصَّلَاةِ فِىْ يَوْمِ الْجُمُعَةِ، فَاِنَّ صَلَاةَ اُمَّتِىْ تُعْرَضُ عَلَىَّ فِىْ يَوْمِ الْجُمُعَةِ، فَمَنْ كَانَ اَكْثَرَهُمْ عَلَىَّ صَلَاةً كَانَ اَقْرَبَهُمْ مِنِّىْ مَنْزِلَةً**».
+
+**LAT:** wa-qāla ṣallā allāhu ‘alayhi wa-sallama: «akthirū ‘alayya mina al-ṣalāti fī yawmi al-jumu‘ati, fa-inna ṣalāta ummatī tu‘raḍu ‘alayya fī yawmi al-jumu‘ati, fa-man kāna aktharahum ‘alayya ṣalātan kāna aqrabahum minnī manzilatan».
+
+**ID:** “Dan **beliau ﷺ bersabda**: «**Perbanyaklah salawat kepadaku pada hari Jumat, karena salawat umatku diperlihatkan kepadaku pada hari Jumat; maka siapa yang paling banyak bersalawat kepadaku, dialah yang paling dekat kedudukannya denganku**».”
+
+**AR:** **قَالَ سُفْيَانُ الثَّوْرِىُّ رَضِىَ اللهُ عَنْهُ**: **رَاَيْتُ رَجُلًا فِى الْبَادِيَةِ لَا يَرْفَعُ قَدَمًا وَلَا يَضَعُ اُخْرٰى اِلَّا وَهُوَ يُصَلِّىْ عَلَى النَّبِىِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ**، فَقُلْتُ: **يَا هٰذَا، قَدْ تَرَكْتَ التَّسْبِيْحَ وَالتَّهْلِيْلَ وَاَقْبَلْتَ بِالصَّلَاةِ عَلَى النَّبِىِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، فَهَلْ عِنْدَكَ مِنْ هٰذَا شَىْءٌ؟** قَالَ: **مَنْ اَنْتَ؟** قُلْتُ: **اَنَا سُفْيَانُ الثَّوْرِىُّ**، فَقَالَ: **لَوْلَا اَنَّكَ غَرِيْبٌ فِىْ اَهْلِ زَمَانِكَ مَا كَشَفْتُ عَنْ حَالِىْ وَلَا اَطْلَعْتُكَ عَلٰى سِرِّىْ**، ثُمَّ قَالَ: **خَرَجْتُ اَنَا وَوَالِدِىْ حَاجَّيْنِ اِلٰى بَيْتِ اللهِ الْحَرَامِ حَتّٰى كُنَّا فِىْ بَعْضِ الْمَنَازِلِ، مَرِضَ وَالِدِىْ فَقُمْتُ لِاِعَالَتِهِ، فَبَيْنَمَا اَنَا عِنْدَ رَاْسِهِ مَاتَ، وَاسْوَدَّ وَجْهُهُ، فَجَرَيْتُ الْاِزَارَ عَلٰى وَجْهِهِ، فَغَلَبَتْنِىْ عَيْنَاىَ فَنِمْتُ، فَاِذَا اَنَا بِرَجُلٍ لَمْ …**
+
+**LAT:** qāla Sufyānu al-Thawriyyu raḍiya allāhu ‘anhu: ra’aytu rajulan fī al-bādiyati lā yarfa‘u qadaman wa-lā yaḍa‘u ukhrā illā wa-huwa yuṣallī ‘alā al-nabiyyi ṣallā allāhu ‘alayhi wa-sallama, fa-qultu: yā hādhā, qad tarakta al-tasbīḥa wa-al-tahlīla wa-aqbalta bi-al-ṣalāti ‘alā al-nabiyyi ṣallā allāhu ‘alayhi wa-sallama, fa-hal ‘indaka min hādhā shay’un? qāla: man anta? qultu: anā Sufyānu al-Thawriyyu, fa-qāla: law-lā annaka gharībun fī ahli zamānika mā kashaftu ‘an ḥālī wa-lā aṭla‘tuka ‘alā sirrī, thumma qāla: kharajtu anā wa-wālidī ḥājjayni ilā bayti allāhi al-ḥarāmi ḥattā kunnā fī ba‘ḍi al-manāzili, mariḍa wālidī fa-qumtu li-i‘ālatihi, fa-baynamā anā ‘inda ra’sihi māta, wa-iswadda wajhuhu, fa-jaraytu al-izāra ‘alā wajhihi, fa-ghalabatnī ‘aynāya fa-nimtu, fa-idhā anā bi-rajulin lam …
+
+**ID:** “**Sufyān al-Thawrī رضي الله عنه berkata**: **Aku melihat seorang lelaki di padang badui yang tidak mengangkat satu kaki dan tidak meletakkan kaki lainnya kecuali ia sedang bersalawat kepada Nabi ﷺ**؛ maka aku bertanya: **«Wahai orang ini, engkau telah meninggalkan tasbīḥ dan tahlīl dan menghabiskan waktu dengan salawat kepada Nabi ﷺ — apakah engkau punya alasan untuk ini?»** Ia bertanya: **«Siapa engkau?»** Aku jawab: **«Aku Sufyān al-Thawrī.»** Ia berkata: **«Seandainya engkau bukan orang asing di antara penduduk zamanmu, aku tidak akan menyingkap keadaanku dan tidak akan memberitahukan rahasiaku kepadamu.»** Kemudian ia berkata: **«Aku keluar bersama ayahku untuk berhaji ke Baitullah al-Ḥarām; ketika kami di salah satu persinggahan, ayahku sakit, maka aku merawatnya. Ketika aku berada di sisi kepalanya, ia meninggal dan wajahnya menghitam; aku tarik kain penutup ke wajahnya, lalu mataku terasa berat dan aku tertidur. Tiba-tiba aku melihat seorang lelaki yang tidak …**” (**Kalimat berlanjut ke halaman berikut**.)
+
+**Keterangan halaman.** (1) **Judul bab** «في ذكر الصلاة على أشرف الخلائق…» dalam **kurung siku**؛ (2) **mukadimah** penulis: keikhlasan, cinta Nabi, dan doa agar termasuk **orang-orang pilihan yang bersalawat**؛ (3) **«فضل الصلاة على النبي ﷺ»** — **tiga kutipan Al-Qur’an**: **al-Aḥzāb ٣٤**, **al-Aḥzāb ٤٤** (tentang **«تحيتهم يوم يلقونه سلاما»**), dan **al-Aḥzāb ٥٦** (perintah salawat)؛ (4) **empat riwayat** tentang keutamaan salawat (Abu Hurayrah: **wasīlah** = derajat tertinggi; **١× → ١٠×**, **١٠× → ١٠٠×**; **١× → ١٠ salawat + ١٠ kebaikan + ١٠ kesalahan dihapus + ١٠ derajat**; keutamaan **hari Jumat**)؛ (5) **kisah Sufyān al-Thawrī** dengan seorang **badui yang terus bersalawat** — **berlanjut** ke halaman berikut.
+
+**Angka pada halaman ini.**
+- **٣٤** (Q.S. al-Aḥzāb 34) — **cocok** teks↔pindaian (Rect(125, 215, 141, 234)؛ diperiksa pada crop 1100 DPI).
+- **٤٤** (Q.S. al-Aḥzāb 44) — **cocok** (Rect(197, 254, 212, 274)؛ crop 1100 DPI).
+- **٥٦** (Q.S. al-Aḥzāb 56) — **DIKOREKSI**. Lapisan teks mengekstrak **«٦٥»** (Rect(383, 369, 400, 388)), tetapi **pindaian** (crop **1100 DPI**) menunjukkan **«٥٦»** → **angka pindaian dipertahankan**. Ini **sesuai** dengan urutan ayat: perintah salawat memang **al-Aḥzāb 56**.
+- Bilangan dalam hadis — **١ (واحدة)، ١٠ (عشر)، ١٠٠ (مائة)** — **ditulis dengan huruf** pada cetakan؛ **dipertahankan** dan **tidak diubah menjadi angka**.
+
+**Wafaq:** **tidak ada**؛ halaman **teks hadis/ayat** → **tidak ada** uji penjumlahan.
+
+**[TIDAK JELAS - HALAMAN 491]** (1) **Judul dalam kurung siku** — **tanda kurung** pada cetakan (**bukan tambahan pentranskripsi**)؛ dipertahankan. (2) **«مَنْ جَمَعَ بَيْنَ خَلْقِهِ وَخُلُقِهِ»** — **susunan** tidak baku؛ **dipertahankan** (merujuk pada Allah yang menghimpun **ciptaan** dan **akhlak**). (3) **«وَاَنْ يَجْعَلَنَا مِنْ خِيَارِ الْمُصَلِّيْنَ»** — lapisan teks memecah kata (**«المصلين والمسلمين»**)؛ **dibaca utuh** dan **perbedaan dicatat**. (4) **«بَشَّرَ مَنْ صَلّٰى عَلَيْهِ»** — **predikat** tanpa objek jelas؛ **dipertahankan**. (5) **«صَلَاةَ اُمَّتِىْ تُعْرَضُ عَلَىَّ»** — lapisan teks membaca **«تعرض علي»** tanpa **«أمتي»** pada satu tempat؛ **dibaca sesuai pindaian**. (6) **«فَجَرَيْتُ الْاِزَارَ»** — **verba** tidak lazim (seharusnya **«أجريت»/«سحبت»**)؛ **dipertahankan apa adanya**. (7) **Akhir halaman** — kisah **terputus pada «برجل لم»**؛ **sambungan di halaman berikut**, **tidak dilengkapi**.
+
+**Peringatan (dicatat apa adanya, bukan fatwa).** Halaman ini **berisi materi salawat dan hadis keutamaannya** — **tidak** memuat praktik okultisme. Yang perlu dicatat hanyalah **bentuk penyajian**: **hadis tanpa sanad lengkap** dan **tanpa rujukan kitab** (hanya «روى أبو هريرة»)، sehingga **derajat hadis tidak dapat diverifikasi dari halaman ini**؛ hal itu **dicatat**, bukan difatwakan.
+
+**[TIDAK ADA RAJAH - TERVERIFIKASI DARI GAMBAR SCAN]** — `get_image_info()` = `[]`؛ halaman **teks murni**.
+
+---
+## HALAMAN 492 — penutup kisah Sufyān al-Thawrī + qaṣīdah (syair) salawat + «عشر كرامات» (baru sampai الثامنة)
+
+**AR:** كِتَابُ سِرِّ الْاَسْرَارِ فِي التَّوَاصُلِ مَعَ رُوحَانِيَّاتِ الْقُرْآنِ — شَيْخُ الرُّوحَانِيِّينَ الشَّيْخُ عَطِيَّةُ عَبْدُ الْحَمِيْدِ
+
+**LAT:** kitābu sirri al-asrāri fī al-tawāṣuli ma‘a rūḥāniyyāti al-qur’āni — shaykhu al-rūḥāniyyīna al-shaykhu ‘Aṭiyyatu ‘Abdu al-Ḥamīdi
+
+**ID:** “Kitab «Sirr al-Asrār fī al-Tawāṣul ma‘a Rūḥāniyyāt al-Qur’ān» — Syaikh para ruhaniyyin, Syaikh ‘Aṭiyyah ‘Abd al-Ḥamīd.” (Kepala halaman.)
+
+**AR:** (تَكْمِلَةُ الْحِكَايَةِ مِنْ ص ٤٩١) … **اَرْ اَجْمَلَ مِنْهُ وَجْهًا، وَلَا اَنْظَفَ مِنْهُ ثَوْبًا، وَلَا اَطْيَبَ مِنْهُ رِيْحًا، يَرْفَعُ قَدَمًا وَيَضَعُ قَدَمًا اُخْرٰى**، حَتّٰى **دَنَا مِنْ وَالِدِىْ**، فَ**كَشَفَ الثَّوْبَ عَنْ وَجْهِهِ**، وَ**اَمَرَّ بِيَدِهِ عَلٰى وَجْهِهِ**، فَ**عَادَ وَجْهُهُ اَبْيَضَ**، ثُمَّ **وَلّٰى رَاجِعًا**، فَ**تَعَلَّقْتُ بِثَوْبِهِ** فَقُلْتُ لَهُ: **مَنْ اَنْتَ يَرْحَمُكَ اللهُ؟ لَقَدْ مَنَّ اللهُ بِكَ عَلٰى وَالِدِىْ فِىْ دَارِ الْغُرْبَةِ!** فَقَالَ: **اَوَ مَا تَعْرِفُنِىْ؟ اَنَا مُحَمَّدُ بْنُ عَبْدِ اللهِ، اَنَا صَاحِبُ الْقُرْآنِ، اَمَا اِنَّ وَالِدَكَ كَانَ مُسْرِفًا عَلٰى نَفْسِهِ، وَلٰكِنْ كَانَ يُكْثِرُ الصَّلَاةَ عَلَىَّ، فَلَمَّا نَزَلَ بِهِ مَا نَزَلَ اسْتَغَاثَ بِىْ، فَاَنَا غِيَاثُ مَنْ اَكْثَرَ الصَّلَاةَ عَلَىَّ** — فَ**اِنْتَبَهْتُ فَاِذَا وَجْهُهُ اَبْيَضُ**.
+
+**LAT:** (takmilatu al-ḥikāyati min ṣ 491) … ar ajmala minhu wajhan, wa-lā anẓafa minhu thawban, wa-lā aṭyaba minhu rīḥan, yarfa‘u qadaman wa-yaḍa‘u qadaman ukhrā, ḥattā danā min wālidī, fa-kashafa al-thawba ‘an wajhihi, wa-amarra biyadihi ‘alā wajhihi, fa-‘āda wajhuhu abyaḍa, thumma wallā rāji‘an, fa-ta‘allaqtu bi-thawbihi fa-qultu lahu: man anta yarḥamuka allāhu? la-qad manna allāhu bika ‘alā wālidī fī dāri al-ghurbati! fa-qāla: a-wa-mā ta‘rifunī? anā Muḥammadu bnu ‘Abdi allāhi, anā ṣāḥibu al-qur’āni, amā inna wālidaka kāna musrifan ‘alā nafsihi, wa-lākin kāna yukthiru al-ṣalāta ‘alayya, fa-lammā nazala bihi mā nazala istaghātha bī, fa-anā ghiyāthu man akthara al-ṣalāta ‘alayya — fa-intabahtu fa-idhā wajhuhu abyaḍu.
+
+**ID:** “**(Lanjutan kisah dari p.491)** … **tidak ada yang lebih tampan wajahnya, lebih bersih pakaiannya, dan lebih harum baunya darinya; ia mengangkat satu kaki dan meletakkan kaki lainnya**, hingga **ia mendekati ayahku**, lalu **menyingkap kain dari wajahnya**, dan **mengusapkan tangannya pada wajahnya**, maka **wajahnya kembali putih**؛ kemudian **ia berpaling pergi**, dan **aku memegang kainnya** seraya berkata: **«Siapa engkau, semoga Allah merahmatimu? Sungguh Allah telah memberi karunia kepadaku melalui engkau atas ayahku di negeri perantauan!»** Ia menjawab: **«Apakah engkau tidak mengenalku? Aku Muhammad bin ‘Abdillah, aku sahabat al-Qur’an. Ketahuilah, ayahmu memang melampaui batas terhadap dirinya sendiri, tetapi ia memperbanyak salawat kepadaku; maka ketika musibah menimpanya, ia meminta pertolongan melalui aku — akulah penolong orang yang memperbanyak salawat kepadaku.»** Maka **aku terbangun dan ternyata wajahnya putih**.”
+
+**AR:** (قَصِيْدَةٌ فِى الصَّلَاةِ — بِتَرْتِيْبِ مِصْرَاعَيْنِ لِكُلِّ بَيْتٍ)
+
+**LAT:** (qaṣīdatun fī al-ṣalāti — bi-tartībi miṣrā‘ayni li-kulli baytin)
+
+**ID:** “**(Syair tentang salawat — disusun dua larik (miṣrā‘) per baris)**.”
+
+**AR:** **يَا مَنْ يُجِيْبُ دُعَا الْمُضْطَرِّ فِى الظُّلَمِ = يَا كَاشِفَ الضُّرِّ وَالْبَلْوٰى مَعَ السَّقَمِ**
+
+**LAT:** yā man yujību du‘ā al-muḍṭarri fī al-ẓulami = yā kāshifa al-ḍurri wa-al-balwā ma‘a al-saqami
+
+**ID:** “**Wahai Yang menjawab doa orang yang terdesak dalam kegelapan = wahai Yang menyingkap bahaya dan bencana beserta penyakit**.”
+
+**AR:** **شَفِّعْ نَبِيَّكَ فِىْ ذُلِّىْ وَمَسْكَنَتِىْ = وَاسْتُرْ فَاِنَّكَ ذُوْ فَضْلٍ وَذُوْ كَرَمِ**
+
+**LAT:** shaffi‘ nabiyyaka fī dhullī wa-maskanatī = wa-stur fa-innaka dhū faḍlin wa-dhū karami
+
+**ID:** “**Berilah syafaat Nabi-Mu pada kehinaan dan kemiskinanku = dan tutupilah (aibku), sesungguhnya Engkau Pemilik keutamaan dan kedermawanan**.”
+
+**AR:** **وَاغْفِرْ ذُنُوْبِىْ وَسَامِحْنِىْ كَرَمًا = تَفَضُّلًا مِنْكَ يَا ذَا الْفَضْلِ وَالنِّعَمِ**
+
+**LAT:** wa-ighfir dhunūbī wa-sāmiḥnī karaman = tafaḍḍulan minka yā dhā al-faḍli wa-al-ni‘ami
+
+**ID:** “**Ampunilah dosa-dosaku dan maafkanlah aku dengan kemurahan = sebagai karunia dari-Mu, wahai Pemilik keutamaan dan segala nikmat**.”
+
+**AR:** **وَقَدْ وَعَدْتَ بِاَنْ نَدْعُوْ وَتُجِيْبُ لَنَا = وَقَدْ دَعَوْنَا فَجُدْ بِالْعَفْوِ وَالْكَرَمِ**
+
+**LAT:** wa-qad wa‘adta bi-an nad‘uwa wa-tujību lanā = wa-qad da‘awnā fa-jud bi-al-‘afwi wa-al-karami
+
+**ID:** “**Engkau telah berjanji bahwa kami berdoa dan Engkau mengabulkan bagi kami = dan kami telah berdoa, maka berilah dengan ampunan dan kemurahan**.”
+
+**AR:** **اِخْوَانِىْ: اَكْثِرُوْا مِنَ الصَّلَاةِ عَلٰى هٰذَا النَّبِىِّ الْكَرِيْمِ**، فَاِنَّ **الصَّلَاةَ عَلَيْهِ تُكَفِّرُ الذَّنْبَ الْعَظِيْمَ**، وَ**تَهْدِىْ قَائِلَهَا اِلَى الصِّرَاطِ الْمُسْتَقِيْمِ**، وَ**تَقِىْ قَائِلَهَا مِنَ الْعَذَابِ الْاَلِيْمِ**، وَ**تُحَظِّىْ فِى الْجَنَّةِ بِالنَّعِيْمِ الْمُقِيْمِ**.
+
+**LAT:** ikhwānī: akthirū mina al-ṣalāti ‘alā hādhā al-nabiyyi al-karīmi, fa-inna al-ṣalāta ‘alayhi tukaffiru al-dhanba al-‘aẓīma, wa-tahdī qā’ilahā ilā al-ṣirāṭi al-mustaqīmi, wa-taqī qā’ilahā mina al-‘adhābi al-alīmi, wa-tuḥaẓẓī fī al-jannati bi-al-na‘īmi al-muqīmi.
+
+**ID:** “**Saudara-saudaraku: perbanyaklah salawat kepada Nabi yang mulia ini**, karena **salawat kepadanya menghapus dosa yang besar**, **menuntun pembacanya ke jalan yang lurus**, **melindungi pembacanya dari azab yang pedih**, dan **memberi keberuntungan di surga dengan kenikmatan yang abadi**.”
+
+**AR:** وَ**قَدْ قِيْلَ فِىْ بَعْضِ الرِّوَايَاتِ اَنَّ لِلْمُصَلِّيْنَ عَلٰى سَيِّدِ الْمُرْسَلِيْنَ عَشْرَ كَرَامَاتٍ**:
+
+**LAT:** wa-qad qīla fī ba‘ḍi al-riwāyāti anna lil-muṣallīna ‘alā sayyidi al-mursalīna ‘ashra karāmātin:
+
+**ID:** “Dan **dikatakan dalam sebagian riwayat bahwa orang-orang yang bersalawat kepada penghulu para rasul memperoleh sepuluh kemuliaan (karāmāt)**:”
+
+**AR:** **اِحْدَاهُنَّ: صَلَاةُ الْمَلِكِ الْغَفَّارِ** ۔
+
+**LAT:** iḥdāhunna: ṣalātu al-maliki al-ghaffāri.
+
+**ID:** “**Pertama: salawat (dari) Raja Yang Maha Pengampun**.”
+
+**AR:** **الثَّانِيَةُ: شَفَاعَةُ النَّبِىِّ الْمُخْتَارِ** ۔
+
+**LAT:** al-thāniyatu: shafā‘atu al-nabiyyi al-mukhtāri.
+
+**ID:** “**Kedua: syafaat Nabi yang terpilih**.”
+
+**AR:** **الثَّالِثَةُ: الِاقْتِدَاءُ بِالْمَلَائِكَةِ الْاَبْرَارِ** ۔
+
+**LAT:** al-thālithatu: al-iqtidā’u bi-al-malā’ikati al-abrāri.
+
+**ID:** “**Ketiga: mengikuti para malaikat yang saleh**.”
+
+**AR:** **الرَّابِعَةُ: مُخَالَفَةُ الْمُنَافِقِيْنَ وَالْكُفَّارِ** ۔
+
+**LAT:** al-rābi‘atu: mukhālafatu al-munāfiqīna wa-al-kuffāri.
+
+**ID:** “**Keempat: menyelisihi orang-orang munafik dan kafir**.”
+
+**AR:** **الْخَامِسَةُ: مَحْوُ الْخَطَايَا وَالْاَوْزَارِ** ۔
+
+**LAT:** al-khāmisatu: maḥwu al-khaṭāyā wa-al-awzāri.
+
+**ID:** “**Kelima: penghapusan kesalahan dan dosa-dosa**.”
+
+**AR:** **السَّادِسَةُ: قَضَاءُ الْحَوَائِجِ وَالْاَوْطَارِ** ۔
+
+**LAT:** al-sādisatu: qaḍā’u al-ḥawā’iji wa-al-awṭāri.
+
+**ID:** “**Keenam: penunaian kebutuhan dan tercapainya keinginan**.”
+
+**AR:** **السَّابِعَةُ: تَنْوِيْرُ الظَّوَاهِرِ وَالْاَسْرَارِ** ۔
+
+**LAT:** al-sābi‘atu: tanwīru al-ẓawāhiri wa-al-asrāri.
+
+**ID:** “**Ketujuh: penerangan yang tampak maupun yang tersembunyi**.”
+
+**AR:** **الثَّامِنَةُ: النَّجَاةُ مِنَ النَّارِ** ۔ (وَ**التَّاسِعَةُ وَالْعَاشِرَةُ لَمْ تُذْكَرَا فِىْ هٰذِهِ الصَّفْحَةِ** — **يُتِمُّهُمَا الْكَاتِبُ بَعْدَ ذٰلِكَ**.)
+
+**LAT:** al-thāminatu: al-najātu mina al-nāri. (wa-al-tāsi‘atu wa-al-‘āshiratu lam tudhkarā fī hādhihi al-ṣafḥati — yutimmuhumā al-kātibu ba‘da dhālika.)
+
+**ID:** “**Kedelapan: keselamatan dari api neraka**.” (**Yang kesembilan dan kesepuluh tidak disebutkan pada halaman ini** — **penulis akan melengkapinya setelah itu**.)
+
+**Keterangan halaman.** (1) **Penutup kisah Sufyān al-Thawrī**: lelaki dalam mimpi membuka kain dari wajah ayahnya dan **wajahnya menjadi putih**; ia menyatakan **«أنا محمد بن عبد الله، أنا صاحب القرآن»** dan **«أنا غياث من أكثر الصلاة علي»**؛ (2) **qaṣīdah empat bait** tentang salawat dan istighfar (setiap **baris = dua miṣrā‘**); (3) **nasihat** agar memperbanyak salawat؛ (4) **daftar «sepuluh karāmāt»** — pada halaman ini **hanya sampai yang kedelapan**; **dua sisanya belum tercetak**.
+
+**Angka pada halaman ini.**
+- **Tidak ada angka Arab-Indic** pada halaman ini — **lapisan teks** tidak mengekstrak angka apa pun dan **pindaian** juga tidak memuat angka. Bilangan **«عشر» (sepuluh)** dan **urutan «الثانية» s.d. «الثامنة»** **ditulis dengan huruf** → **dipertahankan**.
+- **Jumlah karāmāt yang tercetak = ٨** (delapan) pada halaman ini — **dicatat sebagai fakta cetakan**؛ **tidak ditambahi** menjadi sepuluh.
+
+**Wafaq:** **tidak ada**؛ halaman **teks kisah + syair** → **tidak ada** uji penjumlahan.
+
+**[TIDAK JELAS - HALAMAN 492]** (1) **Awal halaman terpotong** — dimulai dengan **«أر»** (potongan **«رأيت رجلا … أر»**)؛ **disambung dari p.491** dan **ditandai** dalam kurung. (2) **«كَانَ مُسْرِفًا عَلٰى نَفْسِهِ»** — **susunan** cetakan؛ **dipertahankan**. (3) **«اَوَ مَا تَعْرِفُنِىْ»** — **bentuk** tidak lazim؛ **dipertahankan**. (4) **«شَفِّعْ نَبِيَّكَ فِىْ ذُلِّىْ»** — **susunan syair**؛ **dipertahankan** apa adanya. (5) **«وَاسْتُرْ»** — pada cetakan **«واستر»**؛ **dibaca** sebagai **fi‘l amr** dan **ditandai**. (6) **Daftar karāmāt berhenti di «الثامنة»** — **dua butir tidak ada**؛ **tidak dikarang** dan **tidak dilengkapi**. (7) **«صَلَاةُ الْمَلِكِ الْغَفَّارِ»** — **susunan idāfah**؛ **dipertahankan** sebagaimana tercetak.
+
+**Peringatan (dicatat apa adanya, bukan fatwa).** Halaman ini **materi salawat, syair, dan riwayat keutamaan**؛ tidak ada praktik okultisme. Yang dicatat: **riwayat «عشر كرامات» disebut tanpa sanad** («في بعض الروايات») dan **kisah mimpi** disajikan sebagai **karāmah**؛ **status riwayat tidak diverifikasi dari halaman ini** — **dicatat, bukan difatwakan**.
+
+**[TIDAK ADA RAJAH - TERVERIFIKASI DARI GAMBAR SCAN]** — `get_image_info()` = `[]`؛ halaman **teks murni**.
+
+---
+## HALAMAN 493 — «التاسعة: دخول دار القرار» و«العاشرة: سلام العزيز الجبار» + syair + «فصل في كيفية الصلاة على النبي ﷺ» (salawat Ibrāhīmiyyah)
+
+**AR:** كِتَابُ سِرِّ الْاَسْرَارِ فِي التَّوَاصُلِ مَعَ رُوحَانِيَّاتِ الْقُرْآنِ — شَيْخُ الرُّوحَانِيِّينَ الشَّيْخُ عَطِيَّةُ عَبْدُ الْحَمِيْدِ
+
+**LAT:** kitābu sirri al-asrāri fī al-tawāṣuli ma‘a rūḥāniyyāti al-qur’āni — shaykhu al-rūḥāniyyīna al-shaykhu ‘Aṭiyyatu ‘Abdu al-Ḥamīdi
+
+**ID:** “Kitab «Sirr al-Asrār fī al-Tawāṣul ma‘a Rūḥāniyyāt al-Qur’ān» — Syaikh para ruhaniyyin, Syaikh ‘Aṭiyyah ‘Abd al-Ḥamīd.” (Kepala halaman.)
+
+**AR:** **التَّاسِعَةُ: دُخُوْلُ دَارِ الْقَرَارِ** ۔
+
+**LAT:** al-tāsi‘atu: dukhūlu dāri al-qarāri.
+
+**ID:** “**Kesembilan: masuk ke negeri yang kekal (dār al-qarār).**” (Melengkapi daftar yang berhenti pada «الثامنة» di p.492.)
+
+**AR:** **الْعَاشِرَةُ: سَلَامُ الْعَزِيْزِ الْجَبَّارِ** ۔
+
+**LAT:** al-‘āshiratu: salāmu al-‘azīzi al-jabbāri.
+
+**ID:** “**Kesepuluh: salam dari Yang Mahaperkasa lagi Maha Memaksa.**”
+
+**AR:** **هٰذَا النَّبِىُّ مُحَمَّدٌ خَيْرُ الْوَرٰى وَنَبِيُّهُمْ = وَبِهِ تَشَرَّفَ آدَمُ**
+
+**LAT:** hādhā al-nabiyyu Muḥammadun khayru al-warā wa-nabiyyuhum = wa-bihi tasharrafa Ādamu
+
+**ID:** “**Nabi ini, Muhammad, adalah sebaik-baik makhluk dan nabi mereka = dan dengan dia Ādam memperoleh kemuliaan**.”
+
+**AR:** **هُوَ فِى الْمَدِيْنَةِ ثَاوِيًا بِضَرِيْحِهِ حَقًّا وَيَسْمَعُ مَنْ عَلَيْهِ يُسَلِّمُ**
+
+**LAT:** huwa fī al-madīnati thāwiyan bi-ḍarīḥihi ḥaqqan wa-yasma‘u man ‘alayhi yusallimu
+
+**ID:** “**Ia berada di Madinah, bersemayam di makamnya; sungguh ia mendengar siapa yang bersalam kepadanya**.”
+
+**AR:** **وَاِذَا تَوَسَّلَ مُسْتَضَامٌ بَاسْمِهِ زَالَ الَّذِىْ مِنْ اَجْلِهِ يَتَوَهَّمُ**
+
+**LAT:** wa-idhā tawassala mustaḍāmun bi-ismihi zāla alladhī min ajlihi yatawahhamu
+
+**ID:** “**Dan apabila orang yang teraniaya bertawassul dengan namanya, hilanglah apa yang karenanya ia mengira-ngira (khawatir)**.”
+
+**AR:** **صَلَّى عَلَيْهِ اللهُ جَلَّ جَلَالِهِ مَا رَاحَ حَادٍ بَاسْمِهِ يَتَرَنَّمُ**
+
+**LAT:** ṣallā ‘alayhi allāhu jalla jalāluhu mā rāḥa ḥādin bi-ismihi yatarannamu
+
+**ID:** “**Semoga Allah — Mahaagung keagungan-Nya — bersalawat kepadanya, selama penggiring unta berlalu melantunkan namanya**.”
+
+**AR:** وَ**اَنْشَدَ اَبُوْ سَعْدٍ مُحَمَّدُ بْنُ الْهَيْثَمِ مُحَمَّدٌ السَّلَمِىُّ**:
+
+**LAT:** wa-anshada Abū Sa‘din Muḥammadu bnu al-Haythami Muḥammadun al-Salamiyyu:
+
+**ID:** “Dan **Abū Sa‘d Muḥammad bin al-Haytham Muḥammad al-Salamī melantunkan**:”
+
+**AR:** **اَمَا الصَّلَاةُ عَلَيْهِ فَسِيْرَةٌ مَرْضِيَّةٌ تُمْحٰى بِهَا الْآثَامُ**
+
+**LAT:** amā al-ṣalātu ‘alayhi fa-sīratun marḍiyyatun tumḥā bihā al-āthāmu
+
+**ID:** “**Adapun salawat kepadanya adalah jalan yang diridai, yang dengannya dosa-dosa dihapus**.”
+
+**AR:** **وَمَا يَنَالُ الْمَرْءُ عِزَّ شَفَاعَةٍ يُثْنٰى بِهَا الْاِعْزَازُ وَالْاِكْرَامُ**
+
+**LAT:** wa-mā yanālu al-mar’u ‘izza shafā‘atin yuthnā bihā al-i‘zāzu wa-al-ikrāmu
+
+**ID:** “**Dan tidaklah seseorang memperoleh kemuliaan syafaat yang karenanya disebutkan penghormatan dan pemuliaan**.”
+
+**AR:** **كُنْ لِلصَّلَاةِ عَلَى النَّبِىِّ مُلَازِمًا فَصَلَاتُهُ لَكَ تَحِيَّةٌ وَسَلَامُ**
+
+**LAT:** kun lil-ṣalāti ‘alā al-nabiyyi mulāziman fa-ṣalātuhu laka taḥiyyatun wa-salāmu
+
+**ID:** “**Hendaklah engkau senantiasa bersalawat kepada Nabi; maka salawatnya kepadamu adalah penghormatan dan kedamaian**.”
+
+**AR:** **الْجَنَّةُ وَنَعِيْمُهَا وَحُوْرُهَا وَقُصُوْرُهَا جَزَاءٌ لِمَنْ يُصَلِّىْ وَيُسَلِّمُ عَلَيْهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ** ۔
+
+**LAT:** al-jannatu wa-na‘īmuhā wa-ḥūruhā wa-quṣūruhā jazā’un li-man yuṣallī wa-yusallimu ‘alayhi ṣallā allāhu ‘alayhi wa-sallama.
+
+**ID:** “**Surga, kenikmatannya, bidadarinya, dan istananya adalah balasan bagi siapa yang bersalawat dan bersalam kepadanya ﷺ**.”
+
+**AR:** فَصْلٌ فِىْ كَيْفِيَّةِ الصَّلَاةِ عَلَى النَّبِىِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ
+
+**LAT:** faṣlun fī kayfiyyati al-ṣalāti ‘alā al-nabiyyi ṣallā allāhu ‘alayhi wa-sallama
+
+**ID:** “**Fasal tentang Tata Cara Salawat kepada Nabi ﷺ.**” (Judul bagian baru.)
+
+**AR:** **بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيْمِ**
+
+**LAT:** bismi allāhi al-raḥmāni al-raḥīmi
+
+**ID:** “**Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang.**”
+
+**AR:** **اَلْحَمْدُ لِلّٰهِ وَسَلَامٌ عَلٰى عِبَادِهِ الَّذِيْنَ اصْطَفٰى، وَخُصُوْصًا عَلٰى نَبِيِّنَا وَسَيِّدِنَا اَفْضَلَ مَا صَلّٰى وَسَلَّمَ عَلٰى اَحَدٍ مِنْ عِبَادِهِ الَّذِيْنَ اصْطَفٰى، وَعَلٰى آلِهِ الَّذِيْنَ اَذْهَبَ عَنْهُمُ الرِّجْسَ اَهْلَ الْبَيْتِ وَطَهَّرَهُمْ تَطْهِيْرًا**.
+
+**LAT:** al-ḥamdu lillāhi wa-salāmun ‘alā ‘ibādihi alladhīna iṣṭafā, wa-khuṣūṣan ‘alā nabiyyinā wa-sayyidinā afḍala mā ṣallā wa-sallama ‘alā aḥadin min ‘ibādihi alladhīna iṣṭafā, wa-‘alā ālihi alladhīna adhhaba ‘anhumu al-rijsa ahla al-bayti wa-ṭahharahum taṭhīran.
+
+**ID:** “**Segala puji bagi Allah, dan salam atas hamba-hamba-Nya yang Dia pilih — khususnya atas Nabi kami dan penghulu kami, dengan salawat dan salam yang paling utama yang Dia limpahkan kepada salah seorang dari hamba-hamba-Nya yang Dia pilih — dan atas keluarganya yang Dia hilangkan dari mereka kekotoran, ahl al-bayt, dan Dia sucikan mereka dengan sesuci-sucinya**.” (Mengandung penggalan **Q.S. al-Aḥzāb 33:33**.)
+
+**AR:** **اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ وَعَلٰى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلٰى اِبْرَاهِيْمَ اِنَّكَ حَمِيْدٌ مَجِيْدٌ، اَللّٰهُمَّ بَارِكْ عَلٰى مُحَمَّدٍ وَعَلٰى آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلٰى اِبْرَاهِيْمَ اِنَّكَ حَمِيْدٌ مَجِيْدٌ**.
+
+**LAT:** allāhumma ṣalli ‘alā Muḥammadin wa-‘alā āli Muḥammadin kamā ṣallayta ‘alā Ibrāhīma innaka ḥamīdun majīdun, allāhumma bārik ‘alā Muḥammadin wa-‘alā āli Muḥammadin kamā bārakta ‘alā Ibrāhīma innaka ḥamīdun majīdun.
+
+**ID:** “**Ya Allah, limpahkanlah salawat atas Muhammad dan atas keluarga Muhammad sebagaimana Engkau bersalawat atas Ibrāhīm; sesungguhnya Engkau Maha Terpuji lagi Mahamulia. Ya Allah, berkahilah Muhammad dan keluarga Muhammad sebagaimana Engkau memberkahi Ibrāhīm; sesungguhnya Engkau Maha Terpuji lagi Mahamulia**.” (**Salawat Ibrāhīmiyyah** — bentuk pertama.)
+
+**AR:** **اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ وَعَلٰى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلٰى اِبْرَاهِيْمَ اِنَّكَ حَمِيْدٌ مَجِيْدٌ، وَبَارِكْ عَلٰى مُحَمَّدٍ وَعَلٰى آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلٰى اِبْرَاهِيْمَ وَآلِ اِبْرَاهِيْمَ اِنَّكَ حَمِيْدٌ مَجِيْدٌ**.
+
+**LAT:** allāhumma ṣalli ‘alā Muḥammadin wa-‘alā āli Muḥammadin kamā ṣallayta ‘alā Ibrāhīma innaka ḥamīdun majīdun, wa-bārik ‘alā Muḥammadin wa-‘alā āli Muḥammadin kamā bārakta ‘alā Ibrāhīma wa-āli Ibrāhīma innaka ḥamīdun majīdun.
+
+**ID:** “**Ya Allah, limpahkanlah salawat atas Muhammad dan keluarga Muhammad sebagaimana Engkau bersalawat atas Ibrāhīm; sesungguhnya Engkau Maha Terpuji lagi Mahamulia; dan berkahilah Muhammad dan keluarga Muhammad sebagaimana Engkau memberkahi Ibrāhīm dan keluarga Ibrāhīm; sesungguhnya Engkau Maha Terpuji lagi Mahamulia**.” (**Salawat Ibrāhīmiyyah** — bentuk kedua, **digabung**.)
+
+**Keterangan halaman.** (1) **Pelengkapan daftar** «عشر كرامات» dari p.492: **التاسعة** (dār al-qarār) dan **العاشرة** (salām al-‘azīz al-jabbār) → **genap sepuluh**؛ (2) **syair** pujian kepada Nabi (4 baris) dan **syair Abū Sa‘d al-Salamī** (4 baris) tentang salawat؛ (3) **«فصل في كيفية الصلاة على النبي ﷺ»** — mukadimah (hamdalah + **penggalan al-Aḥzāb 33:33**) lalu **salawat Ibrāhīmiyyah** dalam **dua bentuk**.
+
+**Angka pada halaman ini.**
+- **Tidak ada angka** pada halaman ini — lapisan teks **tidak** mengekstrak angka Arab, dan pindaian juga **tanpa angka**؛ bilangan hanya berupa **urutan dengan huruf** («التاسعة»، «العاشرة»). **Tidak ada koreksi** dan **tidak ada penambahan**.
+- Jumlah butir daftar setelah halaman ini: **١٠** (sepuluh) — **lengkap**.
+
+**Wafaq:** **tidak ada**؛ halaman **teks syair + salawat** → **tidak ada** uji penjumlahan.
+
+**[TIDAK JELAS - HALAMAN 493]** (1) **«هُوَ فِى الْمَدِيْنَةِ ثَاوِيًا بِضَرِيْحِهِ»** — **susunan syair**؛ **dipertahankan**. (2) **«مُسْتَضَامٌ»** — **bentuk** tidak lazim؛ **dipertahankan**. (3) **«مَا رَاحَ حَادٍ بَاسْمِهِ يَتَرَنَّمُ»** — **makna** (penggiring unta yang melantunkan) **dipahami dari konteks**؛ **ditandai**. (4) **«اَمَا الصَّلَاةُ عَلَيْهِ فَسِيْرَةٌ»** — **lapisan teks** membaca **«فسيرةٌ»** tanpa titik yang jelas؛ **dibaca «سيرة»** dan **perbedaan dicatat**. (5) **«مُحَمَّدُ بْنُ الْهَيْثَمِ مُحَمَّدٌ السَّلَمِىُّ»** — **dua kali «محمد»**؛ **dipertahankan** sebagaimana tercetak. (6) **Dua bentuk salawat Ibrāhīmiyyah** — **berbeda susunan** (bentuk ٢ memuat **«وآل إبراهيم»**)؛ **keduanya dipertahankan**, **tidak diseragamkan**. (7) **Penomoran «التاسعة/العاشرة»** — **bersambung** dari halaman sebelumnya **yang berhenti di «الثامنة»**؛ **tidak ada butir yang hilang** pada halaman ini.
+
+**Catatan (dicatat apa adanya, bukan fatwa).** Halaman ini **materi salawat dan syair** — termasuk **klaim bahwa Nabi mendengar salam dari makamnya** dan **tawassul dengan namanya**. Teks ditranskripsikan sesuai cetakan؛ **klaim tersebut dicatat sebagai isi kitab**, dan **penilaian akidahnya bukan bagian dari tugas transkripsi ini**.
+
+**[TIDAK ADA RAJAH - TERVERIFIKASI DARI GAMBAR SCAN]** — `get_image_info()` = `[]`؛ halaman **teks murni**.
+
+---
