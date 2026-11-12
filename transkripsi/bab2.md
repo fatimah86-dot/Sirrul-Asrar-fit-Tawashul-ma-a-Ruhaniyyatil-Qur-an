@@ -6065,7 +6065,7 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 
 **ID:** “«Dengan nama Allah Yang Maha Pengasih, Maha Penyayang. Ya Allah, aku memohon kepada-Mu dengan nama-Mu yang agung, yang paling agung, yang tersimpan antara al-Kāf dan al-Nūn, dan dengan rahasia yang terpelihara lagi tersimpan yang ada antara Engkau dan kekasih-Mu Muḥammad ﷺ pada malam Isrā’, dan dengan rahasia segala rahasia serta cahaya segala cahaya yang Engkau titipkan dalam hati para nabi, para ṣiddīq, para syuhada, dan orang-orang saleh — (ya Allah, 3 kali) — ya Raḥmān, ya Raḥīm, ya Malik, ya Quddūs, ya Nūr, ya Ḥayy, ya Qayyūm, ya Wahhāb, ya Sarī‘, ya Qarīb, ya Mujīb, ya Khayra al-wārithīn, ya Arḥama al-rāḥimīn, ya Samī‘, ya Sāmi‘a al-du‘ā’, ya Wāḥid, ya Aḥad, ya Fard, ya Ṣamad, ya Awwal, ya Ākhir, ya Ẓāhir, ya Bāṭin, ya Dhā al-ṭūl, ya Ḥannān, ya Mannān, ya Dayyān, ya Sulṭān, ya Badī‘a al-samāwāti wa-al-arḍ, ya Dhā al-jalāli wa-al-ikrām — aku memohon kepada-Mu dengan hak surah yang mulia ini, dan dengan hak (nabi) yang kepadanya ia diturunkan, dan dengan apa yang Engkau titipkan di dalamnya berupa rahasia, cahaya, dan aneka nur; ya Nūra al-anwār, ya Mufattiḥa al-abṣār, ya Wāḥid, ya Aḥad, ya Qahhār, ya ‘Azīz, ya Ghaffār. Ya Allah, aku memohon kepada-Mu dengan hak surah yang mulia ini — surah «Wa al-Ḍuḥā» dan «Wa al-Layli idhā sajā» — dengan nama Allah Yang Mahatinggi lagi Mahaagung, yang dengannya tegak langit-langit tanpa tiang, yang dengannya bumi dibentangkan di atas kekosongan tanpa penopang, dan di atas air yang membeku, dan bersujudlah…»” (Kalimat terputus di akhir halaman dan bersambung ke halaman 405.)
 
-**Keterangan halaman.** Halaman ini menutup rangkaian amalan «دعوة والضحى» yang memakai «الخاتم», lalu **memasuki teks doa («الدعوة») itu sendiri**. Susunannya: (1) sambungan peringatan agar tidak memperpanjang pukulan pada amalan pembinasaan zalim — «siapa yang terbunuh karena doa seperti yang terbunuh oleh pisau»; (2) amalan mengetahui kenz/keadaan tempat: sutra hijau + khātim + tanah tempat yang dicurigai, puasa hari amalan, dupa, doa 7×, diletakkan di bawah kepala, dibaca surah sampai tertidur; khādim memberi tahu letak harta dan cara mengeluarkannya — diulang sampai tiga malam; (3) penggunaan doa untuk pengobatan/kesurupan («جلب العارض» / «التلبيس»); (4) **resep «bakhūr al-da‘wah»**: lubān, sindarūs, jāwī, mustakī — digerus, diuleni air mawar, dikeringkan di tempat teduh; dianjurkan menambah ‘ūd; (5) **pernyataan penulis**: doa ini tidak memuat nama Suryani, tidak ada nama malaikat/jin di dalamnya, cocok untuk pemula sampai profesional, dikutip khusus bagi pembaca yang meragukan keabsahan nama-nama Suryani; (6) **teks doa** — pembuka basmalah, tawassul dengan «الاسم الأعظم المخزون بين الكاف والنون», rahasia malam Isrā’, nur yang dititipkan pada hati para nabi/ṣiddīqīn/syuhadā’/ṣāliḥīn, deret asma «يا رحمن يا رحيم… يا ذا الجلال والإكرام», lalu tawassul dengan surah al-Ḍuḥā dan «والليل إذا سجى» dan «بسم الله العلي العظيم الذي قامت به السماوات بلا عمد…».
+**Keterangan halaman.** Halaman ini menutup rangkaian amalan «دعوة والضحى» yang memakai «الخاتم», lalu **memasuki teks doa («الدعوة») itu sendiri**. Susunannya: (1) sambungan peringatan agar tidak memperpanjang pukulan pada amalan pembinasan zalim — «siapa yang terbunuh karena doa seperti yang terbunuh oleh pisau»; (2) amalan mengetahui kenz/keadaan tempat: sutra hijau + khātim + tanah tempat yang dicurigai, puasa hari amalan, dupa, doa 7×, diletakkan di bawah kepala, dibaca surah sampai tertidur; khādim memberi tahu letak harta dan cara mengeluarkannya — diulang sampai tiga malam; (3) penggunaan doa untuk pengobatan/kesurupan («جلب العارض» / «التلبيس»); (4) **resep «bakhūr al-da‘wah»**: lubān, sindarūs, jāwī, mustakī — digerus, diuleni air mawar, dikeringkan di tempat teduh; dianjurkan menambah ‘ūd; (5) **pernyataan penulis**: doa ini tidak memuat nama Suryani, tidak ada nama malaikat/jin di dalamnya, cocok untuk pemula sampai profesional, dikutip khusus bagi pembaca yang meragukan keabsahan nama-nama Suryani; (6) **teks doa** — pembuka basmalah, tawassul dengan «الاسم الأعظم المخزون بين الكاف والنون», rahasia malam Isrā’, nur yang dititipkan pada hati para nabi/ṣiddīqīn/syuhadā’/ṣāliḥīn, deret asma «يا رحمن يا رحيم… يا ذا الجلال والإكرام», lalu tawassul dengan surah al-Ḍuḥā dan «والليل إذا سجى» dan «بسم الله العلي العظيم الذي قامت به السماوات بلا عمد…».
 
 **Angka pada halaman ini (dibaca dari scan + crop 1400 DPI).** ٧ (tujuh kali bacaan doa), ٢/٣ (malam kedua dan ketiga pengulangan amalan), ٣ (keterangan «يا الله ٣» — dibaca tiga kali).
 
@@ -12822,6 +12822,1000 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 **[TIDAK JELAS - HALAMAN 498]** (1) **«(أربعاً)»** — **fungsi** kata ini (jumlah pengulangan? isyarat?) **tidak dijelaskan penulis**؛ **ditranskripsi apa adanya** dan **ditandai**. (2) **«رَبَّ الْحِلِّ وَالْحَرَمِ»** — **«الحِلّ»** (tanah halal) **berpasangan** dengan **«الحرم»**؛ **dibaca demikian** dan **ditandai**. (3) **«بِعَدَدِ مَنْ لَمْ يُصَلِّ عَلَيْهِ»** — **lafaz** tidak lazim (menghitung yang **tidak** bersalawat)؛ **dipertahankan**. (4) **«كَمَا صَلَّيْتَ»** pada kalimat **«وصلى الله على محمد…»** — **peralihan dari berita ke mukhatab** dalam satu kalimat؛ **dipertahankan**. (5) **«اَحْمَدَ»** tanpa **«وآل أحمد»** — **perbedaan** dari bentuk lain؛ **dipertahankan**. (6) **«وَرِضْوَانُ اللهِ»** — **ditulis «ورضوانُ»** (dengan ḍammah)؛ **dipertahankan**. (7) **Salawat terakhir terpotong**; **tidak dilengkapi** dan **disambung ke halaman berikutnya**.
 
 **Catatan (dicatat apa adanya, bukan fatwa).** Halaman **doa**؛ **tidak ada wafaq/ṭilasm**. Yang dicatat: **perintah «أبلغ روح محمد مني تحية وسلاماً (أربعاً)»** menyiratkan **praktik mengirim salam kepada ruh Nabi dengan bilangan tertentu**, tetapi **tata caranya tidak dijelaskan di halaman ini**؛ **tidak ditambahkan**.
+
+**[TIDAK ADA RAJAH - TERVERIFIKASI DARI GAMBAR SCAN]** — `get_image_info()` = `[]`؛ halaman **teks murni**.
+
+---
+## HALAMAN 499 — penutup salawat + **«انتهى الفصل الأول ويتلوه الفصل الثاني»** + pembuka **الفصل الثاني** (hamdalah dan salawat)
+
+**AR:** كِتَابُ سِرِّ الْاَسْرَارِ فِي التَّوَاصُلِ مَعَ رُوحَانِيَّاتِ الْقُرْآنِ — شَيْخُ الرُّوحَانِيِّينَ الشَّيْخُ عَطِيَّةُ عَبْدُ الْحَمِيْدِ
+
+**LAT:** kitābu sirri al-asrāri fī al-tawāṣuli ma‘a rūḥāniyyāti al-qur’āni — shaykhu al-rūḥāniyyīna al-shaykhu ‘Aṭiyyatu ‘Abdu al-Ḥamīdi
+
+**ID:** “Kitab «Sirr al-Asrār fī al-Tawāṣul ma‘a Rūḥāniyyāt al-Qur’ān» — Syaikh para ruhaniyyin, Syaikh ‘Aṭiyyah ‘Abd al-Ḥamīd.” (Kepala halaman.)
+
+**AR:** (تَكْمِلَةُ الصَّلَاةِ الْخَاتِمَةِ مِنْ ص ٤٩٨) … **وَاَشْيَاعَهُ يَا اَرْحَمَ الرَّاحِمِيْنَ**.
+
+**LAT:** (takmilatu al-ṣalāti al-khātimati min ṣ 498) … wa-ashyā‘ahu yā arḥama al-rāḥimīna.
+
+**ID:** “**(Pelengkap salawat penutup dari p.498)** … **dan para pengikutnya, wahai Yang Maha Pengasih di antara para pengasih**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ عَلٰى سَيِّدِنَا مُحَمَّدٍ الَّذِىْ شَرَّفْتَهُ عَلٰى سَائِرِ الْاَنَامِ، وَرَفَعْتَهُ اِلٰى اَشْرَفِ مَحَلٍّ وَاَعْلٰى مَقَامٍ، وَجَعَلْتَهُ هَادِيًا اِلٰى دِيْنِ الْاِسْلَامِ وَدَلِيْلًا اِلٰى دَارِ السَّلَامِ**.
+
+**LAT:** allāhumma ṣalli ‘alā sayyidinā Muḥammadin alladhī sharraftahu ‘alā sā’iri al-anāmi, wa-rafa‘tahu ilā ashrafi maḥallin wa-a‘lā maqāmin, wa-ja‘altahu hādiyan ilā dīni al-islāmi wa-dalīlan ilā dāri al-salāmi.
+
+**ID:** “**Ya Allah, bersalawatlah atas penghulu kami Muhammad, yang Engkau muliakan di atas seluruh makhluk, Engkau angkat ke tempat termulia dan kedudukan tertinggi, dan Engkau jadikan pemberi petunjuk ke agama Islam serta penunjuk ke negeri kedamaian**.”
+
+**AR:** **اَللّٰهُمَّ فَكَمَا اَمَرْتَنَا بِالصَّلَاةِ عَلَيْهِ بَلِّغْ صَلَاتَنَا اِلَيْهِ يَا رَبَّ الْعَالَمِيْنَ**.
+
+**LAT:** allāhumma fa-kamā amartanā bi-al-ṣalāti ‘alayhi balligh ṣalātanā ilayhi yā rabba al-‘ālamīna.
+
+**ID:** “**Ya Allah, sebagaimana Engkau memerintahkan kami bersalawat kepadanya, sampaikanlah salawat kami kepadanya, wahai Tuhan semesta alam**.”
+
+**AR:** **اَللّٰهُمَّ احْشُرْنَا فِىْ زُمْرَتِهِ وَاجْعَلْنَا مِمَّنْ فَازَ بِشَفَاعَتِهِ وَائْتَمَرَ بِشَرِيْعَتِهِ وَاهْتَدٰى بِسُنَّتِهِ وَاقْتَدٰى بِصَحَابَتِهِ. اَللّٰهُمَّ اَوْرِدْنَا حَوْضَهُ وَاَرِنَا وَجْهَهُ وَلَا تَحْرِمْنَا شَفَاعَتَهُ وَاجْمَعْ بَيْنَنَا وَبَيْنَهُ فِىْ مُسْتَقَرِّ الرَّحْمَةِ وَالرِّضْوَانِ فِىْ دَارِ السَّلَامِ، بِرَحْمَتِكَ يَا اَرْحَمَ الرَّاحِمِيْنَ يَا ذَا الْجَلَالِ وَالْاِكْرَامِ**.
+
+**LAT:** allāhumma uḥshurnā fī zumratihi wa-ij‘alnā mimman fāza bi-shafā‘atihi wa-i’tamara bi-sharī‘atihi wa-ihtadā bi-sunnatihi wa-iqtadā bi-ṣaḥābatihi. allāhumma awridnā ḥawḍahu wa-arinā wajhahu wa-lā taḥrimnā shafā‘atahu wa-ijma‘ baynanā wa-baynahu fī mustaqarri al-raḥmati wa-al-riḍwāni fī dāri al-salāmi, bi-raḥmatika yā arḥama al-rāḥimīna yā dhā al-jalāli wa-al-ikrāmi.
+
+**ID:** “**Ya Allah, kumpulkanlah kami dalam golongannya dan jadikanlah kami termasuk orang yang beruntung dengan syafaatnya, menjalankan syariatnya, mengikuti sunnahnya, dan meneladani para sahabatnya. Ya Allah, antarkanlah kami ke telaganya, perlihatkanlah wajahnya kepada kami, jangan haramkan kami dari syafaatnya, dan kumpulkanlah kami dengannya di tempat rahmat dan keridaan di negeri kedamaian, dengan rahmat-Mu, wahai Yang Maha Pengasih di antara para pengasih, wahai Pemilik keagungan dan kemuliaan**.”
+
+**AR:** **اِنْتَهَى الْفَصْلُ الْاَوَّلُ وَيَتْلُوْهُ الْفَصْلُ الثَّانِىْ**
+
+**LAT:** intahā al-faṣlu al-awwalu wa-yatlūhu al-faṣlu al-thāniy
+
+**ID:** “**Selesailah fasal pertama, dan menyusul setelahnya fasal kedua.**” (Penanda peralihan bagian.)
+
+**AR:** **بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيْمِ**
+
+**LAT:** bismi allāhi al-raḥmāni al-raḥīmi
+
+**ID:** “**Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang.**”
+
+**AR:** **اَلْحَمْدُ لِلّٰهِ الَّذِىْ مَنَّ عَلَيْنَا بِبَعْثِ رَسُوْلِهِ النَّبِىِّ الْاُمِّىِّ سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ الَّذِىْ هَدَانَا بِهِ اِلَى الصِّرَاطِ الْمُسْتَقِيْمِ، فَلَهُ الشُّكْرُ عَلٰى مَا خَصَّنَا بِهِ دُوْنَ الْاُمَمِ الْمَاضِيَةِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ وَعَلٰى جَمِيْعِ النَّبِيِّيْنَ وَالْمُرْسَلِيْنَ**.
+
+**LAT:** al-ḥamdu lillāhi alladhī manna ‘alaynā bi-ba‘thi rasūlihi al-nabiyyi al-ummiyyi sayyidinā wa-mawlānā Muḥammadin alladhī hadānā bihi ilā al-ṣirāṭi al-mustaqīmi, fa-lahu al-shukru ‘alā mā khaṣṣanā bihi dūna al-umami al-māḍiyati ṣallā allāhu ‘alayhi wa-sallama wa-‘alā jamī‘i al-nabiyyīna wa-al-mursalīna.
+
+**ID:** “**Segala puji bagi Allah yang telah memberi karunia kepada kami dengan mengutus rasul-Nya, Nabi yang ummi, penghulu dan pelindung kami Muhammad, yang dengannya Dia menuntun kami ke jalan yang lurus; maka bagi-Nya puji syukur atas apa yang Dia khususkan bagi kami di atas umat-umat yang lalu. Semoga Allah bersalawat dan bersalam kepadanya serta kepada seluruh nabi dan rasul**.” (Pembuka **الفصل الثاني**.)
+
+**AR:** **اَللّٰهُمَّ صَلِّ وَسَلِّمْ عَلٰى سَيِّدِنَا مُحَمَّدٍ وَعَلٰى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلٰى اِبْرَاهِيْمَ وَعَلٰى آلِ اِبْرَاهِيْمَ، وَبَارِكْ عَلٰى مُحَمَّدٍ وَعَلٰى آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلٰى اِبْرَاهِيْمَ وَعَلٰى آلِ اِبْرَاهِيْمَ فِى الْعَالَمِيْنَ اِنَّكَ حَمِيْدٌ مَجِيْدٌ، كُلَّمَا ذَكَرَكَ الذَّاكِرُوْنَ، وَكُلَّمَا غَفَلَ عَنْ ذِكْرِهِ الْغَافِلُوْنَ**.
+
+**LAT:** allāhumma ṣalli wa-sallim ‘alā sayyidinā Muḥammadin wa-‘alā āli Muḥammadin kamā ṣallayta ‘alā Ibrāhīma wa-‘alā āli Ibrāhīma, wa-bārik ‘alā Muḥammadin wa-‘alā āli Muḥammadin kamā bārakta ‘alā Ibrāhīma wa-‘alā āli Ibrāhīma fī al-‘ālamīna innaka ḥamīdun majīdun, kullamā dhakaraka al-dhākirūna, wa-kullamā ghafala ‘an dhikrihi al-ghāfilūna.
+
+**ID:** “**Ya Allah, limpahkanlah salawat dan salam atas penghulu kami Muhammad dan keluarga Muhammad sebagaimana Engkau bersalawat atas Ibrāhīm dan keluarga Ibrāhīm, dan berkahilah Muhammad dan keluarga Muhammad sebagaimana Engkau memberkahi Ibrāhīm dan keluarga Ibrāhīm di seluruh alam; sesungguhnya Engkau Maha Terpuji lagi Mahamulia — setiap kali orang-orang yang mengingat-Mu mengingat-Mu, dan setiap kali orang-orang yang lalai melupakan penyebutannya**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ اَفْضَلَ صَلَاةٍ عَلٰى اَفْضَلِ مَخْلُوْقَاتِكَ سَيِّدِنَا مُحَمَّدٍ وَعَلٰى آلِهِ وَصَحْبِهِ وَسَلِّمْ كُلَّمَا ذَكَرَهُ الذَّاكِرُوْنَ وَغَفَلَ عَنْ ذِكْرِهِ الْغَافِلُوْنَ**.
+
+**LAT:** allāhumma ṣalli afḍala ṣalātin ‘alā afḍali makhlūqātika sayyidinā Muḥammadin wa-‘alā ālihi wa-ṣaḥbihi wa-sallim kullamā dhakarahu al-dhākirūna wa-ghafala ‘an dhikrihi al-ghāfilūna.
+
+**ID:** “**Ya Allah, limpahkanlah salawat yang paling utama atas makhluk-Mu yang paling utama, penghulu kami Muhammad, keluarganya, dan para sahabatnya, dan berilah salam — setiap kali orang-orang yang mengingat mengingatnya dan orang-orang yang lalai melupakannya**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ وَسَلِّمْ عَلٰى سَيِّدِنَا مُحَمَّدٍ عَبْدِكَ وَنَبِيِّكَ وَرَسُوْلِكَ النَّبِىِّ الْاُمِّىِّ وَعَلٰى آلِهِ وَصَحْبِهِ الطَّيِّبِيْنَ وَسَلِّمْ عَدَدَ مَا فِى السَّمٰوَاتِ وَمَا فِى الْاَرْضِ وَمَا بَيْنَهُمَا، وَاَجِرْ لُطْفَكَ فِىْ اُمُوْرِنَا وَالْمُسْلِمِيْنَ اَجْمَعِيْنَ يَا رَبَّ الْعَالَمِيْنَ**.
+
+**LAT:** allāhumma ṣalli wa-sallim ‘alā sayyidinā Muḥammadin ‘abdika wa-nabiyyika wa-rasūlika al-nabiyyi al-ummiyyi wa-‘alā ālihi wa-ṣaḥbihi al-ṭayyibīna wa-sallim ‘adada mā fī al-samāwāti wa-mā fī al-arḍi wa-mā baynahumā, wa-ajir luṭfaka fī umūrinā wa-al-muslimīna ajma‘īna yā rabba al-‘ālamīna.
+
+**ID:** “**Ya Allah, limpahkanlah salawat dan salam atas penghulu kami Muhammad, hamba-Mu, nabi-Mu, dan rasul-Mu, Nabi yang ummi, serta keluarganya dan para sahabatnya yang baik; dan berilah salam sebanyak apa yang ada di langit, di bumi, dan di antara keduanya; dan alirkanlah kelembutan-Mu dalam urusan kami dan seluruh kaum muslimin, wahai Tuhan semesta alam**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ عَلٰى سَيِّدِنَا مُحَمَّدٍ وَعَلٰى آلِهِ وَصَحْبِهِ وَسَلِّمْ عَدَدَ مَا كَانَ وَعَدَدَ مَا يَكُوْنُ وَعَدَدَ مَا هُوَ كَائِنٌ فِىْ عِلْمِ اللهِ**.
+
+**LAT:** allāhumma ṣalli ‘alā sayyidinā Muḥammadin wa-‘alā ālihi wa-ṣaḥbihi wa-sallim ‘adada mā kāna wa-‘adada mā yakūnu wa-‘adada mā huwa kā’inun fī ‘ilmi allāhi.
+
+**ID:** “**Ya Allah, bersalawatlah atas penghulu kami Muhammad, keluarganya, dan para sahabatnya, dan berilah salam sebanyak apa yang telah ada, sebanyak apa yang akan ada, dan sebanyak apa yang ada dalam ilmu Allah**.”
+
+**Keterangan halaman.** (1) **Penutup rangkaian salawat panjang** yang dimulai p.497–498 (empat paragraf doa: syafaat, telaga, pertemuan di dār al-salām)؛ (2) **penanda struktural** «انتهى الفصل الأول ويتلوه الفصل الثاني» — **batas akhir fasal pertama bab salawat**؛ (3) **pembuka الفصل الثاني**: basmalah + hamdalah (**«منّ علينا ببعث رسوله النبي الأمي»**) + **empat lafaz salawat** dengan pola **«كلما ذكرك الذاكرون وكلما غفل عن ذكره الغافلون»** dan pola **hitungan** (**«عدد ما في السماوات وما في الأرض وما بينهما»**، **«عدد ما كان وما يكون وما هو كائن»**).
+
+**Angka pada halaman ini.** **Tidak ada angka Arab** — `NUMS: []`؛ seluruh bilangan ditulis dengan **kata**: **«عَدَدَ مَا كَانَ»**، **«عَدَدَ مَا يَكُوْنُ»**، **«عَدَدَ مَا هُوَ كَائِنٌ»**، dan **«كُلَّمَا»** (bukan «أربعاً» seperti p.498). **Tidak ada angka yang dikoreksi** dan **tidak ada yang ditambahkan**.
+
+**Wafaq:** **tidak ada**؛ halaman **doa/salawat** → **tidak ada** uji penjumlahan.
+
+**[TIDAK JELAS - HALAMAN 499]** (1) **Awal halaman terpotong** — dimulai dengan **«وأشياعه يا أرحم الراحمين»**؛ **disambung** dari p.498 dan **ditandai**. (2) **«الَّذِىْ شَرَّفْتَهُ عَلٰى سَائِرِ الْاَنَامِ»** — **lapisan teks** memecah kata («شر فتـَه»)؛ **pembacaan dipulihkan** dari pindaian dan **dicatat**. (3) **«بِرَحْمَتِكَ يَا اَرْحَمَ الرَّاحِمِيْنَ يَا ذَا الْجَلَالِ وَالْاِكْرَامِ»** — **dua munādā berturut-turut**؛ **dipertahankan**. (4) **«اِنْتَهَى الْفَصْلُ الْاَوَّلُ»** — **tidak dijelaskan** fasal apa yang dimaksud (kemungkinan **fasal salawat**)؛ **dipertahankan apa adanya**, **tidak ditafsirkan lebih jauh**. (5) **«وَاَجِرْ لُطْفَكَ»** — **lafaz** tidak lazim؛ **dipertahankan**. (6) **Perbedaan «كُلَّمَا» vs «عَدَدَ مَا»** dalam salawat berturut-turut — **dua pola berbeda**؛ **keduanya dipertahankan**. (7) **Pembuka الفصل الثاني tidak berjudul** — **hanya basmalah + hamdalah**, tanpa judul fasal؛ **dicatat** bahwa **isi fasal kedua belum tampak** pada halaman ini.
+
+**Catatan (dicatat apa adanya, bukan fatwa).** Halaman **doa**؛ **tidak ada praktik okultisme**. Yang dicatat: **permohonan «أوردنا حوضه وأرنا وجهه»** (melihat wajah Nabi) dan **«لا تحرمنا شفاعته»** adalah **materi doa**؛ **tidak dinilai di sini**.
+
+**[TIDAK ADA RAJAH - TERVERIFIKASI DARI GAMBAR SCAN]** — `get_image_info()` = `[]`؛ halaman **teks murni**.
+
+---
+## HALAMAN 500 — lanjutan الفصل الثاني: salawat dengan **sifat-sifat dan gelar** («صاحب العلامة والغمامة»، «صاحب الكرامة والشفاعة»، bilangan «عدد»)
+
+**AR:** كِتَابُ سِرِّ الْاَسْرَارِ فِي التَّوَاصُلِ مَعَ رُوحَانِيَّاتِ الْقُرْآنِ — شَيْخُ الرُّوحَانِيِّينَ الشَّيْخُ عَطِيَّةُ عَبْدُ الْحَمِيْدِ
+
+**LAT:** kitābu sirri al-asrāri fī al-tawāṣuli ma‘a rūḥāniyyāti al-qur’āni — shaykhu al-rūḥāniyyīna al-shaykhu ‘Aṭiyyatu ‘Abdu al-Ḥamīdi
+
+**ID:** “Kitab «Sirr al-Asrār fī al-Tawāṣul ma‘a Rūḥāniyyāt al-Qur’ān» — Syaikh para ruhaniyyin, Syaikh ‘Aṭiyyah ‘Abd al-Ḥamīd.” (Kepala halaman.)
+
+**AR:** **اَللّٰهُمَّ صَلِّ وَسَلِّمْ عَلٰى رُوْحِ سَيِّدِنَا مُحَمَّدٍ فِى الْاَرْوَاحِ، وَصَلِّ وَسَلِّمْ عَلٰى جَسَدِهِ فِى الْاَجْسَادِ، وَصَلِّ وَسَلِّمْ عَلٰى قَبْرِهِ فِى الْقُبُوْرِ، وَصَلِّ وَسَلِّمْ عَلٰى اسْمِهِ فِى الْاَسْمَاءِ**.
+
+**LAT:** allāhumma ṣalli wa-sallim ‘alā rūḥi sayyidinā Muḥammadin fī al-arwāḥi, wa-ṣalli wa-sallim ‘alā jasadihi fī al-ajsādi, wa-ṣalli wa-sallim ‘alā qabrihi fī al-qubūri, wa-ṣalli wa-sallim ‘alā ismihi fī al-asmā’i.
+
+**ID:** “**Ya Allah, limpahkanlah salawat dan salam atas ruh penghulu kami Muhammad di antara semua ruh, atas jasadnya di antara semua jasad, atas kuburnya di antara semua kubur, dan atas namanya di antara semua nama**.” (**Empat cakupan**: ruh, jasad, kubur, nama.)
+
+**AR:** **اَللّٰهُمَّ صَلِّ وَسَلِّمْ عَلٰى سَيِّدِنَا مُحَمَّدٍ صَاحِبِ الْعَلَامَةِ وَالْغَمَامَةِ، وَصَلِّ وَسَلِّمْ عَلٰى سَيِّدِنَا مُحَمَّدٍ صَاحِبِ الْكَرَامَةِ وَالشَّفَاعَةِ، وَصَلِّ وَسَلِّمْ عَلٰى سَيِّدِنَا مُحَمَّدٍ صَاحِبِ النُّبُوَّةِ وَالرِّسَالَةِ**.
+
+**LAT:** allāhumma ṣalli wa-sallim ‘alā sayyidinā Muḥammadin ṣāḥibi al-‘alāmati wa-al-ghamāmati, wa-ṣalli wa-sallim ‘alā sayyidinā Muḥammadin ṣāḥibi al-karāmati wa-al-shafā‘ati, wa-ṣalli wa-sallim ‘alā sayyidinā Muḥammadin ṣāḥibi al-nubuwwati wa-al-risālati.
+
+**ID:** “**Ya Allah, limpahkanlah salawat dan salam atas penghulu kami Muhammad, pemilik tanda dan awan (naungan); atas penghulu kami Muhammad, pemilik kemuliaan dan syafaat; atas penghulu kami Muhammad, pemilik kenabian dan kerasulan**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ وَسَلِّمْ عَلٰى سَيِّدِنَا مُحَمَّدٍ الَّذِىْ هُوَ اُمَى مِنَ الشَّمْسِ وَالْقَمَرِ، وَصَلِّ وَسَلِّمْ عَلٰى سَيِّدِنَا مُحَمَّدٍ عَدَدَ حَسَنَاتِ اَبِىْ بَكْرٍ وَعُمَرَ، وَصَلِّ وَسَلِّمْ عَلٰى سَيِّدِنَا مُحَمَّدٍ عَدَدَ حَسَنَاتِ عُثْمَانَ وَحَيْدَرٍ، وَصَلِّ وَسَلِّمْ عَلٰى سَيِّدِنَا مُحَمَّدٍ عَدَدَ نَبَاتِ الْاَرْضِ وَاَوْرَاقِ الشَّجَرِ**.
+
+**LAT:** allāhumma ṣalli wa-sallim ‘alā sayyidinā Muḥammadin alladhī huwa umā mina al-shamsi wa-al-qamari, wa-ṣalli wa-sallim ‘alā sayyidinā Muḥammadin ‘adada ḥasanāti Abī Bakrin wa-‘Umara, wa-ṣalli wa-sallim ‘alā sayyidinā Muḥammadin ‘adada ḥasanāti ‘Uthmāna wa-Ḥaydara, wa-ṣalli wa-sallim ‘alā sayyidinā Muḥammadin ‘adada nabāti al-arḍi wa-awrāqi al-shajari.
+
+**ID:** “**Ya Allah, limpahkanlah salawat dan salam atas penghulu kami Muhammad, yang lebih (terang) daripada matahari dan bulan; ... sebanyak kebaikan Abū Bakr dan ‘Umar; ... sebanyak kebaikan ‘Utsmān dan Ḥaydar; ... sebanyak tumbuhan bumi dan daun pepohonan**.” (**Empat lafaz “bilangan”** dalam satu paragraf.)
+
+**AR:** **اَللّٰهُمَّ صَلِّ وَسَلِّمْ عَلٰى سَيِّدِنَا مُحَمَّدٍ عَبْدِكَ الَّذِىْ جُمِعَتْ بِهِ شَتَاتُ النُّفُوْسِ، وَنَبِيِّكَ الَّذِىْ جُلِيَتْ بِهِ ظَلَامُ الْقُلُوْبِ، وَحَبِيْبِكَ الَّذِىْ اخْتَرْتَهُ عَلٰى كُلِّ حَبِيْبٍ**.
+
+**LAT:** allāhumma ṣalli wa-sallim ‘alā sayyidinā Muḥammadin ‘abdika alladhī jumi‘at bihi shatātu al-nufūsi, wa-nabiyyika alladhī juliyat bihi ẓalāmu al-qulūbi, wa-ḥabībika alladhī ikhtartahu ‘alā kulli ḥabībin.
+
+**ID:** “**Ya Allah, limpahkanlah salawat dan salam atas penghulu kami Muhammad, hamba-Mu yang dengannya dikumpulkan yang tercerai dari jiwa-jiwa, nabi-Mu yang dengannya kegelapan hati disingkapkan, dan kekasih-Mu yang Engkau pilih di atas setiap kekasih**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ وَسَلِّمْ عَلٰى سَيِّدِنَا مُحَمَّدٍ الَّذِىْ جَاءَ بِالْحَقِّ الْمُبِيْنِ وَاَرْسَلْتَهُ رَحْمَةً لِلْعَالَمِيْنَ**.
+
+**LAT:** allāhumma ṣalli wa-sallim ‘alā sayyidinā Muḥammadin alladhī jā’a bi-al-ḥaqqi al-mubīni wa-arsaltahu raḥmatan lil-‘ālamīna.
+
+**ID:** “**Ya Allah, limpahkanlah salawat dan salam atas penghulu kami Muhammad, yang datang membawa kebenaran yang nyata, dan Engkau mengutusnya sebagai rahmat bagi semesta alam**.” (**Penggalan al-Naml ٢٧:٧٩ / al-Anbiyā’ ٢١:١٠٧** — **tanpa nomor ayat** pada cetakan.)
+
+**AR:** **اَللّٰهُمَّ صَلِّ وَسَلِّمْ عَلٰى سَيِّدِنَا مُحَمَّدٍ النَّبِىِّ الْمَلِيْحِ، صَاحِبِ الْمَقَامِ الْاَعْلٰى وَاللِّسَانِ الْفَصِيْحِ**.
+
+**LAT:** allāhumma ṣalli wa-sallim ‘alā sayyidinā Muḥammadin al-nabiyyi al-malīḥi, ṣāḥibi al-maqāmi al-a‘lā wa-al-lisāni al-faṣīḥi.
+
+**ID:** “**Ya Allah, limpahkanlah salawat dan salam atas penghulu kami Muhammad, Nabi yang rupawan, pemilik kedudukan tertinggi dan lisan yang fasih**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ وَسَلِّمْ عَلٰى سَيِّدِنَا مُحَمَّدٍ كَمَا يَنْبَغِىْ لِشَرَفِ نُبُوَّتِهِ وَلِعَظِيْمِ قَدْرِهِ الْعَظِيْمِ، وَصَلِّ وَسَلِّمْ عَلٰى سَيِّدِنَا مُحَمَّدٍ حَقَّ قَدْرِهِ وَمِقْدَارِهِ الْعَظِيْمِ، وَصَلِّ وَسَلِّمْ عَلٰى سَيِّدِنَا مُحَمَّدٍ الرَّسُوْلِ الْكَرِيْمِ الْمُطَاعِ الْاَمِيْنِ**.
+
+**LAT:** allāhumma ṣalli wa-sallim ‘alā sayyidinā Muḥammadin kamā yanbaghī li-sharafi nubuwwatihi wa-li-‘aẓīmi qadrihi al-‘aẓīmi, wa-ṣalli wa-sallim ‘alā sayyidinā Muḥammadin ḥaqqa qadrihi wa-miqdārihi al-‘aẓīmi, wa-ṣalli wa-sallim ‘alā sayyidinā Muḥammadin al-rasūli al-karīmi al-muṭā‘i al-amīni.
+
+**ID:** “**Ya Allah, limpahkanlah salawat dan salam atas penghulu kami Muhammad sebagaimana layak bagi kemuliaan kenabiannya dan kebesaran kedudukannya yang agung; ... sesuai kadar kedudukan dan ukurannya yang agung; ... atas penghulu kami Muhammad, rasul yang mulia, yang ditaati dan terpercaya**.” (**Tiga frasa** dengan **pola «كما ينبغي» / «حق قدره»**.)
+
+**AR:** **اَللّٰهُمَّ صَلِّ وَسَلِّمْ عَلٰى سَيِّدِنَا مُحَمَّدٍ الْحَبِيْبِ وَعَلٰى اَبِيْهِ اِبْرَاهِيْمَ الْخَلِيْلِ وَعَلٰى اَخِيْهِ مُوْسَى الْكَلِيْمِ وَعَلٰى عِيْسَى الْاَمِيْنِ، وَعَلٰى دَاوُدَ وَسُلَيْمَانَ وَزَكَرِيَّا وَيَحْيٰى، وَعَلٰى آلِهِمْ وَصَحْبِهِمُ الطَّيِّبِيْنَ الطَّاهِرِيْنَ كُلَّمَا ذَكَرَكَ الذَّاكِرُوْنَ وَغَفَلَ عَنْ ذِكْرِكَ الْغَافِلُوْنَ**.
+
+**LAT:** allāhumma ṣalli wa-sallim ‘alā sayyidinā Muḥammadin al-ḥabībi wa-‘alā abīhi Ibrāhīma al-khalīli wa-‘alā akhīhi Mūsā al-kalīmi wa-‘alā ‘Īsā al-amīni, wa-‘alā Dāwūda wa-Sulaymāna wa-Zakariyyā wa-Yaḥyā, wa-‘alā ālihim wa-ṣaḥbihimu al-ṭayyibīna al-ṭāhirīna kullamā dhakaraka al-dhākirūna wa-ghafala ‘an dhikrika al-ghāfilūna.
+
+**ID:** “**Ya Allah, limpahkanlah salawat dan salam atas penghulu kami Muhammad, sang kekasih; atas ayahnya Ibrāhīm al-Khalīl; atas saudaranya Mūsā al-Kalīm; atas ‘Īsā yang terpercaya; atas Dāwūd, Sulaymān, Zakariyyā, dan Yaḥyā; serta atas keluarga dan para sahabat mereka yang baik dan suci — setiap kali orang-orang yang mengingat-Mu mengingat-Mu dan orang-orang yang lalai melupakan penyebutan-Mu**.” (**Memakai istilah «أبيه إبراهيم» dan «أخيه موسى»** — **istilah persaudaraan ruhani**.)
+
+**AR:** **اَللّٰهُمَّ صَلِّ عَلٰى سَيِّدِنَا مُحَمَّدٍ النَّبِىِّ الْاُمِّىِّ وَعَلٰى كُلِّ نَبِىٍّ مَلِكٍ وَوَلِىٍّ عَدَدَ الشَّفْعِ وَالْوَتْرِ وَعَدَدَ كَلِمَاتِ رَبِّنَا التَّامَّاتِ الْمُبَارَكَاتِ**.
+
+**LAT:** allāhumma ṣalli ‘alā sayyidinā Muḥammadin al-nabiyyi al-ummiyyi wa-‘alā kulli nabiyyin malikin wa-waliyyin ‘adada al-shaf‘i wa-al-watri wa-‘adada kalimāti rabbinā al-tāmmāti al-mubārakāti.
+
+**ID:** “**Ya Allah, bersalawatlah atas penghulu kami Muhammad, Nabi yang ummi, dan atas setiap nabi, raja, dan wali — sebanyak bilangan yang genap dan yang ganjil, dan sebanyak kalimat-kalimat Tuhan kami yang sempurna dan penuh berkah**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ عَلٰى سَيِّدِنَا مُحَمَّدٍ اَجْوَدِ الذَّاتِ وَاَصْدَقِ الصَّادِقِيْنَ**.
+
+**LAT:** allāhumma ṣalli ‘alā sayyidinā Muḥammadin ajwadi al-dhāti wa-aṣdaqi al-ṣādiqīna.
+
+**ID:** “**Ya Allah, bersalawatlah atas penghulu kami Muhammad, yang paling dermawan zatnya dan paling benar di antara orang-orang yang benar**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ عَلٰى سَيِّدِنَا مُحَمَّدٍ اَفْصَحِ الْفُصَحَاءِ وَاَفْضَلِ الْفَاضِلِيْنَ**.
+
+**LAT:** allāhumma ṣalli ‘alā sayyidinā Muḥammadin afṣaḥi al-fuṣaḥā’i wa-afḍali al-fāḍilīna.
+
+**ID:** “**Ya Allah, bersalawatlah atas penghulu kami Muhammad, yang paling fasih di antara orang-orang fasih dan paling utama di antara orang-orang utama**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ عَلٰى سَيِّدِنَا مُحَمَّدٍ نَقِىِّ الْآفَاتِ وَاَطْهَرِ الطَّاهِرِيْنَ**.
+
+**LAT:** allāhumma ṣalli ‘alā sayyidinā Muḥammadin naqiyyi al-āfāti wa-aṭhari al-ṭāhirīna.
+
+**ID:** “**Ya Allah, bersalawatlah atas penghulu kami Muhammad, yang bersih dari segala cacat dan paling suci di antara orang-orang suci**.”
+
+**Keterangan halaman.** Halaman ini **seluruhnya rangkaian lafaz salawat** dengan **pola baru**: (a) **cakupan** (ruh/jasad/kubur/nama)؛ (b) **gelar** (العلامة والغمامة، الكرامة والشفاعة، النبوة والرسالة)؛ (c) **bilangan** yang **dihitung dari amal/orang lain** (حسنات أبي بكر وعمر، حسنات عثمان وحيدر، نبات الأرض وأوراق الشجر)؛ (d) **«صفات بلاغية»** pendek (أجود الذات، أفصح الفصحاء، نقي الآفات). **Tanpa nomor** dan **tanpa judul**.
+
+**Angka pada halaman ini.** **Tidak ada angka Arab-Indic** — `NUMS: []`؛ bilangan ditulis **dengan kata**: **«عَدَدَ»** (enam kali) dan **«الشَّفْعِ وَالْوَتْرِ»**. **Tidak ada koreksi angka**, **tidak ada penambahan**.
+
+**Wafaq:** **tidak ada**؛ halaman **doa** → **tidak ada** uji penjumlahan.
+
+**[TIDAK JELAS - HALAMAN 500]** (1) **«اَلَّذِىْ هُوَ اُمَى مِنَ الشَّمْسِ وَالْقَمَرِ»** — **kata «أُمَى»** tidak jelas bentuknya (mungkin **«أُمِّيّ»** atau **«أَبَى/أَنَى»**)؛ pada pindaian **tertulis «أُمَى»**؛ **dipertahankan** dan **ditandai**. (2) **«حَيْدَر»** dipakai **berpasangan dengan «عثمان»**؛ **dipertahankan** sebagaimana tercetak. (3) **«جُلِيَتْ بِهِ ظَلَامُ الْقُلُوْبِ»** — **susunan** tidak lazim؛ **dipertahankan**. (4) **«أَجْوَدِ الذَّاتِ»** — **idāfah** jarang؛ **dipertahankan**. (5) **«نَقِىِّ الْآفَاتِ»** — **lapisan teks** mengekstrak **«نقي»** tanpa hamzah؛ **dibaca «نقيء»/«نقيّ»**؟ — **pindaian** menunjukkan **«نقي»** tanpa hamzah؛ **dipertahankan**. (6) **Penutup halaman** berakhir dengan **titik** dan **tiga salawat pendek** — **tidak ada penanda bagian baru**؛ **batas dengan halaman berikut tidak jelas**. (7) **«صَاحِبِ الْعَلَامَةِ وَالْغَمَامَةِ»** — **rujukan** (tanda kenabian & awan penaung) **tidak dijelaskan** di halaman.
+
+**Catatan (dicatat apa adanya, bukan fatwa).** Halaman **doa**؛ **tidak ada praktik okultisme**. Yang dicatat: **beberapa lafaz memuat gelar yang tidak lazim dalam salawat baku** («المليح»، «أجود الذات») dan **bilangan yang diambil dari amal sahabat**؛ **statusnya tidak dinilai di sini**.
+
+**[TIDAK ADA RAJAH - TERVERIFIKASI DARI GAMBAR SCAN]** — `get_image_info()` = `[]`؛ halaman **teks murni**.
+
+---
+## HALAMAN 501 — lanjutan الفصل الثاني: **١٥ salawat pendek** dengan sebab-sebab keutamaan (Ādam, ‘Īsā, malaikat, «سلطان الأنبياء»، ayat al-Nisā’ ١١٣)
+
+**AR:** كِتَابُ سِرِّ الْاَسْرَارِ فِي التَّوَاصُلِ مَعَ رُوحَانِيَّاتِ الْقُرْآنِ — شَيْخُ الرُّوحَانِيِّينَ الشَّيْخُ عَطِيَّةُ عَبْدُ الْحَمِيْدِ
+
+**LAT:** kitābu sirri al-asrāri fī al-tawāṣuli ma‘a rūḥāniyyāti al-qur’āni — shaykhu al-rūḥāniyyīna al-shaykhu ‘Aṭiyyatu ‘Abdu al-Ḥamīdi
+
+**ID:** “Kitab «Sirr al-Asrār fī al-Tawāṣul ma‘a Rūḥāniyyāt al-Qur’ān» — Syaikh para ruhaniyyin, Syaikh ‘Aṭiyyah ‘Abd al-Ḥamīd.” (Kepala halaman.)
+
+**AR:** **اَللّٰهُمَّ صَلِّ عَلٰى سَيِّدِنَا مُحَمَّدٍ بُرْهَانِ الْاَتْقِيَاءِ وَشَفِيْعِ الْمُذْنِبِيْنَ**.
+
+**LAT:** allāhumma ṣalli ‘alā sayyidinā Muḥammadin burhāni al-atqiyā’i wa-shafī‘i al-mudhnibīna.
+
+**ID:** “**Ya Allah, bersalawatlah atas penghulu kami Muhammad, bukti orang-orang bertakwa dan pemberi syafaat bagi para pendosa**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ عَلٰى سَيِّدِنَا مُحَمَّدٍ بَشِيْرٍ مِنَ اللهِ وَرَحْمَةٍ لِلْعَالَمِيْنَ**.
+
+**LAT:** allāhumma ṣalli ‘alā sayyidinā Muḥammadin bashīrin mina allāhi wa-raḥmatin lil-‘ālamīna.
+
+**ID:** “**Ya Allah, bersalawatlah atas penghulu kami Muhammad, pembawa kabar gembira dari Allah dan rahmat bagi semesta alam**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ عَلٰى سَيِّدِنَا مُحَمَّدٍ مَحْمُوْدِ الْوَصْفِ وَاَحْمَدِ الرَّائِسِيْنَ**.
+
+**LAT:** allāhumma ṣalli ‘alā sayyidinā Muḥammadin maḥmūdi al-waṣfi wa-aḥmadi al-rā’isīna.
+
+**ID:** “**Ya Allah, bersalawatlah atas penghulu kami Muhammad, yang terpuji sifatnya dan paling terpuji di antara para pemimpin**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ عَلٰى سَيِّدِنَا مُحَمَّدٍ شَفِيْعِ يَوْمِ الْقِيَامَةِ وَحَبِيْبِ رَبِّ الْعَالَمِيْنَ**.
+
+**LAT:** allāhumma ṣalli ‘alā sayyidinā Muḥammadin shafī‘i yawmi al-qiyāmati wa-ḥabībi rabbi al-‘ālamīna.
+
+**ID:** “**Ya Allah, bersalawatlah atas penghulu kami Muhammad, pemberi syafaat pada hari kiamat dan kekasih Tuhan semesta alam**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ عَلٰى سَيِّدِنَا مُحَمَّدٍ وَبَارِكْ وَسَلِّمْ عَلَيْهِ، وَصَلِّ عَلَى الْاَنْبِيَاءِ وَالْمُرْسَلِيْنَ وَعَلٰى كُلِّ مَلَكٍ وَعَلٰى عِبَادِكَ الصَّالِحِيْنَ وَعَلٰى اَهْلِ طَاعَتِكَ اَجْمَعِيْنَ، وَارْحَمْنَا مَعَهُمْ جَمِيْعًا بِرَحْمَتِكَ يَا اَرْحَمَ الرَّاحِمِيْنَ**.
+
+**LAT:** allāhumma ṣalli ‘alā sayyidinā Muḥammadin wa-bārik wa-sallim ‘alayhi, wa-ṣalli ‘alā al-anbiyā’i wa-al-mursalīna wa-‘alā kulli malakin wa-‘alā ‘ibādika al-ṣāliḥīna wa-‘alā ahli ṭā‘atika ajma‘īna, wa-irḥamnā ma‘ahum jamī‘an bi-raḥmatika yā arḥama al-rāḥimīna.
+
+**ID:** “**Ya Allah, bersalawatlah atas penghulu kami Muhammad, berkahilah, dan berilah salam kepadanya; bersalawatlah atas para nabi dan rasul, atas setiap malaikat, atas hamba-hamba-Mu yang saleh, dan atas semua orang yang taat kepada-Mu; dan rahmatilah kami bersama mereka semua dengan rahmat-Mu, wahai Yang Maha Pengasih di antara para pengasih**.” (**Satu-satunya lafaz panjang di halaman ini** — mencakup **nabi, malaikat, orang saleh, dan ahli taat**.)
+
+**AR:** **اَللّٰهُمَّ صَلِّ عَلٰى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ الَّذِىْ تَوَسَّلَ بِهِ آدَمُ فَاُلْهِمَ الصَّلَاةَ عَلَيْهِ فَعَادَ عَزِيْزًا كَرِيْمًا**.
+
+**LAT:** allāhumma ṣalli ‘alā sayyidinā wa-mawlānā Muḥammadin alladhī tawassala bihi Ādamu fa-ulhima al-ṣalāta ‘alayhi fa-‘āda ‘azīzan karīman.
+
+**ID:** “**Ya Allah, bersalawatlah atas penghulu dan pelindung kami Muhammad, yang dengannya Ādam bertawassul, lalu ia diilhami untuk bersalawat kepadanya, sehingga ia kembali menjadi mulia dan terhormat**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ عَلٰى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ الَّذِىْ بُشِّرَ بِهِ عِيْسَى فَنَالَ رِفْعَةً وَتَقْدِيْمًا**.
+
+**LAT:** allāhumma ṣalli ‘alā sayyidinā wa-mawlānā Muḥammadin alladhī bushshira bihi ‘Īsā fa-nāla rif‘atan wa-taqdīman.
+
+**ID:** “**Ya Allah, bersalawatlah atas penghulu dan pelindung kami Muhammad, yang dengannya ‘Īsā diberi kabar gembira, sehingga ia memperoleh pengangkatan dan pengutamaan**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ عَلٰى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ الَّذِىْ سَلَّمَتْ عَلَيْهِ الْمَلَائِكَةُ الْاَبْرَارُ، فَحَصَلَ لَهُ الْفَخَارُ عِنْدَ مَنْ لَمْ يَزَلْ عَظِيْمًا**.
+
+**LAT:** allāhumma ṣalli ‘alā sayyidinā wa-mawlānā Muḥammadin alladhī sallamat ‘alayhi al-malā’ikatu al-abrāru, fa-ḥaṣala lahu al-fakhāru ‘inda man lam yazal ‘aẓīman.
+
+**ID:** “**Ya Allah, bersalawatlah atas penghulu dan pelindung kami Muhammad, yang kepadanya para malaikat yang saleh memberi salam, sehingga ia memperoleh kebanggaan di sisi Yang senantiasa Mahaagung**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ عَلٰى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ الَّذِىْ جَعَلْتَهُ سُلْطَانَ الْاَنْبِيَاءِ وَاَعْطَيْتَهُ جَاهًا عَظِيْمًا**.
+
+**LAT:** allāhumma ṣalli ‘alā sayyidinā wa-mawlānā Muḥammadin alladhī ja‘altahu sulṭāna al-anbiyā’i wa-a‘ṭaytahu jāhan ‘aẓīman.
+
+**ID:** “**Ya Allah, bersalawatlah atas penghulu dan pelindung kami Muhammad, yang Engkau jadikan penguasa para nabi dan Engkau beri kedudukan yang agung**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ عَلٰى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ الْمَخَاطَبِ بِقَوْلِ اللهِ عَزَّ وَجَلَّ ﴿وَعَلَّمَكَ مَا لَمْ تَكُنْ تَعْلَمُ وَكَانَ فَضْلُ اللهِ عَلَيْكَ عَظِيْمًا﴾**.
+
+**LAT:** allāhumma ṣalli ‘alā sayyidinā wa-mawlānā Muḥammadin al-makhāṭabi bi-qawli allāhi ‘azza wa-jalla (wa-‘allamaka mā lam takun ta‘lamu wa-kāna faḍlu allāhi ‘alayka ‘aẓīman).
+
+**ID:** “**Ya Allah, bersalawatlah atas penghulu dan pelindung kami Muhammad, yang kepadanya ditujukan firman Allah — Mahamulia lagi Mahaagung — «Dan Dia mengajarkan kepadamu apa yang belum engkau ketahui; dan karunia Allah atasmu sangat besar»**.” (**Q.S. al-Nisā’ ٤:١١٣** — **identifikasi pentranskripsi**, **nomor tidak tercetak**.)
+
+**AR:** **اَللّٰهُمَّ صَلِّ عَلٰى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ الَّذِىْ اَقْسَمْتَ عَلَيْهِ بِحَيَاتِهِ تَعْظِيْمًا لَهُ وَتَكْرِيْمًا**.
+
+**LAT:** allāhumma ṣalli ‘alā sayyidinā wa-mawlānā Muḥammadin alladhī aqsamt ‘alayhi bi-ḥayātihi ta‘ẓīman lahu wa-takrīman.
+
+**ID:** “**Ya Allah, bersalawatlah atas penghulu dan pelindung kami Muhammad, yang atasnya Engkau bersumpah dengan hidupnya — sebagai pengagungan dan pemuliaan baginya**.” (**Isyarat Q.S. al-Ḥijr ١٥:٧٢**.)
+
+**AR:** **اَللّٰهُمَّ صَلِّ عَلٰى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ الَّذِىْ سَمَّيْتَهُ بِاسْمَيْنِ مِنْ اَسْمَائِكَ رَءُوْفًا رَحِيْمًا**.
+
+**LAT:** allāhumma ṣalli ‘alā sayyidinā wa-mawlānā Muḥammadin alladhī sammaytahu bi-ismayni min asmā’ika ra’ūfan raḥīman.
+
+**ID:** “**Ya Allah, bersalawatlah atas penghulu dan pelindung kami Muhammad, yang Engkau beri dua nama dari nama-nama-Mu: Ra’ūf (Maha Pengasih) dan Raḥīm (Maha Penyayang)**.” (**Isyarat Q.S. al-Tawbah ٩:١٢٨**.)
+
+**AR:** **اَللّٰهُمَّ صَلِّ عَلٰى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ الَّذِىْ مَنْ تَمَسَّكَ بِشَرِيْعَتِهِ نَالَ فَضْلًا جَسِيْمًا**.
+
+**LAT:** allāhumma ṣalli ‘alā sayyidinā wa-mawlānā Muḥammadin alladhī man tamassaka bi-sharī‘atihi nāla faḍlan jasīman.
+
+**ID:** “**Ya Allah, bersalawatlah atas penghulu dan pelindung kami Muhammad, yang siapa berpegang pada syariatnya memperoleh karunia yang besar**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ عَلٰى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ الَّذِىْ مَنِ اهْتَدٰى بِهَدْيِهِ حَازَ فِى الْجَنَّةِ نَضْرَةً وَنَعِيْمًا**.
+
+**LAT:** allāhumma ṣalli ‘alā sayyidinā wa-mawlānā Muḥammadin alladhī mani ihtadā bi-hadyihi ḥāza fī al-jannati naḍratan wa-na‘īman.
+
+**ID:** “**Ya Allah, bersalawatlah atas penghulu dan pelindung kami Muhammad, yang siapa mendapat petunjuk dengan bimbingannya memperoleh di surga kesegaran dan kenikmatan**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ عَلٰى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ الَّذِىْ شَرَّفْتَ بِهِ زَمْزَمًا وَحَطِيْمًا**.
+
+**LAT:** allāhumma ṣalli ‘alā sayyidinā wa-mawlānā Muḥammadin alladhī sharrafta bihi Zamzaman wa-Ḥaṭīman.
+
+**ID:** “**Ya Allah, bersalawatlah atas penghulu dan pelindung kami Muhammad, yang dengannya Engkau muliakan Zamzam dan Ḥaṭīm**.”
+
+**Keterangan halaman.** **١٥ lafaz salawat pendek** (satu kalimat masing-masing), semuanya **berpola sama**: **«اللهم صل على سيدنا (ومولانا) محمد + sifat/sebab»**. Peralihan bentuk: **empat pertama** memakai **sifat murni**؛ **lafaz kelima** **panjang dan mencakup makhluk lain**؛ **sisanya (٦–١٥)** memakai **klausa «الذي…»** dengan **sebab keutamaan** (Ādam, ‘Īsā, malaikat, «سلطان الأنبياء»، ayat، sumpah dengan hidupnya، dua nama, syariat, hidayah، Zamzam–Ḥaṭīm). **Tanpa nomor** pada cetakan — **nomor ١–١٥ adalah penomoran pentranskripsi**.
+
+**Angka pada halaman ini.** **Tidak ada angka Arab-Indic** — `NUMS: []`؛ bilangan ditulis **kata** («باسمين»). **Rujukan ayat** (al-Nisā’ ١١٣، al-Ḥijr ٧٢، al-Tawbah ١٢٨) adalah **identifikasi pentranskripsi**؛ **tidak tercetak** sebagai nomor. **Tidak ada koreksi angka.**
+
+**Wafaq:** **tidak ada**؛ halaman **doa** → **tidak ada** uji penjumlahan.
+
+**[TIDAK JELAS - HALAMAN 501]** (1) **«اَحْمَدِ الرَّائِسِيْنَ»** — **bentuk** tidak lazim («الرائسين»)؛ **dipertahankan**. (2) **«بَشِيْرٍ مِنَ اللهِ وَرَحْمَةٍ لِلْعَالَمِيْنَ»** — **dua kata majrur** setelah «محمد» (naṣb/jar tidak konsisten)؛ **dipertahankan** sebagaimana tercetak. (3) **«سُلْطَانَ الْاَنْبِيَاءِ»** — **gelar** tanpa penjelasan؛ **dipertahankan**. (4) **Kutipan ayat** ﴿وعلمك ما لم تكن تعلم…﴾ — **dalam kurung**؛ **dipertahankan** dan **ditandai** bahwa **nomor surah/ayat tidak dicetak**. (5) **«اَقْسَمْتَ عَلَيْهِ بِحَيَاتِهِ»** — **susunan** tidak lazim؛ **dipertahankan**. (6) **«سَمَّيْتَهُ بِاسْمَيْنِ»** — **dua nama** yang dimaksud (**رءوف رحيم**) **disebut**, tetapi **hubungannya dengan nama Nabi** **tidak dijelaskan**؛ **ditandai**. (7) **«شَرَّفْتَ بِهِ زَمْزَمًا وَحَطِيْمًا»** — **«حطيم»** ditulis **«حطيماً»** (manṣūb)؛ **dipertahankan**.
+
+**Catatan (dicatat apa adanya, bukan fatwa).** Halaman **doa**؛ **tidak ada praktik okultisme**. Yang dicatat: **klaim «توسل به آدم فأُلهم الصلاة عليه»** dan **«بُشِّر به عيسى»** adalah **riwayat tanpa sanad** pada halaman ini؛ **tidak dinilai di sini**.
+
+**[TIDAK ADA RAJAH - TERVERIFIKASI DARI GAMBAR SCAN]** — `get_image_info()` = `[]`؛ halaman **teks murni**.
+
+---
+## HALAMAN 502 — lanjutan الفصل الثاني: salawat pola **«صلاةَ عبدٍ…»** + penutup **«هذه الصلاة حباً وشوقاً إليك يا محمد (أمداً)»**
+
+**AR:** كِتَابُ سِرِّ الْاَسْرَارِ فِي التَّوَاصُلِ مَعَ رُوحَانِيَّاتِ الْقُرْآنِ — شَيْخُ الرُّوحَانِيِّينَ الشَّيْخُ عَطِيَّةُ عَبْدُ الْحَمِيْدِ
+
+**LAT:** kitābu sirri al-asrāri fī al-tawāṣuli ma‘a rūḥāniyyāti al-qur’āni — shaykhu al-rūḥāniyyīna al-shaykhu ‘Aṭiyyatu ‘Abdu al-Ḥamīdi
+
+**ID:** “Kitab «Sirr al-Asrār fī al-Tawāṣul ma‘a Rūḥāniyyāt al-Qur’ān» — Syaikh para ruhaniyyin, Syaikh ‘Aṭiyyah ‘Abd al-Ḥamīd.” (Kepala halaman.)
+
+**AR:** **اَللّٰهُمَّ صَلِّ عَلٰى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ الَّذِىْ اَطْبَقَ اَسِيْرًا وَآثَرَ مِسْكِيْنًا عَدِيًّا**.
+
+**LAT:** allāhumma ṣalli ‘alā sayyidinā wa-mawlānā Muḥammadin alladhī aṭbaqa asīran wa-āthara miskīnan ‘adiyyan.
+
+**ID:** “**Ya Allah, bersalawatlah atas penghulu dan pelindung kami Muhammad, yang membebaskan tawanan dan mengutamakan orang miskin yang jauh (bukan kerabat)**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ عَلٰى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ الَّذِىْ جَبَرَ كَسِيْرًا وَاَغْنَمَ فَقِيْرًا وَرَحِمَ يَتِيْمًا**.
+
+**LAT:** allāhumma ṣalli ‘alā sayyidinā wa-mawlānā Muḥammadin alladhī jabara kasīran wa-aghnā faqīran wa-raḥima yatīman.
+
+**ID:** “**Ya Allah, bersalawatlah atas penghulu dan pelindung kami Muhammad, yang merawat yang patah, mengayakan yang fakir, dan menyayangi anak yatim**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ عَلٰى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ الَّذِىْ يَرُدُّ اللهُ بِهِ عَنَّا فِى الْمَعَادِ جَحِيْمًا، صَلَاةً تَدُوْمُ وَتَبْقٰى بِبَقَائِكَ لَا مُنْتَهٰى لَهَا دُوْنَ عِلْمِكَ، صَلَاةً تُرْضِيْكَ وَتُرْضِيْهِ وَتُرْضٰى مَا عَنَّا يَا رَبَّ الْعَالَمِيْنَ**.
+
+**LAT:** allāhumma ṣalli ‘alā sayyidinā wa-mawlānā Muḥammadin alladhī yaruddu allāhu bihi ‘annā fī al-ma‘ādi jaḥīman, ṣalātan tadūmu wa-tabqā bi-baqā’ika lā muntahā lahā dūna ‘ilmika, ṣalātan turḍīka wa-turḍīhi wa-turḍā mā ‘annā yā rabba al-‘ālamīna.
+
+**ID:** “**Ya Allah, bersalawatlah atas penghulu dan pelindung kami Muhammad, yang dengan dia Allah menolak jahanam dari kami pada hari kembali; salawat yang kekal dan tetap dengan kekekalan-Mu, tanpa batas selain ilmu-Mu; salawat yang membuat-Mu ridai, membuatnya ridai, dan meridai apa yang (datang) dari kami, wahai Tuhan semesta alam**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ عَلٰى سَيِّدِنَا مُحَمَّدٍ، اَللّٰهُمَّ اَعْطِهِ الْمَقْعَدَ الْمُقَرَّبَ عِنْدَكَ يَوْمَ الْقِيَامَةِ، جَزَى اللهُ مُحَمَّدًا عَنَّا مَا هُوَ اَهْلُهُ**.
+
+**LAT:** allāhumma ṣalli ‘alā sayyidinā Muḥammadin, allāhumma a‘ṭihi al-maq‘ada al-muqarraba ‘indaka yawma al-qiyāmati, jazā allāhu Muḥammadan ‘annā mā huwa ahluhu.
+
+**ID:** “**Ya Allah, bersalawatlah atas penghulu kami Muhammad. Ya Allah, berikanlah kepadanya tempat duduk yang didekatkan di sisi-Mu pada hari kiamat. Semoga Allah membalas Muhammad dari kami dengan balasan yang layak baginya**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ وَعَلٰى آلِهِ وَسَلِّمْ**.
+
+**LAT:** allāhumma ṣalli ‘alā Muḥammadin wa-‘alā ālihi wa-sallim.
+
+**ID:** “**Ya Allah, bersalawatlah atas Muhammad dan keluarganya, dan berilah salam**.” (**Lafaz terpendek di halaman ini**.)
+
+**AR:** **اَللّٰهُمَّ صَلِّ وَسَلِّمْ عَلٰى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ صَلَاةَ عَبْدٍ اَقْسَمَ بِحَقِّهِ عَلَيْكَ فَغَفَرْتَ لَهُ وَقَبِلْتَ تَوْبَتَهُ وَهَدَيْتَهُ اِلَى الصِّرَاطِ الْمُسْتَقِيْمِ**.
+
+**LAT:** allāhumma ṣalli wa-sallim ‘alā sayyidinā wa-mawlānā Muḥammadin ṣalāta ‘abdin aqsama bi-ḥaqqihi ‘alayka fa-ghafarta lahu wa-qabilta tawbatahu wa-hadaytahu ilā al-ṣirāṭi al-mustaqīmi.
+
+**ID:** “**Ya Allah, limpahkanlah salawat dan salam atas penghulu dan pelindung kami Muhammad — salawat seorang hamba yang bersumpah dengan haknya kepada-Mu, lalu Engkau mengampuninya, menerima tobatnya, dan menunjukinya ke jalan yang lurus**.” (**Pola «صلاةَ عبدٍ»** — salawat **sebagai ucapan hamba**, bukan permohonan langsung.)
+
+**AR:** **اَللّٰهُمَّ صَلِّ وَسَلِّمْ عَلٰى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ، صَلَاةَ عَبْدٍ تَوَسَّلَ بِحُرْمَتِهِ اِلَيْكَ فَاَجَبْتَ دَعْوَتَهُ وَاَعْطَيْتَهُ مَا تَمَنّٰى وَاَجَبْتَهُ مَا يَخَافُ وَيَحْذَرُ فِى الدَّارَيْنِ**.
+
+**LAT:** allāhumma ṣalli wa-sallim ‘alā sayyidinā wa-mawlānā Muḥammadin, ṣalāta ‘abdin tawassala bi-ḥurmatihi ilayka fa-ajabta da‘watahu wa-a‘ṭaytahu mā tamannā wa-ajabtahu mā yakhāfu wa-yaḥdharu fī al-dārayni.
+
+**ID:** “**Ya Allah, limpahkanlah salawat dan salam atas penghulu dan pelindung kami Muhammad — salawat seorang hamba yang bertawassul dengan kemuliaannya kepada-Mu, lalu Engkau mengabulkan doanya, memberinya apa yang ia dambakan, dan Engkau jauhkan darinya apa yang ia takuti dan khawatirkan di kedua negeri**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ وَسَلِّمْ عَلٰى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ صَلَاةَ عَبْدٍ يَطْمَعُ فِىْ فَضْلِ مَوْلَاهُ وَجَعَلَ لَهُ حَظًّا وَاَفْرًا مِنْ فَضْلِهِ وَرِضْوَانِهِ الْاَكْبَرِ**.
+
+**LAT:** allāhumma ṣalli wa-sallim ‘alā sayyidinā wa-mawlānā Muḥammadin ṣalāta ‘abdin yaṭma‘u fī faḍli mawlāhu wa-ja‘ala lahu ḥaẓẓan wa-afran min faḍlihi wa-riḍwānihi al-akbari.
+
+**ID:** “**Ya Allah, limpahkanlah salawat dan salam atas penghulu dan pelindung kami Muhammad — salawat seorang hamba yang mengharap karunia tuannya, dan Dia menjadikan baginya bagian dan kelebihan dari karunia-Nya serta keridaan-Nya yang terbesar**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ وَسَلِّمْ عَلٰى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ صَلَاةً تُفِيْضُ مَا عَلٰى قُلُوْبِنَا سِجَالَ اَنْوَارِهِ**.
+
+**LAT:** allāhumma ṣalli wa-sallim ‘alā sayyidinā wa-mawlānā Muḥammadin ṣalātan tufīḍu mā ‘alā qulūbinā sijāla anwārihi.
+
+**ID:** “**Ya Allah, limpahkanlah salawat dan salam atas penghulu dan pelindung kami Muhammad — salawat yang melimpahkan ke atas hati kami curahan cahaya-cahayanya**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ وَسَلِّمْ عَلٰى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ صَلَاةً تُعَرِّفُنَا مَا بِحَقِّهِ وَرُتْبَتِهِ وَتُقْنِعُنَا بِمَا بِرُؤْيَتِهِ**.
+
+**LAT:** allāhumma ṣalli wa-sallim ‘alā sayyidinā wa-mawlānā Muḥammadin ṣalātan tu‘arrifunā mā bi-ḥaqqihi wa-rutbatihi wa-tuqni‘unā bimā bi-ru’yatihi.
+
+**ID:** “**Ya Allah, limpahkanlah salawat dan salam atas penghulu dan pelindung kami Muhammad — salawat yang memperkenalkan kami akan hak dan kedudukannya, dan mencukupkan kami dengan (karunia) melihatnya**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ وَسَلِّمْ عَلٰى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ صَلَاةً تُبَرِّدُ مَا اَكْبَادَنَا بِكَاْسِ زُلَالِ وَصَالِهِ**.
+
+**LAT:** allāhumma ṣalli wa-sallim ‘alā sayyidinā wa-mawlānā Muḥammadin ṣalātan tubarridu mā akbādanā bi-ka’si zulāli waṣālihi.
+
+**ID:** “**Ya Allah, limpahkanlah salawat dan salam atas penghulu dan pelindung kami Muhammad — salawat yang mendinginkan hati kami dengan gelas air jernih (dari) pertemuannya**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ وَسَلِّمْ عَلٰى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ صَلَاةً تَجْذِبُنَا مَا مِنْ جَذَبَاتِهِ**.
+
+**LAT:** allāhumma ṣalli wa-sallim ‘alā sayyidinā wa-mawlānā Muḥammadin ṣalātan tajdhibunā mā min jadhabātihi.
+
+**ID:** “**Ya Allah, limpahkanlah salawat dan salam atas penghulu dan pelindung kami Muhammad — salawat yang menarik kami dengan salah satu tarikan (ruhani)nya**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ وَسَلِّمْ عَلٰى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ صَلَاةً تَبْعَثُهُ بِالْمَقَامِ الْمَحْمُوْدِ، وَتُعْطِيْهِ مَا الْوَسِيْلَةَ وَالْفَضِيْلَةَ وَالدَّرَجَةَ الرَّفِيْعَةَ وَالْمَنْزِلَةَ الشَّامِخَةَ**.
+
+**LAT:** allāhumma ṣalli wa-sallim ‘alā sayyidinā wa-mawlānā Muḥammadin ṣalātan tab‘athuhu bi-al-maqāmi al-maḥmūdi, wa-tu‘ṭīhi mā al-wasīlata wa-al-faḍīlata wa-al-darajata al-rafī‘ata wa-al-manzilata al-shāmikhata.
+
+**ID:** “**Ya Allah, limpahkanlah salawat dan salam atas penghulu dan pelindung kami Muhammad — salawat yang membangkitkannya pada kedudukan yang terpuji, dan memberinya wasilah, keutamaan, derajat yang tinggi, dan kedudukan yang menjulang**.”
+
+**AR:** **هٰذِهِ الصَّلَاةُ حُبًّا وَشَوْقًا اِلَيْكَ يَا مُحَمَّدُ (اَمَدًا)**.
+
+**LAT:** hādhihi al-ṣalātu ḥubban wa-shawqan ilayka yā Muḥammadu (amadan).
+
+**ID:** “**Salawat ini (kupersembahkan) karena cinta dan kerinduan kepadamu, wahai Muhammad — (amadan)**.” (**Kata «أمداً» tercetak dalam kurung** — **dipertahankan**; **maknanya tidak dijelaskan**.)
+
+**Keterangan halaman.** Halaman ini meneruskan **daftar salawat** dan mengembangkan **pola baru**: **«صلاةَ عبدٍ …»** — salawat **dinyatakan sebagai ucapan seorang hamba** (bersumpah, bertawassul, mengharap, memohon cahaya, minuman, tarikan ruhani, dan kedudukan). Ditutup dengan **kalimat pribadi** **«هذه الصلاة حباً وشوقاً إليك يا محمد (أمداً)»** — **satu-satunya kalimat di halaman yang tidak berbentuk doa**. **Tanpa nomor** dan **tanpa judul**.
+
+**Angka pada halaman ini.** **Tidak ada angka Arab-Indic** — `NUMS: []` (tidak dump ulang; pindaian **tanpa angka**). **Satu kata bilangan** hanya **«أمداً»** **dalam kurung** pada kalimat penutup — **bukan angka**, **dipertahankan**. **Tidak ada koreksi angka.**
+
+**Wafaq:** **tidak ada**؛ halaman **doa** → **tidak ada** uji penjumlahan.
+
+**[TIDAK JELAS - HALAMAN 502]** (1) **«اَطْبَقَ اَسِيْرًا»** — **lafaz** tidak lazim (mungkin **«أطلق»**)؛ **pindaian** menunjukkan **«أطبق»**؛ **dipertahankan** dan **ditandai**. (2) **«وَاَغْنَمَ فَقِيْرًا»** — **bentuk** tidak lazim؛ **dipertahankan**. (3) **«وَتُرْضٰى مَا عَنَّا»** — **susunan** rusak/tidak jelas؛ **dipertahankan** sebagaimana tercetak. (4) **«تُفِيْضُ مَا عَلٰى قُلُوْبِنَا سِجَالَ اَنْوَارِهِ»** — **susunan** tidak lazim؛ **dipertahankan**. (5) **«تُعَرِّفُنَا مَا بِحَقِّهِ وَرُتْبَتِهِ»** — **«ما»** berulang tanpa jelas fungsinya؛ **dipertahankan**. (6) **«تُبَرِّدُ مَا اَكْبَادَنَا»** dan **«تَجْذِبُنَا مَا مِنْ جَذَبَاتِهِ»** — **pola «ما» zā’idah**؛ **dipertahankan**. (7) **«(اَمَدًا)»** — **fungsi** kata ini **tidak dijelaskan**؛ **dipertahankan** dan **ditandai** (bandingkan **«(أربعاً)»** pada p.498).
+
+**Catatan (dicatat apa adanya, bukan fatwa).** Halaman **doa**؛ **tidak ada praktik okultisme**. Yang dicatat: **lafaz-lafaz ini tidak ditemukan dalam kumpulan salawat baku** dan **beberapa susunannya rusak secara gramatikal**؛ **teks dipertahankan** dan **statusnya tidak dinilai di sini**.
+
+**[TIDAK ADA RAJAH - TERVERIFIKASI DARI GAMBAR SCAN]** — `get_image_info()` = `[]`؛ halaman **teks murni**.
+
+---
+## HALAMAN 503 — lanjutan الفصل الثاني: pola **«وعلى آل سيدنا محمد الذي…»** + kalimat pribadi **«هذه الصلاة من تلقاء نفسي لك يا محمد»**
+
+**AR:** كِتَابُ سِرِّ الْاَسْرَارِ فِي التَّوَاصُلِ مَعَ رُوحَانِيَّاتِ الْقُرْآنِ — شَيْخُ الرُّوحَانِيِّينَ الشَّيْخُ عَطِيَّةُ عَبْدُ الْحَمِيْدِ
+
+**LAT:** kitābu sirri al-asrāri fī al-tawāṣuli ma‘a rūḥāniyyāti al-qur’āni — shaykhu al-rūḥāniyyīna al-shaykhu ‘Aṭiyyatu ‘Abdu al-Ḥamīdi
+
+**ID:** “Kitab «Sirr al-Asrār fī al-Tawāṣul ma‘a Rūḥāniyyāt al-Qur’ān» — Syaikh para ruhaniyyin, Syaikh ‘Aṭiyyah ‘Abd al-Ḥamīd.” (Kepala halaman.)
+
+**AR:** **اَللّٰهُمَّ صَلِّ وَسَلِّمْ عَلٰى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ صَلَاةً تَجْعَلُ مَا فِى الْمُصْطَفَيْنَ صُحْبَتَهُ، وَفِى الْعَالَمِيْنَ دَرَجَتَهُ، وَفِى الْمُقَرَّبِيْنَ ذِكْرَهُ**.
+
+**LAT:** allāhumma ṣalli wa-sallim ‘alā sayyidinā wa-mawlānā Muḥammadin ṣalātan taj‘alu mā fī al-muṣṭafayna ṣuḥbatahu, wa-fī al-‘ālamīna darajatahu, wa-fī al-muqarrabīna dhikrahu.
+
+**ID:** “**Ya Allah, limpahkanlah salawat dan salam atas penghulu dan pelindung kami Muhammad — salawat yang menjadikan (kedudukannya) di antara yang terpilih sebagai persahabatannya, di antara semesta sebagai derajatnya, dan di antara yang didekatkan sebagai penyebutannya**.”
+
+**AR:** **هٰذِهِ الصَّلَاةُ مِنْ تِلْقَاءِ نَفْسِىْ لَكَ يَا مُحَمَّدُ**.
+
+**LAT:** hādhihi al-ṣalātu min tilqā’i nafsī laka yā Muḥammadu.
+
+**ID:** “**Salawat ini (keluar) dari diriku sendiri untukmu, wahai Muhammad**.” (Kalimat **persona penulis** — **bukan doa**.)
+
+**AR:** **اَللّٰهُمَّ صَلِّ وَسَلِّمْ عَلٰى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ وَعَلٰى آلِ سَيِّدِنَا مُحَمَّدٍ الَّذِىْ جَعَلَهُ اللهُ مِنْ آيَاتِهِ الْعُظْمٰى، صَلَّى اللهُ عَلٰى مُحَمَّدٍ**.
+
+**LAT:** allāhumma ṣalli wa-sallim ‘alā sayyidinā wa-mawlānā Muḥammadin wa-‘alā āli sayyidinā Muḥammadin alladhī ja‘alahu allāhu min āyātihi al-‘uẓmā, ṣallā allāhu ‘alā Muḥammadin.
+
+**ID:** “**Ya Allah, limpahkanlah salawat dan salam atas penghulu dan pelindung kami Muhammad dan atas keluarga penghulu kami Muhammad, yang Allah jadikan sebagai salah satu tanda-Nya yang terbesar; semoga Allah bersalawat atas Muhammad**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ وَسَلِّمْ عَلٰى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ وَعَلٰى آلِ سَيِّدِنَا مُحَمَّدٍ اَفْضَلِ خَلْقِ اللهِ، صَلَّى اللهُ عَلٰى مُحَمَّدٍ**.
+
+**LAT:** allāhumma ṣalli wa-sallim ‘alā sayyidinā wa-mawlānā Muḥammadin wa-‘alā āli sayyidinā Muḥammadin afḍali khalqi allāhi, ṣallā allāhu ‘alā Muḥammadin.
+
+**ID:** “**Ya Allah, limpahkanlah salawat dan salam atas penghulu dan pelindung kami Muhammad dan atas keluarga penghulu kami Muhammad, makhluk Allah yang paling utama; semoga Allah bersalawat atas Muhammad**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ وَسَلِّمْ عَلٰى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ وَعَلٰى آلِ سَيِّدِنَا مُحَمَّدٍ الَّذِىْ كَانَ لَفْظُهُ عِظَةً وَكَلَامُهُ حِكْمَةً**.
+
+**LAT:** allāhumma ṣalli wa-sallim ‘alā sayyidinā wa-mawlānā Muḥammadin wa-‘alā āli sayyidinā Muḥammadin alladhī kāna lafẓuhu ‘iẓatan wa-kalāmuhu ḥikmatan.
+
+**ID:** “**Ya Allah, limpahkanlah salawat dan salam atas penghulu dan pelindung kami Muhammad dan atas keluarga penghulu kami Muhammad, yang ucapannya adalah nasihat dan tutur katanya adalah hikmah**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ وَسَلِّمْ عَلٰى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ وَعَلٰى آلِ سَيِّدِنَا مُحَمَّدٍ الَّذِىْ كَانَ اَفْصَحَ لِلنَّاسِ وَاَحْسَنَ الْخَلْقِ**.
+
+**LAT:** allāhumma ṣalli wa-sallim ‘alā sayyidinā wa-mawlānā Muḥammadin wa-‘alā āli sayyidinā Muḥammadin alladhī kāna afṣaḥa lil-nāsi wa-aḥsana al-khalqi.
+
+**ID:** “**Ya Allah, limpahkanlah salawat dan salam atas penghulu dan pelindung kami Muhammad dan atas keluarga penghulu kami Muhammad, yang paling fasih (berbicara) kepada manusia dan paling baik ciptaannya**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ وَسَلِّمْ عَلٰى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ وَعَلٰى آلِ سَيِّدِنَا مُحَمَّدٍ الَّذِىْ لَا يُقَدِّرُ حَقَّ قَدْرِهِ اَحَدٌ اِلَّا اللهُ سُبْحَانَهُ وَتَعَالٰى**.
+
+**LAT:** allāhumma ṣalli wa-sallim ‘alā sayyidinā wa-mawlānā Muḥammadin wa-‘alā āli sayyidinā Muḥammadin alladhī lā yuqaddiru ḥaqqa qadrihi aḥadun illā allāhu subḥānahu wa-ta‘ālā.
+
+**ID:** “**Ya Allah, limpahkanlah salawat dan salam atas penghulu dan pelindung kami Muhammad dan atas keluarga penghulu kami Muhammad, yang tidak seorang pun mampu menakar hak kedudukannya kecuali Allah — Mahasuci dan Mahatinggi**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ وَسَلِّمْ عَلٰى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ وَعَلٰى آلِ سَيِّدِنَا مُحَمَّدٍ الَّذِىْ كَانَ سِرُّهُ اَعْظَمَ الْاَسْرَارِ وَقَدْرُهُ فَوْقَ كُلِّ الْاَقْدَارِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ**.
+
+**LAT:** allāhumma ṣalli wa-sallim ‘alā sayyidinā wa-mawlānā Muḥammadin wa-‘alā āli sayyidinā Muḥammadin alladhī kāna sirruhu a‘ẓama al-asrāri wa-qadruhu fawqa kulli al-aqdāri ṣallā allāhu ‘alayhi wa-sallama.
+
+**ID:** “**Ya Allah, limpahkanlah salawat dan salam atas penghulu dan pelindung kami Muhammad dan atas keluarga penghulu kami Muhammad, yang rahasianya adalah rahasia terbesar dan kedudukannya di atas segala kedudukan; semoga Allah bersalawat dan bersalam kepadanya**.” (**Berisi kata «سر» — judul kitab**.)
+
+**AR:** **اَللّٰهُمَّ صَلِّ وَسَلِّمْ عَلٰى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ وَعَلٰى آلِ سَيِّدِنَا مُحَمَّدٍ الَّذِىْ كَانَ حَامِى الدِّيْنِ عَنِ الظُّلْمِ وَالظُّلَمِ**.
+
+**LAT:** allāhumma ṣalli wa-sallim ‘alā sayyidinā wa-mawlānā Muḥammadin wa-‘alā āli sayyidinā Muḥammadin alladhī kāna ḥāmiya al-dīni ‘ani al-ẓulmi wa-al-ẓulami.
+
+**ID:** “**Ya Allah, limpahkanlah salawat dan salam atas penghulu dan pelindung kami Muhammad dan atas keluarga penghulu kami Muhammad, yang menjadi pelindung agama dari kezaliman dan kegelapan**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ وَسَلِّمْ عَلٰى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ وَعَلٰى آلِ سَيِّدِنَا مُحَمَّدٍ الَّذِىْ هُوَ سِرَاجُ نُبُوَّتِهِ يُضِيْءُ عَلٰى اُمَّتِهِ اِلٰى يَوْمِ الْقِيَامَةِ**.
+
+**LAT:** allāhumma ṣalli wa-sallim ‘alā sayyidinā wa-mawlānā Muḥammadin wa-‘alā āli sayyidinā Muḥammadin alladhī huwa sirāju nubuwwatihi yuḍī’u ‘alā ummatihi ilā yawmi al-qiyāmati.
+
+**ID:** “**Ya Allah, limpahkanlah salawat dan salam atas penghulu dan pelindung kami Muhammad dan atas keluarga penghulu kami Muhammad, yang merupakan lentera kenabiannya yang menerangi umatnya hingga hari kiamat**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ وَسَلِّمْ عَلٰى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ وَعَلٰى آلِ سَيِّدِنَا مُحَمَّدٍ الَّذِىْ كَانَ لَحْظُهُ حَظْوَةً مِنَ اللهِ**.
+
+**LAT:** allāhumma ṣalli wa-sallim ‘alā sayyidinā wa-mawlānā Muḥammadin wa-‘alā āli sayyidinā Muḥammadin alladhī kāna laḥẓuhu ḥaẓwatan mina allāhi.
+
+**ID:** “**Ya Allah, limpahkanlah salawat dan salam atas penghulu dan pelindung kami Muhammad dan atas keluarga penghulu kami Muhammad, yang pandangannya adalah kedudukan mulia dari Allah**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ وَسَلِّمْ عَلٰى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ وَعَلٰى آلِ سَيِّدِنَا مُحَمَّدٍ الَّذِىْ كَانَ بِالْمُؤْمِنِيْنَ رَءُوْفًا رَحِيْمًا**.
+
+**LAT:** allāhumma ṣalli wa-sallim ‘alā sayyidinā wa-mawlānā Muḥammadin wa-‘alā āli sayyidinā Muḥammadin alladhī kāna bi-al-mu’minīna ra’ūfan raḥīman.
+
+**ID:** “**Ya Allah, limpahkanlah salawat dan salam atas penghulu dan pelindung kami Muhammad dan atas keluarga penghulu kami Muhammad, yang terhadap orang-orang mukmin adalah Maha Pengasih lagi Maha Penyayang**.” (**Penggalan Q.S. al-Tawbah ٩:١٢٨**.)
+
+**Keterangan halaman.** **١١ lafaz salawat** dengan pola **baru**: **«اللهم صل وسلم على سيدنا ومولانا محمد وعلى آل سيدنا محمد الذي…»** — perhatian beralih dari **Nabi** ke **keluarganya** («آل سيدنا محمد») dengan **klausa «الذي»** yang **sifatnya dilekatkan pada keluarga**. Tiga lafaz pertama diakhiri **«صلى الله على محمد»** sebagai **penutup**؛ sisanya langsung dengan **sifat**. **Kalimat pribadi** **«هذه الصلاة من تلقاء نفسي لك يا محمد»** muncul **di antara** lafaz kedua dan ketiga. **Tanpa nomor** pada cetakan.
+
+**Angka pada halaman ini.** **Tidak ada angka Arab-Indic** — `NUMS: []`. Bilangan **tidak muncul** sama sekali (tidak ada «عدد»، «كلما»، atau kurung berisi bilangan). **Tidak ada koreksi angka.**
+
+**Wafaq:** **tidak ada**؛ halaman **doa** → **tidak ada** uji penjumlahan.
+
+**[TIDAK JELAS - HALAMAN 503]** (1) **«مَا فِى الْمُصْطَفَيْنَ صُحْبَتَهُ»** — **«ما»** dan **susunan** tidak jelas؛ **dipertahankan**. (2) **«كَانَ اَفْصَحَ لِلنَّاسِ»** — **«أفصح للناس»** (bukan **«أفصح الناس»**)؛ **dipertahankan**. (3) **«حَامِى الدِّيْنِ»** — **iḍāfah** dengan **yā’** (حامي)؛ **dipertahankan**. (4) **«الظُّلْمِ وَالظُّلَمِ»** — **dua kata** hampir sama (**kezaliman** dan **kegelapan**)؛ **dipertahankan**. (5) **«سِرَاجُ نُبُوَّتِهِ يُضِيْءُ عَلٰى اُمَّتِهِ»** — **ḍamīr** («ـه») **tidak jelas merujuk kepada siapa** (Nabi atau keluarga)؛ **dipertahankan** dan **ditandai**. (6) **«لَحْظُهُ حَظْوَةً»** — **paronomasia**؛ **dipertahankan**. (7) **Kedudukan «هذه الصلاة من تلقاء نفسي»** — **kalimat persona** di tengah daftar doa؛ **dipertahankan pada posisinya** dan **ditandai** (bandingkan **«هذه الصلاة حباً وشوقاً»** p.502, **«(أمداً)»** p.502).
+
+**Catatan (dicatat apa adanya, bukan fatwa).** Halaman **doa**؛ **tidak ada praktik okultisme**. Yang dicatat: **pola «وعلى آل سيدنا محمد الذي…»** **mengalihkan sifat-sifat Nabi kepada keluarganya** — **pergeseran redaksi** yang **tidak dijelaskan penulis**؛ **dicatat, tidak dinilai**.
+
+**[TIDAK ADA RAJAH - TERVERIFIKASI DARI GAMBAR SCAN]** — `get_image_info()` = `[]`؛ halaman **teks murni**.
+
+---
+## HALAMAN 504 — lanjutan الفصل الثاني: pola **«وعلى آل سيدنا محمد الذي…»** dengan **peristiwa/keutamaan** (Ibrāhīm, al-Fātiḥah, mata yang terjaga, awan, pohon, unta, «ضب الفلاة»)
+
+**AR:** كِتَابُ سِرِّ الْاَسْرَارِ فِي التَّوَاصُلِ مَعَ رُوحَانِيَّاتِ الْقُرْآنِ — شَيْخُ الرُّوحَانِيِّينَ الشَّيْخُ عَطِيَّةُ عَبْدُ الْحَمِيْدِ
+
+**LAT:** kitābu sirri al-asrāri fī al-tawāṣuli ma‘a rūḥāniyyāti al-qur’āni — shaykhu al-rūḥāniyyīna al-shaykhu ‘Aṭiyyatu ‘Abdu al-Ḥamīdi
+
+**ID:** “Kitab «Sirr al-Asrār fī al-Tawāṣul ma‘a Rūḥāniyyāt al-Qur’ān» — Syaikh para ruhaniyyin, Syaikh ‘Aṭiyyah ‘Abd al-Ḥamīd.” (Kepala halaman.)
+
+**AR:** **اَللّٰهُمَّ صَلِّ وَسَلِّمْ عَلٰى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ وَعَلٰى آلِ سَيِّدِنَا مُحَمَّدٍ الَّذِىْ كَانَ اَوْلَى النَّاسِ بِاِبْرَاهِيْمَ، صَلَوَاتُ اللهِ وَسَلَامُهُ عَلَيْهِمَا**.
+
+**LAT:** allāhumma ṣalli wa-sallim ‘alā sayyidinā wa-mawlānā Muḥammadin wa-‘alā āli sayyidinā Muḥammadin alladhī kāna awlā al-nāsi bi-Ibrāhīma, ṣalawātu allāhi wa-salāmuhu ‘alayhimā.
+
+**ID:** “**Ya Allah, limpahkanlah salawat dan salam atas penghulu dan pelindung kami Muhammad dan atas keluarga penghulu kami Muhammad, yang paling berhak atas Ibrāhīm di antara manusia; salawat dan salam Allah atas keduanya**.” (**Isyarat Q.S. Āli ‘Imrān ٣:٦٨**.)
+
+**AR:** **اَللّٰهُمَّ صَلِّ وَسَلِّمْ عَلٰى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ وَعَلٰى آلِ سَيِّدِنَا مُحَمَّدٍ الَّذِىْ هُوَ مُبَلِّغُ الرِّسَالَةِ وَمُؤَدِّى الْاَمَانَةِ وَنَاصِحُ الْاُمَّةِ**.
+
+**LAT:** allāhumma ṣalli wa-sallim ‘alā sayyidinā wa-mawlānā Muḥammadin wa-‘alā āli sayyidinā Muḥammadin alladhī huwa muballighu al-risālati wa-mu’addī al-amānati wa-nāṣiḥu al-ummati.
+
+**ID:** “**Ya Allah, limpahkanlah salawat dan salam atas penghulu dan pelindung kami Muhammad dan atas keluarga penghulu kami Muhammad, yang menyampaikan risalah, menunaikan amanah, dan menasihati umat**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ وَسَلِّمْ عَلٰى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ وَعَلٰى آلِ سَيِّدِنَا مُحَمَّدٍ الَّذِىْ اُعْطِىَ سَبْعًا مِنَ الْمَثَانِى وَالْقُرْآنَ الْعَظِيْمَ**.
+
+**LAT:** allāhumma ṣalli wa-sallim ‘alā sayyidinā wa-mawlānā Muḥammadin wa-‘alā āli sayyidinā Muḥammadin alladhī u‘ṭiya sab‘an mina al-mathānī wa-al-qur’āna al-‘aẓīma.
+
+**ID:** “**Ya Allah, limpahkanlah salawat dan salam atas penghulu dan pelindung kami Muhammad dan atas keluarga penghulu kami Muhammad, yang diberi tujuh dari al-mathānī dan al-Qur’ān yang agung**.” (**Bilangan «سبعاً» ditulis dengan huruf**; **isyarat Q.S. al-Ḥijr ١٥:٨٧**.)
+
+**AR:** **اَللّٰهُمَّ صَلِّ وَسَلِّمْ عَلٰى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ وَعَلٰى آلِ سَيِّدِنَا مُحَمَّدٍ**.
+
+**LAT:** allāhumma ṣalli wa-sallim ‘alā sayyidinā wa-mawlānā Muḥammadin wa-‘alā āli sayyidinā Muḥammadin.
+
+**ID:** “**Ya Allah, limpahkanlah salawat dan salam atas penghulu dan pelindung kami Muhammad dan atas keluarga penghulu kami Muhammad**.” (**Lafaz tanpa klausa «الذي…» — jeda di tengah halaman**.)
+
+**AR:** **اَللّٰهُمَّ صَلِّ وَسَلِّمْ عَلٰى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ وَعَلٰى آلِ سَيِّدِنَا مُحَمَّدٍ الَّذِىْ كَانَ لَمْ يَبْدَاهُ اَحَدٌ فِىْ عِلْمِهِ وَلَا فِىْ كَرَمِهِ**.
+
+**LAT:** allāhumma ṣalli wa-sallim ‘alā sayyidinā wa-mawlānā Muḥammadin wa-‘alā āli sayyidinā Muḥammadin alladhī kāna lam yabdāhu aḥadun fī ‘ilmihi wa-lā fī karimihi.
+
+**ID:** “**Ya Allah, limpahkanlah salawat dan salam atas penghulu dan pelindung kami Muhammad dan atas keluarga penghulu kami Muhammad, yang tidak seorang pun menyamainya dalam ilmunya dan dalam kemuliaannya**.” (**Lafaz «لم يبداه»** — **bentuk tidak lazim**؛ **dipertahankan**.)
+
+**AR:** **اَللّٰهُمَّ صَلِّ وَسَلِّمْ عَلٰى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ وَعَلٰى آلِ سَيِّدِنَا مُحَمَّدٍ الَّذِىْ اَرْسَلْتَهُ رَحْمَةً لِلْمُؤْمِنِيْنَ وَمُبِيْدًا لِلْكَافِرِيْنَ**.
+
+**LAT:** allāhumma ṣalli wa-sallim ‘alā sayyidinā wa-mawlānā Muḥammadin wa-‘alā āli sayyidinā Muḥammadin alladhī arsaltahu raḥmatan lil-mu’minīna wa-mubīdan lil-kāfirīna.
+
+**ID:** “**Ya Allah, limpahkanlah salawat dan salam atas penghulu dan pelindung kami Muhammad dan atas keluarga penghulu kami Muhammad, yang Engkau utus sebagai rahmat bagi orang-orang mukmin dan sebagai pembinasa bagi orang-orang kafir**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ وَسَلِّمْ عَلٰى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ وَعَلٰى آلِ سَيِّدِنَا مُحَمَّدٍ**.
+
+**LAT:** allāhumma ṣalli wa-sallim ‘alā sayyidinā wa-mawlānā Muḥammadin wa-‘alā āli sayyidinā Muḥammadin.
+
+**ID:** “**Ya Allah, limpahkanlah salawat dan salam atas penghulu dan pelindung kami Muhammad dan atas keluarga penghulu kami Muhammad**.” (**Pengulangan lafaz tanpa klausa** — **dicatat sebagai pengulangan cetak**.)
+
+**AR:** **اَللّٰهُمَّ صَلِّ وَسَلِّمْ عَلٰى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ وَعَلٰى آلِ سَيِّدِنَا مُحَمَّدٍ الَّذِىْ كَانَ اِذَا نَامَتْ عَيْنَا مَقْلُوبُهُ يَقْظَانُ**.
+
+**LAT:** allāhumma ṣalli wa-sallim ‘alā sayyidinā wa-mawlānā Muḥammadin wa-‘alā āli sayyidinā Muḥammadin alladhī kāna idhā nāmat ‘aynā maqlūbuhu yaqẓānu.
+
+**ID:** “**Ya Allah, limpahkanlah salawat dan salam atas penghulu dan pelindung kami Muhammad dan atas keluarga penghulu kami Muhammad, yang apabila matanya tidur, hatinya tetap terjaga**.” (**Kata pada cetakan: «عيناه فقلبه يقظان»** — **susunan cetakan dipertahankan**.)
+
+**AR:** **اَللّٰهُمَّ صَلِّ وَسَلِّمْ عَلٰى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ وَعَلٰى آلِ سَيِّدِنَا مُحَمَّدٍ الَّذِىْ اَظَلَّهُ اللهُ فِىْ ظِلٍّ مِنَ الْغَمَامِ**.
+
+**LAT:** allāhumma ṣalli wa-sallim ‘alā sayyidinā wa-mawlānā Muḥammadin wa-‘alā āli sayyidinā Muḥammadin alladhī aẓallahullāhu fī ẓillin mina al-ghamāmi.
+
+**ID:** “**Ya Allah, limpahkanlah salawat dan salam atas penghulu dan pelindung kami Muhammad dan atas keluarga penghulu kami Muhammad, yang Allah naungi dalam naungan awan**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ وَسَلِّمْ عَلٰى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ وَعَلٰى آلِ سَيِّدِنَا مُحَمَّدٍ الَّذِىْ خَاطَبَهُ الشَّجَرُ وَانْشَقَّ لَهُ الْقَمَرُ**.
+
+**LAT:** allāhumma ṣalli wa-sallim ‘alā sayyidinā wa-mawlānā Muḥammadin wa-‘alā āli sayyidinā Muḥammadin alladhī khāṭabahu al-shajaru wa-inshaqqa lahu al-qamaru.
+
+**ID:** “**Ya Allah, limpahkanlah salawat dan salam atas penghulu dan pelindung kami Muhammad dan atas keluarga penghulu kami Muhammad, yang kepadanya pohon berbicara dan karenanya bulan terbelah**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ وَسَلِّمْ عَلٰى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ وَعَلٰى آلِ سَيِّدِنَا مُحَمَّدٍ الَّذِىْ اَتٰى اِلَيْهِ الْبَعِيْرُ مُسَلِّمًا**.
+
+**LAT:** allāhumma ṣalli wa-sallim ‘alā sayyidinā wa-mawlānā Muḥammadin wa-‘alā āli sayyidinā Muḥammadin alladhī atā ilayhi al-ba‘īru musalliman.
+
+**ID:** “**Ya Allah, limpahkanlah salawat dan salam atas penghulu dan pelindung kami Muhammad dan atas keluarga penghulu kami Muhammad, yang kepadanya unta datang memberi salam**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ وَسَلِّمْ عَلٰى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ وَعَلٰى آلِ سَيِّدِنَا مُحَمَّدٍ الَّذِىْ شَهِدَتْ بِرِسَالَتِهِ ضَبُّ الْفَلَاةِ**.
+
+**LAT:** allāhumma ṣalli wa-sallim ‘alā sayyidinā wa-mawlānā Muḥammadin wa-‘alā āli sayyidinā Muḥammadin alladhī shahidat bi-risālatihi ḍabbu al-falāti.
+
+**ID:** “**Ya Allah, limpahkanlah salawat dan salam atas penghulu dan pelindung kami Muhammad dan atas keluarga penghulu kami Muhammad, yang kerasulannya disaksikan oleh biawak padang pasir (ḍabb)**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ وَسَلِّمْ عَلٰى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ وَعَلٰى آلِ سَيِّدِنَا مُحَمَّدٍ الَّذِىْ نَبَعَ الزُّلَالُ …** (وَيَتِمُّ فِى الصَّفْحَةِ التَّالِيَةِ)
+
+**LAT:** allāhumma ṣalli wa-sallim ‘alā sayyidinā wa-mawlānā Muḥammadin wa-‘alā āli sayyidinā Muḥammadin alladhī naba‘a al-zulālu … (wa-yatimm fī al-ṣafḥati al-tāliyati)
+
+**ID:** “**Ya Allah, limpahkanlah salawat dan salam atas penghulu dan pelindung kami Muhammad dan atas keluarga penghulu kami Muhammad, yang darinya air tawar memancar …**” (**terpotong di akhir halaman**).
+
+**Keterangan halaman.** **١٢ lafaz salawat** dengan pola **«وعلى آل سيدنا محمد الذي…»** — tetapi **isi klausa «الذي» beralih ke peristiwa mukjizat dan keutamaan**: **«أولى الناس بإبراهيم»**، **«مبلغ الرسالة»**، **«أعطي سبعاً من المثاني»**، **«لم يبداه أحد في علمه»**، **«أرسلته رحمة للمؤمنين ومبيداً للكافرين»**، **«عيناه نائمة وقلبه يقظان»**، **«أظله الله في ظل من الغمام»**، **«خاطبه الشجر وانشق له القمر»**، **«أتاه البعير مسلماً»**، **«شهدت برسالته ضب الفلاة»**، **«نبع الزلال»**. **Dua lafaz tanpa klausa** (**«وعلى آل سيدنا محمد»** saja) menjadi **jeda** di tengah daftar. **Tanpa nomor** pada cetakan.
+
+**Angka pada halaman ini.** **Tidak ada angka Arab-Indic** — `NUMS: []`. **Satu bilangan ditulis huruf**: **«سَبْعًا»** (tujuh) → **dipertahankan sebagai kata**. **Tidak ada koreksi angka.**
+
+**Wafaq:** **tidak ada**؛ halaman **doa** → **tidak ada uji penjumlahan**.
+
+**[TIDAK JELAS - HALAMAN 504]** (1) **«كَانَ لَمْ يَبْدَاهُ أَحَدٌ»** — **bentuk fi‘l** tidak lazim (mungkin **«لم يبلغه»/«لم يُبدِه»**)؛ **dipertahankan** dan **ditandai**. (2) **«إِذَا نَامَتْ عَيْنَا مَقْلُوبُهُ يَقْظَانُ»** — **lapisan teks** membaca **«عيناه فقلبه يقظان»**؛ **pindaian** menunjukkan **«عيناه فقلبه يقظان»** (bukan **«عينا مقلوبه»**)؛ **transkripsi mengikuti pindaian** dan **perbedaan dicatat**. (3) **«أَرْسَلْتَهُ رَحْمَةً لِلْمُؤْمِنِيْنَ وَمُبِيْدًا لِلْكَافِرِيْنَ»** — **penyimpangan** dari **Q.S. al-Anbiyā’ ١٠٧** («رحمة للعالمين»)؛ **dipertahankan** dan **ditandai**. (4) **Dua lafaz tanpa klausa «الذي»** — **pengulangan**؛ **dicatat sebagai pengulangan cetak**, **tidak dihapus**. (5) **«ضَبُّ الْفَلَاةِ»** — **riwayat** biawak yang bersaksi؛ **dipertahankan** tanpa penilaian. (6) **«نَبَعَ الزُّلَالُ»** — **susunan** (air tawar memancar) **tidak dijelaskan merujuk peristiwa apa**؛ **ditandai**. (7) **Lafaz terakhir terpotong**؛ **disambung** ke halaman berikut.
+
+**Catatan (dicatat apa adanya, bukan fatwa).** Halaman **doa**؛ **tidak ada praktik okultisme**. Yang dicatat: **klausa «الذي…» dilekatkan pada «آل سيدنا محمد» tetapi isinya menyebut perbuatan Nabi sendiri** — **ketidakjelasan rujukan** yang **berulang** sejak p.503؛ **dicatat, tidak diperbaiki**.
+
+**[TIDAK ADA RAJAH - TERVERIFIKASI DARI GAMBAR SCAN]** — `get_image_info()` = `[]`؛ halaman **teks murni**.
+
+---
+## HALAMAN 505 — penutup الفصل الثاني (**«انتهى الفصل الثاني ويتلوه الفصل الثالث»**) + pembuka **الفصل الثالث**: hamdalah, salawat panjang, ayat **sūrah al-Nūr** dan **«لنبوئنهم من الجنة غرفاً»**
+
+**AR:** كِتَابُ سِرِّ الْاَسْرَارِ فِي التَّوَاصُلِ مَعَ رُوحَانِيَّاتِ الْقُرْآنِ — شَيْخُ الرُّوحَانِيِّينَ الشَّيْخُ عَطِيَّةُ عَبْدُ الْحَمِيْدِ
+
+**LAT:** kitābu sirri al-asrāri fī al-tawāṣuli ma‘a rūḥāniyyāti al-qur’āni — shaykhu al-rūḥāniyyīna al-shaykhu ‘Aṭiyyatu ‘Abdu al-Ḥamīdi
+
+**ID:** “Kitab «Sirr al-Asrār fī al-Tawāṣul ma‘a Rūḥāniyyāt al-Qur’ān» — Syaikh para ruhaniyyin, Syaikh ‘Aṭiyyah ‘Abd al-Ḥamīd.” (Kepala halaman.)
+
+**AR:** (تَكْمِلَةُ الصَّلَاةِ مِنْ ص ٥٠٤) … **بِكَفِّهِ**.
+
+**LAT:** (takmilatu al-ṣalāti min ṣ 504) … bi-kaffihi.
+
+**ID:** “**(Pelengkap salawat dari p.504)** … **dengan telapak tangannya**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ وَسَلِّمْ عَلٰى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ وَعَلٰى آلِ سَيِّدِنَا مُحَمَّدٍ الَّذِىْ لَمْ يَأْتِ فِىْ اَوْلَادِ آدَمَ مِثْلُهُ**.
+
+**LAT:** allāhumma ṣalli wa-sallim ‘alā sayyidinā wa-mawlānā Muḥammadin wa-‘alā āli sayyidinā Muḥammadin alladhī lam ya’ti fī awlādi Ādama mithluhu.
+
+**ID:** “**Ya Allah, limpahkanlah salawat dan salam atas penghulu dan pelindung kami Muhammad dan atas keluarga penghulu kami Muhammad, yang tidak ada padanannya di antara anak-anak Ādam**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ وَسَلِّمْ عَلٰى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ وَعَلٰى آلِ سَيِّدِنَا مُحَمَّدٍ، الَّذِىْ قُلْتَ فِىْ حَقِّهِ: ﴿وَاِنْ تُطِيْعُوْهُ تَهْتَدُوْا﴾ — سُوْرَةُ النُّوْرِ**.
+
+**LAT:** allāhumma ṣalli wa-sallim ‘alā sayyidinā wa-mawlānā Muḥammadin wa-‘alā āli sayyidinā Muḥammadin, alladhī qulta fī ḥaqqihi: (wa-in tuṭī‘ūhu tahtadū) — sūratu al-nūri.
+
+**ID:** “**Ya Allah, limpahkanlah salawat dan salam atas penghulu dan pelindung kami Muhammad dan atas keluarga penghulu kami Muhammad, yang tentangnya Engkau berfirman: «Dan jika kamu menaatinya, kamu akan mendapat petunjuk» — Sūrah al-Nūr**.” (**Cetakan menyebut nama surah**: **«ـ سورة النور ـ»** — **tanpa nomor ayat**; ayat ini **an-Nūr ٢٤:٥٤**.)
+
+**AR:** **اِنْتَهَى الْفَصْلُ الثَّانِىْ وَيَتْلُوْهُ الْفَصْلُ الثَّالِثُ**
+
+**LAT:** intahā al-faṣlu al-thāniy wa-yatlūhu al-faṣlu al-thālithu
+
+**ID:** “**Selesailah fasal kedua, dan menyusul setelahnya fasal ketiga.**” (Penanda peralihan bagian.)
+
+**AR:** **بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيْمِ**
+
+**LAT:** bismi allāhi al-raḥmāni al-raḥīmi
+
+**ID:** “**Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang.**”
+
+**AR:** **اَلْحَمْدُ لِلّٰهِ رَبِّ الْعَالَمِيْنَ اَكْمَلَ الْحَمْدِ وَاَتَمَّهُ عَلٰى كُلِّ حَالٍ. اَللّٰهُمَّ صَلِّ عَلٰى سَيِّدِنَا مُحَمَّدٍ فِى الْاَوَّلِيْنَ، وَصَلِّ عَلٰى سَيِّدِنَا مُحَمَّدٍ فِى الْآخِرِيْنَ، وَصَلِّ عَلٰى سَيِّدِنَا مُحَمَّدٍ فِىْ كُلِّ وَقْتٍ وَحِيْنٍ، وَصَلِّ عَلٰى سَيِّدِنَا مُحَمَّدٍ فِى الْمَلَاِ الْاَعْلٰى اِلٰى يَوْمِ الدِّيْنِ، وَصَلِّ عَلٰى سَيِّدِنَا مُحَمَّدٍ حَتّٰى تَرِثَ الْاَرْضَ وَمَنْ عَلَيْهَا وَاَنْتَ خَيْرُ الْوَارِثِيْنَ وَسَلِّمْ، وَرَضِىَ اللهُ عَنْ اَصْحَابِ رَسُوْلِ اللهِ الطَّيِّبِيْنَ الطَّاهِرِيْنَ**.
+
+**LAT:** al-ḥamdu lillāhi rabbi al-‘ālamīna akmala al-ḥamdi wa-atammahu ‘alā kulli ḥālin. allāhumma ṣalli ‘alā sayyidinā Muḥammadin fī al-awwalīna, wa-ṣalli ‘alā sayyidinā Muḥammadin fī al-ākhirīna, wa-ṣalli ‘alā sayyidinā Muḥammadin fī kulli waqtin wa-ḥīnin, wa-ṣalli ‘alā sayyidinā Muḥammadin fī al-mala’i al-a‘lā ilā yawmi al-dīni, wa-ṣalli ‘alā sayyidinā Muḥammadin ḥattā taritha al-arḍa wa-man ‘alayhā wa-anta khayru al-wārithīna wa-sallim, wa-raḍiya allāhu ‘an aṣḥābi rasūli allāhi al-ṭayyibīna al-ṭāhirīna.
+
+**ID:** “**Segala puji bagi Allah Tuhan semesta alam — pujian yang paling sempurna dan yang paling lengkap pada setiap keadaan. Ya Allah, bersalawatlah atas penghulu kami Muhammad di antara orang-orang terdahulu, di antara orang-orang kemudian, pada setiap waktu dan saat, di majelis yang tertinggi hingga hari pembalasan, dan bersalawatlah atas penghulu kami Muhammad hingga bumi dan segala isinya diwarisi — Engkaulah sebaik-baik pewaris — dan berilah salam; dan semoga Allah meridai para sahabat Rasulullah yang baik dan suci**.” (**Pola «صلِّ … في الأولين/في الآخرين/في كل وقت»**.)
+
+**AR:** **اَللّٰهُمَّ آتِ سَيِّدَنَا مُحَمَّدًا الْوَسِيْلَةَ وَالْفَضِيْلَةَ وَالدَّرَجَةَ الْعَالِيَةَ الرَّفِيْعَةَ وَابْعَثْهُ مَقَامًا مَحْمُوْدًا الَّذِىْ وَعَدْتَهُ يَا مَنْ لَا يُخْلِفُ الْمِيْعَادَ يَا رَبَّ الْعَالَمِيْنَ. اَللّٰهُمَّ اِنِّىْ آمَنْتُ بِمُحَمَّدٍ وَلَمْ اَرَهُ فَلَا تَحْرِمْنِىْ فِى الْجَنَّةِ رُؤْيَتَهُ وَاسْقِنِىْ مِنْ كَفِّهِ شَرْبَةً لَا اَظْمَاُ بَعْدَهَا اَبَدًا يَا رَبَّ الْعَالَمِيْنَ**.
+
+**LAT:** allāhumma āti sayyidinā Muḥammadan al-wasīlata wa-al-faḍīlata wa-al-darajata al-‘āliyata al-rafī‘ata wa-ib‘athhu maqāman maḥmūdan alladhī wa‘adtahu yā man lā yukhlifu al-mī‘āda yā rabba al-‘ālamīna. allāhumma innī āmantu bi-Muḥammadin wa-lam arahū fa-lā taḥrimnī fī al-jannati ru’yatahu wa-isqinī min kaffihi sharbatan lā aẓma’u ba‘dahā abadan yā rabba al-‘ālamīna.
+
+**ID:** “**Ya Allah, berikanlah kepada penghulu kami Muhammad wasilah, keutamaan, dan derajat yang tinggi lagi menjulang, dan bangkitkanlah ia pada kedudukan terpuji yang Engkau janjikan, wahai Yang tidak menyalahi janji, wahai Tuhan semesta alam. Ya Allah, aku beriman kepada Muhammad meski belum melihatnya; maka jangan haramkan aku melihatnya di surga, dan berilah aku minum dari telapak tangannya dengan minuman yang membuatku tidak haus selamanya, wahai Tuhan semesta alam**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ الَّذِىْ اَعْطَيْتَهُ حُسْنًا وَاِحْسَانًا وَشَرَفًا وَسُمِّيْتَهُ اَحْمَدَ وَمُحَمَّدًا وَكَتَبْتَ اسْمَهُ عَلٰى بَابِ الْجَنَّةِ وَتَحْتَ سَاقِ الْعَرْشِ اَسْطُرًا، وَاَعْطَيْتَهُ مَفَاتِيْحَ كُنُوْزِ الْاَرْضِ فَتَرَكَهَا زُهْدًا وَتَعَفُّفًا، وَاَنْزَلْتَ عَلَيْهِ فِىْ مُحْكَمِ كِتَابِكَ الْعَزِيْزِ ﴿وَالَّذِيْنَ آمَنُوْا وَعَمِلُوا الصَّالِحَاتِ لَنُبَوِّئَنَّهُمْ مِنَ الْجَنَّةِ غُرَفًا﴾ وَسَلِّمْ، وَرَضِىَ اللهُ عَنْ اَصْحَابِ رَسُوْلِ اللهِ الطَّيِّبِيْنَ الطَّاهِرِيْنَ**.
+
+**LAT:** allāhumma ṣalli ‘alā Muḥammadin alladhī a‘ṭaytahu ḥusnan wa-iḥsānan wa-sharafan wa-sammaytahu Aḥmada wa-Muḥammadan wa-katabta ismahu ‘alā bābi al-jannati wa-taḥta sāqi al-‘arshi asṭuran, wa-a‘ṭaytahu mafātīḥa kunūzi al-arḍi fa-tarakahā zuhdan wa-ta‘affufan, wa-anzalta ‘alayhi fī muḥkami kitābika al-‘azīzi (wa-alladhīna āmanū wa-‘amilū al-ṣāliḥāti la-nubawwi’annahum mina al-jannati ghurafan) wa-sallim, wa-raḍiya allāhu ‘an aṣḥābi rasūli allāhi al-ṭayyibīna al-ṭāhirīna.
+
+**ID:** “**Ya Allah, bersalawatlah atas Muhammad, yang Engkau beri kebaikan, keelokan, dan kemuliaan; yang Engkau namai Aḥmad dan Muḥammad; yang namanya Engkau tulis pada pintu surga dan di bawah kaki ‘Arsy dalam beberapa baris; yang Engkau beri kunci-kunci perbendaharaan bumi lalu ia meninggalkannya karena zuhud dan menjaga kehormatan diri; dan yang kepadanya Engkau turunkan dalam kitab-Mu yang mulia: «Dan orang-orang yang beriman serta mengerjakan amal saleh, sungguh Kami akan menempatkan mereka di surga pada tempat-tempat yang tinggi» — dan berilah salam; dan semoga Allah meridai para sahabat Rasulullah yang baik dan suci**.” (**Kutipan** **Q.S. al-‘Ankabūt ٢٩:٥٨** — **nomor tidak dicetak**.)
+
+**AR:** **اَللّٰهُمَّ اغْفِرْ لَنَا وَلِمَنْ عَلَّمَنَا وَلِمَنْ حَضَرَنَا وَلِمَنْ غَابَ عَنَّا وَلِاَسْتَاذِنَا وَلِمَشَايِخِنَا، سُبْحَانَ رَبِّكَ رَبِّ الْعِزَّةِ عَمَّا يَصِفُوْنَ وَسَلَامٌ عَلَى الْمُرْسَلِيْنَ وَالْحَمْدُ لِلّٰهِ رَبِّ الْعَالَمِيْنَ وَصَلَّى اللهُ عَلٰى سَيِّدِنَا مُحَمَّدٍ وَسَلَّمَ**.
+
+**LAT:** allāhumma ighfir lanā wa-li-man ‘allamanā wa-li-man ḥaḍaranā wa-li-man ghāba ‘annā wa-li-asātidhinā wa-li-mashāyikhinā, subḥāna rabbika rabbi al-‘izzati ‘ammā yaṣifūna wa-salāmun ‘alā al-mursalīna wa-al-ḥamdu lillāhi rabbi al-‘ālamīna wa-ṣallā allāhu ‘alā sayyidinā Muḥammadin wa-sallama.
+
+**ID:** “**Ya Allah, ampunilah kami, orang yang mengajari kami, orang yang hadir bersama kami, orang yang tidak hadir, para guru kami, dan para syaikh kami. Mahasuci Tuhanmu, Tuhan keperkasaan, dari apa yang mereka sifatkan; dan salam atas para rasul; dan segala puji bagi Allah Tuhan semesta alam; dan semoga Allah bersalawat dan bersalam atas penghulu kami Muhammad**.” (**Memuat potongan Q.S. al-Ṣāffāt ٣٧:١٨٠–١٨٢**.)
+
+**AR:** **اَللّٰهُمَّ اجْعَلْ صَلَوَاتِكَ وَرَحْمَتَكَ وَبَرَكَاتِكَ عَلٰى سَيِّدِ الْمُرْسَلِيْنَ وَاِمَامِ الْمُتَّقِيْنَ وَخَاتِمِ النَّبِيِّيْنَ مُحَمَّدٍ عَبْدِكَ وَرَسُوْلِكَ اِمَامِ الْخَيْرِ وَقَائِدِ الْخَيْرِ وَرَسُوْلِ الرَّحْمَةِ. اَللّٰهُمَّ ابْعَثْهُ مَقَامًا مَحْمُوْدًا يَغْبِطُهُ بِهِ الْاَوَّلُوْنَ وَالْآخِرُوْنَ**.
+
+**LAT:** allāhumma ij‘al ṣalawātika wa-raḥmatika wa-barakātika ‘alā sayyidi al-mursalīna wa-imāmi al-muttaqīna wa-khātami al-nabiyyīna Muḥammadin ‘abdika wa-rasūlika imāmi al-khayri wa-qā’idi al-khayri wa-rasūli al-raḥmati. allāhumma ib‘athhu maqāman maḥmūdan yaghbiṭuhu bihi al-awwalūna wa-al-ākhirūna.
+
+**ID:** “**Ya Allah, jadikanlah salawat, rahmat, dan berkah-Mu atas penghulu para rasul, imam orang-orang bertakwa, dan penutup para nabi — Muhammad, hamba dan rasul-Mu, imam kebaikan, pemimpin kebaikan, dan rasul rahmat. Ya Allah, bangkitkanlah ia pada kedudukan terpuji yang membuat orang-orang terdahulu dan terakhir iri karenanya**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ وَعَلٰى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلٰى اِبْرَاهِيْمَ وَعَلٰى آلِ اِبْرَاهِيْمَ** (وَيَتِمُّ فِى الصَّفْحَةِ التَّالِيَةِ)
+
+**LAT:** allāhumma ṣalli ‘alā Muḥammadin wa-‘alā āli Muḥammadin kamā ṣallayta ‘alā Ibrāhīma wa-‘alā āli Ibrāhīma (wa-yatimm fī al-ṣafḥati al-tāliyati)
+
+**ID:** “**Ya Allah, bersalawatlah atas Muhammad dan keluarga Muhammad sebagaimana Engkau bersalawat atas Ibrāhīm dan keluarga Ibrāhīm**” (**berlanjut ke halaman berikut**).
+
+**Keterangan halaman.** Halaman ini **menutup الفصل الثاني** dengan dua lafaz salawat (**«لم يأت في أولاد آدم مثله»** dan **kutipan sūrah al-Nūr**) lalu **membuka الفصل الثالث** dengan: basmalah، hamdalah، **salawat lima frasa waktu** («في الأولين/الآخرين/كل وقت/الملأ الأعلى/حتى ترث الأرض»)، **doa wasilah + «آمنت بمحمد ولم أره»**، **salawat panjang** dengan **dua kutipan ayat**، **doa ampunan untuk guru dan syaikh**، dan **salawat wasilah + مقام محمود**؛ ditutup **salawat Ibrāhīmiyyah** yang **terpotong**.
+
+**Angka pada halaman ini.**
+- **Tidak ada angka Arab-Indic** — `NUMS: []`. **Satu rujukan dicetak dengan nama**: **«ـ سورة النور ـ»** (tanpa nomor).
+- **Nomor ayat** yang saya sebut (**٢٤:٥٤، ٢٩:٥٨، ٣٧:١٨٠–١٨٢**) adalah **identifikasi pentranskripsi** dan **tidak tercetak** di halaman. **Tidak ada koreksi angka.**
+
+**Wafaq:** **tidak ada**؛ halaman **doa** → **tidak ada** uji penjumlahan.
+
+**[TIDAK JELAS - HALAMAN 505]** (1) **Awal halaman hanya «بكفه.»** — **potongan** dari p.504؛ **disambung** dan **ditandai**. (2) **«اَكْمَلَ الْحَمْدِ وَاَتَمَّهُ»** — **naṣb** setelah **«الحمد لله»**؛ **dipertahankan**. (3) **«حَتّٰى تَرِثَ الْاَرْضَ»** — **kata «ترث»** (bukan **«ترثها»**)؛ **dipertahankan**. (4) **«وَاَنْتَ خَيْرُ الْوَارِثِيْنَ»** — **penggalan Q.S. al-Anbiyā’ ٢١:٨٩**؛ **tanpa nomor**. (5) **Kutipan «والذين آمنوا وعملوا الصالحات لنبوئنهم من الجنة غرفاً»** — **dalam kurung**؛ **nomor tidak dicetak**. (6) **«وَلِاَسْتَاذِنَا»** — **ejaan** cetakan (**أستاذنا**)؛ **dipertahankan**. (7) **«سُبْحَانَ رَبِّكَ…»** — **peralihan dari munādā ke ghaib** (potongan Q.S. al-Ṣāffāt) **di tengah doa**؛ **dipertahankan**. (8) **Salawat terakhir terpotong**؛ **tidak dilengkapi**.
+
+**Catatan (dicatat apa adanya, bukan fatwa).** Halaman **doa**؛ **tidak ada praktik okultisme**. Yang dicatat: **klaim «كتبت اسمه على باب الجنة وتحت ساق العرش أسطراً»** dan **«أعطيته مفاتيح كنوز الأرض»** adalah **riwayat/keutamaan tanpa sanad** pada halaman ini؛ **tidak dinilai di sini**.
+
+**[TIDAK ADA RAJAH - TERVERIFIKASI DARI GAMBAR SCAN]** — `get_image_info()` = `[]`؛ halaman **teks murni**.
+
+---
+## HALAMAN 506 — penutup الفصل الثالث (**«انتهى الفصل الثالث ويتلوه الفصل الرابع»**) + pembuka **الفصل الرابع**: salawat **«على من هو…»** dan **«خزانة الأسرار ومحل الأنوار»**
+
+**AR:** كِتَابُ سِرِّ الْاَسْرَارِ فِي التَّوَاصُلِ مَعَ رُوحَانِيَّاتِ الْقُرْآنِ — شَيْخُ الرُّوحَانِيِّينَ الشَّيْخُ عَطِيَّةُ عَبْدُ الْحَمِيْدِ
+
+**LAT:** kitābu sirri al-asrāri fī al-tawāṣuli ma‘a rūḥāniyyāti al-qur’āni — shaykhu al-rūḥāniyyīna al-shaykhu ‘Aṭiyyatu ‘Abdu al-Ḥamīdi
+
+**ID:** “Kitab «Sirr al-Asrār fī al-Tawāṣul ma‘a Rūḥāniyyāt al-Qur’ān» — Syaikh para ruhaniyyin, Syaikh ‘Aṭiyyah ‘Abd al-Ḥamīd.” (Kepala halaman.)
+
+**AR:** (تَكْمِلَةُ الصَّلَاةِ مِنْ ص ٥٠٥) … **اِنَّكَ حَمِيْدٌ مَجِيْدٌ**.
+
+**LAT:** (takmilatu al-ṣalāti min ṣ 505) … innaka ḥamīdun majīdun.
+
+**ID:** “**(Pelengkap salawat dari p.505)** … **sesungguhnya Engkau Maha Terpuji lagi Mahamulia**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ عَلٰى مَنْ هُوَ عِشْقُهُ مَذْهَبِىْ**.
+
+**LAT:** allāhumma ṣalli ‘alā man huwa ‘ishquhu madhhabī.
+
+**ID:** “**Ya Allah, bersalawatlah atas dia yang cintanya adalah mazhabku**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ عَلٰى مَنْ هُوَ رِضَاهُ غَايَةُ مَطْلَبِىْ**.
+
+**LAT:** allāhumma ṣalli ‘alā man huwa riḍāhu ghāyatu maṭlabī.
+
+**ID:** “**Ya Allah, bersalawatlah atas dia yang keridaannya adalah puncak tujuanku**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ عَلٰى مَنْ هُوَ جَاهُهُ حُجَّتِىْ عِنْدَ دُخُوْلِ قَبْرِىْ**.
+
+**LAT:** allāhumma ṣalli ‘alā man huwa jāhuhu ḥujjatī ‘inda dukhūli qabrī.
+
+**ID:** “**Ya Allah, bersalawatlah atas dia yang kedudukannya menjadi hujahku ketika aku masuk kuburku**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ عَلٰى صَاحِبِ الْكَلِمَاتِ الطَّيِّبَاتِ وَالسَّعِيْدِ مَنِ الْتَجَاَ اِلٰى حِمَاكَ وَحِرْزِكَ، وَالذَّلِيْلِ مَنْ لَمْ تُؤَيِّدْهُ بِعِنَايَتِكَ، وَالشَّقِىِّ مَنْ رَضِىَ بِالْاِعْرَاضِ عَنْ طَاعَتِكَ، الْحُكْمُ حُكْمُكَ فَمَا تُغْنِى الْحِيَلُ، وَالْاَمْرُ اَمْرُكَ وَاِلَيْكَ تَحْقِيْقُ الْاَمَلِ، اَللّٰهُمَّ نَزِّهْ قُلُوْبَنَا عَنِ التَّعَلُّقِ بِمَنْ دُوْنَكَ، وَاجْعَلْنَا مِنْ قَوْمٍ تُحِبُّهُمْ وَيُحِبُّوْنَكَ**.
+
+**LAT:** allāhumma ṣalli ‘alā ṣāḥibi al-kalimāti al-ṭayyibāti wa-al-sa‘īdi mani iltajā ilā ḥimāka wa-ḥirzika, wa-al-dhalīli man lam tu’ayyidhu bi-‘ināyatika, wa-al-shaqiyyi man raḍiya bi-al-i‘rāḍi ‘an ṭā‘atika, al-ḥukmu ḥukmuka fa-mā tughnī al-ḥiyalu, wa-al-amru amruka wa-ilayka taḥqīqu al-amali, allāhumma nazzih qulūbanā ‘ani al-ta‘alluqi bi-man dūnaka, wa-ij‘alnā min qawmin tuḥibbuhum wa-yuḥibbūnaka.
+
+**ID:** “**Ya Allah, bersalawatlah atas pemilik kalimat-kalimat yang baik; dan berbahagialah orang yang berlindung pada perlindungan dan penjagaan-Mu; dan hinalah orang yang tidak Engkau kuatkan dengan pertolongan-Mu; dan celakalah orang yang rela berpaling dari ketaatan kepada-Mu. Keputusan adalah keputusan-Mu, maka tidak berguna segala tipu daya; dan perintah adalah perintah-Mu, dan kepada-Mu terwujudnya harapan. Ya Allah, sucikanlah hati kami dari bergantung kepada selain Engkau, dan jadikanlah kami termasuk kaum yang Engkau cintai dan yang mencintai-Mu**.” (**Isyarat Q.S. al-Mā’idah ٥:٥٤** — **«قوم يحبهم ويحبونه»**.)
+
+**AR:** **اِنْتَهَى الْفَصْلُ الثَّالِثُ وَيَتْلُوْهُ الْفَصْلُ الرَّابِعُ**
+
+**LAT:** intahā al-faṣlu al-thālithu wa-yatlūhu al-faṣlu al-rābi‘u
+
+**ID:** “**Selesailah fasal ketiga, dan menyusul setelahnya fasal keempat.**” (Penanda peralihan bagian.)
+
+**AR:** **بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيْمِ**
+
+**LAT:** bismi allāhi al-raḥmāni al-raḥīmi
+
+**ID:** “**Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang.**”
+
+**AR:** **اَللّٰهُمَّ صَلِّ وَسَلِّمْ عَلٰى مُحَمَّدٍ وَعَلٰى آلِ مُحَمَّدٍ الَّذِىْ جَعَلَهُ اللهُ خَزَانَةَ الْاَسْرَارِ وَمَحَلِّ الْاَنْوَارِ**.
+
+**LAT:** allāhumma ṣalli wa-sallim ‘alā Muḥammadin wa-‘alā āli Muḥammadin alladhī ja‘alahu allāhu khazānata al-asrāri wa-maḥalli al-anwāri.
+
+**ID:** “**Ya Allah, limpahkanlah salawat dan salam atas Muhammad dan keluarga Muhammad, yang Allah jadikan sebagai perbendaharaan rahasia-rahasia dan tempat cahaya-cahaya**.” (**Mengandung kata «الأسرار» — judul kitab**; **pembuka الفصل الرابع**.)
+
+**AR:** **اَللّٰهُمَّ صَلِّ وَسَلِّمْ عَلٰى مُحَمَّدٍ وَعَلٰى آلِ مُحَمَّدٍ الَّذِىْ هُوَ اَفْضَلُ مَنْ حَجَّ وَاعْتَمَرَ وَطَافَ بِالْبَيْتِ وَلَبَّى**.
+
+**LAT:** allāhumma ṣalli wa-sallim ‘alā Muḥammadin wa-‘alā āli Muḥammadin alladhī huwa afḍalu man ḥajja wa-i‘tamara wa-ṭāfa bi-al-bayti wa-labbā.
+
+**ID:** “**Ya Allah, limpahkanlah salawat dan salam atas Muhammad dan keluarga Muhammad, yang merupakan yang paling utama di antara orang yang berhaji, berumrah, bertawaf di Baitullah, dan bertalbiyah**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ وَسَلِّمْ عَلٰى مُحَمَّدٍ وَعَلٰى آلِ مُحَمَّدٍ الَّذِىْ هُوَ اَفْضَلُ مَنْ وَطِئَ الثَّرٰى وَالْحَصٰى**.
+
+**LAT:** allāhumma ṣalli wa-sallim ‘alā Muḥammadin wa-‘alā āli Muḥammadin alladhī huwa afḍalu man waṭi’a al-tharā wa-al-ḥaṣā.
+
+**ID:** “**Ya Allah, limpahkanlah salawat dan salam atas Muhammad dan keluarga Muhammad, yang paling utama di antara yang menginjak tanah dan kerikil**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ وَسَلِّمْ عَلٰى مُحَمَّدٍ وَعَلٰى آلِ مُحَمَّدٍ الَّذِىْ لَانَتْ لِوَطْئِهِ جَلَامِيْدُ صَخْرِ الْبَتْرِ**.
+
+**LAT:** allāhumma ṣalli wa-sallim ‘alā Muḥammadin wa-‘alā āli Muḥammadin alladhī lānat li-waṭ’ihi jalāmīdu ṣakhri al-buturi.
+
+**ID:** “**Ya Allah, limpahkanlah salawat dan salam atas Muhammad dan keluarga Muhammad, yang karena injakannya menjadi lunak bongkahan-bongkahan batu yang keras**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ وَسَلِّمْ عَلٰى مُحَمَّدٍ وَعَلٰى آلِ مُحَمَّدٍ الَّذِىْ ابْتَنَتْ لَهُ الْعَنْكَبُوْتُ فِى الْغَارِ نَسِيْجَهَا**.
+
+**LAT:** allāhumma ṣalli wa-sallim ‘alā Muḥammadin wa-‘alā āli Muḥammadin alladhī ibtanat lahu al-‘ankabūtu fī al-ghāri nasījahā.
+
+**ID:** “**Ya Allah, limpahkanlah salawat dan salam atas Muhammad dan keluarga Muhammad, yang untuknya laba-laba membangun sarangnya di gua**.” (**Peristiwa gua saat hijrah**.)
+
+**AR:** **اَللّٰهُمَّ صَلِّ وَسَلِّمْ عَلٰى مُحَمَّدٍ وَعَلٰى آلِ سَيِّدِنَا مُحَمَّدٍ الَّذِىْ حَلَّتْ عَيْنُ مَاءٍ بِمَجِّ رِيْقِهِ**.
+
+**LAT:** allāhumma ṣalli wa-sallim ‘alā Muḥammadin wa-‘alā āli sayyidinā Muḥammadin alladhī ḥallat ‘aynu mā’in bi-majji rīqihi.
+
+**ID:** “**Ya Allah, limpahkanlah salawat dan salam atas Muhammad dan keluarga penghulu kami Muhammad, yang karena ludahnya mata air menjadi tawar/deras**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ وَسَلِّمْ عَلٰى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ وَعَلٰى آلِ سَيِّدِنَا مُحَمَّدٍ الَّذِىْ سَعَتْ نَحْوَهُ الْاَشْجَارُ وَهِىَ تُسَلِّمُ عَلَيْهِ**.
+
+**LAT:** allāhumma ṣalli wa-sallim ‘alā sayyidinā wa-mawlānā Muḥammadin wa-‘alā āli sayyidinā Muḥammadin alladhī sa‘at naḥwahu al-ashjāru wa-hiya tusallimu ‘alayhi.
+
+**ID:** “**Ya Allah, limpahkanlah salawat dan salam atas penghulu dan pelindung kami Muhammad dan atas keluarga penghulu kami Muhammad, yang kepadanya pepohonan berjalan mendekat sambil memberi salam**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ وَسَلِّمْ عَلٰى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ وَعَلٰى آلِ سَيِّدِنَا مُحَمَّدٍ الَّذِىْ سَقٰى جَيْشَهُ فِىْ …** (وَيَتِمُّ فِى الصَّفْحَةِ التَّالِيَةِ)
+
+**LAT:** allāhumma ṣalli wa-sallim ‘alā sayyidinā wa-mawlānā Muḥammadin wa-‘alā āli sayyidinā Muḥammadin alladhī saqā jayshahu fī … (wa-yatimm fī al-ṣafḥati al-tāliyati)
+
+**ID:** “**Ya Allah, limpahkanlah salawat dan salam atas penghulu dan pelindung kami Muhammad dan atas keluarga penghulu kami Muhammad, yang memberi minum pasukannya di …**” (**terpotong di akhir halaman**).
+
+**Keterangan halaman.** (1) **Penutup الفصل الثالث**: **tiga salawat «على من هو…»** (**cinta, keridaan, kedudukan sebagai hujah kubur**) + **doa panjang** dengan **«الحكم حكمك…»** dan **«قوم تحبهم ويحبونك»**؛ (2) **penanda** **«انتهى الفصل الثالث ويتلوه الفصل الرابع»**؛ (3) **pembuka الفصل الرابع** dengan **satu salawat «خزانة الأسرار ومحل الأنوار»** dan **enam salawat «الذي…»** yang isinya **keutamaan dan mukjizat**: haji/umrah/tawaf/talbiyah، injakan di tanah dan kerikil، **batu menjadi lunak**، **laba-laba di gua**، **mata air dari ludahnya**، **pepohonan berjalan memberi salam**، lalu **«سقى جيشه»** yang **terpotong**.
+
+**Angka pada halaman ini.** **Tidak ada angka Arab-Indic** — `NUMS: []`. **Tidak ada bilangan** yang ditulis dengan huruf kecuali **tidak ada**؛ **tanpa koreksi**.
+
+**Wafaq:** **tidak ada**؛ halaman **doa** → **tidak ada** uji penjumlahan.
+
+**[TIDAK JELAS - HALAMAN 506]** (1) **Awal halaman hanya «إنك حميد مجيد.»** — **potongan** dari p.505؛ **disambung** dan **ditandai**. (2) **«مَنْ هُوَ عِشْقُهُ مَذْهَبِىْ»** — **susunan** tidak lazim؛ **dipertahankan**. (3) **«وَمَحَلِّ الْاَنْوَارِ»** — **lapisan teks** membaca **«ومحلﹶ الأنوار»** (naṣb)؛ **pindaian** tidak jelas； **ditulis «وَمَحَلِّ»** dan **perbedaan dicatat**. (4) **«جَلَامِيْدُ صَخْرِ الْبَتْرِ»** — **«البتر»** (batu?) **tidak jelas**؛ **dipertahankan**. (5) **«ابْتَنَتْ لَهُ الْعَنْكَبُوْتُ»** — **lapisan teks** memecah kata； **dibaca dari pindaian** dan **ditandai**. (6) **«حَلَّتْ عَيْنُ مَاءٍ بِمَجِّ رِيْقِهِ»** — **«حلّت»** (menjadi tawar) **ditafsirkan dari konteks**؛ **dipertahankan**. (7) **«سَقٰى جَيْشَهُ فِىْ …»** — **terpotong**, **tidak dilengkapi**.
+
+**Catatan (dicatat apa adanya, bukan fatwa).** Halaman **doa**؛ **tidak ada praktik okultisme**. Yang dicatat: **«عشقه مذهبي»** dan **«جاهه حجتي عند دخول قبري»** adalah **ungkapan syair/doa**؛ **dicatat sebagai materi kitab**, **tidak dinilai**.
+
+**[TIDAK ADA RAJAH - TERVERIFIKASI DARI GAMBAR SCAN]** — `get_image_info()` = `[]`؛ halaman **teks murni**.
+
+---
+## HALAMAN 507 — lanjutan الفصل الرابع: **١١ salawat** dengan mukjizat/keutamaan («شفى عين عليٍّ»، «قتادة»، «الجذع»، «ذراع الشاة»، «سبحت الحجارة»، «لواؤه في الحشر»)
+
+**AR:** كِتَابُ سِرِّ الْاَسْرَارِ فِي التَّوَاصُلِ مَعَ رُوحَانِيَّاتِ الْقُرْآنِ — شَيْخُ الرُّوحَانِيِّينَ الشَّيْخُ عَطِيَّةُ عَبْدُ الْحَمِيْدِ
+
+**LAT:** kitābu sirri al-asrāri fī al-tawāṣuli ma‘a rūḥāniyyāti al-qur’āni — shaykhu al-rūḥāniyyīna al-shaykhu ‘Aṭiyyatu ‘Abdu al-Ḥamīdi
+
+**ID:** “Kitab «Sirr al-Asrār fī al-Tawāṣul ma‘a Rūḥāniyyāt al-Qur’ān» — Syaikh para ruhaniyyin, Syaikh ‘Aṭiyyah ‘Abd al-Ḥamīd.” (Kepala halaman.)
+
+**AR:** (تَكْمِلَةُ الصَّلَاةِ مِنْ ص ٥٠٦) … **اَلْحُرُّ مِنْ فَيْضِ كَفِّهِ**.
+
+**LAT:** (takmilatu al-ṣalāti min ṣ 506) … al-ḥurru min fayḍi kaffihi.
+
+**ID:** “**(Pelengkap salawat dari p.506)** … **orang merdeka (yang dimerdekakan) dari limpahan telapak tangannya**.” (**Frasa ini berdiri sendiri di puncak halaman**; **maknanya tidak dijelaskan**.)
+
+**AR:** **اَللّٰهُمَّ صَلِّ وَسَلِّمْ عَلٰى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ وَعَلٰى آلِ سَيِّدِنَا مُحَمَّدٍ الَّذِىْ شَفٰى عَيْنَ عَلِىٍّ بَرِيْقِهِ**.
+
+**LAT:** allāhumma ṣalli wa-sallim ‘alā sayyidinā wa-mawlānā Muḥammadin wa-‘alā āli sayyidinā Muḥammadin alladhī shafā ‘ayna ‘Aliyyin barīqihi.
+
+**ID:** “**Ya Allah, limpahkanlah salawat dan salam atas penghulu dan pelindung kami Muhammad dan atas keluarga penghulu kami Muhammad, yang menyembuhkan mata ‘Alī dengan kilau (ludah/cahaya)-nya**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ وَسَلِّمْ عَلٰى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ وَعَلٰى آلِ سَيِّدِنَا مُحَمَّدٍ الَّذِىْ زَالَ عَمَى عَيْنِ قَتَادَةَ بِلَمْسَتِهِ**.
+
+**LAT:** allāhumma ṣalli wa-sallim ‘alā sayyidinā wa-mawlānā Muḥammadin wa-‘alā āli sayyidinā Muḥammadin alladhī zāla ‘amā ‘ayni Qatādata bi-lamsatihi.
+
+**ID:** “**Ya Allah, limpahkanlah salawat dan salam atas penghulu dan pelindung kami Muhammad dan atas keluarga penghulu kami Muhammad, yang dengannya kebutaan mata Qatādah hilang karena sentuhannya**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ وَسَلِّمْ عَلٰى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ وَعَلٰى آلِ سَيِّدِنَا مُحَمَّدٍ الَّذِىْ صَحَّ اَنَّ حَنِيْنَ الْجِذْعِ كَانَ لِاَجْلِهِ**.
+
+**LAT:** allāhumma ṣalli wa-sallim ‘alā sayyidinā wa-mawlānā Muḥammadin wa-‘alā āli sayyidinā Muḥammadin alladhī ṣaḥḥa anna ḥanīna al-jidh‘i kāna li-ajlihi.
+
+**ID:** “**Ya Allah, limpahkanlah salawat dan salam atas penghulu dan pelindung kami Muhammad dan atas keluarga penghulu kami Muhammad, yang terbukti bahwa rintihan batang kurma itu terjadi karenanya**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ وَسَلِّمْ عَلٰى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ وَعَلٰى آلِ سَيِّدِنَا مُحَمَّدٍ الَّذِىْ كَلَّمَهُ ذِرَاعُ الشَّاةِ**.
+
+**LAT:** allāhumma ṣalli wa-sallim ‘alā sayyidinā wa-mawlānā Muḥammadin wa-‘alā āli sayyidinā Muḥammadin alladhī kallamahu dhirā‘u al-shāti.
+
+**ID:** “**Ya Allah, limpahkanlah salawat dan salam atas penghulu dan pelindung kami Muhammad dan atas keluarga penghulu kami Muhammad, yang kepadanya lengan kambing (yang beracun) berbicara**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ وَسَلِّمْ عَلٰى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ وَعَلٰى آلِ سَيِّدِنَا مُحَمَّدٍ الَّذِىْ سَبَّحَ الطَّعَامُ بِرَاحَتِهِ الْكَرِيْمَةِ**.
+
+**LAT:** allāhumma ṣalli wa-sallim ‘alā sayyidinā wa-mawlānā Muḥammadin wa-‘alā āli sayyidinā Muḥammadin alladhī sabbaḥa al-ṭa‘āmu bi-rāḥatihi al-karīmati.
+
+**ID:** “**Ya Allah, limpahkanlah salawat dan salam atas penghulu dan pelindung kami Muhammad dan atas keluarga penghulu kami Muhammad, yang makanan bertasbih di telapak tangannya yang mulia**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ وَسَلِّمْ عَلٰى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ وَعَلٰى آلِ سَيِّدِنَا مُحَمَّدٍ الَّذِىْ سَبَحَتْ فِىْ كَفِّهِ صُمُّ الْحِجَارَةِ**.
+
+**LAT:** allāhumma ṣalli wa-sallim ‘alā sayyidinā wa-mawlānā Muḥammadin wa-‘alā āli sayyidinā Muḥammadin alladhī sabaḥat fī kaffihi ṣummu al-ḥijārati.
+
+**ID:** “**Ya Allah, limpahkanlah salawat dan salam atas penghulu dan pelindung kami Muhammad dan atas keluarga penghulu kami Muhammad, yang di telapak tangannya batu-batu keras itu mengapung/berenang**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ وَسَلِّمْ عَلٰى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ وَعَلٰى آلِ سَيِّدِنَا مُحَمَّدٍ الَّذِىْ قَرَاءَتُهُ مِنْ غَيْرِ عِلْمِ الْكِتَابَةِ**.
+
+**LAT:** allāhumma ṣalli wa-sallim ‘alā sayyidinā wa-mawlānā Muḥammadin wa-‘alā āli sayyidinā Muḥammadin alladhī qarā’atuhu min ghayri ‘ilmi al-kitābati.
+
+**ID:** “**Ya Allah, limpahkanlah salawat dan salam atas penghulu dan pelindung kami Muhammad dan atas keluarga penghulu kami Muhammad, yang bacaannya (terjadi) tanpa mengetahui tulis-menulis**.” (**Isyarat «النبي الأمي»**.)
+
+**AR:** **اَللّٰهُمَّ صَلِّ وَسَلِّمْ عَلٰى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ وَعَلٰى آلِ سَيِّدِنَا مُحَمَّدٍ الَّذِىْ كَانَتْ نُبُوَّتُهُ خِتَامًا مُحْكَمًا**.
+
+**LAT:** allāhumma ṣalli wa-sallim ‘alā sayyidinā wa-mawlānā Muḥammadin wa-‘alā āli sayyidinā Muḥammadin alladhī kānat nubuwwatuhu khitāman muḥkaman.
+
+**ID:** “**Ya Allah, limpahkanlah salawat dan salam atas penghulu dan pelindung kami Muhammad dan atas keluarga penghulu kami Muhammad, yang kenabiannya menjadi penutup yang kokoh**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ وَسَلِّمْ عَلٰى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ وَعَلٰى آلِ سَيِّدِنَا مُحَمَّدٍ الَّذِىْ لِوَاؤُهُ فِى الْحَشْرِ يَنْصَبُّ وَكُلُّ نَبِىٍّ تَحْتَ ظِلِّهِ، صَلَّى اللهُ عَلَيْهِ وَعَلَيْهِمْ اَجْمَعِيْنَ**.
+
+**LAT:** allāhumma ṣalli wa-sallim ‘alā sayyidinā wa-mawlānā Muḥammadin wa-‘alā āli sayyidinā Muḥammadin alladhī liwā’uhu fī al-ḥashri yanṣabbu wa-kullu nabiyyin taḥta ẓillihi, ṣallā allāhu ‘alayhi wa-‘alayhim ajma‘īna.
+
+**ID:** “**Ya Allah, limpahkanlah salawat dan salam atas penghulu dan pelindung kami Muhammad dan atas keluarga penghulu kami Muhammad, yang benderanya pada hari pengumpulan terpasang, dan setiap nabi berada di bawah naungannya; semoga Allah bersalawat atasnya dan atas mereka semua**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ عَلٰى سَيِّدِنَا مُحَمَّدٍ وَعَلٰى آلِ سَيِّدِنَا مُحَمَّدٍ صَلَاةً تَمُنُّ بِهَا عَلَيْنَا بِمَا مَنَنْتَ بِهٖ عَلٰى اَهْلِ الْقُرْبِ وَالْوَدَادِ**.
+
+**LAT:** allāhumma ṣalli ‘alā sayyidinā Muḥammadin wa-‘alā āli sayyidinā Muḥammadin ṣalātan tamunnu bihā ‘alaynā bimā mananta bihī ‘alā ahli al-qurbi wa-al-wadādi.
+
+**ID:** “**Ya Allah, bersalawatlah atas penghulu kami Muhammad dan keluarga penghulu kami Muhammad — salawat yang dengannya Engkau memberi karunia kepada kami sebagaimana Engkau telah memberi karunia kepada orang-orang yang dekat dan penuh cinta**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ عَلٰى سَيِّدِنَا مُحَمَّدٍ وَعَلٰى آلِ سَيِّدِنَا مُحَمَّدٍ صَلَاةً تُلْهِمُنِىْ بِهَا رُشْدِىْ وَتُعِيْذُنِىْ مِنْ شَرِّ نَفْسِىْ وَمِنْ شَرِّ الشَّيْطَانِ وَشِرْكِهِ**.
+
+**LAT:** allāhumma ṣalli ‘alā sayyidinā Muḥammadin wa-‘alā āli sayyidinā Muḥammadin ṣalātan tulhimunī bihā rushdī wa-tu‘īdhunī min sharri nafsī wa-min sharri al-shayṭāni wa-shirkihi.
+
+**ID:** “**Ya Allah, bersalawatlah atas penghulu kami Muhammad dan keluarga penghulu kami Muhammad — salawat yang dengannya Engkau mengilhamkan kepadaku petunjukku dan melindungiku dari keburukan diriku serta dari keburukan setan dan kesyirikannya**.”
+
+**Keterangan halaman.** **١١ lafaz salawat** (setelah pelengkap dari p.506): **sepuluh** memakai pola **«وعلى آل سيدنا محمد الذي…»** dengan **isi mukjizat/hadis**: **mata ‘Alī**، **Qatādah**، **rintihan batang kurma (الجذع)**، **lengan kambing berbicara (ذراع الشاة)**، **makanan bertasbih**، **batu mengapung di tangannya**، **membaca tanpa belajar menulis**، **kenabian penutup**، **bendera di hari kiamat**؛ **dua terakhir** memakai pola **«صلاةً…»** (permohonan) dan **beralih ke persona orang pertama** (**«تُلْهِمُنِي»، «تُعِيذُنِي»**). **Tanpa nomor** pada cetakan.
+
+**Angka pada halaman ini.** **Tidak ada angka Arab-Indic** — `NUMS: []`. **Tidak ada bilangan** apa pun pada halaman ini. **Tidak ada koreksi angka.**
+
+**Wafaq:** **tidak ada**؛ halaman **doa** → **tidak ada uji penjumlahan**.
+
+**[TIDAK JELAS - HALAMAN 507]** (1) **«اَلْحُرُّ مِنْ فَيْضِ كَفِّهِ»** — **frasa terpisah** di puncak halaman؛ **hubungannya** dengan salawat p.506 **tidak jelas**؛ **dibaca dari crop 1200 DPI** dan **ditandai**. (2) **«شَفٰى عَيْنَ عَلِىٍّ بَرِيْقِهِ»** — **susunan** (bariqihi majrur) **tidak jelas fungsinya**؛ **dipertahankan**. (3) **«وَالَّذِىْ قَرَاءَتُهُ مِنْ غَيْرِ عِلْمِ الْكِتَابَةِ»** — **susunan** terputus؛ **dipertahankan**. (4) **«لِوَاؤُهُ فِى الْحَشْرِ يَنْصَبُّ»** — **fi‘l** tidak lazim؛ **dipertahankan**. (5) **«خِتَامًا مُحْكَمًا»** — **lafaz** tidak lazim؛ **dipertahankan**. (6) **«مَا مَنَنْتَ بِهٖ»** — **pindaian** memakai **yā’ kecil (بهٖ)**؛ **dipertahankan**. (7) **«أَهْلِ الْقُرْبِ وَالْوَدَادِ»** — **rujukan** tidak jelas؛ **dipertahankan**.
+
+**Catatan (dicatat apa adanya, bukan fatwa).** Halaman **doa**؛ **tidak ada praktik okultisme**. Yang dicatat: **peristiwa-peristiwa** yang disebut (**Qatādah، ذراع الشاة، سبح الطعام، سبح الحجارة**) adalah **riwayat mukjizat** yang **tidak diberi sumber** pada halaman ini؛ **tidak dinilai di sini**.
+
+**[TIDAK ADA RAJAH - TERVERIFIKASI DARI GAMBAR SCAN]** — `get_image_info()` = `[]`؛ halaman **teks murni**.
+
+---
+## HALAMAN 508 — **«انتهى الفصل الرابع ويتلوه الفصل الخامس»** + pembuka **الفصل الخامس**: hamdalah **«(ثلاثاً)»** + salawat «المتحقق بحقائق المعارف الصمدانية» dan «المتخلق بأكمل أخلاق العبودية»
+
+**AR:** كِتَابُ سِرِّ الْاَسْرَارِ فِي التَّوَاصُلِ مَعَ رُوحَانِيَّاتِ الْقُرْآنِ — شَيْخُ الرُّوحَانِيِّينَ الشَّيْخُ عَطِيَّةُ عَبْدُ الْحَمِيْدِ
+
+**LAT:** kitābu sirri al-asrāri fī al-tawāṣuli ma‘a rūḥāniyyāti al-qur’āni — shaykhu al-rūḥāniyyīna al-shaykhu ‘Aṭiyyatu ‘Abdu al-Ḥamīdi
+
+**ID:** “Kitab «Sirr al-Asrār fī al-Tawāṣul ma‘a Rūḥāniyyāt al-Qur’ān» — Syaikh para ruhaniyyin, Syaikh ‘Aṭiyyah ‘Abd al-Ḥamīd.” (Kepala halaman.)
+
+**AR:** **اِنْتَهَى الْفَصْلُ الرَّابِعُ وَيَتْلُوْهُ الْفَصْلُ الْخَامِسُ**
+
+**LAT:** intahā al-faṣlu al-rābi‘u wa-yatlūhu al-faṣlu al-khāmisu
+
+**ID:** “**Selesailah fasal keempat, dan menyusul setelahnya fasal kelima.**” (Penanda peralihan bagian.)
+
+**AR:** **بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيْمِ**
+
+**LAT:** bismi allāhi al-raḥmāni al-raḥīmi
+
+**ID:** “**Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang.**”
+
+**AR:** **اَلْحَمْدُ لِلّٰهِ رَبِّ الْعَالَمِيْنَ حَمْدًا كَثِيْرًا طَيِّبًا مُبَارَكًا فِيْهِ عَلٰى كُلِّ حَالٍ، حَمْدًا يُوَافِىْ نِعَمَهُ وَيُكَافِئُ مَزِيْدَهُ (ثَلَاثًا)**.
+
+**LAT:** al-ḥamdu lillāhi rabbi al-‘ālamīna ḥamdan kathīran ṭayyiban mubārakan fīhi ‘alā kulli ḥālin, ḥamdan yuwāfī ni‘amahu wa-yukāfi’u mazīdahu (thalāthan).
+
+**ID:** “**Segala puji bagi Allah Tuhan semesta alam — pujian yang banyak, baik, dan penuh berkah di dalamnya, pada setiap keadaan; pujian yang menyamai nikmat-nikmat-Nya dan membalas tambahan-Nya (tiga kali)**.” (**Kata «ثلاثاً» tercetak dalam kurung** — **dipertahankan**; menunjukkan **hamdalah dibaca tiga kali**.)
+
+**AR:** **اَللّٰهُمَّ صَلِّ عَلٰى سَيِّدِنَا مُحَمَّدٍ الْمُتَحَقِّقِ بِحَقَائِقِ الْمَعَارِفِ الصَّمَدَانِيَّةِ**.
+
+**LAT:** allāhumma ṣalli ‘alā sayyidinā Muḥammadin al-mutaḥaqqiqi bi-ḥaqā’iqi al-ma‘ārifi al-ṣamadāniyyati.
+
+**ID:** “**Ya Allah, bersalawatlah atas penghulu kami Muhammad, yang terwujud dengan hakikat-hakikat pengetahuan yang ṣamadānī (yang berkaitan dengan Yang Maha Diri)**.” (**Istilah tasawuf: «المعارف الصمدانية»**.)
+
+**AR:** **اَللّٰهُمَّ صَلِّ عَلٰى سَيِّدِنَا مُحَمَّدٍ الْمُتَخَلِّقِ بِاَكْمَلِ اَخْلَاقِ الْعُبُوْدِيَّةِ**.
+
+**LAT:** allāhumma ṣalli ‘alā sayyidinā Muḥammadin al-mutakhalliqi bi-akmali akhlāqi al-‘ubūdiyyati.
+
+**ID:** “**Ya Allah, bersalawatlah atas penghulu kami Muhammad, yang berakhlak dengan akhlak penghambaan yang paling sempurna**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ عَلٰى سَيِّدِنَا مُحَمَّدٍ وَعَلٰى آلِهِ وَبَارِكْ وَسَلِّمْ**.
+
+**LAT:** allāhumma ṣalli ‘alā sayyidinā Muḥammadin wa-‘alā ālihi wa-bārik wa-sallim.
+
+**ID:** “**Ya Allah, bersalawatlah atas penghulu kami Muhammad dan keluarganya, berkahilah, dan berilah salam**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ وَسَلِّمْ عَلٰى سَيِّدِنَا مُحَمَّدٍ وَعَلٰى آلِ سَيِّدِنَا مُحَمَّدٍ الَّذِىْ اسْتَخْرَجْتَهُ مِنْ عُنْصُرِ لُؤَىِّ بْنِ غَالِبٍ**.
+
+**LAT:** allāhumma ṣalli wa-sallim ‘alā sayyidinā Muḥammadin wa-‘alā āli sayyidinā Muḥammadin alladhī istakhrajtahu min ‘unṣuri Lu’ayyi bni Ghālibin.
+
+**ID:** “**Ya Allah, limpahkanlah salawat dan salam atas penghulu kami Muhammad dan atas keluarga penghulu kami Muhammad, yang Engkau keluarkan dari unsur Lu’ay bin Ghālib**.” (**Nama leluhur Nabi**.)
+
+**AR:** **اَللّٰهُمَّ صَلِّ عَلٰى سَيِّدِنَا مُحَمَّدٍ وَعَلٰى آلِ سَيِّدِنَا مُحَمَّدٍ الَّذِىْ خَمِدَتْ لِوِلَادَتِهِ النِّيْرَانُ وَخَرَّتْ لِمَبْعَثِهِ الْاَوْثَانُ**.
+
+**LAT:** allāhumma ṣalli ‘alā sayyidinā Muḥammadin wa-‘alā āli sayyidinā Muḥammadin alladhī khamidat li-wilādatihi al-nīrānu wa-kharrat li-mab‘athihi al-awthānu.
+
+**ID:** “**Ya Allah, bersalawatlah atas penghulu kami Muhammad dan atas keluarga penghulu kami Muhammad, yang karena kelahirannya api menjadi padam dan karena pengutusannya berhala-berhala runtuh**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ عَلٰى سَيِّدِنَا مُحَمَّدٍ وَعَلٰى آلِ سَيِّدِنَا مُحَمَّدٍ الَّذِىْ حِيْنَ وُلِدَ رَاقَ الْعَيْشُ صَفًا، وَزَهَقَ الْبَاطِلُ وَاخْتَفٰى**.
+
+**LAT:** allāhumma ṣalli ‘alā sayyidinā Muḥammadin wa-‘alā āli sayyidinā Muḥammadin alladhī ḥīna wulida rāqa al-‘ayshu ṣafan, wa-zahaqa al-bāṭilu wa-ikhtafā.
+
+**ID:** “**Ya Allah, bersalawatlah atas penghulu kami Muhammad dan atas keluarga penghulu kami Muhammad, yang ketika ia dilahirkan kehidupan menjadi jernih dan bersih, dan kebatilan lenyap serta hilang**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ وَسَلِّمْ عَلٰى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ الْمَبْعُوْثِ بِالدِّيْنِ الْوَاجِبِ**.
+
+**LAT:** allāhumma ṣalli wa-sallim ‘alā sayyidinā wa-mawlānā Muḥammadin al-mab‘ūthi bi-al-dīni al-wājibi.
+
+**ID:** “**Ya Allah, limpahkanlah salawat dan salam atas penghulu dan pelindung kami Muhammad, yang diutus dengan agama yang wajib**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ وَسَلِّمْ عَلٰى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ الْمَوْصُوْفِ بِاَحْسَنِ الْاَوْصَافِ وَاَجَلِّ الْمَنَاقِبِ**.
+
+**LAT:** allāhumma ṣalli wa-sallim ‘alā sayyidinā wa-mawlānā Muḥammadin al-mawṣūfi bi-aḥsani al-awṣāfi wa-ajalli al-manāqibi.
+
+**ID:** “**Ya Allah, limpahkanlah salawat dan salam atas penghulu dan pelindung kami Muhammad, yang disifati dengan sifat-sifat terbaik dan keutamaan-keutamaan termulia**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ وَسَلِّمْ عَلٰى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ الَّذِىْ بَلَغَ اَسْنَى الْمَطَالِبِ وَالْمَآرِبِ**.
+
+**LAT:** allāhumma ṣalli wa-sallim ‘alā sayyidinā wa-mawlānā Muḥammadin alladhī balagha asnā al-maṭālibi wa-al-ma’āribi.
+
+**ID:** “**Ya Allah, limpahkanlah salawat dan salam atas penghulu dan pelindung kami Muhammad, yang mencapai puncak segala tujuan dan keperluan**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ وَسَلِّمْ عَلٰى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ الَّذِىْ فَضَّلْتَهُ عَلٰى اَهْلِ الْمَشَارِقِ وَالْمَغَارِبِ**.
+
+**LAT:** allāhumma ṣalli wa-sallim ‘alā sayyidinā wa-mawlānā Muḥammadin alladhī faḍḍaltahu ‘alā ahli al-mashāriqi wa-al-maghāribi.
+
+**ID:** “**Ya Allah, limpahkanlah salawat dan salam atas penghulu dan pelindung kami Muhammad, yang Engkau utamakan di atas penduduk timur dan barat**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ عَلٰى سَيِّدِنَا مُحَمَّدٍ وَعَلٰى آلِ سَيِّدِنَا مُحَمَّدٍ صَلَاةً تُغَذِّيْنَا مِنْ قُوْتِ الْاَرْوَاحِ يَا رَبَّ الْاَرْوَاحِ وَالْاَشْبَاحِ**.
+
+**LAT:** allāhumma ṣalli ‘alā sayyidinā Muḥammadin wa-‘alā āli sayyidinā Muḥammadin ṣalātan tughadhdhīnā min qūti al-arwāḥi yā rabba al-arwāḥi wa-al-ashbāḥi.
+
+**ID:** “**Ya Allah, bersalawatlah atas penghulu kami Muhammad dan keluarga penghulu kami Muhammad — salawat yang memberi kami makanan dari santapan ruh-ruh, wahai Tuhan para ruh dan jasad**.”
+
+**AR:** **اَللّٰهُمَّ صَلِّ عَلٰى سَيِّدِنَا مُحَمَّدٍ وَعَلٰى آلِ سَيِّدِنَا مُحَمَّدٍ صَلَاةً تُذِيْقُنَا مِنْ شَرَابِ الْحُبِّيَّةِ يَا مَنْ يُرْوِى الْقُلُوْبَ بِذِكْرِهِ وَمُنَاجَاتِهِ الْخَفِيَّةِ، اَللّٰهُمَّ صَلِّ وَسَلِّمْ عَلٰى مَنْ حَقَّقْتَنَا بِاَعْلٰى …** (وَيَتِمُّ فِى الصَّفْحَةِ التَّالِيَةِ)
+
+**LAT:** allāhumma ṣalli ‘alā sayyidinā Muḥammadin wa-‘alā āli sayyidinā Muḥammadin ṣalātan tudhīqunā min sharābi al-ḥubbiyyati yā man yurwī al-qulūba bi-dhikrihi wa-munājātihi al-khafiyyati, allāhumma ṣalli wa-sallim ‘alā man ḥaqqaqtanā bi-a‘lā … (wa-yatimm fī al-ṣafḥati al-tāliyati)
+
+**ID:** “**Ya Allah, bersalawatlah atas penghulu kami Muhammad dan keluarga penghulu kami Muhammad — salawat yang membuat kami mencicipi minuman cinta, wahai Yang memberi minum hati dengan penyebutan dan munajat-Nya yang tersembunyi. Ya Allah, limpahkanlah salawat dan salam atas dia yang dengannya Engkau mewujudkan kami dengan yang tertinggi …**” (**terpotong di akhir halaman**).
+
+**Keterangan halaman.** (1) **Penanda** **«انتهى الفصل الرابع ويتلوه الفصل الخامس»**؛ (2) **pembuka الفصل الخامس**: basmalah، **hamdalah panjang dengan «(ثلاثاً)»**، lalu **١١ lafaz salawat** — tiga pertama **bercorak tasawuf** (**«حقائق المعارف الصمدانية»**، **«أكمل أخلاق العبودية»**)؛ sisanya **keutamaan dan riwayat kelahiran** (**«خمدت لولادته النيران»**، **«خرت لمبعثه الأوثان»**، **«رَاقَ العيش صفاً»**، **«استخرجته من عنصر لؤي بن غالب»**) dan **dua lafaz penutup** dengan **permohonan ruhani** (**«قوت الأرواح»**، **«شراب الحبية»**). **Lafaz terakhir terpotong**.
+
+**Angka pada halaman ini.**
+- **Tidak ada angka Arab-Indic** — `NUMS: []`. **Satu bilangan ditulis huruf dalam kurung**: **«(ثَلَاثًا)»** = **tiga kali** → **dipertahankan** sebagai kata.
+- **Tidak ada koreksi angka** dan **tidak ada penambahan**.
+
+**Wafaq:** **tidak ada**؛ halaman **doa** → **tidak ada** uji penjumlahan.
+
+**[TIDAK JELAS - HALAMAN 508]** (1) **«(ثلاثاً)»** — **fungsi**: jumlah pengulangan hamdalah؟ **tidak dijelaskan**؛ **dipertahankan** dan **ditandai** (bandingkan **«(أربعاً)»** p.498 dan **«(أمداً)»** p.502). (2) **«الْمَعَارِفِ الصَّمَدَانِيَّةِ»** — **istilah** tidak dijelaskan؛ **dipertahankan**. (3) **«الْحُبِّيَّةِ»** — **bentuk** jarang؛ **dipertahankan**. (4) **«حَمْدًا يُوَافِىْ نِعَمَهُ»** — **lafaz** tidak lazim؛ **dipertahankan**. (5) **«رَاقَ الْعَيْشُ صَفًا»** — **susunan** tidak lazim؛ **dipertahankan**. (6) **«مَنْ حَقَّقْتَنَا بِأَعْلَى …»** — **terpotong**؛ **tidak dilengkapi**. (7) **«الْمَبْعُوْثِ بِالدِّيْنِ الْوَاجِبِ»** — **«الدين الواجب»** tidak dijelaskan؛ **dipertahankan**.
+
+**Catatan (dicatat apa adanya, bukan fatwa).** Halaman **doa**؛ **tidak ada praktik okultisme**. Yang dicatat: **riwayat kelahiran** (**padamnya api Persia، runtuhnya berhala**) dan **istilah tasawuf** (**«المعارف الصمدانية»، «الحبية»**) **tidak diberi sumber** pada halaman ini؛ **tidak dinilai**.
 
 **[TIDAK ADA RAJAH - TERVERIFIKASI DARI GAMBAR SCAN]** — `get_image_info()` = `[]`؛ halaman **teks murni**.
 
