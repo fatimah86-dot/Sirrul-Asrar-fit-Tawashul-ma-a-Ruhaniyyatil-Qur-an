@@ -196,3 +196,15 @@ Catatan teknis: generator `tools/make_docx_induk.py` mencetak gambar pada **posi
 `![...]`** di dalam seksi (bukan lagi di puncak halaman), dan baris gambar tidak lagi
 bocor sebagai teks markdown ke DOCX/PDF. Induk: DOCX 30.98 MB, PDF 45.98 MB, 888 hlm,
 101 hlm wafak.
+
+### Status pengerjaan Hal. 83–87 (selesai)
+
+| Hal. | Judul | Rajah | Catatan |
+|---|---|---|---|
+| 83 | Lanjutan jumlah shuhuf (Ibrahim 30, Musa 10) + basmalah 19 huruf + riwayat Jabir & Ibnu Mas'ud | — | butir 2–4; amalan: tulis basmalah 100×, tulis `الرحمن الرحيم` 50× + baca basmalah 150× |
+| 84 | Keutamaan basmalah butir 5–10 | — | wirid 1000× (14 hari riyadhah), tulisan huruf terpisah `ا ل ر ح م ن` 7×, 331× pada pisau, 190× bendera, 21× kertas, cermin, cincin perak 2 dirham |
+| 85 | Basmalah di tengah lingkaran 8× + hadis keutamaan + tafsir Hasan Al-Bashri | — (bentuk lingkaran ada di 86) | butir 11–12 |
+| 86 | **Lingkaran basmalah** (gambar) + basmalah sebagai Ismullah Al-A'zham | `hal-086-rajah-01.png` — da'irah bertulis, bukan wafaq angka | tulisan dalam rajah tidak diterjemahkan |
+| 87 | Basmalah keluar-masuk rumah, tidur, makan, safar, ruqyah Isa, riwayat Ali–Ibnu Abbas | — | kalimat akhir terpotong "أُعْطِيتُ فَاتِحَةَ" → lanjut 88 |
+
+Catatan: `wafak` pada induk naik 101 → **102** (rajah 86 terhitung sebagai rajah). Induk: DOCX 31.22 MB, PDF 46.35 MB, **903 hlm**.
