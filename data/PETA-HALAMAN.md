@@ -324,7 +324,7 @@ Catatan: induk **1192 hlm**, **109 halaman berrajah**, DOCX 32.27 MB, PDF 48.38 
 
 ### Status pengerjaan Hal. 128–132
 
-Hal. 128–130: teks saya yang kirim, dimasukkan apa adanya. Scan disertakan sebagai pembanding; panduan praktik pemilik berlabel [Masukan saya].
+Hal. 128–130: teks saya yang kirim, dimasukkan apa adanya. Scan disertakan sebagai pembanding.
 
 | Hal. | Judul | Rajah |
 |---|---|---|
@@ -334,4 +334,3 @@ Hal. 128–130: teks saya yang kirim, dimasukkan apa adanya. Scan disertakan seb
 | 131 | Doa dan amalan untuk mata | — |
 | 132 | Lemah penglihatan dan radang mata | — |
 
-Catatan Arena: kiriman lengkap halaman 130 yang terakhir diterima tidak memuat rangkaian كهيعص sebagai deret tersendiri; tidak ditambahkan berdasarkan dugaan.

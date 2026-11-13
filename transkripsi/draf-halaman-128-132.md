@@ -52,8 +52,6 @@ Yaitu engkau menulis firman Allah Ta'ala: ﴿Dan milik-Nya lah segala apa yang d
 
 ### 4. TATACARA PRAKTIK LENGKAP
 
-[Masukan saya: panduan praktik berikut berasal dari pemilik.]
-
 Berikut adalah panduan tata cara pengamalan untuk menghilangkan sakit kepala dan migrain (sakit kepala sebelah / syaqiqah) yang termuat pada halaman ini:
 
 A. Amalan Penyempurnaan Hijab Surah Al-Ikhlash, Al-Falaq, dan Asma' Ath-Thahthiliyyah (Lanjutan dari Halaman 127)
@@ -152,8 +150,6 @@ Yaitu engkau menulis kalimat-kalimat ini pada dahi (kening) orang yang menderita
 Yaitu engkau menulis ayat yang mulia ini: ﴿Dan anjing mereka الصالح membentangkan kedua lengannya di muka pintu gua. Dan jika kamu menyaksikan mereka tentulah kamu akan berpaling dari mereka dengan melarikan diri dan tentulah hati kamu akan dipenuhi oleh ketakutan terhadap mereka﴾ (QS. Al-Kahfi: 18), lalu digantungkan (ditempelkan) pada sisi kepala yang terasa sakit. Amalan ini mujarab untuk keluhan tersebut dengan izin Allah Ta'ala.
 
 ### 4. TATACARA PRAKTIK LENGKAP
-
-[Masukan saya: panduan praktik berikut berasal dari pemilik.]
 
 Berikut adalah panduan lengkap tata cara pengamalan 5 (lima) faedah pengobatan sakit kepala, pusing, dan migrain yang terdapat pada halaman ini:
 
@@ -270,8 +266,6 @@ Amalan ini shahih lagi mujarab untuk sakit kepala dengan izin Allah Ta'ala.
 Di dalam kitab Al-Mishbah disebutkan: Dari Muhammad bin Al-Ju'fi dari ayahnya, ia berkata: "Aku dahulu sangat sering mengeluhkan sakit pada mataku, lalu aku mengadukan hal tersebut kepada Imam Ja'far Ash-Shadiq (semoga shalawat dan salam paling utama tercurah kepada beliau). Maka beliau berkata: 'Maukah engkau kuajarkan sebuah doa untuk kebaikan duniamu dan akhiratmu serta dengannya rasa sakit pada matamu akan disembuhkan (dicukupkan)?' Aku menjawab: 'Tentu mau.' Beliau berkata: 'Ucapkanlah setiap selesai shalat Subuh (Fajar) dan shalat Maghrib: Ya Allah, sesungguhnya aku memohon kepada-Mu dengan haq (kemuliaan) Muhammad dan keluarga Muhammad agar Engkau melimpahkan shalawat kepada Muhammad dan keluarga Muhammad, dan aku memohon kepada-Mu agar Engkau menjadikan cahaya pada penglihatanku, mata hati (bashirah) pada
 
 ### 4. TATACARA PRAKTIK LENGKAP
-
-[Masukan saya: panduan praktik berikut berasal dari pemilik.]
 
 Berikut adalah panduan tata cara pengamalan untuk mengobati sakit kepala dan pusing yang termuat secara lengkap pada halaman ini:
 
