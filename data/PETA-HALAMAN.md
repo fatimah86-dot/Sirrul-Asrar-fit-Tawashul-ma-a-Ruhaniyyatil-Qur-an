@@ -285,3 +285,15 @@ Catatan: induk **1138 hlm**, `wafak/rajah` **106**, DOCX 32.09 MB, PDF 48.01 MB.
 
 Catatan: induk **1154 hlm**, `wafak/rajah` naik 106 → **108**, DOCX 32.15 MB, PDF 48.14 MB. Verifikasi: 0 kebocoran `![`/`](`; render hlm. 309 menunjukkan rajah dua lingkaran tercetak.
 **Temuan penting:** halaman 112 **bukan** duplikat Hal. 77 — ia duplikat **Hal. 76** (diperiksa dengan pembanding piksel terhadap 66–77). Hal. 172 dan 207 juga identik dengan 112/76. Karena itu halaman 112 memuat **daftar karya lengkap 39 judul**, bukan judul 33–39.
+
+### Status pengerjaan Hal. 113–117 (selesai)
+
+| Hal. | Judul | Rajah | Catatan |
+|---|---|---|---|
+| 113 | Daftar Karya judul 33–39 + penutup — **salinan identik Hal. 77** | — | terverifikasi piksel (0,002); beda dengan 112 yang identik 76 |
+| 114 | Shalat hajat "Empat Nama" (الغني الكافي المغني الفتاح) hari Jumat | — | 2 rakaat, kalimat tahlil 70×/7×, nama 4.734×, 7 Jumat |
+| 115 | Wirid 3.000× 40 hari + kisah kantung 40 keping emas + يا برهان | — | 120.018×, 44.276×, 130×, 10.000×/1.000×, 13.560× 6 hari — memuat `فُلَان` |
+| 116 | Shalawat 3× + wirid يا قديم الإحسان + empat surah pelunas utang | — | 100×, 70×, 4 surah harian |
+| 117 | Doa يا رزاق السائلين + wirid 4 surah rezeki + shalat hajat Surah Al-An'am | — | 7×, 70× |
+
+Catatan: induk **1166 hlm**, `wafak/rajah` tetap **108**, DOCX 32.17 MB, PDF 48.18 MB. Verifikasi: 0 kebocoran `![`/`](`, render hlm. 315 bersih (harakat ẓ/ā tampil normal).

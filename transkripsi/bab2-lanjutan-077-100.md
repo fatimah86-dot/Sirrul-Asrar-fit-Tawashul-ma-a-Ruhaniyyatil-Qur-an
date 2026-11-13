@@ -1850,3 +1850,297 @@ Kitabu Wadi al-Jinni wa Thuruqit-Takhdhiri wa Syarhil-Khalawati
 - Halaman ini adalah **halaman iklan/daftar karya** yang **berulang** (identik dengan Hal. 76; juga identik dengan Hal. 172 dan Hal. 207 menurut pemeriksaan render). **Tidak ditranskripsi ulang tiga kali**: teks AR/LAT/ID disalin sekali dari Hal. 76, dan halaman 172 serta 207 cukup merujuk ke sini.
 - Tidak ada amalan, wafaq, dupa, atau angka yang diperintahkan pada halaman iklan ini.
 - Tidak ada kata فُلَان / فُلَانَة pada halaman ini.
+
+---
+
+## HALAMAN 113 — PDF hal. 113 / bagian — Daftar Karya (lanjutan 33–39 + penutup, salinan identik dengan Hal. 77)
+
+### 1. TEKS ARAB BERHARAKAT
+
+**Salinan identik dengan Hal. 77** — terverifikasi dari render: halaman 113 pada PDF sumber **identik secara piksel** dengan halaman 77 (selisih rata-rata 0,002), **bukan** dengan halaman 76.
+
+كِتَابُ نَهْرِ الرُّوحَانِيَّةِ فِيمَا يَتَعَلَّقُ بِالْأُمُورِ الْخَفِيَّةِ
+كِتَابُ الشَّيْخِ الْكَبِيرِ فِي عِلْمِ التَّنْزِيلِ مِنَ الْمَزْمُورِ وَالْإِنْجِيلِ
+كِتَابُ الْأَوْفَاقِ وَخَوَاصِّ كُلِّ وَفْقٍ وَكَيْفِيَّةِ عَمَلِهِ
+كِتَابُ الْبَوَّابَةِ الْكَوْنِيَّةِ فِي اسْتِحْضَارِ الرُّوحَانِيَّةِ
+كِتَابُ الْأَحْجَارِ الْكَرِيمَةِ وَطُرُقِ عَمَلِ الْخَوَاتِمِ الرُّوحَانِيَّةِ لِكُلِّ شَخْصٍ وَكَيْفِيَّةِ الِانْتِفَاعِ بِهِ
+كِتَابُ ذُرْوَةِ الْأَسْرَارِ وَمَا يَتَعَلَّقُ بِطَلَاسِمِ اللَّيْلِ وَالنَّهَارِ
+مُجَلَّدَاتُ الْجَوَاهِرِ التِّسْعَةِ الرُّوحَانِيَّةِ
+بِيهْ
+لِلْكَشْفِ وَالْمُتَابَعَةِ مَعَ شَيْخِ الرُّوحَانِيِّينَ فِي الْوَطَنِ الْعَرَبِيِّ الشَّيْخِ عَطِيَّةَ عَبْدِ الْحَمِيدِ
+
+### 2. TRANSLITERASI LATIN
+
+Kitabu Nahrir-Ruhaniyyati fima Yata'allaqu bil-Umuril-Khafiyyati
+Kitabush-Syaikhil-Kabiri fi 'Ilmit-Tanzili minal-Mazmuri wal-Injili
+Kitabul-Aufaqi wa Khawashshi Kulli Wafqin wa Kaifiyyati 'Amalihi
+Kitabul-Bawwabatil-Kauniyyati fi Istihdharir-Ruhaniyyati
+Kitabul-Ahjaril-Karimati wa Thuruqi 'Amalil-Khawatim ar-Ruhaniyyati li-Kulli Syakhshin wa Kaifiyyatil-Intifa'i bihi
+Kitabu Dzurwatil-Asrari wa Ma Yata'allaqu bi-Thalasimil-Laili wan-Nahari
+Mujalladatul-Jawahir at-Tis'ati ar-Ruhaniyyati
+Bih
+Lil-Kasyfi wal-Mutaba'ati ma'a Syaikhir-Ruhaniyyina fil-Wathanil-'Arabiyyisy-Syaikhi 'Athiyyata 'Abdil-Hamidi
+
+### 3. TERJEMAHAN INDONESIA
+
+**Salinan identik dengan halaman 77** — tujuh judul penutup (33–39) daftar karya Syaikh 'Athiyyah 'Abdul Hamid beserta baris penutup dan nomor kontak penerbit (nomor kontak dibersihkan sesuai aturan). Terjemahan per judul sudah ada pada bagian Hal. 77.
+
+### 4. TATACARA PRAKTIK LENGKAP
+
+- Halaman ini **halaman iklan/daftar karya** yang berulang (identik dengan Hal. 77). Tidak ditranskripsi ulang: AR/LAT/ID disalin sekali dari Hal. 77.
+- Potongan kata `بِيهْ` dipertahankan apa adanya tanpa tafsir, sama seperti pada Hal. 77.
+- Tidak ada amalan, wafaq, atau angka perintah pada halaman ini.
+- Tidak ada kata فُلَان / فُلَانَة pada halaman ini.
+
+---
+
+## HALAMAN 114 — PDF hal. 114 / bagian — Shalat hajat "Empat Nama" (الغني الكافي المغني الفتاح) pada hari Jumat
+
+### 1. TEKS ARAB BERHARAKAT
+
+(أَيْضاً لِقَضَاءِ الْحَاجَاتِ وَالْوُصُولِ إِلَى الْمَقَاصِدِ الْكُلِّيَّةِ)
+
+وَهِيَ بِفَضْلِ ذِكْرِ هَذِهِ الْأَسْمَاءِ الْجَلِيلَةِ لِلَّهِ سُبْحَانَهُ وَتَعَالَى وَهِيَ: (الْغَنِيُّ الْكَافِي الْمُغْنِي الْفَتَّاحُ) وَالْعَمَلُ فِيهَا كَمَا جَاءَ وَوَرَدَ مِنْ قَبْلِ أَصْحَابِ هَذَا السِّرِّ وَالْفَنِّ؟. قِيلَ: مَنْ كَانَ يُرِيدُ الْقَدْرَ وَكِفَايَةَ الْمَعَاشِ وَتَحَقُّقَ الْمُرَادِ وَحُصُولَ الْمَقَاصِدِ الْكُلِّيَّةِ...
+
+عَلَى صَاحِبِ الْحَاجَةِ عَلَيْهِ أَنْ يَغْتَسِلَ يَوْمَ الْجُمُعَةِ بَعْدَ صَلَاةِ الصُّبْحِ مِنْ ثَمَّ يَتَّخِذُ خَلْوَةً أَوْ يَذْهَبُ إِلَى الْمَسْجِدِ؟. وَيُعَيِّنُ زَاوِيَةً وَيَجْلِسُ فِيهَا ثُمَّ يَقُولُ هَذِهِ الْكَلِمَاتِ: سُبْحَانَ اللَّهِ وَالْحَمْدُ لِلَّهِ وَلَا إِلَهَ إِلَّا اللَّهُ وَاللَّهُ أَكْبَرُ وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ الْعَلِيِّ الْعَظِيمِ؛ وَبَعْدَهَا مُبَاشَرَةً يُصَلِّي رَكْعَتَيْنِ سُنَّةً فَإِذَا مَا كَبَّرَ فَلْيَقُلْ هَذِهِ الْكَلِمَاتِ (سَبْعِينَ مَرَّةً) أَيْ نَفْسَ الْكَلِمَاتِ أَعْلَاهُ أَيْ «سُبْحَانَ اللَّهِ وَالْحَمْدُ لِلَّهِ وَلَا إِلَهَ إِلَّا اللَّهُ وَاللَّهُ أَكْبَرُ وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ الْعَلِيِّ الْعَظِيمِ» مِنْ ثَمَّ يَسْتَعِيذُ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيمِ وَيَذْكُرُ الْبَسْمَلَةَ وَيَقْرَأُ فَاتِحَةَ الْكِتَابِ، وَيَقْرَأُ بَعْدَهَا سُورَةَ يَاسِين الْمُبَارَكَةَ إِلَى آخِرِ السُّورَةِ، ثُمَّ يَرْكَعُ وَيُكَرِّرُ نَفْسَ هَذِهِ الْكَلِمَاتِ فِي الرُّكُوعِ سَبْعَ مَرَّاتٍ وَكَذَلِكَ يُكَرِّرُ الْكَلِمَاتِ فِي السُّجُودِ سَبْعَ مَرَّاتٍ.
+
+وَفِي الرَّكْعَةِ الثَّانِيَةِ: يَقْرَأُ سُورَةَ ﴿تَبَارَكَ الَّذِي بِيَدِهِ الْمُلْكُ﴾ وَمِنْ ثَمَّ يَقْرَأُ بَعْدَهَا سُورَةَ الْحَمْدِ، وَيُكَرِّرُ فِي الرُّكُوعِ وَالسُّجُودِ سَبْعَ مَرَّاتٍ، (أَيْ سُبْحَانَ اللَّهِ وَالْحَمْدُ لِلَّهِ وَلَا إِلَهَ إِلَّا اللَّهُ وَاللَّهُ أَكْبَرُ وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ الْعَلِيِّ الْعَظِيمِ) كَمَا فَعَلَ فِي الرَّكْعَةِ الْأُولَى تَمَاماً؟، وَإِذَا مَا أَرَادَ التَّسْلِيمَ أَيْضاً فَلْيُكَرِّرْ تِلْكَ الْكَلِمَاتِ سَبْعَ مَرَّاتٍ، وَيَخْرُجُ مِنَ الصَّلَاةِ بِالتَّسْلِيمِ، (مِنْ ثَمَّ يَقْرَأُ هَذِهِ الْأَسْمَاءَ الْمُبَارَكَةَ (الْغَنِيُّ الْكَافِي الْمُغْنِي) وَذَلِكَ بِيَاءِ النِّدَاءِ وَهُوَ (أَرْبَعَةُ آلَافٍ وَسَبْعُمِائَةٍ وَأَرْبَعَةٌ وَثَلَاثُونَ مَرَّةً) وَعِنْدَمَا يَنْتَهِي لِيَطْلُبْ مِنَ اللَّهِ الْقُدْرَةَ مَعَ الْعَافِيَةِ. وَعَلَيْهِ أَنْ يُكَرِّرَ هَذَا الْوِرْدَ سَبْعَ جُمُعَاتٍ، وَإِذَا مَا أَدَّاهُ سَبْعَةَ جُمَعٍ مُتَتَالِيَةٍ (يَعْنِي ابْتَدَأَ بِهِ يَوْمَ الْجُمُعَةِ وَأَنْتَهَى مِنْهُ يَوْمَ الْخَمِيسِ) مَنَحَهُ اللَّهُ تَعَالَى الْقُدْرَةَ لَيْلَةَ الْجُمُعَةِ وَأَغْنَاهُ عَنِ الْمَخْلُوقَاتِ، وَلَكِنَّهُ يَكُونُ قَادِراً مَعَ التَّوَاضُعِ وَالتَّصَدُّقِ وَالْعَطَاءِ الْكَثِيرِ وَكَانَ قَلْبُهُ سَلِيماً وَبَاطِنُهُ نَيِّراً مَعَ الْقَنَاعَةِ.
+
+أَيْضاً كَمَا وَرَدَ فِي خَوَاصِّ هَذِهِ الْأَسْمَاءِ الْأَرْبَعَةِ الْجَلِيلَةِ وَهِيَ: «الْغَنِيُّ الْمُغْنِي
+
+### 2. TRANSLITERASI LATIN
+
+(Aidhan liqadha'il-hajati wal-wushuli ilal-maqashidil-kulliyyati)
+
+Wa hiya bifadhlidzikri hadzihil-asma'il-jalilati lillahi subhanahu wa ta'ala wa hiya: (al-ghaniyyul-kafil-mughnil-fattahu) wal-'amalu fiha kama ja'a wa warada min qabli ashhabil-hadzas-sirri walfanni?. Qila: man kana yuridul-qadra wa kifayatal-ma'asyi wa tahaqquqal-muradi wa hushulal-maqashidil-kulliyyati...
+
+'Ala shahibil-hajati 'alaihi an yaghtasila yaumal-jumu'ati ba'da shalatish-shubhi min tsamma yattakhidzu khalwatan au yadzhaba ilal-masjidi?. Wa yu'ayyinu zawiyatan wa yajlisu fiha tsumma yaqulu hadzihil-kalimati: subhanallahi wal-hamdu lillahi wa la ilaha illallahu wallahu akbaru wa la haula wa la quwwata illa billahil-'aliyyil-'azhimi; wa ba'daha mubasyaratan yushalli rak'ataini sunnatan fa-idza ma kabbara falyaqul hadzihil-kalimati (sab'ina marratan) ay nafsal-kalimati a'lahu ay «subhanallahi wal-hamdu lillahi wa la ilaha illallahu wallahu akbaru wa la haula wa la quwwata illa billahil-'aliyyil-'azhimi» min tsamma yasta'idzu billahi minasy-syaithanir-rajimi wa yadzkurul-basmalata wa yaqra'u fatihatal-kitabi, wa yaqra'u ba'daha surata Yasin al-mubarakata ila akhiris-surati, tsumma yarka'u wa yukarriru nafsa hadzihil-kalimati fir-ruku'i sab'a marratin wa kadzalika yukarrirul-kalimati fis-sujudi sab'a marratin.
+
+Wa fir-rak'atits-tsaniyati: yaqra'u surata ﴿Tabarakal-ladzi biyadihil-mulku﴾ wa min tsamma yaqra'u ba'daha suratal-hamdi, wa yukarriru fir-ruku'i was-sujudi sab'a marratin, (ay subhanallahi wal-hamdu lillahi wa la ilaha illallahu wallahu akbaru wa la haula wa la quwwata illa billahil-'aliyyil-'azhimi) kama fa'ala fir-rak'atil-ula tamaman?, wa idza ma aradat-taslima aidhan falyukarrir tilkal-kalimati sab'a marratin, wa yakhruju minash-shalati bit-taslimi, (min tsamma yaqra'u hadzihil-asma'al-mubarakata (al-ghaniyyul-kafil-mughni) wa dzalika biya'id-nida'i wa huwa (arba'atu alafin wa sab'umi'atin wa arba'atun wa tsalatsuna marratan) wa 'indama yantahi liyathlub minallahi al-qudrata ma'al-'afiyati. Wa 'alaihi an yukarriru hadzal-wirda sab'a jumu'atin, wa idza ma addahu sab'ata juma'in mutataliyatin (ya'ni ibtada'a bihi yaumal-jumu'ati wa antaha minhu yaumal-khamisi) manahullahu ta'ala al-qudrata lailatal-jumu'ati wa aghnahu 'anil-makhluqati, wa lakinahu yakunu qadiran ma'at-tawadhu'i wat-tashadduqi wal-'atha'il-katsiri wa kana qalbuhu saliman wa bathinuhu nayyiran ma'al-qana'ati.
+
+Aidhan kama warada fi khawashshi hadzihil-asma'il-arba'atil-jalilati wa hiya: «al-ghaniyyul-mughni
+
+### 3. TERJEMAHAN INDONESIA
+
+(Juga untuk menunaikan hajat-hajat dan sampai kepada maksud-maksud yang menyeluruh.)
+
+Yaitu dengan keberkahan zikir nama-nama Allah yang agung ini — Mahasuci Dia dan Mahatinggi — yaitu: (**الْغَنِيُّ الْكَافِي الْمُغْنِي الْفَتَّاحُ**: Yang Mahakaya, Yang Maha Mencukupi, Yang Maha Mengayakan, Yang Maha Pembuka). Amalannya sebagaimana datang dan disebutkan dari para pemilik rahasia dan keahlian ini. Dikatakan: barangsiapa menghendaki kedudukan, kecukupan penghidupan, tercapainya keinginan, dan diperolehnya maksud-maksud yang menyeluruh…
+
+Hendaklah orang yang memiliki hajat itu **mandi pada hari Jumat setelah shalat Subuh**, kemudian mencari tempat sepi atau pergi ke masjid; ia menentukan satu sudut dan duduk di sana, lalu membaca kalimat-kalimat ini: "Mahasuci Allah, segala puji bagi Allah, tidak ada tuhan selain Allah, Allah Mahabesar, dan tidak ada daya serta kekuatan kecuali dengan (pertolongan) Allah Yang Mahatinggi lagi Mahaagung." Setelah itu langsung ia **shalat dua rakaat sunnah**; ketika sudah takbir, hendaklah ia membaca kalimat-kalimat itu **tujuh puluh kali** — yaitu kalimat yang sama di atas; kemudian ia berlindung kepada Allah dari setan yang terkutuk, menyebut basmalah, membaca Fatihah Al-Kitab, lalu membaca **Surah Yasin** yang diberkahi sampai akhir surah; kemudian rukuk dan mengulangi kalimat-kalimat itu dalam rukuk **tujuh kali**, dan juga mengulanginya dalam sujud **tujuh kali**.
+
+Pada **rakaat kedua**: ia membaca ﴿تَبَارَكَ الَّذِي بِيَدِهِ الْمُلْكُ﴾, kemudian membaca Surah Al-Hamd (Fatihah), dan mengulangi (kalimat-kalimat itu) dalam rukuk dan sujud **tujuh kali** — seperti yang ia lakukan pada rakaat pertama dengan sempurna. Apabila hendak salam, ia juga mengulangi kalimat-kalimat itu **tujuh kali**, lalu keluar dari shalat dengan salam. Kemudian ia membaca nama-nama yang diberkahi ini — (**الْغَنِيُّ الْكَافِي الْمُغْنِي**) — dengan memakai **ya' nida' (ya…)**, sebanyak **empat ribu tujuh ratus tiga puluh empat kali**; dan ketika selesai, ia memohon kepada Allah **kekuasaan/kedudukan beserta kesehatan ('afiyah)**.
+
+Dan hendaklah ia mengulangi wirid ini selama **tujuh Jumat**; apabila ia menunaikannya tujuh Jumat berturut-turut (yakni dimulai pada hari Jumat dan berakhir pada hari Kamis), Allah Ta'ala memberinya kekuasaan pada **malam Jumat** dan mengayakannya dari (ketergantungan kepada) makhluk; tetapi ia harus tetap rendah hati, bersedekah, dan banyak memberi, hatinya bersih, batinnya bercahaya, serta (bersikap) qana'ah.
+
+Juga sebagaimana disebutkan dalam keistimewaan empat nama agung ini, yaitu: "الْغَنِيُّ الْمُغْنِي…" — (lanjutan ada pada halaman 115).
+
+### 4. TATACARA PRAKTIK LENGKAP
+
+- **Nama yang dipakai:** الْغَنِيُّ الْكَافِي الْمُغْنِي الْفَتَّاحُ (Yang Mahakaya, Mencukupi, Mengayakan, Pembuka).
+- **Waktu & tempat:** hari **Jumat setelah shalat Subuh**; **mandi** dulu; tempat sepi atau sudut masjid.
+- **Sebelum shalat:** duduk dan membaca "سُبْحَانَ اللَّهِ وَالْحَمْدُ لِلَّهِ وَلَا إِلَهَ إِلَّا اللَّهُ وَاللَّهُ أَكْبَرُ وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ الْعَلِيِّ الْعَظِيمِ".
+- **Rakaat 1:** takbir → kalimat itu **70×** → ta'awwudz + basmalah + Fatihah + **Surah Yasin** penuh → rukuk (kalimat **7×**) → sujud (kalimat **7×**).
+- **Rakaat 2:** Surah Al-Mulk + Fatihah → rukuk & sujud masing-masing kalimat **7×** → sebelum salam kalimat **7×** → salam.
+- **Setelah salam:** membaca "يا غني يا كافي يا مغني" **4.734×**, lalu memohon kedudukan + 'afiyah.
+- **Durasi:** diulang **7 Jumat berturut-turut** (Jumat s.d. Kamis). Menurut teks: memperoleh kedudukan dan kecukupan; disertai syarat tawadhu', sedekah, dan qana'ah.
+- Tanda tanya pada "وَالْفَنِّ؟" dan "تَمَاماً؟" adalah bagian teks asli.
+- Pada halaman ini tidak ada kata فُلَان / فُلَانَة, sehingga keterangan Fulan/Fulanata tidak berlaku di sini.
+
+---
+
+## HALAMAN 115 — PDF hal. 115 / bagian — Wirid 3.000× selama 40 hari dan kisah kantung emas (empat nama: يا كافي يا غني يا فتاح يا رزاق)
+
+### 1. TEKS ARAB BERHARAKAT
+
+الْكَافِي الْفَتَّاحُ». قَالَ أَهْلُ التَّحْقِيقِ وَالْمَعْرِفَةِ بِفَضْلِ هَذِهِ الْأَسْمَاءِ الْمُبَارَكَةِ، أَنَّهُ كُلُّ مَنْ يُرِيدُ أَيَّ حَاجَةٍ أَوْ كُلُّ مَنْ كَانَ قَلِقاً لِجِهَةِ الرِّزْقِ وَالْمَعَاشِ فَعَلَيْهِ أَنْ يَقْرَأَ هَذِهِ الْأَسْمَاءَ الشَّرِيفَةَ كُلَّ يَوْمٍ (ثَلَاثَ آلَافِ مَرَّةٍ) لِمُدَّةِ أَرْبَعِينَ يَوْماً وَفِي الْيَوْمِ الْأَرْبَعِينَ يَقْرَأُ هَذِهِ الْأَسْمَاءَ (ثَلَاثَ آلَافٍ وَثَمَانِيَةَ عَشَرَ مَرَّةً) لِكَيْ يَصْبَحَ مَجْمُوعُ الْقِرَاءَةِ (مِائَةً وَعِشْرِينَ أَلْفاً وَثَمَانِيَةَ عَشَرَ مَرَّةً) وَبَعْدَهَا فَلْيَطْلُبْ مِنَ اللَّهِ تَعَالَى مَا يُرِيدُ فَيُعْطِيهِ اللَّهُ تَعَالَى.
+
+أَيْضاً كَمَا وَرَدَ فِي ذِكْرِ فَضْلِ هَذِهِ الْأَسْمَاءِ الْجَلِيلَةِ وَهِيَ: (يَا كَافِي يَا غَنِي يَا فَتَّاحُ يَا رَزَّاقُ) أَنَّهُ قَالَ أَحَدُ الْمَشَايِخِ عِنْدَمَا كُنْتُ قَلِقاً لِمَعَاشِ عَائِلَتِي وَتَأْمِينِ رِزْقِهِمْ؟، فَإِنِّي دَاوَمْتُ عَلَى ذِكْرِ هَذِهِ الْأَسْمَاءِ الْأَرْبَعَةِ: «يَا كَافِي يَا غَنِي يَا فَتَّاحُ يَا رَزَّاقُ» فَاتَّخَذْتُ زَاوِيَةً خَالِيَةً فِي الْمَنْزِلِ وَبَدَأْتُ أُرَدِّدُ هَذِهِ الْأَسْمَاءَ الْمُبَارَكَةَ بِعَدَدِ التَّكْسِيرِ الَّذِي هُوَ (أَرْبَعَةٌ وَأَرْبَعُونَ أَلْفاً وَمِئَتَانِ وَسِتٌّ وَسَبْعُونَ مَرَّةً) وَكُنْتُ أَقْضِي أَيَّاماً هَكَذَا بِذِكْرٍ وَقِرَاءَةٍ هَذِهِ الْأَسْمَاءِ وَفِي الْيَوْمِ الْأَرْبَعِينَ فُتِحَ سَقْفُ الْمَنْزِلِ وَنَزَلَ مِنْهُ كِيسُ مَالٍ كَانَ فِيهِ أَرْبَعُونَ قِطْعَةً ذَهَبِيَّةً، وَسَمِعْتُ كَلَاماً بِلِسَانٍ فَصِيحٍ يَقُولُ: يَا فُلَانٌ (أَيْ يُنَادِي بِاسْمِي) إِذَا زِدْتَ فِي هَذَا الذِّكْرِ زِدْنَا لَكَ الْعَطَاءَ وَإِذَا قَلَّلْتَ قَلَّلْت؟.
+
+(أَيْضاً فَائِدَةٌ لِقَضَاءِ الْحَوَائِجِ)
+
+وَهُوَ مَنْ قَالَ: كُلَّ يَوْمٍ «يَا دَلِيلَ الْمُتَحَيِّرِينَ وَيَا غِيَاثَ الْمُسْتَغِيثِينَ أَغِثْنِي» وَذَلِكَ مِائَةً وَثَلَاثِينَ مَرَّةً، ثُمَّ يَذْهَبُ وَيُصَلِّي رَكْعَتَيْنِ بِنِيَّةِ قَضَاءِ الْحَاجَةِ. وَبَعْدَ الِانْتِهَاءِ مِنَ الصَّلَاةِ يَطْلُبُ حَاجَتَهُ مِنَ اللَّهِ سُبْحَانَهُ وَتَعَالَى أَعْطَاهُ اللَّهُ تَعَالَى إِيَّاهَا.
+
+وَأَيْضاً رُوِيَ مَنْ كَانَ لَدَيْهِ أَمْرٌ مُهِمٌّ اضْطَرَبَ فِيهِ فَلْيُكَرِّرْ هَذَا الِاسْمَ وَهُوَ «يَا قَرِيبَ الْفَرَجِ» وَذَلِكَ عَشَرَةَ آلَافِ مَرَّةٍ وَهَذَا مُجَرَّبٌ، وَإِذَا لَمْ يَسْتَطِعْ ذَلِكَ؟ فَلْيُكَرِّرْهُ (أَلْفَ مَرَّةٍ) بَعْدَ صَلَاةِ الصُّبْحِ كَانَتْ لَهُ نَفْسُ الْخَاصَّةِ.
+
+(أَيْضاً لِقَضَاءِ الْحَاجَاتِ وَالْوُصُولِ إِلَى الْمُرَادِ)
+
+وَذَلِكَ بِفَضْلِ ذِكْرِ اسْمِهِ تَعَالَى «يَا بُرْهَانُ» وَلِهَذَا الِاسْمِ الشَّرِيفِ تَأْثِيرٌ مُبَاشِرٌ لِتَحْصِيلِ الْمَقَاصِدِ وَقَضَاءِ الْحَاجَاتِ وَكَمَا أَفْصَحُوا أَهْلُ الْعِلْمِ وَالتَّحْقِيقِ بِخُصُوصِ هَذَا الِاسْمِ الْمُبَارَكِ وَمَا قَالُوا: يَحْصُلُ الْمُرَادُ لِلدَّاعِي بِأَيَّةِ نِيَّةٍ دَعَا بِهَذَا الِاسْمِ. وَالدُّعَاءُ بِهِ يَحْتَاجُ لِسِتَّةِ أَيَّامٍ وَذَلِكَ يَقْرَأُ كُلَّ يَوْمٍ (ثَلَاثَةَ عَشَرَ أَلْفاً وَخَمْسَمِائَةٍ وَسِتِّينَ مَرَّةً) وَكَمَا رُوِيَ وَقِيلَ: (الْأُولَى أَنْ يَقْرَأَ هَذَا الْعَدَدَ كَامِلاً كُلَّ يَوْمٍ وَلَيْلَةٍ فِي خَلْوَةٍ) مِنْ ثَمَّ يَذْهَبُ فِي الْيَوْمِ الْعَاشِرِ إِلَى الْمَسْجِدِ وَيَقْرَأُ أَلْفَ مَرَّةٍ، وَيَطْلُبُ حَاجَتَهُ. وَحَتْماً يَنَالُ مَا يُرِيدُ فِي ذَلِكَ الْأُسْبُوعِ بِإِذْنِ اللَّهِ تَعَالَى.
+
+### 2. TRANSLITERASI LATIN
+
+al-kafil-fattahu». Qala ahlut-tahqiqi wal-ma'rifati bifadhlil hadzihil-asma'il-mubarakati, annahu kullu man yuridu ayya hajatin au kullu man kana qaliqan lijihatir-rizqi wal-ma'asyi fa'alaihi an yaqra'a hadzihil-asma'asy-syarifata kulla yaumin (tsalatsa alafi marratin) limuddati arba'ina yauman wa fil-yaumil-arba'ina yaqra'u hadzihil-asma'a (tsalatsa alafin wa tsamaniyata 'asyara marratan) likai yashbahal-majmu'ul-qira'ati (mi'atan wa 'isyrina alfan wa tsamaniyata 'asyara marratan) wa ba'daha falyathlub minallahi ta'ala ma yuridu fayu'thihilahu ta'ala.
+
+Aidhan kama warada fi dzikri fadhli hadzihil-asma'il-jalilati wa hiya: (ya kafiy ya ghaniyy ya fattahu ya razzaqu) annahu qala ahadul-masyayikhi 'indama kuntu qaliqan lima'asyi 'a'ilati wa ta'mini rizqihim?, fa-inni dawamtu 'ala dzikri hadzihil-asma'il-arba'ati: «ya kafiy ya ghaniyy ya fattahu ya razzaqu» fattakhadztu zawiyatan khaliyatan fil-manzili wa bada'tu uraddidu hadzihil-asma'al-mubarakata bi'adadit-taksiri alladzi huwa (arba'atun wa arba'una alfan wa mi'atani wa sittun wa sab'una marratan) wa kuntu aqhdhi ayyaman hakadza bidzikrin wa qira'atin hadzihil-asma'i wa fil-yaumil-arba'ina futihas-saqful-manzili wa nazala minhu kisu malin kana fihi arba'una qith'atan dzahabiyyatan, wa sami'tu kalaman bilisani fashihin yaqulu: ya fulanun (ay yunadi bismi) idza zidta fi hadzadz-dzikri zidna lakal-'atha'a wa idza qallalta qallalt?.
+
+(Aidhan fa'idatun liqadha'il-hawai'ji)
+
+Wa huwa man qala: kulla yaumin «ya dalilal-mutahayyirina wa ya ghiyatsal-mustaghitsina aghitsni» wa dzalika mi'atan wa tsalatsina marratan, tsumma yadzhabu wa yushalli rak'ataini biniyyati qadha'il-hajati. Wa ba'dal-intiha'i minash-shalati yathlubu hajatahu minallahi subhanahu wa ta'ala a'thahullahu ta'ala iyyaha.
+
+Wa aidhan ruwiya man kana ladaihi amrun muhimmun idhtharaba fihi falyukarrir hadzal-isma wa huwa «ya qariba al-faraji» wa dzalika 'asyarata alafi marratin wa hadza mujarrabun, wa idza lam yastathi' dzalika? falyukarrirhu (alfa marratin) ba'da shalatish-shubhi kanat lahu nafsul-khashshati.
+
+(Aidhan liqadha'il-hajati wal-wushuli ilal-muradi)
+
+Wa dzalika bifadhli dzikri ismihi ta'ala «ya burhanu» wa lihadzal-ismisy-syarifi ta'tsirun mubasyirun litahshilil-maqashidi wa qadha'il-hajati wa kama afshahu ahlul-'ilmi wat-tahqiqi bikhus_hushi hadzal-ismil-mubaraki wa ma qalu: yahshulul-murado lid-da'i bi-ayyati niyyatin da'a bihadzal-ismi. Wad-du'a'u bihi yahtaju lisittati ayyamin wa dzalika yaqra'u kulla yaumin (tsalatsata 'asyara alfan wa khamsumi'atin wa sittina marratan) wa kama ruwiya wa qila: (al-ula an yaqra'a hadzal-'adada kamilan kulla yaumin wa lailatin fi khalwatin) min tsamma yadzhabu fil-yaumil-'asyiri ilal-masjidi wa yaqra'u alfa marratin, wa yathlubu hajatahu. Wa hatman yanalu ma yuridu fi dzalikal-usbu'i bi-idznillahi ta'ala.
+
+### 3. TERJEMAHAN INDONESIA
+
+…الْكَافِي الْفَتَّاحُ." Para ahli tahqiq dan pengetahuan berkata tentang keutamaan nama-nama yang diberkahi ini: barangsiapa menghendaki suatu hajat, atau siapa saja yang gelisah menyangkut rezeki dan penghidupan, hendaklah ia membaca nama-nama yang mulia ini setiap hari **tiga ribu kali** selama **empat puluh hari**; dan pada hari keempat puluh ia membaca nama-nama ini **tiga ribu delapan belas kali**, sehingga jumlah seluruh bacaannya menjadi **seratus dua puluh ribu delapan belas kali**; setelah itu hendaklah ia memohon kepada Allah Ta'ala apa yang ia kehendaki, maka Allah Ta'ala memberikannya.
+
+Juga sebagaimana disebutkan dalam penjelasan keutamaan nama-nama agung ini — yaitu: (**يا كافي يا غني يا فتاح يا رزاق**) — bahwa salah seorang syaikh berkata: "Ketika aku gelisah mengenai penghidupan keluargaku dan jaminan rezeki mereka, aku senantiasa berzikir dengan empat nama ini: 'يا كافي يا غني يا فتاح يا رزاق'. Aku mengambil satu sudut kosong di rumah dan mulai mengulang nama-nama yang diberkahi ini sebanyak bilangan taksir, yaitu **empat puluh empat ribu dua ratus tujuh puluh enam kali**. Aku menghabiskan beberapa hari dengan zikir dan pembacaan nama-nama ini; pada hari keempat puluh, **atap rumah terbuka** dan turun darinya **sebuah kantung berisi empat puluh keping emas**; dan aku mendengar perkataan dengan lisan yang fasih: 'Wahai **Fulan** (yakni ia memanggil namaku), jika engkau menambah zikir ini, Kami tambah pemberian untukmu; dan jika engkau mengurangi, (pemberian) Kami pun berkurang.'"
+
+(Juga faedah untuk menunaikan hajat-hajat.)
+
+Yaitu barangsiapa mengucapkan setiap hari "**يا دليل المتحيرين ويا غياث المستغيثين أغثني**" sebanyak **seratus tiga puluh kali**, kemudian ia pergi dan shalat **dua rakaat** dengan niat menunaikan hajat; setelah selesai shalat ia memohon hajatnya kepada Allah Mahasuci dan Mahatinggi, maka Allah Ta'ala memberikannya.
+
+Juga diriwayatkan: barangsiapa memiliki perkara penting dan ia gelisah karenanya, hendaklah ia mengulang nama ini — "**يا قريب الفرج**" — sebanyak **sepuluh ribu kali**; ini sudah teruji. Apabila ia tidak mampu, hendaklah ia mengulangnya **seribu kali** setelah shalat Subuh; maka ia memperoleh kekhususan yang sama.
+
+(Juga untuk menunaikan hajat-hajat dan sampai kepada yang dikehendaki.)
+
+Yaitu dengan keberkahan zikir nama-Nya Ta'ala "**يا برهان**". Nama yang mulia ini memiliki pengaruh langsung untuk memperoleh maksud-maksud dan menunaikan hajat-hajat. Sebagaimana dijelaskan para ahli ilmu dan penelitian khususnya tentang nama yang diberkahi ini, mereka berkata: "Tercapailah keinginan orang yang berdoa dengan niat apa pun ia berdoa dengan nama ini." Berdoa dengannya memerlukan **enam hari**, yaitu membaca setiap hari **tiga belas ribu lima ratus enam puluh kali**. Sebagaimana diriwayatkan dan dikatakan: "(Yang utama ialah membaca bilangan ini dengan sempurna setiap siang dan malam dalam keadaan sepi/khalwat)." Kemudian pada **hari kesepuluh** ia pergi ke masjid dan membaca **seribu kali**, lalu memohon hajatnya. Dan pasti ia memperoleh apa yang ia kehendaki pada minggu itu dengan izin Allah Ta'ala.
+
+### 4. TATACARA PRAKTIK LENGKAP
+
+- **Wirid 40 hari (rezeki):** empat nama **يا كافي يا غني يا فتاح يا رزاق** dibaca **3.000×/hari** selama 40 hari; hari ke-40 **3.018×** → total **120.018×**; lalu memohon hajat.
+- **Bilangan taksir** yang disebut untuk empat nama itu: **44.276×** (dibaca dalam khalwat di sudut rumah).
+- **Hajat cepat — "يا دليل المتحيرين ويا غياث المستغيثين أغثني":** **130×/hari** → shalat **2 rakaat** niat hajat → memohon hajat.
+- **Perkara penting/mendesak — "يا قريب الفرج":** **10.000×** (teruji); bila tidak mampu → **1.000× setelah Subuh**.
+- **"يا برهان":** **13.560×/hari** selama **6 hari**, dalam khalwat (siang-malam); hari ke-10 ke masjid membaca **1.000×** lalu memohon hajat.
+- **Kaidah nama:** naskah memakai kata **فُلَانٌ** ("يا فلان") pada kisah kantung emas — bila yang dimaksud laki-laki ditulis **Fulan ibni Fulanata**; bila perempuan **Fulanata binti Fulanata**.
+- Tanda tanya pada "وَرِزْقِهِمْ؟" dan "قَلَّلْت؟" adalah bagian teks asli.
+
+---
+
+## HALAMAN 116 — PDF hal. 116 / bagian — Wirid dawat/majelis, empat surah untuk utang & rezeki, dan doa penutupnya
+
+### 1. TEKS ARAB BERHARAKAT
+
+(لِقَضَاءِ الْحَاجَاتِ وَدَفْعِ الْمَكْرُوهَاتِ)
+
+أَنْ يُسَلِّمَ ثَلَاثَ مَرَّاتٍ بَعْدَ أَنْ يَتَوَضَّأَ، وَالسَّلَامُ هُوَ: «اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَآلِ مُحَمَّدٍ بَلِّغْ كَلِمَاتِكَ وَأَلْطَافِكَ وَبَارِكْ عَلَى مُحَمَّدٍ وَآلِ مُحَمَّدٍ وَسَلِّمْ عَلَى مُحَمَّدٍ وَآلِ مُحَمَّدٍ بِعَدَدِ كُلِّ ذَرَّةٍ وَمِائَةِ أَلْفِ مَرَّةٍ» مِنْ ثَمَّ يُكَرِّرُ هَذِهِ الْكَلِمَاتِ مِائَةَ مَرَّةٍ بِصِدْقٍ وَإِخْلَاصٍ وَهِيَ: «يَا قَدِيمَ الْإِحْسَانِ أَحْسِنْ إِلَيْنَا بِإِحْسَانِكَ الْقَدِيمِ» وَالْمُدَاوَمَةُ عَلَى هَذَا حَسَبَ الِاسْتِطَاعَةِ يَحْصُلُ بِذَلِكَ الْمُرَادُ مِنْ رَبِّ الْعِبَادِ.
+
+(أَيْضاً لِقَضَاءِ الْحَاجَاتِ وَتَحْقِيقِ الْمُرَادَاتِ)
+
+وَهُوَ أَنْ يَقْرَأَ «يَا نَجِيَّ الْأَلْطَافِ نَجِّنِي مِمَّا أَخَافُ» وَذَلِكَ يَقْرَأُ كُلَّ يَوْمٍ (سَبْعِينَ مَرَّةً) وَأَخِيراً يَقُولُ: بِحَقِّ سُورَةِ الْأَعْرَافِ مِنْ ثَمَّ يَذْكُرُ حَاجَتَهُ وَمُرَادَهُ (وَكَمَا رُوِيَ حَتْماً سَيَكْفِيهِ إِيَّاهُ بِإِذْنِ اللَّهِ تَعَالَى).
+
+(بَابٌ لِأَدَاءِ الدَّيْنِ وَدَفْعِ الْفَقْرِ وَالسَّعَةِ فِي الرِّزْقِ وَهُوَ عِدَّةُ أَبْوَابٍ)
+
+وَهُوَ أَنْ يَقْرَأَ هَذِهِ السُّوَرَ الْأَرْبَعَةَ الْمُبَارَكَةَ وَهِيَ كَالْآتِي:
+
+سُورَةُ إِذَا وَقَعَتِ الْوَاقِعَةُ.
+سُورَةُ الْمُزَّمِّلِ.
+سُورَةُ وَاللَّيْلِ.
+سُورَةُ الْإِنْشِرَاحِ.
+
+(عَلَى أَنْ تَقْرَأَ هَذِهِ السُّورَةَ الشَّرِيفَةَ مَرَّةً وَاحِدَةً كُلَّ يَوْمٍ) وَهَذَا مُجَرَّبٌ بِإِذْنِ اللَّهِ تَعَالَى. وَأَيْضاً يَقْرَأُ هَذَا الدُّعَاءَ بَعْدَ الِانْتِهَاءِ مِنْ قِرَاءَةِ السُّوَرِ
+
+### 2. TRANSLITERASI LATIN
+
+(Liqadha'il-hajati wa daf'il-makruhati)
+
+An yusallima tsalatsa marratin ba'da an yatawadhtha'a, was-salamu huwa: «Allahumma shalli 'ala Muhammadin wa ali Muhammadin balligh kalimatika wa althafika wa barik 'ala Muhammadin wa ali Muhammadin wa sallim 'ala Muhammadin wa ali Muhammadin bi'adadi kulli dzarratin wa mi'ati alfi marratin» min tsamma yukarriru hadzihil-kalimati mi'ata marratin bishidqin wa ikhlashin wa hiya: «ya qadima al-ihsani ahsin ilaina bi-ihsanikal-qadimi» wal-mudawamatu 'ala hadza hasbal-istitha'ati yahshulu bidzalikal-murado min rabbil-'ibadi.
+
+(Aidhan liqadha'il-hajati wa tahqiqil-muradati)
+
+Wa huwa an yaqra'a «ya najiyyal-althafi najjini mimma akhafu» wa dzalika yaqra'u kulla yaumin (sab'ina marratan) wa akhiran yaqulu: bihaqqi suratil-A'rafi min tsamma yadzkuru hajatahu wa muradahu (wa kama ruwiya hatman sayakfihi iyyahu bi-idznillahi ta'ala).
+
+(Babun li'ada'id-daini wa daf'il-faqri was-sa'ati fir-rizqi wa huwa 'iddatu abwabin)
+
+Wa huwa an yaqra'a hadzihis-suwaral-arba'al-mubarakata wa hiya kal-ati:
+
+Suratu ﴿Idza waqa'atil-waqi'atu﴾.
+Suratul-Muzzammili.
+Suratu wallaili.
+Suratul-Insyirahi.
+
+('Ala an taqra'a hadzihis-suratas-syarifata marratan wahidatan kulla yaumin) wa hadza mujarrabun bi-idznillahi ta'ala. Wa aidhan yaqra'u hadzad-du'a'a ba'dal-intiha'i min qira'atis-suwar
+
+### 3. TERJEMAHAN INDONESIA
+
+(Untuk menunaikan hajat-hajat dan menolak perkara-perkara yang dibenci.)
+
+Yaitu ia bershalawat **tiga kali** setelah berwudhu; dan shalawat itu adalah: "Ya Allah, limpahkanlah shalawat kepada Muhammad dan keluarga Muhammad; sampaikanlah kalimat-kalimat-Mu dan kelembutan-Mu; berkatilah Muhammad dan keluarga Muhammad; dan limpahkanlah salam kepada Muhammad dan keluarga Muhammad sebanyak bilangan setiap zarrah dan seratus ribu kali." Kemudian ia mengulangi kalimat ini **seratus kali** dengan jujur dan ikhlas, yaitu: "**يا قديم الإحسان أحسن إلينا بإحسانك القديم**" (Wahai Yang Maha Dahulu dalam kebaikan, berbuat baiklah kepada kami dengan kebaikan-Mu yang dahulu). Dan mudawamah (melanggengkan) hal ini sesuai kemampuan akan mendatangkan yang dikehendaki dari Tuhan para hamba.
+
+(Juga untuk menunaikan hajat-hajat dan mewujudkan keinginan-keinginan.)
+
+Yaitu ia membaca "**يا نجي الألطاف نجني مما أخاف**" (Wahai penyelamat kelembutan-kelembutan, selamatkanlah aku dari apa yang aku takuti) sebanyak **tujuh puluh kali** setiap hari; dan di akhirnya ia berkata: "**بحق سورة الأعراف**" (dengan hak Surah Al-A'raf), kemudian ia menyebut hajat dan keinginannya. (Sebagaimana diriwayatkan, pasti Allah akan mencukupkannya dengan izin Allah Ta'ala.)
+
+(Bab untuk melunasi utang, menolak kefakiran, dan kelapangan dalam rezeki — dan ini beberapa bab.)
+
+Yaitu ia membaca empat surah yang diberkahi ini, sebagai berikut:
+
+Surah ﴿إِذَا وَقَعَتِ الْوَاقِعَةُ﴾.
+Surah Al-Muzzammil.
+Surah ﴿وَاللَّيْلِ﴾.
+Surah Al-Insyirah (Alam Nasyrah).
+
+(Dengan syarat membaca surah yang mulia ini **satu kali setiap hari**); dan ini sudah teruji dengan izin Allah Ta'ala. Dan juga ia membaca **doa berikut** setelah selesai membaca surah-surah itu — (doa tercetak pada halaman 117).
+
+### 4. TATACARA PRAKTIK LENGKAP
+
+- **Menolak hal yang dibenci:** berwudhu → shalawat **3×** (redaksi panjang pada seksi 1) → kalimat "يا قديم الإحسان أحسن إلينا بإحسانك القديم" **100×** dengan jujur dan ikhlas; dilanggengkan sesuai kemampuan.
+- **Hajat & keinginan:** "يا نجي الألطاف نجني مما أخاف" **70×/hari**, ditutup "بحق سورة الأعراف", lalu menyebut hajat.
+- **Utang, kefakiran, kelapangan rezeki:** membaca **4 surah** — Al-Waqi'ah, Al-Muzzammil, Al-Lail, Al-Insyirah — masing-masing **1× setiap hari**; lalu doa yang tercetak di halaman 117.
+- Naskah menegaskan amalan ini **mujarrab** (sudah teruji) dengan izin Allah.
+- Halaman berakhir pada kalimat penyambung "…وَيَقْرَأُ هَذَا الدُّعَاءَ بَعْدَ الِانْتِهَاءِ مِنْ قِرَاءَةِ السُّوَرِ" — lanjutannya pada halaman 117.
+- Pada halaman ini tidak ada kata فُلَان / فُلَانَة, sehingga keterangan Fulan/Fulanata tidak berlaku di sini.
+
+---
+
+## HALAMAN 117 — PDF hal. 117 / bagian — Doa "يا رزاق السائلين", wirid empat surah untuk rezeki, dan shalat hajat Surah Al-An'am
+
+### 1. TEKS ARAB BERHARAKAT
+
+مُبَاشِرَةً وَهُوَ «بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ يَا رَزَّاقَ السَّائِلِينَ يَا رَاحِمَ الْمَسَاكِينِ يَا وَلِيَّ الْمُؤْمِنِينَ وَيَا غِيَاثَ الْمُسْتَغِيثِينَ يَا أَرْحَمَ الرَّاحِمِينَ صَلِّ عَلَى مُحَمَّدٍ وَآلِ مُحَمَّدٍ وَاكْفِنِي بِحَلَالِكَ عَنْ حَرَامِكَ، وَبِطَاعَتِكَ عَنْ مَعْصِيَتِكَ وَبِفَضْلِكَ عَمَّنْ سِوَاكَ يَا إِلَهَ الْعَالَمِينَ وَصَلَّى اللَّهُ عَلَى مُحَمَّدٍ وَآلِهِ الطَّيِّبِينَ الطَّاهِرِينَ وَسَلَّمَ.
+
+(أَيْضاً لِلسَّعَةِ فِي الرِّزْقِ وَزِيَادَةِ الْمَالِ مِنْ حَيْثُ لَا يَحْتَسِبُ)
+
+رُوِيَ أَنَّهُ تَعْجِزُ الْعُقُولُ وَالْأَفْكَارُ عَنْ إِدْرَاكِ الطَّرِيقَةِ وَالْكَيْفِيَّةِ لِهَذَا الْمَدِّ الْمُقِيمِ؟ وَذَلِكَ يَكُونُ بِالْمُدَاوَمَةِ فِي قِرَاءَةِ هَذِهِ السُّوَرِ الْكَرِيمَةِ الْمُبَارَكَةِ وَهِيَ كَالتَّالِي: (سُورَةُ الذَّارِيَاتِ) (سُورَةُ الطَّلَاقِ) (سُورَةُ الْمُزَّمِّلِ) (سُورَةُ أَلَمْ نَشْرَحْ) وَذَلِكَ يَقْرَأُ كُلَّ الْأَيَّامِ بِصُورَةٍ مُتَوَاصِلَةٍ وَإِذَا فَاتَتْهُ الْقِرَاءَةُ نَهَاراً قَضَاهَا لَيْلاً وَهَذَا الْعَمَلُ مُجَرَّبٌ كَمَا وَرَدَ فِي ذَلِكَ أَيْضاً الْمُدَاوَمَةُ عَلَى قِرَاءَةِ سُورَةِ الذَّارِيَاتِ الشَّرِيفَةِ فِي كُلِّ الْأَوْقَاتِ يُوجِبُ الثَّرْوَةَ وَالنِّعْمَةَ الْوَافِرَةَ، بِإِذْنِ اللَّهِ تَعَالَى. (طَبْعاً مَعَ صِدْقِ النِّيَّةِ وَالْإِخْلَاصِ فِي الْعَمَلِ).
+
+(أَيْضاً إِلَى كُلِّ مَنْ أَرَادَ السَّعَةَ فِي الرِّزْقِ الْحَلَالِ)
+
+أَنَّهُ رُوِيَ: عَلَيْهِ أَنْ يَتَّجِهَ لَيْلَةَ الْخَمِيسِ، أَوْ يَوْمَ الْجُمُعَةِ أَوْ لَيْلَةَ الْجُمُعَةِ، نَحْوَ الْقِبْلَةِ مِنْ ثُمَّ يَقْرَأُ سُورَةَ «الْحَمْدِ» الْمُبَارَكَةَ وَبَعْدَهَا يَقْرَأُ (سُورَةَ الْإِنْعَامِ الشَّرِيفَةَ) حَتَّى يَصِلَ إِلَى الْآيَةِ «مَثَلَ مَا أُوتِيَ رُسُلُ اللَّهِ» عِنْدَهَا يَقُومُ مُبَاشَرَةً وَيُصَلِّي رَكْعَتَيْنِ، يَقْرَأُ فِي كُلِّ رَكْعَةٍ (سُورَةَ الْحَمْدِ) (سَبْعَ مَرَّاتٍ) وَآيَةَ الْكُرْسِيِّ (سَبْعَ مَرَّاتٍ) وَسُورَةَ «إِنَّا أَعْطَيْنَاهُ» (سَبْعَ مَرَّاتٍ) فَإِذَا مَا أَنْتَهَى مِنْ هَذِهِ الصَّلَاةِ تَوَجَّهَ نَحْوَ الْقِبْلَةِ وَيُكْمِلُ قِرَاءَةَ سُورَةِ الْإِنْعَامِ مِنَ الْآيَةِ «اللَّهُ أَعْلَمُ حَيْثُ يَجْعَلُ رِسَالَتَهُ» وَحَتَّى آخِرِ السُّورَةِ الْمُبَارَكَةِ؟. ثُمَّ يَضَعُ رَأْسَهُ عَلَى السَّجْدَةِ، وَيُكَرِّرُ قَوْلَ «لَا إِلَهَ إِلَّا اللَّهُ مُحَمَّدٌ رَسُولُ اللَّهِ» (سَبْعِينَ مَرَّةً) وَبَعْدَهَا يَطْلُبُ حَاجَتَهُ تُقْضَى بِإِذْنِ اللَّهِ تَعَالَى.
+
+(أَيْضاً لِجِهَةِ السَّعَةِ فِي الرِّزْقِ)
+
+وَهُوَ أَنْ يَقْرَأَ سُورَةَ «طه» الْمُبَارَكَةَ مَرَّةً وَاحِدَةً، مَعَ صِدْقِ النِّيَّةِ وَذَلِكَ عِنْدَ
+
+### 2. TRANSLITERASI LATIN
+
+mubasyaratan wa huwa «bismillahir-rahmanir-rahimi ya razzaqas-sa'ilina ya rahimil-masakini ya waliyyal-mu'minina wa ya ghiyatsal-mustaghitsina ya arhamar-rahimina shalli 'ala Muhammadin wa ali Muhammadin wakfini bihalalika 'an haramika, wa bitha'atika 'an ma'shiyatika wa bifadhlika 'amman siwaka ya ilahal-'alamina wa shallallahu 'ala Muhammadin wa alihith-thayyibinath-thahirin wa sallama.
+
+(Aidhan lissa'ati fir-rizqi wa ziyadatil-mali min haitsu la yahtasibu)
+
+Ruwiya annahu ta'jizul-'uqulu wal-afkaru 'an idrakith-thariqati wal-kaifiyati lihadzal-maddil-muqimi? wa dzalika yakunu bil-mudawamati fi qira'ati hadzihis-suwaril-karimatil-mubarakati wa hiya kat-tali: (suratudz-Dzariyati) (suratuth-Thalaqi) (suratul-Muzzammili) (suratu alam nasyrah) wa dzalika yaqra'u kullal-ayyami bishuratin mutawashilatin wa idza fatathul-qira'atu naharan qadhaha lailan wa hadzal-'amalu mujarrabun kama warada fi dzalika aidhanil-mudawamatu 'ala qira'ati suratidz-Dzariyatis-syarifati fi kullil-auqati yujibuts-tsarwata wan-ni'matal-wafirata, bi-idznillahi ta'ala. (thab'an ma'a shidqin-niyyati wal-ikhlashi fil-'amali).
+
+(Aidhan ila kulli man aradas-sa'ata fir-rizqil-halali)
+
+annahu ruwiya: 'alaihi an yattajiha lailatal-khamisi, au yaumal-jumu'ati au lailatal-jumu'ati, nahwal-qiblati min tsumma yaqra'u suratal-hamdil-mubarakata wa ba'daha yaqra'u (suratal-An'amis-syarifata) hatta yashila ilal-ayati «matsala ma utiya rusulullahi» 'indaha yaqumu mubasyaratan wa yushalli rak'ataini, yaqra'u fi kulli rak'atin (suratal-hamdi) (sab'a marratin) wa Ayatal-Kursiyyi (sab'a marratin) wa surata «inna a'thainahu» (sab'a marratin) fa-idza ma antaha min hadzihish-shalati tawajjaha nahwal-qiblati wa yukmilu qira'ata suratil-An'ami minal-ayati «Allahu a'lamu haitsu yaj'alu risalatahu» wa hatta akhiris-suratil-mubarakati?. Tsumma yadha'u ra'sahu 'alas-sajdati, wa yukarriru qaula «la ilaha illallahu Muhammadun rasulullahi» (sab'ina marratan) wa ba'daha yathlubu hajatahu tuqdha bi-idznillahi ta'ala.
+
+(Aidhan lijihatis-sa'ati fir-rizqi)
+
+Wa huwa an yaqra'a surata «Thaha» al-mubarakata marratan wahidatan, ma'a shidqin-niyyati wa dzalika 'inda
+
+### 3. TERJEMAHAN INDONESIA
+
+…langsung, yaitu: "Dengan nama Allah Yang Maha Pengasih, Maha Penyayang. Wahai Yang Maha Pemberi rezeki kepada para peminta, Wahai Yang Maha Penyayang kepada orang-orang miskin, Wahai Pelindung orang-orang mukmin, Wahai Penolong orang-orang yang meminta pertolongan, Wahai Yang Maha Penyayang dari segala yang menyayangi; limpahkanlah shalawat kepada Muhammad dan keluarga Muhammad; cukupkanlah aku dengan yang halal-Mu dari yang haram-Mu, dengan ketaatan kepada-Mu dari kemaksiatan kepada-Mu, dan dengan karunia-Mu dari (bergantung kepada) selain-Mu, wahai Tuhan semesta alam. Semoga Allah melimpahkan shalawat kepada Muhammad dan keluarganya yang baik lagi suci, dan salam."
+
+(Juga untuk kelapangan rezeki dan bertambahnya harta dari arah yang tidak terhitung.)
+
+Diriwayatkan bahwa akal dan pikiran menjadi lemah untuk memahami jalan dan cara bagi tambahan yang menetap ini. Dan hal itu terjadi dengan **mudawamah** (melanggengkan) membaca surah-surah yang mulia lagi diberkahi ini, yaitu: **Surah Adz-Dzariyat, Surah Ath-Thalaq, Surah Al-Muzzammil, Surah Alam Nasyrah**; dibaca setiap hari secara **bersambung**; apabila terlewat pada siang hari, ia mengqadhanya pada malam hari. Amalan ini sudah teruji; sebagaimana disebutkan pula bahwa mudawamah membaca **Surah Adz-Dzariyat** yang mulia di segala waktu mendatangkan kekayaan dan nikmat yang melimpah dengan izin Allah Ta'ala (tentu dengan syarat niat benar dan ikhlas dalam amal).
+
+(Juga bagi setiap orang yang menghendaki kelapangan rezeki halal.)
+
+Diriwayatkan bahwa hendaklah ia **menghadap kiblat** pada malam Kamis, atau hari Jumat, atau malam Jumat; kemudian membaca **Surah Al-Hamd** (Fatihah) yang diberkahi, setelah itu membaca **Surah Al-An'am** yang mulia sampai ia sampai pada ayat "**مَثَلَ مَا أُوتِيَ رُسُلُ اللَّهِ**"; pada saat itu ia langsung berdiri dan shalat **dua rakaat**; pada setiap rakaat ia membaca **Surah Al-Hamd 7×**, **Ayatul Kursi 7×**, dan **Surah "إِنَّا أَعْطَيْنَاهُ" (Al-Kautsar) 7×**; setelah selesai shalat ia menghadap kiblat dan **menyempurnakan bacaan Surah Al-An'am** dari ayat "**اللَّهُ أَعْلَمُ حَيْثُ يَجْعَلُ رِسَالَتَهُ**" sampai akhir surah yang diberkahi. Kemudian ia meletakkan kepalanya pada tempat sujud dan mengulangi ucapan "**لَا إِلَهَ إِلَّا اللَّهُ مُحَمَّدٌ رَسُولُ اللَّهِ**" **tujuh puluh kali**; setelah itu ia memohon hajatnya, maka akan ditunaikan dengan izin Allah Ta'ala.
+
+(Juga untuk kelapangan rezeki.)
+
+Yaitu ia membaca **Surah Thaha** yang diberkahi **satu kali** dengan niat yang benar, dan itu dilakukan pada… — (lanjutan ada pada halaman 118).
+
+### 4. TATACARA PRAKTIK LENGKAP
+
+- **Doa penutup** (lanjutan Hal. 116): "بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ يَا رَزَّاقَ السَّائِلِينَ… وَاكْفِنِي بِحَلَالِكَ عَنْ حَرَامِكَ…" dibaca setelah 4 surah pada Hal. 116.
+- **Rezeki & harta tanpa diduga:** membaca **Adz-Dzariyat, Ath-Thalaq, Al-Muzzammil, Alam Nasyrah** setiap hari secara bersambung; bila terlewat siang, diqadha malam. **Surah Adz-Dzariyat** secara khusus disebut mendatangkan kekayaan.
+- **Rezeki halal (shalat hajat Al-An'am):** menghadap kiblat pada **malam Kamis / Jumat / malam Jumat** → Fatihah → membaca **Surah Al-An'am** sampai ayat "مَثَلَ مَا أُوتِيَ رُسُلُ اللَّهِ" → berdiri, **shalat 2 rakaat** (tiap rakaat: Fatihah 7×, Ayatul Kursi 7×, Al-Kautsar 7×) → menghadap kiblat, **melanjutkan Al-An'am** dari "اللَّهُ أَعْلَمُ حَيْثُ يَجْعَلُ رِسَالَتَهُ" sampai akhir → **sujud**, membaca "لا إله إلا الله محمد رسول الله" **70×** → memohon hajat.
+- **Rezeki dengan Surah Thaha:** dibaca **1×** dengan niat benar; kelanjutan pada halaman 118.
+- Tanda tanya pada "الْمُقِيمِ؟" dan "الْمُبَارَكَةِ؟" adalah bagian teks asli.
+- Pada halaman ini tidak ada kata فُلَان / فُلَانَة, sehingga keterangan Fulan/Fulanata tidak berlaku di sini.
