@@ -260,3 +260,15 @@ Catatan: penghitung `wafak/rajah` pada induk naik 104 → **106**. Induk: DOCX 3
 | 102 | Penutup daftar + riwayat Ibnu Abbas (37 tempat) + syarat wirid agar diterima pembesar | — | 37 tempat, 1× setelah tiap shalat |
 
 Catatan: induk **1123 hlm**, `wafak/rajah` **106**, DOCX 32.07 MB, PDF 47.96 MB. Perbaikan: 94 baris `**Rajah:** ![...]` pada `transkripsi/bab2.md` (Hal. 376–516) sebelumnya **tidak menempel gambar** karena prefiks tebal; kini dinormalkan jadi `![...]` sehingga 94 rajah itu ikut tercetak (total gambar PDF 400). Verifikasi: 0 kebocoran `![`/`](` di seluruh PDF.
+
+### Status pengerjaan Hal. 103–107 (selesai)
+
+| Hal. | Judul | Rajah | Catatan |
+|---|---|---|---|
+| 103 | Pahala 37 ayat + amalan Kamis (tulis–larutkan–minum) + wirid menundukkan pembesar | — | 1×, 41×, 1.000×, 3 hari puasa, 70 malaikat |
+| 104 | **Teks lengkap 37 ayat** "لا إله إلا هو" | — | kutipan ayat; tanpa thilasm |
+| 105 | Lima tempat Ismullah Al-A'zham + wirid 11× | — | 11×/hari |
+| 106 | Awal باب في خواص الأسماء التي كان عيسى يحيي بها الموتى | — | asma' a'jamiyyah tidak diterjemahkan; `زُحَيْرٍ` **[TIDAK JELAS]** |
+| 107 | Nama Isa pada shalat Subuh + ayat syifa' + 19 ayat hifzh | — | bagian 'azimah "بألف ألف…" tidak diterjemahkan |
+
+Catatan: induk **1138 hlm**, `wafak/rajah` **106**, DOCX 32.09 MB, PDF 48.01 MB. Verifikasi: 0 kebocoran `![`/`](`, render hlm. 284–296 bersih.
