@@ -386,6 +386,18 @@ def build_pdf():
 
     from fontTools.ttLib import TTFont as _TT
     DEJA_CMAP = _TT(os.path.join(FONT_DIR, 'DejaVuSans.ttf')).getBestCmap()
+    AMIRI_CMAP = _TT(os.path.join(FONT_DIR, 'Amiri-Regular.ttf')).getBestCmap()
+
+    def arabic_segments(text):
+        # Shape and bidi the entire logical line first, preserving Arabic joining.
+        segs = []
+        for ch in ar(text):
+            font = 'DejaVu' if ord(ch) not in AMIRI_CMAP and ord(ch) in DEJA_CMAP else 'Amiri'
+            if segs and segs[-1][0] == font:
+                segs[-1] = (font, segs[-1][1] + ch)
+            else:
+                segs.append((font, ch))
+        return segs
 
     def _is_ar(ch):
         o = ord(ch)
@@ -476,7 +488,7 @@ def build_pdf():
         lines, cur = [], ''
         for w in words:
             t = (cur + ' ' + w).strip()
-            if pdfmetrics.stringWidth(ar(t), 'Amiri', size) <= width:
+            if sum(pdfmetrics.stringWidth(s, f, size) for f, s in arabic_segments(t)) <= width:
                 cur = t
             else:
                 if cur:
@@ -593,8 +605,12 @@ def build_pdf():
                     c.showPage()
                     y = new_page()
                 if kind == 'AR':
-                    c.setFont('Amiri', size)
-                    c.drawRightString(W - M, y, ar(line))
+                    segments = arabic_segments(line)
+                    x = W - M - sum(pdfmetrics.stringWidth(s, f, size) for f, s in segments)
+                    for f, s in segments:
+                        c.setFont(f, size)
+                        c.drawString(x, y, s)
+                        x += pdfmetrics.stringWidth(s, f, size)
                 elif kind == 'H':
                     draw_mixed(line, M, y, 'DejaVu-Bold', size)
                 else:

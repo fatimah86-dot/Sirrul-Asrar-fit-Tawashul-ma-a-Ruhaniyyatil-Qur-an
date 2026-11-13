@@ -2471,3 +2471,275 @@ Diriwayatkan: seorang lelaki datang kepada Nabi ﷺ dan berkata: "Wahai Rasulull
 - **Surah Ath-Thalaq:** **21×** untuk melunasi utang; **3× setiap hari** untuk kelapangan rezeki.
 - **Penghidupan sempit:** bangun pagi → **bakhur 'anbar** di tempat itu → baca ﴿إِنَّ اللَّهَ هُوَ الرَّزَّاقُ ذُو الْقُوَّةِ الْمَتِينُ﴾ **1.001×** selama **1 minggu**.
 - **Riwayat orang kaya yang menjadi fakir:** nasihat Nabi ﷺ menyebut tiga kebiasaan "warisan kesedihan" — kelanjutannya di halaman 123.
+
+---
+
+## HALAMAN 123 — PDF hal. 123 / bagian — Lanjutan riwayat orang kaya menjadi fakir: Doa Faraj + wirid Al-Waqi'ah 14× setelah Ashar
+
+### 1. TEKS ARAB BERHARAKAT
+
+أَوْ تَمْسَحْ وَجْهَكَ بِذَلِكَ أَوْ تَبُولَ فِي مَاءٍ رَاكِدٍ أَوْ تَنَامَ مُضْطَجِعاً عَلَى وَجْهِكَ: لَا أَفْعَلُ مِنْ ذَلِكَ شَيْئاً؟. فَقَالَ لَهُ النَّبِيُّ ﷺ اتَّقِ اللَّهَ وَأَخْلِصْ ضَمِيرَكَ وَادْعُ بِهَذَا الدُّعَاءِ وَهُوَ دُعَاءُ الْفَرَجِ: بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ إِلَهِي طُمُوحُ الْآمَالِ قَدْ خَابَتْ إِلَّا لَدَيْكَ وَمَعَاكِفُ الْهِمَمِ قَدْ تَقَطَّعَتْ إِلَّا عَلَيْكَ وَمَذَاهِبُ الْعُقُولِ قَدْ ضَلَّتْ إِلَّا إِلَيْكَ الرَّجَاءُ وَإِلَيْكَ الْمُلْتَجَأُ يَا أَكْرَمَ مَقْصُودٍ وَيَا أَجْوَدَ مَسْؤُولٍ هَرَبْتُ إِلَيْكَ بِنَفْسِي يَا مَلْجَأَ الْهَارِبِينَ بَثَقَلَاتِ الذُّنُوبِ أَحْمِلُهَا عَلَى ظَهْرِي وَمَا أَجِدُ إِلَيْكَ شَافِعاً سِوَى مَعْرِفَتِي بِأَنَّكَ أَقْرَبُ مِنْ رَجَاءِ الطَّالِبِينَ. وَلَجَأَ إِلَيْهِ الْمُضْطَرُّونَ وَأَقَلُّ مَا لَدَيْهِ الرَّاغِبُونَ،
+
+- يَا مَنْ فَاقَ الْعُقُولَ بِمَعْرِفَتِهِ وَأَطْلَقَ الْأَلْسُنَ بِمَحْمَدَتِهِ وَجَعَلَ مَا أَنْعَمَ بِهِ عَلَى عِبَادِهِ كِفَاءً لِتَأْدِيَةِ حَقِّهِ صَلِّ عَلَى مُحَمَّدٍ وَآلِهِ وَلَا تَجْعَلْ لِلْهُمُومِ عَلَى عَقْلِي سَبِيلاً وَلَا لِلْبَاطِلِ عَلَى عَمَلِي دَلِيلاً وَافْتَحْ لِي بِخَيْرِ الدُّنْيَا وَالْآخِرَةِ يَا وَلِيَّ الْخَيْرِ. (فَلَمَّا دَعَا بِهِ الرَّجُلُ، وَأَخْلَصَ نِيَّتَهُ عَادَ إِلَى أَحْسَنِ حَالَاتِهِ بِإِذْنِ اللَّهِ تَعَالَى).
+
+(أَيْضاً فَائِدَةٌ لِجَلْبِ الرِّزْقِ)
+
+وَعَنِ النَّبِيِّ الْأَكْرَمِ ﷺ: فِي قَوْلِهِ تَعَالَى ﴿فَالْمُقَسِّمَاتِ أَمْراً﴾ قَالَ الْمَلَائِكَةُ تَقْسِمُ أَرْزَاقَ بَنِي آدَمَ مِنْ طُلُوعِ الْفَجْرِ إِلَى الشَّمْسِ فَمَنْ فِيهَا نَامَ عَنْ رِزْقِهِ لِذَلِكَ وَرَدَ فِي تَعَقُّبِ صَلَاةِ الصُّبْحِ وَإِذَا طَلَعَ الْفَجْرُ الْأَوَّلُ فَقُلْ: يَا خَالِقُ الْخَلْقِ مِنْ حَيْثُ لَا أَرَى وَمُخْرِجُهُ مِنْ حَيْثُ أَرَى صَلِّ عَلَى مُحَمَّدٍ وَآلِهِ وَاجْعَلْ أَوَّلَ يَوْمِنَا هَذَا صَلَاحاً وَأَوْسَطَهُ فَلَاحاً وَآخِرَهُ نَجَاحاً الْحَمْدُ لِلَّهِ فَالِقِ الْإِصْبَاحِ سُبْحَانَ اللَّهِ رَبِّ الْمَسَاءِ وَالصَّبَاحِ اللَّهُمَّ صَبِّحْ مُحَمَّداً وَآلَ مُحَمَّدٍ بِبَرَكَةٍ وَسُرُورٍ وَقُرَّةِ عَيْنٍ وَأَمْنٍ وَرِزْقٍ وَاسِعٍ اللَّهُمَّ إِنِّي مُنْزِلٌ فِي اللَّيْلِ وَالنَّهَارِ مَا تَشَاءُ فَأَنْزِلْ عَلَيَّ وَعَلَى أَهْلِ بَيْتِي مِنْ بَرَكَةِ السَّمَاوَاتِ وَالْأَرْضِ رِزْقاً وَاسِعاً وَتَفْتَحُنِي بِهِ عَنْ جَمِيعِ خَلْقِكَ. ثُمَّ قُمْ فَصَلِّ رُكْعَتَيِ الْفَجْرِ وَيَمْتَدُّ وَقْتُهَا إِلَى أَنْ تَطْلُعَ الْحُمْرَةُ فَافْرِضْ أُولَى كَمَا وَرَدَ.
+
+(أَيْضاً فَائِدَةٌ لِفَتْحِ أَبْوَابِ الرِّزْقِ)
+
+رُوِيَ أَنَّهُ مَنْ قَرَأَ سُورَةَ «الْوَاقِعَةِ» بَعْدَ صَلَاةِ الْعَصْرِ أَرْبَعَةَ عَشَرَ مَرَّةً وَأَسْمَاءَ
+
+### 2. TRANSLITERASI LATIN
+
+au tamsah wajhaka bidzalika au tabula fi ma'in rakidin au tanama mudhthaji'an 'ala wajhika: la af'alu min dzalika syai'an?. Faqala lahun-Nabiyyu ﷺ ittaqillaha wa akhlish dhamiraka wad'u bihadzad-du'a'i wa huwa du'a'ul-faraji: bismillahir-rahmanir-rahimi ilahi thumuḥul-amali qad khabat illa ladaika wa ma'akiful-himami qad taqaththa'at illa 'alaika wa madzahibul-'uquli qad dhalla illa ilaikar-raja'u wa ilaikal-multaja'u ya akrama maqshudin wa ya ajwada mas'ulin harabtu ilaika binafsi ya malja'al-haribina bitsaqalati adz-dzunubi ahmiluha 'ala zhahri wa ma ajidu ilaika syafi'an siwa ma'rifati bi-annaka aqrabu min raja'ith-thalibina. wa laja'a ilaihil-mudhtharruna wa aqallu ma ladaihir-raghibuna,
+
+- ya man faqal-'uqula bima'rifatihi wa athlaqal-alsuna bimahmadatihi wa ja'ala ma an'ama bihi 'ala 'ibadihi kifa'an lita'diyati haqqihi shalli 'ala Muhammadin wa alihi wa la taj'al lil-humumi 'ala 'aqli sabilan wa la lil-bathili 'ala 'amali dalilan waftah li bikhairid-dunya wal-akhirati ya waliyyal-khairi. (Falammа da'a bihir-rajulu, wa akhlasha niyyatahu 'ada ila ahsani halatihi bi-idznillahi ta'ala).
+
+(Aidhan fa'idatun lijalbir-rizqi)
+
+Wa 'anin-Nabiyyil-akrami ﷺ: fi qaulihi ta'ala ﴿Fal-muqassimati amran﴾ qalal-mala'ikatu taqsimu arzaqa bani Adama min thulu'il-fajri ilasy-syamsi faman fiha nama 'an rizqihi lidzalika warada fi ta'aqqubi shalatish-shubhi wa idza thala'al-fajrul-awwalu faqul: ya khaliqal-khalqi min haitsu la ara wa mukhrijahu min haitsu ara shalli 'ala Muhammadin wa alihi waj'al awwala yaumina hadza shalahan wa ausathahu falahan wa akhirahu najahan al-hamdu lillahi faliqil-ishbahi subhanallahi rabbil-masa'i washabahi Allahumma shabbih Muhammadan wa ala Muhammadin bibarakatin wa sururin wa qurrati 'ainin wa amnin wa rizqin wasi'in Allahumma inni munzilun fil-laili wan-nahari ma tasya'u fa-anzil 'alayya wa 'ala ahli baiti min barakatis-samawati wal-ardhi rizqan wasi'an wa taftahunibi bihi 'an jami'i khalqika. Tsumma qum fashalli rak'atail-fajri wa yamtaddu waqtuha ila an tathlu'al-humratu fafridh ula kama warada.
+
+(Aidhan fa'idatun lifathi abwabir-rizqi)
+
+Ruwiya annahu man qara'a suratal «al-Waqi'ati» ba'da shalatil-'ashri arba'ata 'asyara marratan wa asma'a
+
+### 3. TERJEMAHAN INDONESIA
+
+…atau engkau mengusap wajahmu dengan itu, atau engkau kencing di air yang menggenang, atau engkau tidur tengkurap di atas wajahmu: (Nabi bersabda) "Aku tidak melakukan satu pun dari itu?" Maka Nabi ﷺ bersabda kepadanya: "**Bertakwalah kepada Allah, ikhlaskan hatimu, dan berdoalah dengan doa ini**" — yaitu **Doa Faraj**: "Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang. Tuhanku, cita-cita yang tinggi telah gagal kecuali pada-Mu; tempat-tempat ketergantungan telah terputus kecuali kepada-Mu; jalan-jalan akal telah tersesat kecuali kepada-Mu. Harapan hanya kepada-Mu dan kepada-Mu tempat berlindung, wahai Yang paling mulia yang dituju dan Yang paling dermawan yang dimintai. Aku lari kepada-Mu dengan diriku, wahai tempat berlindungnya para pelarian; dengan beban dosa-dosa yang aku pikul di punggungku, dan aku tidak menemukan syafaat kepada-Mu selain pengenalanku bahwa Engkau lebih dekat daripada harapan para pencari. Kepada-Nyalah orang-orang yang terpaksa berlindung, dan yang paling sedikit dimiliki oleh orang-orang yang berharap."
+
+- "Wahai Yang mengungguli akal dengan pengenalan-Nya, Yang melepaskan lidah dengan pujian-Nya, dan Yang menjadikan nikmat yang Dia berikan kepada hamba-hamba-Nya sebagai penunaian hak-Nya: limpahkanlah shalawat kepada Muhammad dan keluarganya; jangan jadikan kesedihan punya jalan atas akalku, jangan jadikan kebatilan sebagai penunjuk atas amalku, dan bukakanlah bagiku kebaikan dunia dan akhirat, wahai Pemilik kebaikan." (Ketika lelaki itu berdoa dengannya dan mengikhlaskan niatnya, ia kembali kepada keadaan terbaiknya dengan izin Allah Ta'ala.)
+
+(Juga faedah untuk menarik rezeki.)
+
+Dari Nabi yang paling mulia ﷺ, tentang firman Allah ﴿فَالْمُقَسِّمَاتِ أَمْراً﴾: para malaikat membagi rezeki anak-anak Adam **dari terbit fajar sampai matahari (terbit)**; maka siapa yang tidur pada waktu itu dari rezekinya, itulah sebabnya disebutkan dalam mengiringi shalat Subuh. Dan apabila fajar pertama terbit, ucapkanlah: "Wahai Pencipta makhluk dari arah yang tidak aku lihat dan Yang mengeluarkannya dari arah yang aku lihat, limpahkanlah shalawat kepada Muhammad dan keluarganya; jadikanlah awal hari kami ini kesalehan, pertengahannya keberuntungan, dan akhirnya keberhasilan. Segala puji bagi Allah Yang membelah subuh; Mahasuci Allah Tuhan pagi dan petang. Ya Allah, berilah pagi kepada Muhammad dan keluarga Muhammad dengan berkah, kegembiraan, penyejuk mata, keamanan, dan rezeki yang luas. Ya Allah, aku menurunkan (permohonan) pada malam dan siang apa yang Engkau kehendaki, maka turunkanlah atasku dan atas keluargaku dari berkah langit dan bumi rezeki yang luas, dan bukalah (pintu) bagiku dengan itu dari seluruh makhluk-Mu." Kemudian bangkitlah dan shalatlah **dua rakaat fajar**; waktunya memanjang sampai terbit mega merah, maka tunaikanlah yang pertama sebagaimana disebutkan.
+
+(Juga faedah untuk membuka pintu-pintu rezeki.)
+
+Diriwayatkan bahwa barangsiapa membaca **Surah Al-Waqi'ah setelah shalat Ashar empat belas kali** beserta asma (Allah)…
+
+### 4. TATACARA PRAKTIK LENGKAP
+
+- **Lanjutan riwayat Hal. 122:** tiga kebiasaan itu (mengusap wajah, kencing di air menggenang, tidur tengkurap) **ditolak** Nabi ﷺ; gantinya: takwa + ikhlas + **Doa Faraj**.
+- **Doa Faraj:** dibaca dengan niat ikhlas; menurut riwayat, lelaki itu kembali kepada keadaan terbaiknya.
+- **Faedah rezeki Subuh:** malaikat membagi rezeki **antara fajar dan terbit matahari** — maka jangan tidur pada waktu itu. Doa "يَا خَالِقُ الْخَلْقِ مِنْ حَيْثُ لَا أَرَى…" dibaca saat **fajar pertama**; lalu shalat **2 rakaat fajar** (waktunya sampai mega merah).
+- **Wirid Al-Waqi'ah:** **14× setelah shalat Ashar** (kelanjutannya di halaman 124).
+- Tanda tanya pada redaksi adalah bagian teks asli.
+- Pada halaman ini tidak ada kata فُلَان / فُلَانَة, sehingga keterangan Fulan/Fulanata tidak berlaku di sini.
+
+---
+
+## HALAMAN 124 — PDF hal. 124 / bagian — Lanjutan wirid Al-Waqi'ah 14× dan Doa Agung "بسم الله الرحمن الرحيم اللهم إني أسألك بعظيم قديم كريم"
+
+### 1. TEKS ARAB BERHARAKAT
+
+اللَّهِ الْحُسْنَى مِثْلَهَا، وَكَمَا أَنَّهُ يَقْرَأُ هَذَا الدُّعَاءَ الْمُبَارَكَ. ثُمَّ يُدَاوِمُ عَلَى قِرَاءَةِ ذَلِكَ أُسْبُوعاً أَوْ أُسْبُوعَيْنِ فَإِنَّ اللَّهَ يَفْتَحُ لَهُ بَابَ الْغِنَى وَيَرْزُقُهُ مِنْ حَيْثُ لَا يَحْتَسِبُ وَهُوَ هَذَا الدُّعَاءُ الْجَلِيلُ الْمُبَارَكُ الْآتِي. بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ اللَّهُمَّ إِنِّي أَسْأَلُكَ بِعَظِيمٍ قَدِيمٍ كَرِيمٍ مَخْزُونِ أَسْمَائِكَ وَبِأَصْنَافِ أَنْوَاعِ أَجْنَاسِ رُقُومِ نُقُوشِ أَنْوَارِكَ وَبِعَزِيزِ اعْتِزَازِ عِزَّتِكَ وَبِحَوْلِ طُولِ شَدِيدِ قُوَّتِكَ وَبِمِقْدَارِ اقْتِدَارِ قُدْرَتِكَ وَبِتَأْيِيدِ تَحْمِيدِ عَظَمَتِكَ، وَبِسُمُوِّ نُمُوِّ عُلُوِّ رِفْعَتِكَ وَبِقِيَامِ دَيْمُومِ دَوَامِ أَبَدِيَّتِكَ وَبِرِضْوَانِ أَمَانِ امْتِنَانِ مَفْزَعِكَ وَبِرَفِيعِ بَدِيعِ مَنِيعِ سُلْطَانِكَ وَبِصِلَاتِ سَعَةِ بَسَاطِ رَحْمَتِكَ، وَبِلَوَامِعِ بَرَاقِ صَوَاعِقِ عَجِيجِ بَهِيجِ وَهَجِ عِزَّتِكَ، وَبِبَهَرِ بَهْرِ مَيْمُونِ وَحْدَانِيَّتِكَ.
+
+- وَبِتَهْدِيرِ غَدِيرِ أَمْوَاجِ بَحْرِكَ الْمُحِيطِ بِمَمْلَكَتِكَ، وَبَاتِسَاعِ انْفِسَاحِ مَهْدَانِ بَرَازِخِ كُرْسِيِّكَ، بِعُلْوِيَّاتِ رُوحَانِيَّاتِ لِعُلَالَةِ عَرْشِكَ، وَبِأَمْلَاكِ الرُّوحَانِيَّةِ الْمُدَبِّرِينَ لِكَوَاكِبِ الْأَفْلَاكِ وَتَحْنِينِ تَسْكِينِ مُرِيدِينَ مَغْفِرَتِكَ، وَبِحَرَقَاتِ زَفَرَاتِ خَطَرَاتِ الْخَائِفِينَ مِنْ سَطْوَتِكَ، وَبِالنِّزَالِ الْمُجْتَهِدِينَ فِي مَرْضَاتِكَ وَتَمْجِيدِ تَجْلِيلِ الْعَابِدِينَ لِطَاعَتِكَ، يَا أَوَّلُ يَا آخِرُ يَا ظَاهِرُ يَا بَاطِنُ يَا قَدِيمُ يَا مُقِيمُ أَطْمِسْ بِطِلَسْمِ بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ سَيِّدَ قُلُوبِ أَعْدَائِنَا وَأَعْدَائِكَ وَدُقَّ رُؤُوسَ الظَّلَمَةِ بِصَوَارِمِ سَيْفِ نَشْأَةِ قَهْرِ سَطْوَتِكَ، وَاحْجُبْنَا بِحِجَابِكَ الْمَنِيعِ مِنْ لَحَظَاتِ لَمَمَاتِ أَبْصَارِهِمُ الْغَوَاءَ بِحَوْلِكَ وَقُوَّتِكَ وَصُبَّ عَلَيْنَا وَضَحَاكَ مِنْ أَنَابِيبِ مَرَارِيبِ التَّوْفِيقِ فِي إِنَاءِ اللَّيْلِ وَأَطْرَافِ النَّهَارِ وَاغْمِسْنَا فِي سَانِي بَرْكِكَ وَرَحْمَتِكَ وَقَيِّدْنَا بِقُيُودِ السَّلَامَةِ عَنِ الْوُقُوعِ فِي مَعْصِيَتِكَ يَا أَوَّلُ يَا آخِرُ يَا بَاطِنُ يَا ظَاهِرُ يَا قَدِيمُ يَا مُقِيمُ يَا حَلِيمُ يَا عَلِيمُ، اللَّهُمَّ جَهِلَتِ الْعُقُولُ وَسُخِّرَتِ الْأَوْهَامُ وَضَاعَتِ الْأَفْهَامُ وَتَغَيَّرَتِ الظُّنُونُ وَحَارَتِ الْأَفْكَارُ وَقَصُرَتِ الْخَوَاطِرُ عَنْ إِدْرَاكِ كَيْفِيَّةِ مَا ظَهَرَ مِنْ نَوَادِرِ أَنْوَارِ عَجَائِبِ قُدْرَتِكَ دُونَ الْبُلُوغِ لِتَلَأْلُئِهِ لَمَعَاتِ طَاعَتِكَ.
+
+اللَّهُمَّ مَحْوَرُكَ الْحَرَكَاتِ وَمَبْدَأُ الْغَايَاتِ وَمُشَقِّقُ صُمِّ صَلُوبِ الصُّخُورِ الرَّاسِيَاتِ وَالْمَنِيعِ فِيهَا مَاءً مَعِيناً لِلْمَخْلُوقَاتِ وَالْمُحْيِي سَائِرِ الْحَيَوَانَاتِ وَالشَّجَرَاتِ وَالْعَالِمِ بِمَا اخْتَلَعَ مِنْ سِرِّهِمْ بِنُطْقِ خَفِيَّاتِ لُغَاتِ النَّمْلِ السَّاجِدَاتِ وَمَنْ عَظَّمَ وَمَجَّدَ وَقَدَّسَ وَهَلَّلَ وَكَبَّرَ بِجَلَالِ كَمَالِ عَرْشِ مَلَائِكَةِ سَبْحِ سَمَوَاتٍ اجْعَلْنَا فِي هَذِهِ السَّاعَةِ الْمُبَارَكَةِ مِمَّنْ دَعَاكَ فَأَجَبْتَهُ وَسَأَلَكَ فَأَعْطَيْتَهُ وَتَضَرَّعَ إِلَيْكَ فَرَحِمْتَهُ وَاسْتَقَالَكَ مِنْ ذُنُوبِهِ فَأَقَلْتَهُ بِفَضْلِكَ وَأَحْسَانِكَ الْقَدِيمِ، (ثُمَّ تَقُولُ سَبْعَ مَرَّاتٍ) اللَّهُمَّ عَامِلْنَا بِمَا أَنْتَ أَهْلُهُ وَلَا تُعَامِلْنَا بِمَا نَحْنُ أَهْلُهُ إِنَّكَ أَهْلُ التَّقْوَى وَأَهْلُ الْمَغْفِرَةِ سُبْحَانَكَ لَا تُحْصَى
+
+### 2. TRANSLITERASI LATIN
+
+Allahil-husna mitslaha, wa kama annahu yaqra'u hadzad-du'a'al-mubaraka. Tsumma yudawimu 'ala qira'ati dzalika usbu'an au usbu'aini fa-innallaha yaftahu lahu babal-ghina wa yarzuquhu min haitsu la yahtasibu wa huwa hadzad-du'a'ul-jalilul-mubarakul-ati. Bismillahir-rahmanir-rahimi Allahumma inni as-aluka bi'azhimin qadimin karimin makhzuni asma'ika wa bi-ashnafi anwa'i ajnasi ruqumi nuqusyi anwarika wa bi'azizi i'tizazi 'izzatika wa bihauli thuli syadidi quwwatika wa bimiqdari iqtidari qudratika wa bita'yidi tahmidi 'azhamatika, wa bisumuwwi numuwwi 'uluwwi rif'atika wa biqiyami daimumi dawami abadiyyatika wa biridhwani amani imtinani mafza'ika wa birafi'i badi'i mani'i sulthanika wa bishilati sa'ati basathi rahmatika, wa bilawami'i baraqi shawa'iqi 'ajiji bahiji wahaji 'izzatika, wa bibahari bahri maimuni wahdaniyyatika.
+
+- Wa bitahdiri ghadiri amwaji bahrikal-muhithi bimamlahatika, wa bitasā'i infisahi mahdani barazikhi kursiyyika, bi'ulwiyyati ruhaniyyati li'ulalati 'arsyika, wa bi-amlakir-ruhaniyyatil-mudabbirina likawakibil-aflaki wa tahnini taskini muridina maghfiratika, wa biharaqati zafarati khatharati al-kha'ifina min sathwatika, wa bin-nizali al-mujtahidina fi mardhatika wa tamjidi tajlilil-'abidina litha'atika, ya awwalu ya akhiru ya zhahiru ya bathinu ya qadimu ya muqimu athmis bithilsmi bismillahir-rahmanir-rahimi sayyida qulubi a'da'ina wa a'da'ika wa duqqa ru'usa zh-zholamati bishawarimi saifi nasy'ati qahri sathwatika, wahjubna bihijabikal-mani'i min lahazhati lamamati absharihimul-ghawa'a bihaulika wa quwwatika wa shubba 'alaina wadhaka min anabibi mararibi at-taufiqi fi ina'il-laili wa athrafin-nahari wagmisna fi sani barkika wa rahmatika wa qayyidna biquyudis-salamati 'anil-wuqu'i fi ma'shiyatika ya awwalu ya akhiru ya bathinu ya zhahiru ya qadimu ya muqimu ya halimu ya 'alimu, Allahumma jahilatil-'uqulu wa sukhkhiratil-auhamu wa dha'atil-afhamu wa taghayyarati zh-zhununu wa haratil-afkaru wa qashuratil-khawathiru 'an idraki kaifiyati ma zhahara min nawadiri anwari 'aja'ibi qudratika duna al-bulughi litala'lu'ihi lama'ati tha'atika.
+
+Allahumma mahwarukal-harakati wa mabda'ul-ghayati wa musyaqqiqu shummi shulubi ash-shukhurir-rasiyati wal-mani'i fiha ma'an ma'inan lilmakhluqati wal-muhyi sa'iril-hayawanati wasy-syajarati wal-'alimi bima ikhtala'a min sirrihim binuthqi khafiyyati lughatin-namlis-sajidati wa man 'azhzhama wa majjada wa qaddasa wa hallala wa kabbara bijalali kamali 'arsyi mala'ikati sabhi samawatin ij'alna fi hadzihis-sa'atil-mubarakati mimman da'aka fa-ajabtahu wa sa'alaka fa-a'thaitahu wa tadharra'a ilaika farahimtahu wastaqalaka min dzunubihi fa-aqaltahu bifadhlika wa ahsanikal-qadimi, (tsumma taqulu sab'a marratin) Allahumma 'amilna bima anta ahluhu wa la tu'amilna bima nahnu ahluhu innaka ahlut-taqwa wa ahlul-maghfirati subhanaka la tuhsha
+
+### 3. TERJEMAHAN INDONESIA
+
+…asma Allah yang terbaik semisalnya; dan ia juga membaca doa yang diberkahi ini. Kemudian ia **melanggengkan** membaca itu selama **satu atau dua minggu**, maka sesungguhnya Allah membuka baginya pintu kekayaan dan memberinya rezeki dari arah yang tidak ia duga. Dan inilah **doa agung yang diberkahi berikut**: "Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang. Ya Allah, aku memohon kepada-Mu dengan (nama) yang agung, dahulu, mulia, yang tersimpan di antara nama-nama-Mu; dengan aneka ragam jenis-jenis gambaran ukiran cahaya-cahaya-Mu; dengan kemuliaan kebanggaan keagungan-Mu; dengan daya panjangnya kekuatan-Mu yang hebat; dengan ukuran kemampuan kekuasaan-Mu; dengan penguatan pujian keagungan-Mu; dengan ketinggian pertumbuhan ketinggian derajat-Mu; dengan berdirinya kelanggengan abadi keabadian-Mu; dengan keridhaan keamanan pemberian perlindungan-Mu; dengan ketinggian, keunikan, dan kekokohan kekuasaan-Mu; dengan hubungan luasnya hamparan rahmat-Mu; dengan kilauan kilat-kilat gemuruh yang indah dari keagungan-Mu; dan dengan kecemerlangan sinar keesaan-Mu yang penuh berkah."
+
+- "Dan dengan gemuruh arus gelombang laut-Mu yang meliputi kerajaan-Mu; dengan luasnya hamparan barzakh kursi-Mu; dengan kerohanian yang tinggi dari keagungan arsy-Mu; dengan para malaikat rohani yang mengatur bintang-bintang cakrawala dan kelembutan penenangan orang-orang yang menghendaki ampunan-Mu; dengan baraan keluhan-keluhan bisikan orang-orang yang takut kepada kegagahan-Mu; dengan perjuangan orang-orang yang bersungguh-sungguh dalam keridhaan-Mu dan pemuliaan pengagungan para ahli ibadah terhadap ketaatan kepada-Mu: **wahai Yang Awal, Yang Akhir, Yang Zahir, Yang Batin, Yang Dahulu, Yang Tetap**, hapuskanlah dengan thilasm "Bismillahirrahmanirrahim" penghulu hati musuh-musuh kami dan musuh-musuh-Mu; remukkanlah kepala para penganiaya dengan pedang-pedang kilat kebinasaan kegagahan-Mu; dan hijablah kami dengan hijab-Mu yang kokoh dari pandangan-pandangan sasaran mata mereka yang sesat, dengan daya dan kekuatan-Mu. Tuangkanlah atasku cahaya-Mu dari saluran-saluran pipa taufik di bejana malam dan ujung-ujung siang; benamkanlah kami dalam cahaya berkah dan rahmat-Mu; dan ikatlah kami dengan ikatan keselamatan dari terjatuh dalam kemaksiatan kepada-Mu. Wahai Yang Awal, Yang Akhir, Yang Batin, Yang Zahir, Yang Dahulu, Yang Tetap, Yang Penyantun, Yang Maha Mengetahui. Ya Allah, akal-akal telah bodoh, waham-waham telah ditundukkan, pemahaman-pemahaman telah hilang, sangkaan-sangkaan telah berubah, pikiran-pikiran telah bingung, dan lintasan-lintasan hati telah pendek dari memahami bagaimana munculnya keajaiban-keajaiban cahaya kekuasaan-Mu yang langka, tanpa sampai kepada kilauan kilat ketaatan kepada-Mu."
+
+"Ya Allah, Yang menjadi poros gerakan-gerakan, Yang menjadi awal tujuan-tujuan, Yang membelah batu-batu karang yang keras lagi kokoh dan Yang menjadikan di dalamnya air yang mengalir bagi makhluk-makhluk, Yang menghidupkan seluruh hewan dan pepohonan, Yang mengetahui apa yang tersembunyi dari rahasia mereka dengan ucapan bahasa-bahasa tersembunyi semut-semut yang bersujud; dan siapa yang mengagungkan, memuliakan, menyucikan, bertahlil, dan bertakbir dengan keagungan kesempurnaan arsy para malaikat penyuci langit-langit: **jadikanlah kami pada saat yang diberkahi ini termasuk orang yang Engkau seru lalu Engkau jawab, yang meminta kepada-Mu lalu Engkau beri, yang merendahkan diri kepada-Mu lalu Engkau sayangi, dan yang memohon pengunduran dosa-dosanya lalu Engkau mengampuninya** dengan karunia-Mu dan kebaikan-Mu yang dahulu." (Kemudian engkau mengucapkan **tujuh kali**): "Ya Allah, perlakukanlah kami dengan apa yang Engkau layak (melakukannya), dan jangan perlakukan kami dengan apa yang kami layak (menerimanya); sesungguhnya Engkau Pemilik ketakwaan dan Pemilik ampunan. Mahasuci Engkau, tak terhitung…"
+
+### 4. TATACARA PRAKTIK LENGKAP
+
+- **Wirid Al-Waqi'ah 14× setelah Ashar** (lanjutan Hal. 123) + **asma Allah yang husna** sebanyak itu pula (14×), lalu doa panjang di halaman ini.
+- **Mudawamah:** dibaca terus selama **1–2 minggu** → pintu kekayaan dibuka dan rezeki dari arah tak terduga.
+- **Doa agung:** "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِعَظِيمٍ قَدِيمٍ كَرِيمٍ…" — memuat rangkaian asma "يا أول يا آخر يا ظاهر يا باطن يا قديم يا مقيم"; isi doa tetap dipertahankan apa adanya (termasuk kata **طِلَسْم** / thilasm — **tidak diterjemahkan sebagai amalan baru, hanya dialihbahasakan apa adanya**).
+- **Penutup:** **"اللَّهُمَّ عَامِلْنَا بِمَا أَنْتَ أَهْلُهُ وَلَا تُعَامِلْنَا بِمَا نَحْنُ أَهْلُهُ"** dibaca **7×**.
+- Naskah tidak menyebut jumlah hari qadha; ikuti bunyi teks.
+- Pada halaman ini tidak ada kata فُلَان / فُلَانَة, sehingga keterangan Fulan/Fulanata tidak berlaku di sini.
+
+---
+
+## HALAMAN 125 — PDF hal. 125 / bagian — Bab pengobatan sakit kepala: rajah huruf "كهيعص … حم عسق", kalimat Syahadat kuno, dan huruf (ط ز هـ ج ا)
+
+### 1. TEKS ARAB BERHARAKAT
+
+(أَيْضاً بَابٌ لِعِلَاجِ الْوَجَعِ وَالصُّدَاعِ الشَّدِيدِ فِي الرَّأْسِ)
+
+وَهَذَا مَا يُكْتَبُ: «بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ كهيعص ذِكْرُ رَحْمَةِ رَبِّكَ عَبْدَهُ زَكَرِيَّا إِذْ نَادَى رَبَّهُ نِدَاءً خَفِيّاً بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ حم عسق كَذَلِكَ يُوحِي إِلَيْكَ وَإِلَى الَّذِينَ مِنْ قَبْلِكَ اللَّهُ الْعَزِيزُ الْحَكِيمُ بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ كَمْ مِنْ نِعْمَةٍ لِلَّهِ عَلَى كُلِّ قَلْبٍ خَاشِعٍ وَغَيْرِ خَاشِعٍ وَكَمْ مِنْ نِعْمَةٍ لِلَّهِ عَلَى كُلِّ عِرْقٍ سَاكِنٍ وَغَيْرِ سَاكِنٍ اسْكُنْ اسْكُنْ أَيُّهَا الْوَجَعُ بِحَقِّ مَنْ سَكَنَ لَهُ مَا فِي اللَّيْلِ وَالنَّهَارِ وَهُوَ السَّمِيعُ الْعَلِيمُ» وَهُوَ صَحِيحٌ مُجَرَّبٌ بِعَوْنِ اللَّهِ تَعَالَى.
+
+(أَيْضاً فِي عِلَاجِ وَجَعِ وَأَلَمِ الرَّأْسِ)
+
+التَّعْرِيفُ عَلَى قَدْرِ هَذِهِ الْفَائِدَةِ قِيلَ: إِنَّهُ كَانَ كِسْرَى إِذَا مَرِضَ وَضَعَ هَذِهِ الْفَائِدَةَ فَيَبْرَأُ مِنَ الصُّدَاعِ الَّذِي اعْتَرَاهُ فِي رَأْسِهِ وَمِمَّا قِيلَ: هِيَ أَصْلاً كَانَتْ فِي قَلَنْسُوَتِهِ مَوْضُوعَةً وَكَمَا جَاءَ فِي أَصْلِ الرِّوَايَةِ عِنْدَمَا قُتِلَ كِسْرَى وَشَقُّوا قَلَنْسُوَتَهُ أَيْ مَزَّقُوهَا فَوَجَدُوهَا فِيهَا وَهَذِهِ هِيَ: «شَهِدَ اللَّهُ أَنَّهُ لَا إِلَهَ إِلَّا هُوَ وَالْمَلَائِكَةُ وَأُولُو الْعِلْمِ قَائِماً بِالْقِسْطِ لَا إِلَهَ إِلَّا هُوَ الْعَزِيزُ الْحَكِيمُ نُورٌ وَقُدْرَةٌ وَبُرْهَانٌ وَحِكْمَةٌ وَسُلْطَانٌ يَا هَادِيَ مَنِ اهْتَدَى يَا مَنْ لَا يَنَامُ أَبَداً لَا إِلَهَ إِلَّا اللَّهُ عِيسَى رُوحُ اللَّهِ وَكَلِمَتُهُ لَا إِلَهَ إِلَّا اللَّهُ مُحَمَّدٌ رَسُولُهُ وَحَبِيبُهُ اسْكُنْ أَيُّهَا الصُّدَاعُ بِالَّذِي سَكَنَ لَهُ مَا فِي اللَّيْلِ وَالنَّهَارِ وَهُوَ السَّمِيعُ الْعَلِيمُ» تُعَلَّقُ عَلَى صَاحِبِ الصُّدَاعِ فِي الرَّأْسِ فَيَبْرَأُ بِإِذْنِ اللَّهِ تَعَالَى وَهُوَ صَحِيحٌ مُجَرَّبٌ.
+
+(أَيْضاً فِي عِلَاجِ وَجَعِ الشَّقِيقَةِ)
+
+هُوَ أَنْ يُكْتَبَ فِي خِرْقَةِ حَرِيرٍ بَيْضَاءَ هَذِهِ الْأَحْرُفَ (ط ز هـ ج ا) وَتُعَلِّقُهُ عَلَى جِهَةِ الْوَجَعِ فِي الرَّأْسِ فَيَبْرَأُ بِإِذْنِ اللَّهِ تَعَالَى.
+
+(وَمِمَّا يُقْرَأُ خَاصَّةً لِوَجَعِ الشَّقِيقَةِ)
+
+الْآيَةُ وَهِيَ: ﴿قُلْ رَبُّ السَّمَاوَاتِ وَالْأَرْضِ قُلِ اللَّهُ قُلْ أَفَاتَّخَذْتُمْ مِنْ دُونِهِ أَوْلِيَاءَ لَا يَمْلِكُونَ لِأَنْفُسِهِمْ نَفْعاً وَلَا ضَرّاً﴾ وَذَلِكَ إِلَى قَوْلِهِ تَعَالَى ﴿الْقَهَّارُ﴾ وَالْآيَةُ فِي سُورَةِ الرَّعْدِ الْمُبَارَكَةِ رَقْم (١٥).
+
+### 2. TRANSLITERASI LATIN
+
+(Aidhan babun li'ilajil-waja'i wash-shuda'isy-syadidi fir-ra'si)
+
+Wa hadza ma yuktabu: «bismillahir-rahmanir-rahimi kahiya'ashin dzikru rahmati rabbika 'abdahu Zakariyya idz nada rabbahu nida'an khafiyyan bismillahir-rahmanir-rahimi ha mim 'ain sin qaf kadzalika yuhi ilaika wa ilal-ladzina min qablika Allahul-'azizul-hakimu bismillahir-rahmanir-rahimi kam min ni'matin lillahi 'ala kulli qalbin khasyi'in wa ghairi khasyi'in wa kam min ni'matin lillahi 'ala kulli 'irqin sakinin wa ghairi sakinin uskun uskun ayyuhal-waja'u bihaqqi man sakana lahu ma fil-laili wan-nahari wa huwas-sami'ul-'alimu» wa huwa shahihun mujarrabun bi'aunillahi ta'ala.
+
+(Aidhan fi 'ilaji waja'i wa alamir-ra'si)
+
+At-ta'rifu 'ala qadri hadzihil-fa'idati qila: innahu kana Kisra idza maridha wadha'a hadzihil-fa'idata fayabra'u minash-shuda'il-ladzi i'tarahu fi ra'sihi wa mimma qila: hiya ashlan kanat fi qalansuwatihi maudhu'atan wa kama ja'a fi ashlir-riwayati 'indama qutila Kisra wa syaqqu qalansuwatahu ai mazzaquha fawajaduha fiha wa hadzihi hiya: «syahidallahu annahu la ilaha illa huwal-mala'ikatu wa ulul-'ilmi qa'iman bil-qisthi la ilaha illa huwal-'azizul-hakimu nurun wa qudratun wa burhanun wa hikmatun wa sulthanun ya hadiya man ihtada ya man la yanamu abadan la ilaha illallahu 'Isa ruhullahi wa kalimatuhu la ilaha illallahu Muhammadun rasuluhu wa habibuhu uskun ayyuhash-shuda'u billadzi sakana lahu ma fil-laili wan-nahari wa huwas-sami'ul-'alimu» tu'allaqu 'ala shahibish-shuda'i fir-ra'si fayabra'u bi-idznillahi ta'ala wa huwa shahihun mujarrabun.
+
+(Aidhan fi 'ilaji waja'isy-syaqiqati)
+
+Huwa an yuktaba fi khirqati haririn baidha'a hadzihil-ahrufa (tha za ha ja alif) wa tu'alliqhu 'ala jihatil-waja'i fir-ra'si fayabra'u bi-idznillahi ta'ala.
+
+(Wa mimma yuqra'u khashshatan liwaja'isy-syaqiqati)
+
+Al-ayatu wa hiya: ﴿Qul rabbus-samawati wal-ardhi qulillahu qul afattakhadztum min dunihi auliya'a la yamlikuna li-anfusihim naf'an wa la dharran﴾ wa dzalika ila qaulihi ta'ala ﴿Al-qahharu﴾ wal-ayatu fi suratir-Ra'dil-mubarakati raqm (15).
+
+### 3. TERJEMAHAN INDONESIA
+
+(Juga bab untuk mengobati rasa sakit dan sakit kepala berat di kepala.)
+
+Dan inilah yang ditulis: "Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang. **كهيعص** — (Yang dibacakan itu adalah) penyebutan rahmat Tuhanmu kepada hamba-Nya Zakariya, ketika ia menyeru Tuhannya dengan seruan yang samar. Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang. **حم عسق** — demikianlah Allah Yang Mahakuasa lagi Mahabijaksana mewahyukan kepadamu dan kepada orang-orang sebelummu. Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang. Betapa banyak nikmat Allah atas setiap hati yang khusyuk dan yang tidak khusyuk, dan betapa banyak nikmat Allah atas setiap urat yang tenang dan yang tidak tenang. **Tenanglah, tenanglah, wahai rasa sakit, dengan hak (Allah) yang tenang bagi-Nya apa yang ada di malam dan siang, dan Dialah Yang Maha Mendengar lagi Maha Mengetahui.**" Dan ini shahih serta teruji dengan pertolongan Allah Ta'ala.
+
+(Juga dalam mengobati rasa sakit dan nyeri kepala.)
+
+Definisi sepadan dengan faedah ini: dikatakan bahwa **Kisra (Raja Persia)** apabila sakit meletakkan faedah ini, lalu ia sembuh dari sakit kepala yang menimpanya. Dan di antara yang dikatakan: semula ia berada di dalam **kulah (kopiah)-nya**, sebagaimana disebutkan dalam asal riwayat bahwa ketika Kisra terbunuh dan kopiahnya dibelah —yakni disobek—mereka menemukannya di dalamnya. Dan inilah (tulisannya): "Allah menyaksikan bahwa tiada tuhan selain Dia, dan para malaikat serta orang-orang berilmu (juga menyaksikan) dengan menegakkan keadilan; tiada tuhan selain Dia Yang Mahakuasa lagi Mahabijaksana. Cahaya, kekuasaan, bukti, hikmah, dan kekuasaan (bagi-Nya). Wahai Pemberi petunjuk bagi siapa yang mendapat petunjuk, wahai Yang tidak pernah tidur selamanya, tiada tuhan selain Allah; Isa adalah ruh Allah dan kalimat-Nya; tiada tuhan selain Allah; Muhammad adalah Rasul-Nya dan kekasih-Nya. Tenanglah wahai sakit kepala, dengan (Allah) yang tenang bagi-Nya apa yang ada di malam dan siang, dan Dialah Yang Maha Mendengar lagi Maha Mengetahui." — **Digantungkan pada orang yang sakit kepala di kepala**, maka ia sembuh dengan izin Allah Ta'ala; dan ini shahih serta teruji.
+
+(Juga dalam mengobati nyeri migrain/syaqiqah.)
+
+Yaitu **menulis pada kain sutra putih huruf-huruf ini (ط ز هـ ج ا)** lalu menggantungkannya pada sisi yang sakit di kepala, maka ia sembuh dengan izin Allah Ta'ala.
+
+(Dan di antara yang dibaca khusus untuk nyeri migrain.)
+
+Ayatnya, yaitu: ﴿قُلْ رَبُّ السَّمَاوَاتِ وَالْأَرْضِ قُلِ اللَّهُ قُلْ أَفَاتَّخَذْتُمْ مِنْ دُونِهِ أَوْلِيَاءَ لَا يَمْلِكُونَ لِأَنْفُسِهِمْ نَفْعاً وَلَا ضَرّاً﴾ sampai firman Allah ﴿الْقَهَّارُ﴾ — dan ayat ini ada dalam **Surah Ar-Ra'd** yang diberkahi, **nomor (15)**.
+
+### 4. TATACARA PRAKTIK LENGKAP
+
+- **Sakit kepala berat:** tulis teks "كهيعص … حم عسق … اسْكُنْ اسْكُنْ أَيُّهَا الْوَجَعُ…" lalu dipakai pada penderita. Teks menyebutnya shahih & teruji.
+- **Nyeri kepala (riwayat Kisra):** tulis teks "شَهِدَ اللَّهُ أَنَّهُ لَا إِلَهَ إِلَّا هُوَ…" dan **gantungkan di kepala** penderita.
+- **Migrain (syaqiqah):** tulis huruf **(ط ز هـ ج ا)** pada **kain sutra putih**, lalu gantungkan pada sisi yang sakit.
+- **Bacaan khusus migrain:** **Surah Ar-Ra'd ayat 15** (dari "قُلْ رَبُّ السَّمَاوَاتِ…" sampai "الْقَهَّارُ").
+- Nama "عِيسَى رُوحُ اللَّهِ وَكَلِمَتُهُ" dan susunan syahadat ini adalah bunyi naskah; **tidak diubah**.
+- Pada halaman ini tidak ada kata فُلَان / فُلَانَة, sehingga keterangan Fulan/Fulanata tidak berlaku di sini.
+
+---
+
+## HALAMAN 126 — PDF hal. 126 / bagian — Rajah (wafaq) 4×4 untuk sakit kepala & migrain, Asma "حكيم حليم حي حفيظ حميد حنان حسب حكم", dan kaidah angka/simbol
+
+### 1. TEKS ARAB BERHARAKAT
+
+(أَيْضاً فِي عِلَاجِ وَجَعِ الرَّأْسِ وَالشَّقِيقَةِ)
+
+هُوَ أَنْ تُكْتَبَ هَذِهِ الْوَفَقُ وَمَا حَوْلَهُ كَالشَّكْلِ الْآتِي:
+
+![Wafaq Hal. 126](../assets/rajah/sirrul-asrar-tight/hal-126-rajah-01.png)
+
+(وَيُعَلَّقُ عَلَى مَنْ بِرَأْسِهِ شَقِيقَةٌ أَوْ صُدَاعٌ فَيَبْرَأُ بِإِذْنِ اللَّهِ تَعَالَى).
+
+أَيْضاً مَنْ كَتَبَ هَذِهِ الْأَسْمَاءَ وَهِيَ «حَكِيمٌ حَلِيمٌ حَيٌّ حَفِيظٌ حَمِيدٌ حَنَّانٌ حَسِيبٌ حَكَمٌ» تُعَلَّقُ عَلَى صَاحِبِ الْوَجَعِ فَإِنَّهُ نَافِعٌ لِذَلِكَ بِإِذْنِ اللَّهِ تَعَالَى.
+
+(أَيْضاً لِإِزَالَةِ وَجَعِ الرَّأْسِ وَالشَّقِيقَةِ مَعاً)
+
+يُكْتَبُ عَلَى هَذِهِ الْكَيْفِيَّةِ: بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ ✱ ٲ۱۱ٲ ✱#۱۱۱۱ٲ ٦٤✱
+
+الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ الرَّحْمَنِ الرَّحِيمِ مَالِكِ يَوْمِ الدِّينِ إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ فَاللَّهُ خَيْرٌ حَافِظاً وَهُوَ أَرْحَمُ الرَّاحِمِينَ. وَكَمَا الْبَيْتُ التَّالِي:
+
+يَا رَبَّ رَأْسِي فُرِقَنِي مِنْ وَجَعٍ فِيهِ مَسْكَنُ — أَنْتَ اللَّطِيفُ لِمَا تَشَاءُ وَأَنْتَ لَوْ شِئْتَ سَكَنَ — خَلَقْتَ عَرْشاً مَاءً بِاسْمِ لَطِيفٍ قَدْ سَكَنَ — فَعَافِنِي وَدَاوِنِي يَا مَنْ لَهُ الرِّيحُ سَكَنَ
+
+### 2. TRANSLITERASI LATIN
+
+(Aidhan fi 'ilaji waja'ir-ra'si wasy-syaqiqati)
+
+Huwa an tuktaba hadzihil-wafaqu wa ma haulah u kasy-syaklil-ati:
+
+(lihat rajah pada seksi 1 — tidak diulang di sini)
+
+(Wa yu'allaqu 'ala man bira'sihi syaqiqatun au shuda'un fayabra'u bi-idznillahi ta'ala).
+
+Aidhan man kataba hadzihil-asma'a wa hiya «hakimun halimun hayyun hafizhun hamidun hannanun hasibun hakamun» tu'allaqu 'ala shahibil-waja'i fa-innahu nafi'un lidzalika bi-idznillahi ta'ala.
+
+(Aidhan li-izalati waja'ir-ra'si wasy-syaqiqati ma'an)
+
+Yuktabu 'ala hadzihil-kaifiyati: bismillahir-rahmanir-rahimi ✱ ٲ۱۱ٲ ✱#۱۱۱۱ٲ ٦٤✱
+
+Al-hamdu lillahi rabbil-'alamina ar-rahmani ar-rahimi maliki yaumid-dini iyyaka na'budu wa iyyaka nasta'inu ihdinash-shirathal-mustaqima shirathal-ladzina an'amta 'alaihim ghairil-maghdhubi 'alaihim wa ladh-dhallina fallahu khairun hafizhan wa huwa arhamur-rahimina. Wa kama al-baitu at-tali:
+
+Ya rabba ra'si furiqani min waja'in fihi maskanu — anta al-lathifu lima tasya'u wa anta lau syi'ta sakana — khalaqta 'arsyan ma'an bismi lathifin qad sakana — fa'afini wa dawini ya man lahur-rihu sakana
+
+### 3. TERJEMAHAN INDONESIA
+
+(Juga dalam mengobati sakit kepala dan migrain.)
+
+Yaitu hendaklah **wafaq ini ditulis beserta apa yang ada di sekelilingnya** seperti bentuk berikut: **[Wafak Hal. 126]** — lihat rajah hasil crop di atas (isi rajah **tidak diterjemahkan** dan angka/simbol di dalamnya **tidak dibetulkan**).
+
+(Dan digantungkan pada orang yang di kepalanya ada migrain atau sakit kepala, maka ia sembuh dengan izin Allah Ta'ala.)
+
+Juga barangsiapa menulis asma-asma ini, yaitu **«حَكِيمٌ حَلِيمٌ حَيٌّ حَفِيظٌ حَمِيدٌ حَنَّانٌ حَسِيبٌ حَكَمٌ»** — "Yang Mahabijaksana, Yang Penyantun, Yang Mahahidup, Yang Memelihara, Yang Terpuji, Yang Pengasih, Yang Maha Menghitung, Yang Menghakimi" — lalu digantungkan pada penderita nyeri, maka itu bermanfaat untuk itu dengan izin Allah Ta'ala.
+
+(Juga untuk menghilangkan sakit kepala dan migrain sekaligus.)
+
+Ditulis dengan cara ini: "Bismillahirrahmanirrahim **[rangkaian simbol/angka: ✱ ٲ۱۱ٲ ✱# ۱۱۱۱ٲ ٦٤ ✱ — bentuk asli tidak dibetulkan]**". (Lalu:) "Segala puji bagi Allah Tuhan semesta alam, Yang Maha Pengasih lagi Maha Penyayang, Pemilik hari pembalasan. Hanya kepada-Mu kami menyembah dan hanya kepada-Mu kami memohon pertolongan. Tunjukilah kami jalan yang lurus, jalan orang-orang yang Engkau beri nikmat, bukan (jalan) mereka yang dimurkai dan bukan (jalan) orang-orang yang tersesat." "Maka Allah adalah sebaik-baik pemelihara dan Dia adalah Yang paling penyayang di antara para penyayang." Dan sebagaimana bait berikut:
+
+"Wahai Tuhanku, kepalaku terbelah oleh rasa sakit yang bersarang di dalamnya — Engkaulah Yang Mahalembut terhadap apa yang Engkau kehendaki, dan jika Engkau kehendaki, (rasa sakit itu) menjadi tenang — Engkau menciptakan arsy (dan) air dengan nama Yang Mahalembut, maka ia pun tenang — maka sehatkanlah aku dan obatilah aku, wahai Yang memiliki angin (yang) menjadi tenang."
+
+### 4. TATACARA PRAKTIK LENGKAP
+
+- **Wafaq 4×4 hal. 126:** ditulis "beserta apa yang ada di sekelilingnya" (ada tulisan pinggir: di atas, kiri, kanan, bawah) lalu **digantungkan** pada penderita migrain/sakit kepala. Gambar diambil dari crop ketat naskah; **isi rajah tidak dibaca/diterjemahkan dan tidak dibetulkan**.
+- **Asma 8 nama:** حكيم حليم حي حفيظ حميد حنان حسيب حكم — ditulis lalu digantungkan pada penderita nyeri.
+- **Kombinasi sakit kepala + migrain:** tulis "بسم الله الرحمن الرحيم" + **rangkaian simbol/angka** (bentuk asli dipertahankan, **tidak dibetulkan**) + **Surah Al-Fatihah** lengkap + ayat "فَاللَّهُ خَيْرٌ حَافِظاً" + **bait syair** "يَا رَبَّ رَأْسِي فُرِقَنِي…".
+- Perhatikan: naskah menulis "خَلَقْتَ عَرْشاً مَاءً" — **dipertahankan sebagaimana tertulis**.
+- Kaidah wajib: **angka/simbol rajah jangan dibetulkan** meski tampak tidak lazim.
+- Pada halaman ini tidak ada kata فُلَان / فُلَانَة, sehingga keterangan Fulan/Fulanata tidak berlaku di sini.
+
+---
+
+## HALAMAN 127 — PDF hal. 127 / bagian — Lanjutan bait + hitungan makhraj huruf (100 ص / 100 دال), dan Hizb/Hirz lengkap sakit kepala & migrain
+
+### 1. TEKS ARAB BERHARAKAT
+
+أَنْتَ اللَّطِيفُ لِمَا تَشَاءُ وَأَنْتَ لَوْ شِئْتَ سَكَنَ — خَلَقْتَ عَرْشاً مَاءً بِاسْمِ لَطِيفٍ قَدْ سَكَنَ — فَعَافِنِي وَدَاوِنِي يَا مَنْ لَهُ الرِّيحُ سَكَنَ
+
+وَلَهُ مَا سَكَنَ فِي اللَّيْلِ وَالنَّهَارِ وَهُوَ السَّمِيعُ الْعَلِيمُ ف ق ج م خ ت وَكَذَلِكَ مِائَةُ (ص) وَمِائَةُ (دَال) وَصَلَّى اللَّهُ عَلَى سَيِّدِنَا مُحَمَّدٍ وَآلِهِ وَصَحْبِهِ الْمُنْتَجَبِينَ وَسَلَّمَ) فَإِذَا حَمَلَ ذَلِكَ مَنْ بِهِ صُدَاعٌ فِي الرَّأْسِ أَوْ شَقِيقَةٌ زَالَ أَلَمُهُ سَرِيعاً بِإِذْنِ اللَّهِ تَعَالَى وَهُوَ صَحِيحٌ مُجَرَّبٌ؟.
+
+(أَيْضاً صِفَةُ حِرْزٍ لِوَجَعِ الرَّأْسِ وَخَاصَّةً وَجَعِ الشَّقِيقَةِ)
+
+يُكْتَبُ وَيُعَلَّقُ عَلَى الرَّأْسِ مِنَ الْجِهَةِ الْيُسْرَى فَإِنَّ الْمَرِيضَ يَبْرَأُ بِإِذْنِ اللَّهِ تَعَالَى وَهَذِهِ كَيْفِيَّةُ كِتَابَتِهِ: بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ وَصَلَّى اللَّهُ عَلَى سَيِّدِنَا مُحَمَّدٍ النَّبِيِّ الْأُمِّيِّ وَعَلَى آلِهِ الطَّاهِرِينَ وَسَلَّمَ صَلَوْحٌ وَطُرُوحٌ وَعَلَى اللَّهِ الِاتِّكَالُ يَا شَمْخِيَا يَا شَمْخِيَا لَوْ أَنْزَلْنَا هَذَا الْقُرْآنَ عَلَى جَبَلٍ لَرَأَيْتَهُ خَاشِعاً مُتَصَدِّعاً مِنْ خَشْيَةِ اللَّهِ اسْكُنْ أَيُّهَا الْوَجَعُ وَاخْشَعْ عَنْ حَامِلِ كِتَابِي هَذَا أَلَمْ تَرَ إِلَى رَبِّكَ كَيْفَ مَدَّ الظِّلَّ وَلَوْ شَاءَ لَجَعَلَهُ سَاكِناً سَاكِناً سَاكِناً اسْكُنْ أَيُّهَا الْوَجَعُ عَنْ حَامِلِ كِتَابِي هَذَا كَمَا سَكَنَ عَرْشُ الرَّحْمَنِ تَحْتَ السَّبْعِ الْمَثَانِي وَالْقُرْآنِ الْعَظِيمِ وَبِحَقِّ مَنْ يُحْيِي الْعِظَامَ وَهِيَ رَمِيمٌ وَبِحَقِّ هَذِهِ الْأَسْمَاءِ وَالْآيَاتِ ✱ ٲ۱۱۱۱ٲ ٦٤✱ اللَّهُ لَا إِلَهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ لَا تَأْخُذُهُ سِنَةٌ وَلَا نَوْمٌ لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ مَنْ ذَا الَّذِي يَشْفَعُ عِنْدَهُ إِلَّا بِإِذْنِهِ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلَا يُحِيطُونَ بِشَيْءٍ مِنْ عِلْمِهِ إِلَّا بِمَا شَاءَ وَسِعَ كُرْسِيُّهُ السَّمَاوَاتِ وَالْأَرْضَ وَلَا يَئُودُهُ حِفْظُهُمَا وَهُوَ الْعَلِيُّ الْعَظِيمُ لَا إِكْرَاهَ فِي الدِّينِ قَدْ تَبَيَّنَ الرُّشْدُ مِنَ الْغَيِّ فَمَنْ يَكْفُرْ بِالطَّاغُوتِ وَيُؤْمِنْ بِاللَّهِ فَقَدِ اسْتَمْسَكَ بِالْعُرْوَةِ الْوُثْقَى لَا انْفِصَامَ لَهَا وَاللَّهُ سَمِيعٌ عَلِيمٌ اللَّهُ وَلِيُّ الَّذِينَ آمَنُوا يُخْرِجُهُمْ مِنَ الظُّلُمَاتِ إِلَى النُّورِ وَالَّذِينَ كَفَرُوا أَوْلِيَاؤُهُمُ الطَّاغُوتُ يُخْرِجُونَهُمْ مِنَ النُّورِ إِلَى الظُّلُمَاتِ أُولَئِكَ أَصْحَابُ النَّارِ هُمْ فِيهَا خَالِدُونَ إِنَّا أَنْزَلْنَاهُ فِي لَيْلَةِ الْقَدْرِ وَمَا أَدْرَاكَ مَا لَيْلَةُ الْقَدْرِ لَيْلَةُ الْقَدْرِ خَيْرٌ مِنْ أَلْفِ شَهْرٍ تَنَزَّلُ الْمَلَائِكَةُ وَالرُّوحُ فِيهَا بِإِذْنِ رَبِّهِمْ مِنْ كُلِّ أَمْرٍ سَلَامٌ هِيَ مَطْلَعُ الْفَجْرِ بِسْمِ اللَّهِ
+
+### 2. TRANSLITERASI LATIN
+
+anta al-lathifu lima tasya'u wa anta lau syi'ta sakana — khalaqta 'arsyan ma'an bismi lathifin qad sakana — fa'afini wa dawini ya man lahur-rihu sakana
+
+wa lahu ma sakana fil-laili wan-nahari wa huwas-sami'ul-'alimu fa qaf jim mim kha ta wa kadzalika mi'atu (shad) wa mi'atu (dal) wa shallallahu 'ala sayyidina Muhammadin wa alihi wa shahbihil-muntajabina wa sallama) fa-idza hamala dzalika man bihi shuda'un fir-ra'si au syaqiqatun zala alamuhu sari'an bi-idznillahi ta'ala wa huwa shahihun mujarrabun?.
+
+(Aidhan shifatul-hirzi liwaja'ir-ra'si wa khashshatan waja'isy-syaqiqati)
+
+Yuktabu wa yu'allaqu 'alar-ra'si minal-jihatil-yusra fa-innа al-maridha yabra'u bi-idznillahi ta'ala wa hadzihi kaifiyatu kitabatihi: bismillahir-rahmanir-rahimi al-hamdu lillahi rabbil-'alamina wa shallallahu 'ala sayyidina Muhammadin an-Nabiyyil-ummiyyi wa 'ala alihith-thahirina wa sallama shalawhun wa thuruhun wa 'alallahi iltikalu ya syamkhiya ya syamkhiya lau anzalna hadzal-qur'ana 'ala jabalin lara-aitahu khasyi'an mutashaddi'an min khasyyatillahi uskun ayyuhal-waja'u wakhsya' 'an hamil kitabi hadza alam tara ila rabbika kaifa maddazh-zhilla wa lau sya'a laja'alahu sakinan sakinan sakinan uskun ayyuhal-waja'u 'an hamil kitabi hadza kama sakana 'arsyur-rahmani tahtas-sab'il-matsani wal-qur'anil-'azhimi wa bihaqqi man yuhyil-'izhama wa hiya ramimun wa bihaqqi hadzihil-asma'i wal-ayati ✱ ٲ۱۱۱۱ٲ ٦٤✱ Allahu la ilaha illa huwal-hayyul-qayyumu la ta'khudzuhu sinatun wa la naumun lahu ma fis-samawati wa ma fil-ardhi man dzal-ladzi yasyfa'u 'indahu illa bi-idznihi ya'lamu ma baina aidihim wa ma khalfahum wa la yuhithuna bisyai'in min 'ilmihi illa bima sya'a wasi'a kursiyyuhus-samawati wal-ardha wa la ya'uduhu hifzhuhuma wa huwal-'aliyyul-'azhimu la ikraha fid-dini qad tabayyanar-rusydu minal-ghayyi faman yakfur bith-thaghuti wa yu'min billahi faqadistamsaka bil-'urwatil-wutsqa lanfishama laha wallahu sami'un 'alimun Allahu waliyyul-ladzina amanu yukhrijuhum minazh-zhulumati ilan-nuri wal-ladzina kafaru auliya'uhumuth-thaghutu yukhrijunahum minan-nuri ilazh-zhulumati ula'ika ashhabun-nari hum fiha khaliduna inna anzalnahu fi lailatil-qadri wa ma adraka ma lailatul-qadri lailatul-qadri khairun min alfi syahrin tanazzalul-mala'ikatu war-ruhu fiha bi-idzni rabbihim min kulli amrin salamun hiya mathla'ul-fajri bismillahi
+
+### 3. TERJEMAHAN INDONESIA
+
+"…Engkaulah Yang Mahalembut terhadap apa yang Engkau kehendaki, dan jika Engkau kehendaki, (rasa sakit) itu tenang — Engkau menciptakan arsy (dan) air dengan nama Yang Mahalembut, maka ia pun tenang — maka sehatkanlah aku dan obatilah aku, wahai Yang memiliki angin (yang) menjadi tenang."
+
+"Dan bagi-Nya apa yang tenang di malam dan siang, dan Dialah Yang Maha Mendengar lagi Maha Mengetahui." **(ف ق ج م خ ت)** dan demikian pula **seratus (ص)** dan **seratus (دال)**; dan semoga Allah melimpahkan shalawat kepada penghulu kami Muhammad, keluarganya, dan para sahabatnya yang terpilih, dan semoga Dia memberi salam. — Maka apabila orang yang menderita sakit kepala atau migrain **membawa** itu, rasa sakitnya hilang dengan cepat dengan izin Allah Ta'ala; dan ini shahih serta teruji.
+
+(Juga sifat **hirz** untuk sakit kepala, khususnya migrain.)
+
+Ditulis lalu **digantungkan pada kepala dari sisi kiri**; sesungguhnya orang sakit itu sembuh dengan izin Allah Ta'ala. Dan inilah cara penulisannya: "Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang. Segala puji bagi Allah Tuhan semesta alam, dan semoga Allah melimpahkan shalawat kepada penghulu kami Muhammad, Nabi yang ummi, dan kepada keluarganya yang suci, dan semoga memberi salam. **(Kata-kata pembuka yang tidak jelas maknanya dalam naskah: صَلَوْحٌ وَطُرُوحٌ)** dan kepada Allah-lah bertawakal. Wahai **شَمْخِيَا** (dua kali), kalau sekiranya Kami turunkan Al-Qur'an ini kepada sebuah gunung, pasti engkau akan melihatnya tunduk lagi terbelah karena takut kepada Allah. **Tenanglah wahai rasa sakit dan tunduklah dari pembawa kitabku ini.** Tidakkah engkau memperhatikan Tuhanmu, bagaimana Dia memanjangkan bayangan; dan jika Dia menghendaki, niscaya Dia menjadikannya diam — diam, diam, diam. **Tenanglah wahai rasa sakit dari pembawa kitabku ini, sebagaimana tenang arsy Ar-Rahman di bawah As-Sab'ul-Matsani dan Al-Qur'an yang agung**; dengan hak (Allah) Yang menghidupkan tulang-tulang yang telah hancur; dan dengan hak asma-asma serta ayat-ayat ini **[✱ ٲ۱۱۱۱ٲ ٦٤✱ — bentuk asli dipertahankan]**."
+
+(Lalu) **Ayatul Kursi** lengkap (الله لا إله إلا هو الحي القيوم … العظيم) + **"لَا إِكْرَاهَ فِي الدِّينِ…"** sampai "…سَمِيعٌ عَلِيمٌ" + **"اللَّهُ وَلِيُّ الَّذِينَ آمَنُوا…"** sampai "…خَالِدُونَ" + **Surah Al-Qadr** lengkap sampai "سَلَامٌ هِيَ مَطْلَعُ الْفَجْرِ" — kemudian "بسم الله" (bersambung ke halaman 128).
+
+### 4. TATACARA PRAKTIK LENGKAP
+
+- **Hitungan huruf:** (ف ق ج م خ ت) + **100× حرف ص** + **100× حرف دال**, ditutup shalawat. Bila penderita **membawa** tulisan ini, sakit kepala/migrain hilang cepat. (Redaksi tetap seperti naskah.)
+- **Hirz sakit kepala/migrain:** ditulis, lalu **digantung di sisi kiri kepala**.
+- **Isi hirz (urut):** Basmalah → Al-Fatihah/tahmid → shalawat → kalimat pembuka yang tidak jelas maknanya (dibiarkan) → "يا شمخيا" 2× → ayat Al-Hasyr 21 → "اسكن أيها الوجع…" 1× → ayat Azh-Zhilal (Al-Furqan 45) → "سَاكِناً" 3× → pengulangan "اسكن…" → penyebutan arsy & As-Sab'ul-Matsani → "وبحق من يحيي العظام…" → asma/ayat + simbol → **Ayatul Kursi** → ayat "لا إكراه في الدين" → ayat "الله ولي الذين آمنوا" → **Surah Al-Qadr**.
+- **Jangan dibetulkan:** rangkaian simbol ✱ dan angka pada hirz.
+- Pada halaman ini tidak ada kata فُلَان / فُلَانَة, sehingga keterangan Fulan/Fulanata tidak berlaku di sini.

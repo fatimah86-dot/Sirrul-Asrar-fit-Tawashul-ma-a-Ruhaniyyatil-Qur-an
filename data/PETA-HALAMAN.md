@@ -309,3 +309,15 @@ Catatan: induk **1166 hlm**, `wafak/rajah` tetap **108**, DOCX 32.17 MB, PDF 48.
 | 122 | Doa "اللهم أغن فلان بن فلان" tinta misik + Ath-Thalaq 21× + riwayat orang kaya jadi fakir | — | mengandung `فُلَانَ بْنَ فُلَانٍ` → panduan Fulan/Fulanata |
 
 Catatan: induk **1178 hlm**, rajah tetap **108**, DOCX 32.18 MB, PDF 48.22 MB. Verifikasi: 0 kebocoran `![`/`](`, render hlm. 331 bersih.
+
+### Status pengerjaan Hal. 123–127 (selesai)
+
+| Hal. | Judul | Rajah | Catatan |
+|---|---|---|---|
+| 123 | Riwayat orang fakir, Doa Faraj dan amalan Al-Waqi'ah | — | Al-Waqi'ah 14× setelah Ashar |
+| 124 | Lanjutan wirid dan doa agung | — | doa 7× |
+| 125 | Pengobatan sakit kepala dan migrain | — | huruf dan tulisan dipertahankan |
+| 126 | Wafaq 4×4, delapan asma dan bait untuk sakit kepala | `hal-126-rajah-01.png` | angka/bentuk sel dan tulisan pinggir tidak terbaca utuh; tidak ditafsirkan |
+| 127 | Hitungan huruf dan hirz sakit kepala | — | hirz berlanjut di Hal. 128; simbol dipertahankan |
+
+Catatan: induk **1192 hlm**, **109 halaman berrajah**, DOCX 32.27 MB, PDF 48.38 MB. Verifikasi: 0 kebocoran `![`/`](`; render PDF hlm. 347 menunjukkan rajah dan simbol ✱. Generator PDF memakai font cadangan untuk simbol yang tidak tersedia pada Amiri.
