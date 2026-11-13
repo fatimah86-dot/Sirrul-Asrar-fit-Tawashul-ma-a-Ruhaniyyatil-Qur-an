@@ -236,3 +236,15 @@ Sejak batch Hal. 88, dokumen induk memuat **kitab dari awal**: Sampul–60
 | 92 | Khawash Ayatul Kursi butir 1–5 + riwayat rumah kosong | — | memuat `فُلَانٍ ابْنِ فُلَانَةَ` → kaidah Fulan diterapkan |
 
 Catatan: penghitung `wafak/rajah` pada induk naik 102 → **104**. Induk: DOCX 31.6 MB, PDF 47.19 MB, **1099 hlm** (termasuk Sampul–60).
+
+### Status pengerjaan Hal. 93–97 (selesai)
+
+| Hal. | Judul | Rajah | Catatan |
+|---|---|---|---|
+| 93 | Sambungan riwayat rumah kosong + wafaq Ayatul Kursi (dagang & peti uang) + janji Imam Hasan bin Ali untuk 20 ayat | `hal-093-rajah-01.png` — wafaq 5 baris × 4 kolom (`لم / لا إله إلا هو / الحي / القيوم` + angka) | **angka tidak dikarang**; crop dimulai di bawah baris pengantar "وهذه صورته" |
+| 94 | Pelengkap daftar 20 ayat + shalat hajat sepertiga malam + doa panjang + Ayatul Kursi pada kafan (3 tempat) | — | doa panjang disalin utuh di seksi 1 |
+| 95 | Riwayat kapal & Ism A'zham + obat segala penyakit (gelas/piring, misik-za'faran-air mawar) + fadhilah harian | — | angka/hitungan: 3×, 7×, 3 hari pagi-sore |
+| 96 | Air obat & limpa + mahabbah 5× (mencabut cinta) + catatan penulis (amal salaf, bukan amalan mursyid) + awal wafaq mahabbah pembesar | — (bentuk wafaq ada di 97) | memuat `الْعِلَّةِ الْفُلَانِيَّةِ` (jenis penyakit) — bukan nama orang, kaidah Fulan hanya sebagai panduan |
+| 97 | **Wafaq 5×5 mahabbah** + cara mengasapi ('ud hindi, jawi, "kayu salib") + riwayat Ibnu Mas'ud | `hal-097-rajah-01.png` — wafaq 5×5 berbingkai + tulisan tangan di 4 sisi | tulisan bingkai tidak terbaca utuh, angka sel tampak mirror → **tidak ditafsirkan**; "عود الصليب" tidak dijelaskan naskah |
+
+Catatan: penghitung `wafak/rajah` pada induk naik 104 → **106**. Induk: DOCX 32.05 MB, PDF 47.95 MB, **1114 hlm** (termasuk Sampul–60). Verifikasi render PDF hlm. 255/258/260/262/267: rajah tampil benar, tidak ada `![` / `](` bocor sebagai teks.

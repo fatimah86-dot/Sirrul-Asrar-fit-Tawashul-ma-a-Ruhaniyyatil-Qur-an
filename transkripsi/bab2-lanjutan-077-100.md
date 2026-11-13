@@ -777,3 +777,236 @@ Juga di antara keistimewaan "bismillahir-rahmanir-rahim" yang diberkahi: barangs
 - Riwayat rumah kosong berhantu: pembacaan Ayatul Kursi hingga ayat "وَلَا يَئُودُهُ حِفْظُهُمَا" dan pengulangannya; berita ini keterangan keutamaan, bukan tatacara tambahan.
 - Kalimat terakhir halaman terpotong di batas halaman; lanjutannya ada pada halaman 93.
 - Nama pada butir 3 adalah satu-satunya tempat di halaman ini yang memuat kata فُلَان / فُلَانَة; kaidah penulisannya dijelaskan pada butir di atas (laki-laki: Fulan ibni Fulanata; perempuan: Fulanata binti Fulanata).
+
+---
+
+## HALAMAN 93 — PDF hal. 93 / bagian — Sambungan riwayat rumah kosong, wafaq Ayatul Kursi 5×4, dan janji Imam Hasan bin Ali untuk 20 ayat
+
+### 1. TEKS ARAB BERHARAKAT
+
+أَخٌ مِنْ إِخْوَانِي وَكَانَ صَالِحاً فَقَالَ لِي: أَنَّ هَذَا عِفْرِيتٌ أَرَادَ أَذِيَّتَكَ فَحَرَقْتُهُ هَذِهِ الْآيَةُ لِأَنَّكَ أُلْهِمْتَ قِرَاءَتَهَا، فَلَمَّا سَمِعْتُ ذَلِكَ اتَّخَذْتُهَا وِرْداً وَذِكْراً لَيْلاً وَنَهَاراً فَرَأَيْتُ مِنْ بَرَكَتِهَا شَيْئاً عَظِيماً.
+
+أَيْضاً مِنْ خَوَاصِّ آيَةِ الْكُرْسِيِّ قِيلَ: مَنْ رَسَمَ آيَةَ الْكُرْسِيِّ فِي وَفْقٍ مُخَمَّسٍ عَدَدِيٍّ وَحَرْفِيٍّ فِي سَاعَةٍ سَعِيدَةٍ لِلشَّمْسِ ثُمَّ وَضَعَ فِي أَعْمَالِ التِّجَارَةِ فَإِنَّهَا تَزْكُو وَتَرْبَحُ، وَإِنْ وَضَعَ الْوَفْقَ الْمَذْكُورَ فِي صُنْدُوقِ الْمَالِ حُفِظَ وَلَمْ يَفْرُغِ الْمَالُ مِنَ الصُّنْدُوقِ مَا دَامَ فِيهِ، وَذَلِكَ كَمَا وَرَدَ.
+
+وَهَذِهِ صُورَتُهُ كَالشَّكْلِ الْآتِي كَمَا تَرَى.
+
+![Wafaq Ayatul Kursi 5 baris × 4 kolom halaman 93](../assets/rajah/sirrul-asrar-tight/hal-093-rajah-01.png)
+
+وَرُوِيَ عَنِ الْإِمَامِ الْحَسَنِ بْنِ عَلِيٍّ (عَلَيْهِمَا أَفْضَلُ الصَّلَوَاتِ وَالسَّلَامِ) أَنَّهُ قَالَ: أَنَا ضَامِنٌ لِمَنْ قَرَأَ هَذِهِ الْآيَةَ الشَّرِيفَةَ إِلَى عِشْرِينَ آيَةً يَعْصِمُهُ اللَّهُ مِنْ كُلِّ جَبَّارٍ عَنِيدٍ وَشَيْطَانٍ مَرِيدٍ وَسُلْطَانٍ ظَالِمٍ وَنَصٍّ غَادِرٍ وَسِعٍ ضَارٍّ. وَالْآيَاتُ الْكَرِيمَةُ هِيَ: آيَةُ الْكُرْسِيِّ، وَثَلَاثُ آيَاتٍ مِنْ سُورَةِ الْأَعْرَافِ: ﴿إِنَّ رَبَّكُمُ اللَّهُ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ فِي سِتَّةِ أَيَّامٍ ثُمَّ اسْتَوَى عَلَى الْعَرْشِ يُغْشِي اللَّيْلَ النَّهَارَ يَطْلُبُهُ حَثِيثاً وَالشَّمْسَ وَالْقَمَرَ وَالنُّجُومَ مُسَخَّرَاتٍ بِأَمْرِهِ أَلَا لَهُ الْخَلْقُ وَالْأَمْرُ تَبَارَكَ اللَّهُ رَبُّ الْعَالَمِينَ﴾ ﴿ادْعُوا رَبَّكُمْ تَضَرُّعاً وَخُفْيَةً إِنَّهُ لَا يُحِبُّ الْمُعْتَدِينَ﴾ ﴿وَلَا تُفْسِدُوا فِي الْأَرْضِ بَعْدَ إِصْلَاحِهَا وَادْعُوهُ خَوْفاً وَطَمَعاً إِنَّ رَحْمَتَ اللَّهِ قَرِيبٌ مِنَ الْمُحْسِنِينَ﴾ وَعَشْرُ آيَاتٍ مِنْ أَوَّلِ سُورَةِ الصَّافَّاتِ إِلَى قَوْلِهِ تَعَالَى ﴿لَا يَسْمَعُونَ فِيهَا لَغْواً﴾ وَثَلَاثُ آيَاتٍ مِنْ
+
+### 2. TRANSLITERASI LATIN
+
+Akhun min ikhwani wa kana shalihan faqala li: anna hadza 'ifritun arada adziyyataka faharaqtuhu hadzihil-ayatu li-annaka ulhimta qira'ataha, falamma sami'tu dzalika ittakhadztuha wirdan wa dzikran lailan wa naharan fara'aitu min barakatiha syai'an 'azhiman.
+
+Aidhan min khawashshi Ayatil-Kursiyyi qila: man rasama Ayatal-Kursiyyi fi wafqin mukhammasin 'adadiyyin wa harfiyyin fi sa'atin sa'idatin lisy-syamsi tsumma wadha'a fi a'malit-tijarati fa-innaha tazku wa tarbahu, wa in wadha'al-wafqal-madzkura fi shunduqil-mali hufizha wa lam yafrughil-malu minash-shunduqi ma dama fihi, wa dzalika kama warada.
+
+Wa hadzihi shuratuhu kasy-syaklil-ati kama tara.
+
+Wa ruwiya 'anil-Imamil-Hasani bni 'Aliyyin ('alaihimaa afdhalush-shalawati was-salamu) annahu qala: ana dhaminun liman qara'a hadzihil-ayatas-syarifata ila 'isyrina ayatan ya'shimuhullahu min kulli jabbarin 'anidin wa syaithanin maridin wa sulthanin zhalimin wa nashshin ghadirin wa si'in dharin. Wal-ayatur-karimatu hiya: Ayatul-Kursiyyi, wa tsalatsu ayatin min suratil-A'rafi: ﴿Inna rabbakumulladzi khalaqas-samawati wal-ardha fi sittati ayyamin tsummastawa 'alal-'arsyi yughsyil-lailan-nahara yathlubuhu hatsitsan wasy-syamsa wal-qamara wan-nujuma musakhkharatin bi-amrihi ala lahul-khalqu wal-amru tabarakallahu rabbul-'alamin﴾ ﴿Ud'u rabbakum tadharru'an wa khufyatan innahu la yuhibbul-mu'tadin﴾ ﴿Wa la tufsidu fil-ardhi ba'da ishlahiha wad'uhu khaufan wa thama'an inna rahmatallahi qaribun minal-muhsinin﴾ wa 'asyru ayatin min awwali suratish-Shaffati ila qaulihi ta'ala ﴿La yasma'una fiha laghwan﴾ wa tsalatsu ayatin min
+
+### 3. TERJEMAHAN INDONESIA
+
+Seorang saudara di antara saudara-saudaraku, dan ia adalah orang saleh, berkata kepadaku: "Sesungguhnya ini adalah 'ifrit (makhluk halus perusak) yang hendak mencelakaimu, maka ayat ini telah membakarnya, karena engkau diilhamkan membacanya." Ketika aku mendengar hal itu, aku menjadikannya wirid dan zikir pada malam dan siang, lalu aku melihat dari keberkahannya sesuatu yang besar.
+
+Juga di antara keistimewaan Ayatul Kursi, dikatakan: barangsiapa menulis (menggambar) Ayatul Kursi dalam sebuah wafaq mukhammas (bersusun lima) yang berisi angka dan huruf pada saat sa'd (waktu baik) bagi matahari, kemudian meletakkannya dalam urusan perdagangan, maka perdagangannya akan berkembang dan beruntung; dan jika ia meletakkan wafaq tersebut di dalam kotak/lemari penyimpanan uang, maka (uang itu) terjaga dan harta tidak akan habis dari kotak itu selama wafaq masih berada di dalamnya — demikian sebagaimana disebutkan.
+
+Dan inilah bentuknya sebagaimana gambar berikut yang engkau lihat.
+
+Diriwayatkan dari Imam Hasan bin Ali (semoga Allah melimpahkan shalawat dan salam terbaik kepada keduanya) bahwa ia berkata: "Aku menjamin bagi siapa yang membaca ayat yang mulia ini sampai dua puluh ayat, Allah akan melindunginya dari setiap penguasa yang zalim, setan yang durhaka, sultan yang aniaya, dan… (kata yang tercetak tidak jelas), serta orang yang dengki yang membahayakan." Dan ayat-ayat yang mulia itu adalah: Ayatul Kursi, tiga ayat dari Surah Al-A'raf: "Sesungguhnya Tuhanmu adalah Allah yang menciptakan langit dan bumi dalam enam masa, kemudian Dia bersemayam di atas 'Arsy; Dia menutupkan malam kepada siang yang mengikutinya dengan cepat, dan (diciptakan-Nya pula) matahari, bulan, dan bintang-bintang (masing-masing) tunduk kepada perintah-Nya. Ingatlah, menciptakan dan memerintah hanyalah hak Allah. Mahasuci Allah, Tuhan semesta alam"; "Berdoalah kepada Tuhanmu dengan merendahkan diri dan suara yang lembut. Sesungguhnya Allah tidak menyukai orang-orang yang melampaui batas"; "Dan janganlah kamu membuat kerusakan di bumi sesudah (Allah) memperbaikinya, dan berdoalah kepada-Nya dengan rasa takut dan harapan. Sesungguhnya rahmat Allah amat dekat kepada orang-orang yang berbuat baik"; dan sepuluh ayat dari awal Surah Ash-Shaffat sampai firman Allah "mereka tidak mendengar di dalamnya perkataan yang sia-sia"; dan tiga ayat dari… — (lanjutan ada pada halaman 94).
+
+### 4. TATACARA PRAKTIK LENGKAP
+
+- Sambungan riwayat: teman yang saleh menjelaskan bahwa 'ifrit yang hendak mencelakai telah terbakar oleh Ayatul Kursi; si pembaca lalu menjadikannya wirid siang-malam dan merasakan keberkahannya. Bagian ini berita keutamaan, bukan tatacara baru.
+- **Wafaq Ayatul Kursi (5 baris × 4 kolom):** ditulis pada **saat sa'd (waktu baik) bagi matahari**, berisi lafaz "لم / لا إله إلا هو / الحي / القيوم" pada baris pertama dan angka-angka pada empat baris berikutnya. Dua kegunaan yang disebut naskah: (a) diletakkan pada usaha dagang → dagang berkembang dan beruntung; (b) diletakkan di dalam **kotak/peti penyimpanan uang** → harta terjaga dan tidak habis selama wafaq masih di dalamnya. Rajah dicetak apa adanya; **angka pada cetakan tidak dikarang** — salin dari gambar cetak.
+- **Janji Imam Hasan bin Ali:** pembacaan **20 ayat** menjamin perlindungan dari penguasa zalim, setan durhaka, orang dengki yang membahayakan. Daftar 20 ayat: Ayatul Kursi + 3 ayat Surah Al-A'raf (7:54, 7:55, 7:56) + 10 ayat awal Surah Ash-Shaffat sampai "لَا يَسْمَعُونَ فِيهَا لَغْواً" + 3 ayat berikutnya (daftar berlanjut di halaman 94).
+- Kata pada daftar perlindungan ("نَصٍّ غَادِرٍ وَسِعٍ ضَارٍّ") tercetak tidak jelas; **tidak diubah dan tidak ditebak**.
+- Pada halaman ini tidak ada kata فُلَان / فُلَانَة, sehingga keterangan Fulan/Fulanata tidak berlaku di sini.
+
+---
+
+## HALAMAN 94 — PDF hal. 94 / bagian — Daftar 20 ayat (lanjutan), shalat hajat sepertiga malam, doa panjang, dan penulisan Ayatul Kursi pada kafan
+
+### 1. TEKS ARAB BERHARAKAT
+
+سُورَةِ الرَّحْمَنِ ﴿يَا مَعْشَرَ الْجِنِّ وَالْإِنْسِ﴾ إِلَى قَوْلِهِ تَعَالَى ﴿إِلَّا بِسُلْطَانٍ﴾ وَخَوَاتِيمِ سُورَةِ الْحَشْرِ، وَآخِرِ سُورَةِ تَبَّتْ (طِبْقاً مَعَ الْبَسْمَلَةِ).
+
+وَمِنْ خَوَاصِّ آيَةِ الْكُرْسِيِّ الْمُبَارَكَةِ هُوَ كَالْآتِي:
+
+إِذَا هَمَّ أَحَدُكُمْ أَمْرٌ فَلْيَتَوَضَّأْ فِي جُنْحِ اللَّيْلِ وَيُصَلِّي رَكْعَتَيْنِ، كُلَّ رَكْعَةٍ بِالْفَاتِحَةِ (مَرَّةً) وَآيَةِ الْكُرْسِيِّ (ثَلَاثِ مَرَّاتٍ)، فَإِذَا سَلَّمَ يَقْرَأُ آيَةَ الْكُرْسِيِّ سَبْعَ مَرَّاتٍ، وَيَقُولُ بَعْدَهَا: «اللَّهُمَّ أَنْتَ تَسْمَعُ كَلَامِي وَتَرَى مَكَانِي وَتَعْلَمُ سِرِّي وَعَلَانِيَتِي، لَا يَخْفَى عَلَيْكَ شَيْءٌ مِنْ أَمْرِي، أَدْعُوكَ دُعَاءَ الْبَائِسِ الْمُسْتَغِيثِ الْمُعْتَرِفِ بِذَنْبِهِ وَالتَّقْصِيرِ، وَأَسْأَلُكَ مَسْأَلَةَ الْمِسْكِينِ، وَأَبْتَهِلُ إِلَيْكَ ابْتِهَالَ الْعَبْدِ الضَّعِيفِ الْمُذْنِبِ الْحَقِيرِ، ابْتِهَالَ مَنْ خَضَعَتْ لَكَ رَقَبَتُهُ وَفَاضَتْ إِلَيْكَ عَبْرَتُهُ وَأَذَلَّ لَكَ خَدَّهُ وَرَغِمَ لَكَ أَنْفُهُ، أَنْ تُحْيِيَ قُلُوبَنَا وَتَشْرَحَ صُدُورَنَا وَتَجْعَلَ مَسَاعِينَا خَالِصَةً لِوَجْهِكَ الْكَرِيمِ وَسَبَبَ الْفَوْزِ إِلَى نَعِيمٍ، وَفِّقْنَا لِمَا هُوَ مَحْضُ رِضَاكَ، وَاخْتِمْ لَنَا مِنْكَ بِخَيْرٍ، وَاجْعَلْنَا غَداً مَعَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ مِنَ النَّبِيِّينَ وَالصِّدِّيقِينَ وَالشُّهَدَاءِ وَالصَّالِحِينَ وَحَسُنَ أُولَئِكَ رَفِيقاً، وَاكْفِنَا مَا أَهَمَّنَا مِنْ أُمُورِ الدُّنْيَا وَالْآخِرَةِ، وَلَا تُشْمِتْ بِنَا الْأَعْدَاءَ وَلَا الْقَوْمَ الْحَاسِدِينَ، وَلَا تَجْعَلْ مُصِيبَتَنَا فِي دِينِنَا، وَلَا تَجْعَلِ الدُّنْيَا أَكْبَرَ هَمِّنَا وَلَا مَبْلَغَ عِلْمِنَا، وَلَا تُسَلِّطْ عَلَيْنَا بِذُنُوبِنَا مَنْ لَا يَخَافُكَ وَلَا يَرْحَمُنَا، وَمَتِّعْنَا بِأَسْمَاعِنَا وَأَبْصَارِنَا وَأَحْيِنَا حَيَاةً طَيِّبَةً، وَافْتَحْ لَنَا أَبْوَابَ الْخَيْرِ وَارْزُقْنَا وَأَنْتَ خَيْرُ الرَّازِقِينَ، رَبَّنَا اغْفِرْ لَنَا وَلِإِخْوَانِنَا الَّذِينَ سَبَقُونَا بِالْإِيمَانِ وَلَا تَجْعَلْ فِي قُلُوبِنَا غِلّاً لِلَّذِينَ آمَنُوا رَبَّنَا إِنَّكَ رَءُوفٌ رَحِيمٌ. رَبَّنَا اغْفِرْ لَنَا ذُنُوبَنَا وَإِسْرَافَنَا فِي أَمْرِنَا وَثَبِّتْ أَقْدَامَنَا وَانْصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ. رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ بِرَحْمَتِكَ يَا أَرْحَمَ الرَّاحِمِينَ.»
+
+وَأَيْضاً مِنْ خَوَاصِّ آيَةِ الْكُرْسِيِّ الشَّرِيفَةِ: قِيلَ إِنَّهُ إِذَا كُتِبَتْ عَلَى كَفَنِ الْمَيِّتِ فِي ثَلَاثِ أَمَاكِنَ، وَهُوَ عِنْدَ رَأْسِهِ وَعِنْدَ وَسَطِهِ وَعِنْدَ سَاقَيْهِ، فَإِنَّ ذَلِكَ الْمَيِّتِ لَمْ يُعَذَّبْ فِي قَبْرِهِ وَيَرْتَفِقُ الْمَلَكَانِ بِهِ وَقْتَ السُّؤَالِ، لِأَنَّهَا أَعْظَمُ آيَةٍ فِي الْقُرْآنِ وَقَدِ ابْتُدِئَ فِيهَا بِاسْمِهِ الْكَرِيمِ.
+
+- (فَاعْرِفْ قَدْرَهَا وَحَافِظْ بِالْمُدَاوَمَةِ لِمَا أَوْدَعَ اللَّهُ فِيهَا مِنَ الْأَسْرَارِ) وَخَاصَّةً فِي الْمُهِمَّاتِ وَعِنْدَ قَضَاءِ الْحَاجَاتِ.
+
+### 2. TRANSLITERASI LATIN
+
+suratir-Rahmani ﴿Ya ma'syaral-jinni wal-insi﴾ ila qaulihi ta'ala ﴿illa bisulthanin﴾ wa khawatimi suratil-Hasyri, wa akhiru surati Tabbat (thibqan ma'al-basmalah).
+
+Wa min khawashshi Ayatil-Kursiyyil-mubarakati huwa kal-ati:
+
+Idza hamma ahadukum amrun falyatawadhha' fi junhil-laili wa yushalli rak'ataini, kulla rak'atin bil-Fatihati (marratan) wa Ayatil-Kursiyyi (tsalatsi marratin), fa-idza sallama yaqra'u Ayatal-Kursiyyi sab'a marratin, wa yaqulu ba'daha: «Allahumma anta tasma'u kalami wa tara makani wa ta'lamu sirri wa 'alaniyati, la yakhfa 'alaika syai'un min amri, ad'uka du'a'al-ba'isil-mustaghyitsil-mu'tarifi bidzanbihi wat-taqshiri, wa as-aluka mas-alatal-miskini, wa abtahilu ilaika ibtihalal-'abdizh-zhza'ifil-mudznibil-haqiri, ibtihala man khadha'at laka raqabatuhu wa fadhbat ilaika 'abratuhu wa adzalla laka khaddahu wa raghima laka anfuhu, an tuhyiya qulubana wa tasyraha shudurana wa taj'ala masa'ina khalishatan liwajhikak-karimi wa sababal-fauzi ila na'imin, waffiqna lima huwa mahdhu ridhaka, wakhtim lana minka bikhairin, waj'alna ghadan ma'alladzina an'amta 'alaihim minan-nabiyyina wash-shiddiqina wasy-syuhada'i wash-shalihina wa hasuna ula'ika rafiqan, wakfina ma ahammanna min umurid-dunya wal-akhirati, wa la tusymit binal-a'da'a wa lal-qaumal-hasidina, wa la taj'al mushibatana fi dinina, wa la taj'alid-dunya akbara hammina wa la mablagha 'ilmina, wa la tusallith 'alaina bidzunubina man la yakhafuka wa la yarhamuna, wa matti'na bi-asma'ina wa absharina wa ahyina hayatan thayyibatan, waftah lana abwabal-khairi warzuqna wa anta khairur-raqin, rabbanaghfir lana wa li-ikhwaninalladzina sabaquna bil-imani wa la taj'al fi qulubina ghillan lilladzina amanu rabbana innaka ra'ufun rahim. Rabbanaghfir lana dzunubana wa israfana fi amrina wa tsabbit aqdamana wanshurna 'alal-qaumil-kafirin. Rabbana atina fid-dunya hasanatan wa fil-akhirati hasanatan wa qina 'adzaban-nari birahmatika ya arhamar-rahimin.»
+
+Wa aidhan min khawashshi Ayatil-Kursiyyisy-syarifati: qila innahu idza kutibat 'ala kafanil-mayyiti fi tsalatsi amakina, wa huwa 'inda ra'sihi wa 'inda wasathihi wa 'inda saqaihi, fa-inna dzalikal-mayyiti lam yu'adzdzab fi qabrihi wa yartafiqul-malakani bihi waqtas-su'ali, li-annaha a'zhamu ayatin fil-Qur'ani wa qadibtudi'a fiha bismihil-karim.
+
+- (Fa'rif qadraha wa hafizh bil-mudawamati lima auda'allahu fiha minal-asrari) wa khashshatan fil-muhimmati wa 'inda qadha'il-hajati.
+
+### 3. TERJEMAHAN INDONESIA
+
+… Surah Ar-Rahman: "Wahai golongan jin dan manusia" sampai firman Allah "kecuali dengan kekuasaan (dari Allah)", serta penutup-penutup Surah Al-Hasyr, dan akhir Surah Tabbat (dengan basmalah).
+
+Dan di antara keistimewaan Ayatul Kursi yang diberkahi adalah sebagai berikut:
+
+Apabila salah seorang dari kalian mempunyai suatu keperluan (hajat), hendaklah ia berwudhu pada tengah malam dan shalat dua rakaat; setiap rakaat dengan Al-Fatihah (satu kali) dan Ayatul Kursi (tiga kali). Apabila ia telah salam, ia membaca Ayatul Kursi tujuh kali, lalu setelahnya berdoa: "Ya Allah, Engkau mendengar perkataanku, melihat tempatku, mengetahui rahasiaku dan yang tampak dariku; tidak ada sesuatu pun dari urusanku yang tersembunyi bagi-Mu. Aku menyeru-Mu dengan seruan orang yang sengsara, yang meminta pertolongan, yang mengakui dosa dan kelalaiannya; aku memohon kepada-Mu dengan permohonan orang miskin, dan aku merendahkan diri kepada-Mu dengan kerendahan seorang hamba yang lemah, berdosa, dan hina; kerendahan orang yang telah tunduk lehernya kepada-Mu, yang mengalir air matanya kepada-Mu, yang telah direndahkan pipinya bagi-Mu dan yang telah dihinakan hidungnya bagi-Mu: (yaitu) agar Engkau menghidupkan hati kami, melapangkan dada kami, dan menjadikan usaha kami murni bagi wajah-Mu yang Mulia serta menjadi sebab kemenangan menuju kenikmatan. Taufikkanlah kami kepada apa yang merupakan keridhaan-Mu yang murni, akhiri (hidup) kami dari-Mu dengan kebaikan, jadikanlah kami esok bersama orang-orang yang telah Engkau beri nikmat, yaitu para nabi, shiddiqin, syuhada, dan orang-orang saleh, dan mereka itulah sebaik-baik teman. Cukupkanlah kami dalam perkara yang menyusahkan kami dari urusan dunia dan akhirat, jangan jadikan musuh dan kaum yang dengki bergembira atas (musibah) kami, jangan jadikan musibah kami pada agama kami, jangan jadikan dunia sebagai cita-cita terbesar kami dan tidak pula sebagai puncak ilmu kami, jangan Engkau kuasakan atas kami — karena dosa-dosa kami — orang yang tidak takut kepada-Mu dan tidak menyayangi kami, berilah kami kenikmatan pada pendengaran dan penglihatan kami, hidupkanlah kami dengan kehidupan yang baik, bukakanlah bagi kami pintu-pintu kebaikan, berilah kami rezeki, Engkaulah sebaik-baik pemberi rezeki. Ya Tuhan kami, ampunilah kami dan saudara-saudara kami yang telah mendahului kami dalam iman, dan jangan jadikan dalam hati kami kebencian terhadap orang-orang yang beriman; ya Tuhan kami, sesungguhnya Engkau Maha Penyayang lagi Maha Pengasih. Ya Tuhan kami, ampunilah dosa-dosa kami dan kelebihan-kelebihan kami dalam urusan kami, teguhkanlah pendirian kami, dan tolonglah kami terhadap kaum yang kafir. Ya Tuhan kami, berilah kami kebaikan di dunia dan kebaikan di akhirat, dan peliharalah kami dari siksa api neraka, dengan rahmat-Mu, wahai Yang Maha Pengasih dari segala yang mengasihi."
+
+Dan juga di antara keistimewaan Ayatul Kursi yang mulia, dikatakan: apabila Ayatul Kursi dituliskan pada kafan mayit di tiga tempat — yakni di dekat kepalanya, di dekat tengahnya, dan di dekat kedua kakinya — maka mayit itu tidak akan disiksa di kuburnya, dan kedua malaikat (Munkar dan Nakir) akan memperlakukannya dengan lembut pada waktu pertanyaan, karena Ayatul Kursi adalah ayat paling agung dalam Al-Qur'an dan padanya dimulai dengan nama-Nya yang Mulia.
+
+- "Maka kenalilah kemuliaannya dan jagalah dengan terus-menerus (mengamalkannya) karena rahasia-rahasia yang Allah titipkan di dalamnya," khususnya dalam perkara-perkara penting dan ketika menunaikan hajat-hajat.
+
+### 4. TATACARA PRAKTIK LENGKAP
+
+- **Pelengkap daftar 20 ayat** (lanjutan halaman 93): Surah Ar-Rahman dari "يَا مَعْشَرَ الْجِنِّ وَالْإِنْسِ" sampai "إِلَّا بِسُلْطَانٍ", penutup Surah Al-Hasyr, dan akhir Surah Tabbat — disebut dibaca **bersama basmalah**.
+- **Shalat hajat pada sepertiga malam ("junhul-lail"):** berwudhu pada tengah malam, shalat **2 rakaat**; tiap rakaat: Al-Fatihah 1× + Ayatul Kursi **3×**; setelah salam membaca Ayatul Kursi **7×**; lalu membaca doa panjang "اللَّهُمَّ أَنْتَ تَسْمَعُ كَلَامِي…" sampai "…يَا أَرْحَمَ الرَّاحِمِينَ" (doa lengkap tercetak pada naskah dan disalin pada seksi 1).
+- **Penulisan Ayatul Kursi pada kafan mayit:** ditulis di **tiga tempat** — dekat kepala, tengah, dan kedua kaki. Menurut teks: mayit terbebas dari siksa kubur, dan Munkar–Nakir bertanya dengan menyebut nama Allah yang Mulia.
+- Penutup halaman: perintah mengenali kemuliaan Ayatul Kursi dan **menjaganya dengan mudawamah** (terus-menerus), terutama dalam perkara penting dan saat menunaikan hajat.
+- Pada halaman ini tidak ada kata فُلَان / فُلَانَة, sehingga keterangan Fulan/Fulanata tidak berlaku di sini.
+
+---
+
+## HALAMAN 95 — PDF hal. 95 / bagian — Riwayat kapal & Ism A'zham, obat segala penyakit, dan fadhilah harian Ayatul Kursi
+
+### 1. TEKS ARAB BERHARAKAT
+
+أَيْضاً مِنْ بَابِ التَّشْوِيقِ لِتَعْدَادِ خَوَاصِّ الْآيَةِ الْكَرِيمَةِ الشَّرِيفَةِ: هُوَ أَنَّهُ رُوِيَ عَنْ بَعْضِ الصَّالِحِينَ أَنَّهُ كَانَ فِي سَفِينَةٍ فَهَبَّ أَوْ قَامَ عَلَيْهَا رِيحٌ سَوْدَاءُ الَّتِي قَلَّ مَنْ يَنْجُو مِنْهَا، فَرَسَمَ آيَةَ الْكُرْسِيِّ (أَيْ كَتَبَ) فِي قِرْطَاسٍ وَعَلَّقَهَا فِي مَهَبِّ الْهَوَاءِ وَبَسَطَ كَفَّيْهِ إِلَى اللَّهِ وَقَالَ: اللَّهُمَّ إِنِّي أَسْأَلُكَ بِاسْمِ الْعَظِيمِ «اللَّهُ لَا إِلَهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ» إِلَى آخِرِ الْآيَةِ وَهُوَ الْعَلِيُّ الْعَظِيمُ، وَأَسْأَلُكَ بِبَرَكَتِهَا أَنْ تُنْجِيَنَا مِمَّا نَزَلَ بِنَا، وَأَنْتَ عَلَّامُ الْغُيُوبِ وَكَاشِفُ الْكُرُوبِ، وَأَسْأَلُكَ بِجَاهِ حَبِيبِكَ مُحَمَّدٍ ﷺ فَمَا اسْتَتَمَّ دُعَاءَهُ حَتَّى فَرَّجَ اللَّهُ عَنْهُمْ وَجَاءَتْهُمُ الرِّيحُ الطَّيِّبَةُ فَسَارُوا بِالْأَمْنِ وَالسَّلَامَةِ.
+
+أَيْضاً مِنْ خَوَاصِّ آيَةِ الْكُرْسِيِّ: مَنْ أَرَادَ أَنْ يَشْفِيَهُ اللَّهُ مِنْ كُلِّ دَاءٍ فِي بَدَنِهِ مِنْ جَمِيعِ الْأَمْرَاضِ؟ عَلَى أَنْ تُكْتَبَ فِي جَامِ زُجَاجٍ (أَوْ صَحْنٍ صِينِيٍّ أَبْيَضَ) وَذَلِكَ بِمِسْكٍ وَزَعْفَرَانٍ وَمَاءِ وَرْدٍ آيَةُ الْكُرْسِيِّ الْمُبَارَكَةُ (ثَلَاثَ مَرَّاتٍ) وَيُكْتَبُ مَعَهَا ﴿لَوْ أَنْزَلْنَا هَذَا الْقُرْآنَ عَلَى جَبَلٍ﴾ إِلَى آخِرِ سُورَةِ الْحَشْرِ الْمُبَارَكَةِ، وَأَيْضاً قَوْلُهُ تَعَالَى ﴿وَلَوْ أَنَّ قُرْآناً سُيِّرَتْ بِهِ الْجِبَالُ أَوْ قُطِّعَتْ بِهِ الْأَرْضُ أَوْ كُلِّمَ بِهِ الْمَوْتَى بَلْ لِلَّهِ الْأَمْرُ جَمِيعاً﴾، فَإِذَا فَرَغَ مِنَ الْكِتَابَةِ يَقْرَأُ عَلَيْهَا آيَةَ الْكُرْسِيِّ (سَبْعَ مَرَّاتٍ) وَيُبَخِّرُهَا بِالرَّوَائِحِ الطَّيِّبَةِ وَيَشْرَبُهَا لِمُدَّةِ ثَلَاثِ أَيَّامٍ صَبَاحاً وَمَسَاءً فَإِنَّ اللَّهَ يَشْفِيهِ مِمَّا يَكُو. (وَمَنْ كَتَبَهَا وَعَلَّقَهَا عَلَيْهِ كَانَ أَبْلَغَ).
+
+أَيْضاً مِنْ خَوَاصِّ آيَةِ الْكُرْسِيِّ الشَّرِيفَةِ: مَنْ قَرَأَهَا نَهَاراً حَفِظَهُ اللَّهُ تَعَالَى ذَلِكَ الْيَوْمَ. وَمَنْ قَرَأَهَا لَيْلاً حَفِظَهُ اللَّهُ فِي لَيْلَتِهِ.
+
+أَيْضاً مِنْ خَوَاصِّ آيَةِ الْكُرْسِيِّ: مَنْ قَرَأَهَا عَقِبَ صَلَاةٍ غَفَرَ اللَّهُ ذُنُوبَهُ وَكَفَّرَ اللَّهُ سَيِّئَاتِهِ إِلَى الصَّلَاةِ الْأُخْرَى.
+
+وَمِنْ خَوَاصِّهَا: مَنْ قَرَأَهَا عِنْدَ النَّوْمِ كَانَتْ لَهُ حِرْزاً مِنَ الشَّيْطَانِ الرَّجِيمِ.
+
+وَمِنْ خَوَاصِّ آيَةِ الْكُرْسِيِّ: مَنْ قَرَأَهَا عِنْدَ غَضَبِهِ وَتِفْلِ شِمَالِهِ خَنَسَ شَيْطَانُهُ وَذَهَبَ غَضَبُهُ بِإِذْنِ اللَّهِ تَعَالَى.
+
+وَمِنْ خَوَاصِّ آيَةِ الْكُرْسِيِّ: تُكْتَبُ لِوَجَعِ الْقَلْبِ وَالْخَفَقَانِ، وَوَجَعِ الْكَبِدِ، وَمَغَصِ الْبَطْنِ، وَهِيَ: تَنْفَعُ لِلْخَائِفِ إِذَا حَصَلَ لَهُ رَجَفَانٌ فَإِنَّهُ يَذْهَبُ عَنْهُ وَذَلِكَ بِالْقِرَاءَةِ عَلَيْهِ مَعَ تِكْرَارِهَا عِدَّةَ مَرَّاتٍ يَزُولُ الْخَوْفُ بِإِذْنِ اللَّهِ تَعَالَى.
+
+(طَرِيقَةٌ ثَانِيَةٌ) لِإِزَالَةِ هَذِهِ الْأَمْرَاضِ الْمَذْكُورَةِ أَعْلَاهُ أَوْ آفَاقاً هُوَ أَنْ تُكْتَبَ آيَةُ
+
+### 2. TRANSLITERASI LATIN
+
+Aidhan min babit-tasywiqi li-ta'dadil-khawashshi lil-ayatil-karimatisy-syarifati: huwa annahu ruwiya 'an ba'dish-shalihina annahu kana fi safinatin fahabba au qama 'alaiha rihun saudau'llati qalla man yanju minha, farasama Ayatal-Kursiyyi (ay kataba) fi qirthasin wa 'allaqaha fi mahabbil-hawa'i wa basatha kaffaihi ilallahi wa qala: Allahumma inni as-aluka bismil-'azhimi «Allahu la ilaha illa huwal-hayyul-qayyumu» ila akhiril-ayati wa huwal-'aliyyul-'azhimu, wa as-aluka bibarakatiha an tunjina mimma nazala bina, wa anta 'allamul-ghuyubi wa kasyiful-kurubi, wa as-aluka bijahi habibika Muhammadin ﷺ famastatamma du'a'ahu hatta farrajallahu 'anhum wa ja'athumur-rihuth-thayyibatu fasara bil-amni was-salamati.
+
+Aidhan min khawashshi Ayatil-Kursiyyi: man arada an yasyfiyahullahu min kulli da'in fi badanihi min jami'il-amradhi? 'ala an tuktaba fi jamin zujajin (au shahmin shiniyyin abyadha) wa dzalika bimiskin wa za'faranin wa ma'i wardin Ayatul-Kursiyyil-mubarakatu (tsalatsa marratin) wa yuktabu ma'aha ﴿Lau anzalna hadzal-Qur'ana 'ala jabal﴾ ila akhiril-Hasyril-mubarakati, wa aidhan qauluhu ta'ala ﴿Wa lau anna Qur'anan suyyirat bihil-jibalu au quththhi'at bihil-ardhu au kullima bihil-mauta bal lillahil-amru jami'an﴾, fa-idza faragha minal-kitabati yaqra'u 'alaiha Ayatal-Kursiyyi (sab'a marratin) wa yubakhkhiruha bir-rawaihith-thayyibati wa yasyrabuha limud dati tsalatsi ayyamin shabahan wa masa'an fa-innallaha yasyfihi mimma yaku. (Wa man katabaha wa 'allaqaha 'alaihi kana ablagha).
+
+Aidhan min khawashshi Ayatil-Kursiyyisy-syarifati: man qara'aha naharan hafizhahullahu ta'ala dzalikal-yauma. Wa man qara'aha lailan hafizhahullahu fi lailatihi.
+
+Aidhan min khawashshi Ayatil-Kursiyyi: man qara'aha 'aqiba shalatin ghafarallahu dzunubahu wa kaffarallahu sayyi'atihi ilash-shalatil-ukhra.
+
+Wa min khawashshiha: man qara'aha 'indan-naumi kanat lahu hirzan minasy-syaithanir-rajim.
+
+Wa min khawashshi Ayatil-Kursiyyi: man qara'aha 'inda ghadhabihi wa tafli syimalihi khanasa syaithanuhu wa dzahaba ghadhabuhu bi-idznillahi ta'ala.
+
+Wa min khawashshi Ayatil-Kursiyyi: tuktabu liwaja'il-qalbi wal-khafaqani, wa waja'il-kabidi, wa maghshil-bathni, wa hiya: tanfa'u lil-kha'ifi idza hashala lahu rajafanun fa-innahu yadzhabu 'anhu wa dzalika bil-qira'ati 'alaihi ma'a tikrariha 'iddata marratin yazulul-khaufu bi-idznillahi ta'ala.
+
+(Thariqatun tsaniyatun) li-izalatihadzihil-amradhil-madzkurati a'lahu au afaqan huwa an tuktaba Ayatu
+
+### 3. TERJEMAHAN INDONESIA
+
+Juga termasuk bab penyemangat untuk menyebutkan keistimewaan-keistimewaan ayat yang mulia: adalah bahwa diriwayatkan dari sebagian orang saleh, bahwa ia pernah berada di sebuah kapal, lalu bertiup (atau: bangkit) angin hitam yang sedikit sekali orang yang selamat darinya. Maka ia menulis Ayatul Kursi pada sebuah kertas dan menggantungnya di tempat angin bertiup, lalu menengadahkan kedua telapak tangannya kepada Allah dan berkata: "Ya Allah, aku memohon kepada-Mu dengan nama-Mu yang agung: 'Allah, tidak ada tuhan selain Dia, Yang Mahahidup, Yang terus-menerus mengurus (makhluk-Nya)' sampai akhir ayat, 'dan Dia Yang Mahatinggi lagi Mahabesar'; dan aku memohon kepada-Mu dengan keberkahannya agar Engkau menyelamatkan kami dari apa yang menimpa kami, Engkaulah Yang Maha Mengetahui yang gaib, Yang menyingkap segala kesulitan; dan aku memohon kepada-Mu dengan kedudukan kekasih-Mu Muhammad ﷺ." Maka belum selesai ia berdoa, Allah telah memberikan jalan keluar kepada mereka dan datanglah angin yang baik, lalu mereka berlayar dengan aman dan selamat.
+
+Juga di antara keistimewaan Ayatul Kursi: barangsiapa ingin agar Allah menyembuhkannya dari segala penyakit di badannya, dari semua penyakit — hendaklah Ayatul Kursi yang diberkahi ditulis dalam gelas kaca (atau piring porselen putih) dengan misik, za'faran, dan air mawar, (ditulis) tiga kali; dan dituliskan bersamanya "Kalau sekiranya Kami menurunkan Al-Qur'an ini kepada sebuah gunung" sampai akhir Surah Al-Hasyr yang diberkahi, dan juga firman Allah "Dan kalau sekiranya ada suatu bacaan (kitab suci) yang dengannya gunung-gunung dapat digoncangkan, atau bumi dapat terbelah, atau orang yang sudah mati dapat berbicara (tentulah Al-Qur'an itu), bahkan segala urusan itu milik Allah". Apabila ia telah selesai menulis, ia membacakan Ayatul Kursi di atasnya tujuh kali, mengasapinya dengan wangi-wangian yang harum, lalu meminumnya selama tiga hari, pagi dan sore; maka Allah akan menyembuhkannya dari apa yang menimpanya. (Dan barangsiapa menulisnya lalu menggantungkannya pada dirinya, itu lebih mengena/lebih kuat).
+
+Juga di antara keistimewaan Ayatul Kursi yang mulia: barangsiapa membacanya pada siang hari, Allah Ta'ala menjaganya sepanjang hari itu; dan barangsiapa membacanya pada malam hari, Allah menjaganya pada malam itu.
+
+Juga di antara keistimewaan Ayatul Kursi: barangsiapa membacanya setelah shalat, Allah mengampuni dosanya dan menghapus kesalahan-kesalahannya sampai shalat berikutnya.
+
+Dan di antara keistimewaannya: barangsiapa membacanya ketika hendak tidur, ia menjadi benteng (hirz) baginya dari setan yang terkutuk.
+
+Dan di antara keistimewaan Ayatul Kursi: barangsiapa membacanya ketika marah lalu meniup ke arah kirinya, setannya akan mundur dan hilanglah marahnya dengan izin Allah Ta'ala.
+
+Dan di antara keistimewaan Ayatul Kursi: dituliskan untuk nyeri jantung dan berdebar-debar, nyeri hati (liver), dan mulas perut. Ia juga bermanfaat bagi orang yang ketakutan apabila terjadi gemetar (pada tubuhnya), maka rasa itu hilang darinya; hal itu dilakukan dengan membacakannya kepadanya sambil mengulanginya beberapa kali, maka hilanglah rasa takut dengan izin Allah Ta'ala.
+
+(Cara kedua) untuk menghilangkan penyakit-penyakit tersebut di atas atau rasa nyeri adalah hendaklah dituliskan Ayatul… — (lanjutan ada pada halaman 96).
+
+### 4. TATACARA PRAKTIK LENGKAP
+
+- **Riwayat kapal:** menulis Ayatul Kursi pada kertas, menggantungnya di tiang/tempat angin bertiup, menengadahkan kedua telapak tangan, lalu berdoa dengan **Ism A'zham** "اللَّهُ لَا إِلَهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ" sampai "وَهُوَ الْعَلِيُّ الْعَظِيمُ" + "أَسْأَلُكَ بِبَرَكَتِهَا أَنْ تُنْجِيَنَا مِمَّا نَزَلَ بِنَا" + "بِجَاهِ حَبِيبِكَ مُحَمَّدٍ ﷺ". Naskah menyebut angin berubah menjadi baik dan mereka selamat.
+- **Obat segala penyakit (cara pertama — tulis-lalu-minum):** tulis Ayatul Kursi **3×** pada **gelas kaca** (atau **piring porselen putih**) memakai **misik + za'faran + air mawar**; tambahkan "لَوْ أَنْزَلْنَا هَذَا الْقُرْآنَ عَلَى جَبَلٍ…" sampai akhir Surah Al-Hasyr, dan ayat "وَلَوْ أَنَّ قُرْآناً سُيِّرَتْ بِهِ الْجِبَالُ…". Setelah selesai menulis: bacakan Ayatul Kursi **7×** di atasnya, asapi dengan wangi-wangian, lalu diminum selama **3 hari pagi dan sore**. Alternatif yang dinilai lebih kuat: ditulis lalu **digantungkan/dibawa** pada badan.
+- **Fadhilah harian (tanpa alat):** baca siang → dijaga sampai malam; baca malam → dijaga sampai pagi; baca **setelah shalat** → dosa antara dua shalat diampuni; baca **sebelum tidur** → hirz dari setan; baca **saat marah** lalu meniup ke kiri → setan mundur dan marah hilang.
+- **Keluhan jantung/berdebar, nyeri hati, mulas perut, gemetar karena takut:** dituliskan (untuk dibawa), atau dibacakan berulang-ulang kepada penderitanya sampai rasa itu hilang.
+- Halaman berakhir pada awal "cara kedua" yang lanjutannya ada di halaman 96.
+- Pada halaman ini tidak ada kata فُلَان / فُلَانَة, sehingga keterangan Fulan/Fulanata tidak berlaku di sini.
+
+---
+
+## HALAMAN 96 — PDF hal. 96 / bagian — Air obat & limpa, mahabbah 5×, catatan penulis, dan awal wafaq mahabbah para pembesar
+
+### 1. TEKS ARAB BERHARAKAT
+
+الْكُرْسِيِّ فِي إِنَاءٍ طَاهِرٍ ثَلَاثَ مَرَّاتٍ بِالْمِسْكِ وَالزَّعْفَرَانِ وَمَاءِ الْوَرْدِ، مِنْ ثَمَّ تُمْحَى الْكِتَابَةُ بِمَاءٍ عَذْبٍ أَوْ مَاءِ زَمْزَمٍ الْمُبَارَكِ إِنْ وُجِدَ. (وَيَشْرَبُهَا صَاحِبُ الْعِلَّةِ) وَيَقُولُ عِنْدَ شُرْبِهَا: نَوَيْتُ الشِّفَاءَ مِنَ الْعِلَّةِ الْفُلَانِيَّةِ، وَيَذْكُرُ نَوْعَ الْعِلَّةِ، فَإِنَّ اللَّهَ تَعَالَى يُبْرِئُهُ بِهَذِهِ الْآيَةِ الشَّرِيفَةِ الْمُبَارَكَةِ، يَشْفِيهِ وَيُعَافِيهِ بِإِذْنِ اللَّهِ تَعَالَى (وَاللَّهُ وَحْدَهُ الشَّافِي وَالْمُعَافِي مِنْ جَمِيعِ هَذِهِ الْأَمْرَاضِ).
+
+وَمِنْ خَوَاصِّ آيَةِ الْكُرْسِيِّ الْمُبَارَكَةِ: مِنْهَا تَنْفَعُ لِذَهَابِ الطِّحَالِ وَوَجَعِهِ، وَهُوَ أَنْ يُكْتَبَ الْآيَةُ الشَّرِيفَةُ وَتُعَلَّقُ فَوْقَ الطِّحَالِ، فَإِنَّ اللَّهَ تَعَالَى يُعَافِيهِ وَيَشْفِيهِ بِبَرَكَةِ الْآيَةِ الْمُبَارَكَةِ.
+
+أَيْضاً مِنْ خَوَاصِّ آيَةِ الْكُرْسِيِّ: مَنْ أَضَرَّهُ الْعِشْقُ وَالْمَحَبَّةُ وَالْهَيَامُ إِلَى شَخْصٍ وَيَخْشَى الْفَضِيحَةَ مِنَ النَّاسِ أَوْ بَيْنَ أَهْلِهِ، فَلْيَكْتُبْ آيَةَ الْكُرْسِيِّ الشَّرِيفَةَ خَمْسَ مَرَّاتٍ فِي جَامِ زُجَاجٍ بِمِسْكٍ وَزَعْفَرَانٍ وَمَاءِ وَرْدٍ، وَمِنْ ثَمَّ يُنَجَّمُ تَحْتَ السَّمَاءِ بَعْدَ أَنْ يَكْتُبَ اسْمَ الشَّخْصِ الَّذِي يُرِيدُ سَلْبَ مَحَبَّتِهِ، فَإِذَا كَانَ الصَّبَاحُ يُذِيبُ الْكِتَابَةَ بِمَا وَرَدَ وَيَشْرَبُهَا عَلَى الرِّيقِ، يَفْعَلُ ذَلِكَ (ثَلَاثَ مَرَّاتٍ) عَلَى ثَلَاثَةِ أَيَّامٍ عَلَى الرِّيقِ، فَإِنَّ اللَّهَ تَعَالَى يُنْسِيهِ ذَلِكَ الشَّخْصَ وَيَقْطَعُ مَحَبَّتَهُ مِنْ قَلْبِهِ. (وَالثَّانِيَةُ سَابِقَةُ الْعَمَلِ، فَمَنْ أَخْلَصَ نِيَّتَهُ نَالَ أُمْنِيَتَهُ؟) اعْلَمْ أَيُّهَا الْأَخُ الْمُؤْمِنُ بِاللَّهِ تَعَالَى، وَفَّقَنَا اللَّهُ وَإِيَّاكَ إِلَى طَاعَتِهِ وَلِمَا فِيهِ الْخَيْرُ، وَذَلِكَ لِفَهْمِ أَسْرَارِ أَسْمَائِهِ تَعَالَى، إِنَّ آيَةَ الْكُرْسِيِّ الْمُبَارَكَةَ وَكَمَا وَرَدَ فِي حَقِّهَا وَقَبِلَ مَنْ قَبِلَ مِنْ أَصْحَابِ الْعِلْمِ وَالتَّحْقِيقِ أَنَّ لَهَا خَوَاصَّ كَثِيرَةً وَمَنَافِعَ غَزِيرَةً لَا تُحْصَى وَلَا تُعَدُّ؟ وَلِمَا وَرَدَ فِي أَصْلِ الرِّوَايَاتِ جَمِيعِهَا بِأَنَّ آيَةَ الْكُرْسِيِّ الْمُعَظَّمَةَ وَالْمُبَارَكَةَ لَهَا كَمَا ذُكِرَ مِرَاراً خَوَاصَّ وَمَنَافِعَ لَا تُحْصَى وَلَا تُعَدُّ لِأَنَّهَا أَعْظَمُ آيَةٍ فِي كِتَابِ اللَّهِ سُبْحَانَهُ وَتَعَالَى. وَلَا يُمْكِنُ بِالثَّانِي الْوُصُولُ إِلَى جَوْهَرِ وَحَقِيقَةِ هَذِهِ الْآيَةِ. - أَيْ آيَةُ الْكُرْسِيِّ الرَّفِيعَةُ الشَّأْنِ. مَهْمَا أَهْلُ الْعِلْمِ وَالتَّحْقِيقِ بِعِلْمِهِمْ وَصَلُوا، وَاللَّهُ وَحْدَهُ هُوَ الْأَعْلَمُ جَلَّتْ عَظَمَتُهُ وَتَعَالَتْ حِكْمَتُهُ، وَاعْلَمْ أَنَّ آيَةَ الْكُرْسِيِّ لَهَا خَاصِّيَّةٌ مُتَعَلِّقَةٌ بِأُمُورِ الْمَحَبَّةِ وَالْأُلْفَةِ بَيْنَ الْأَكَابِرِ وَلِقَاءِ الطَّيِّبَةِ فِي قُلُوبِهِمْ، وَهِيَ تَنْفَعُ لِمُقَابَلَةِ الْمُلُوكِ وَالْوُزَرَاءِ وَالْحُكَّامِ.
+
+أَيْضاً وَرَدَ أَنَّ آيَةَ الْكُرْسِيِّ الشَّرِيفَةَ هِيَ: لِلْمَحَبَّةِ وَالْقَبُولِ وَالْجَاهِ عِنْدَ الْأَكَابِرِ، فَإِذَا أَرَدْتَ ذَلِكَ فَارْسُمْ الْوَفْقَ الْآتِي فِي رَقِّ غَزَالٍ (أَيْ جِلْدِ غَزَالٍ مُذَكَّرٍ) أَوْ وَرَقٍ أَبْيَضَ نَقِيٍّ بِمِسْكٍ وَزَعْفَرَانٍ وَمَاءِ وَرْدٍ، وَمِنْ ثَمَّ تَكْتُبُ حَوْلَ الْوَفْقِ آيَةَ الْكُرْسِيِّ وَتُبَخِّرُ
+
+### 2. TRANSLITERASI LATIN
+
+al-Kursiyyi fi ina'in thahirin tsalatsa marratin bil-miski waz-za'farani wa ma'il-wardi, min tsamma tumhal-kitabatu bima'in 'adzbin au ma'i zamzamal-mubaraki in wujida. (Wa yasyrabuha shahibul-'illati) wa yaqulu 'inda syurbiha: nawaidusy-syifa'a minal-'illatil-fulaniyyati, wa yadzkuru nau'al-'illati, fa-innallaha ta'ala yubri'uhu bihadzihil-ayatis-syarifatil-mubarakati, yasyfihi wa yu'afihi bi-idznillahi ta'ala (wallahu wahdahusy-syafi wal-mu'afi min jami'i hadzihil-amradhi).
+
+Wa min khawashshi Ayatil-Kursiyyil-mubarakati: minha tanfa'u lidzahabith-thihali wa waja'ihi, wa huwa an yuktabal-ayatusy-syarifatu wa tu'allaqu fauqath-thihali, fa-innallaha ta'ala yu'afihi wa yasyfihi bibarakatil-ayatil-mubarakati.
+
+Aidhan min khawashshi Ayatil-Kursiyyi: man adharrahul-'isysyu wal-mahabbatu wal-hayamu ila syakhshin wa yakhsyal-fadhihata minan-nasi au baina ahlihi, falyaktub Ayatal-Kursiyyisy-syarifata khamsa marratin fi jamin zujajin bimiskin wa za'faranin wa ma'i wardin, wa min tsamma yunajjamu tahtas-sama'i ba'da an yaktuba ismasy-syakhsil-ladzi yuridu salba mahabbatihi, fa-idza kanash-shabahu yudzibul-kitabata bima warada wa yasyrabuha 'alar-riqi, yaf'alu dzalika (tsalatsa marratin) 'ala tsalatsati ayyamin 'alar-riqi, fa-innallaha ta'ala yunsihi dzalikasy-syakhsa wa yaqtha'u mahabbatahu min qalbihi. (Wats-tsaniyatu sabiqatul-'amali, faman akhlasha niyyatahu nala umniyatahu?) I'lam ayyuhal-akhul-mu'minu billahi ta'ala, waffaqanallahu wa iyyaka ila tha'atihi wa lima fihil-khairu, wa dzalika lifahmi asrari asma'ihi ta'ala, inna Ayatal-Kursiyyil-mubarakata wa kama warada fi haqqiha wa qabila man qabila min ashhabil-'ilmi wat-tahqiqi anna laha khawashsha katsiratan wa manafi'a ghaziratan la tuhsha wa la tu'addu? Wa lima warada fi ashlir-riwayati jami'iha bi-anna Ayatal-Kursiyyil-mu'azhzhamata wal-mubarakata laha kama dzukira miraran khawashsha wa manafi'a la tuhsha wa la tu'addu li-annaha a'zhamu ayatin fi kitabillahi subhanahu wa ta'ala. Wa la yumkinu bits-tsani wushulu ila jauhari wa haqiqati hadzihil-ayati. - Ay Ayatal-Kursiyyir-rafi'atusy-sya'ni. Mahma ahlul-'ilmi wat-tahqiqi bi'ilmihim washalu, wallahu wahdahu huwal-a'lamu jallat 'azhamatuhu wa ta'alat hikmatuhu, wa'lam anna Ayatal-Kursiyyi laha khashshiyatun muta'alliqatun bi-umuril-mahabbati wal-ulfati bainal-akabiri wa liqa'ith-thayyibati fi qulubihim, wa hiya tanfa'u limuqabalatil-muluki wal-wuzara'i wal-hukkami.
+
+Aidhan warada anna Ayatal-Kursiyyisy-syarifata hiya: lilmahabbati wal-qabuli wal-jahi 'indal-akabiri, fa-idza aradta dzalika farsumil-wafqal-ati fi raqqi ghazalin (ay jildi ghazalin mudzakkarin) au waraqin abyadha naqiyyin bimiskin wa za'faranin wa ma'i wardin, wa min tsamma taktubu haulaal-wafqi Ayatal-Kursiyyi wa tubakhkhiru
+
+### 3. TERJEMAHAN INDONESIA
+
+… Ayatul Kursi di dalam wadah yang suci tiga kali dengan misik, za'faran, dan air mawar; kemudian tulisan itu dihapus dengan air tawar atau air zamzam yang diberkahi jika ada. (Dan orang yang sakit meminumnya) serta berkata ketika meminumnya: "Aku berniat (memohon) kesembuhan dari penyakit … (nama penyakitnya)," dan ia menyebutkan jenis penyakitnya; maka sesungguhnya Allah Ta'ala menyembuhkannya dengan ayat yang mulia ini yang diberkahi, Dia menyembuhkan dan menyelamatkannya dengan izin Allah Ta'ala (dan Allah semata Yang Maha Menyembuhkan dan Maha Menyelamatkan dari semua penyakit ini).
+
+Dan di antara keistimewaan Ayatul Kursi yang diberkahi: di antaranya bermanfaat untuk menghilangkan limpa (thihal) dan nyerinya, yaitu dengan menuliskan ayat yang mulia itu lalu menggantungkannya di atas limpa; maka sesungguhnya Allah Ta'ala menyelamatkan dan menyembuhkannya dengan keberkahan ayat yang diberkahi.
+
+Juga di antara keistimewaan Ayatul Kursi: barangsiapa tertimpa cinta, kasih, dan gairah (asmara) kepada seseorang serta ia takut akan skandal di depan orang banyak atau di tengah keluarganya, hendaklah ia menulis Ayatul Kursi yang mulia lima kali di dalam gelas kaca dengan misik, za'faran, dan air mawar; kemudian ia menjemurnya/taruh di bawah langit setelah ia menuliskan nama orang yang ia ingin cabut cintanya. Apabila pagi, ia larutkan tulisan itu dengan (air) sebagaimana disebutkan, lalu meminumnya dalam keadaan perut kosong (di pagi hari); ia melakukan hal itu tiga kali selama tiga hari dengan perut kosong; maka sesungguhnya Allah Ta'ala membuatnya lupa akan orang itu dan memutuskan cintanya dari hatinya. (Dan yang kedua adalah amal yang telah lalu; maka barangsiapa mengikhlaskan niatnya, ia akan mencapai keinginannya.) Ketahuilah, wahai saudara yang beriman kepada Allah Ta'ala — semoga Allah memberi taufik kepada kami dan kepadamu untuk menaati-Nya dan kepada apa yang di dalamnya ada kebaikan — hal itu untuk memahami rahasia-rahasia nama-nama-Nya. Sesungguhnya Ayatul Kursi yang diberkahi, sebagaimana disebutkan dalam haknya dan sebagaimana diterima oleh orang-orang yang berilmu dan meneliti bahwa ia memiliki keistimewaan yang banyak dan manfaat yang berlimpah, tidak terhitung dan tidak dapat dihitung? Dan sebagaimana disebutkan pada asal semua riwayat bahwa Ayatul Kursi yang diagungkan dan diberkahi, sebagaimana disebut berulang kali, memiliki keistimewaan dan manfaat yang tidak terhitung dan tidak dapat dihitung, karena ia adalah ayat paling agung dalam Kitab Allah Mahasuci dan Mahatinggi. Dan tidak mungkin — dengan yang kedua (yakni upaya manusia) — sampai kepada inti dan hakikat ayat ini, yaitu Ayatul Kursi yang tinggi kedudukannya. Sejauh mana pun para ahli ilmu dan penelitian sampai dengan ilmunya, Allah semata Yang Maha Mengetahui, Mahaagung keagungan-Nya dan Mahatinggi hikmah-Nya. Dan ketahuilah bahwa Ayatul Kursi memiliki kekhususan yang berkaitan dengan perkara cinta dan keakraban di antara para pembesar serta diterimanya (yang baik) di dalam hati mereka; dan ia bermanfaat untuk menghadap raja, menteri, dan para hakim.
+
+Juga disebutkan bahwa Ayatul Kursi yang mulia adalah untuk (mendapatkan) cinta, penerimaan, dan kedudukan di sisi para pembesar. Maka apabila engkau menghendaki hal itu, gambarlah wafaq berikut pada kulit kijang (yakni kulit kijang jantan) atau kertas putih bersih dengan misik, za'faran, dan air mawar; kemudian engkau tuliskan di sekitar wafaq itu Ayatul Kursi dan mengasapinya… — (lanjutan ada pada halaman 97).
+
+### 4. TATACARA PRAKTIK LENGKAP
+
+- **Air obat (cara kedua, lanjutan hal. 95):** tulis Ayatul Kursi **3×** pada wadah bersih dengan **misik + za'faran + air mawar**; lalu hapus tulisan itu dengan **air tawar atau air zamzam** (jika ada), dan **orang yang sakit sendiri yang meminumnya**; sebelum minum ia berniat: "Aku berniat (memohon) kesembuhan dari penyakit …," dengan **menyebut jenis penyakitnya**. Teks menutup dengan "(dan Allah semata Yang Menyembuhkan…)".
+- **Limpa (thihal):** tulis Ayatul Kursi lalu **gantungkan di atas limpa**.
+- **Mahabbah — mencabut cinta/asmara yang membahayakan:** tulis Ayatul Kursi **5×** pada gelas kaca dengan misik + za'faran + air mawar; kemudian taruh/tulis di bawah langit **dengan menuliskan nama orang yang hendak dicabut cintanya**; setelah pagi tulisan dilarutkan dengan air lalu diminum **pagi (perut kosong)**, diulang **3 hari**. Nama yang ditulis adalah nama orang yang dimaksud; bila pelaku laki-laki dan ia menulis namanya sendiri atau nama orang lain, kaidah penyebutan tetap: laki-laki **Fulan ibni Fulanata**, perempuan **Fulanata binti Fulanata** — naskah di sini tidak memakai kata فُلَان, sehingga kaidah ini hanya sebagai panduan penulisan.
+- **Catatan penulis kitab (penting):** naskah menyatakan bahwa amalan mahabbah ini **bukan amalan mursyid/guru kami**, melainkan **amal salaf**; di dalam kurung ia menekankan "barangsiapa mengikhlaskan niatnya, ia mencapai keinginannya". Pertanyaan bertanda tanya pada cetakan adalah bagian dari teks asli, bukan salah baca.
+- **Mahabbah agar diterima raja/menteri/hakim:** gambar **wafaq** (bentuknya ada di halaman 97) pada **kulit kijang jantan** (جِلْد غَزَال مُذَكَّر) atau **kertas putih bersih**, dengan **misik + za'faran + air mawar**; setelah wafaq ditulis, **tuliskan Ayatul Kursi di sekeliling wafaq**, lalu **asapi** dengan kayu wangi (lanjutan di halaman 97).
+
+---
+
+## HALAMAN 97 — PDF hal. 97 / bagian — Gambar wafaq 5×5 mahabbah dan riwayat Ibnu Mas'ud
+
+### 1. TEKS ARAB BERHARAKAT
+
+عِنْدَ حَمْلِهِ بِعُودٍ هِنْدِيٍّ وَجَاوِيٍّ وَعُودِ الصَّلِيبِ، وَهَذِهِ صُورَتُهُ كَالشَّكْلِ الْآتِي كَمَا تَرَى.
+
+![Wafaq 5×5 bermahkota tulisan tangan halaman 97](../assets/rajah/sirrul-asrar-tight/hal-097-rajah-01.png)
+
+أَيْضاً مِنْ فَوَائِدِ وَخَوَاصِّ آيَةِ الْكُرْسِيِّ الشَّرِيفَةِ: رُوِيَ عَنِ ابْنِ مَسْعُودٍ (رَضِيَ اللَّهُ تَعَالَى عَنْهُ) قَالَ: قَالَ رَجُلٌ: يَا رَسُولَ اللَّهِ ﷺ عَلِّمْنِي شَيْئاً يَنْفَعُنِي اللَّهُ بِهِ. قَالَ: اقْرَأْ آيَةَ الْكُرْسِيِّ فَإِنَّهُ يَنْفَعُكَ وَذُرِّيَّتَكَ، وَيَحْفَظُ دَارَكَ حَتَّى الدُّوَيْرَاتِ الَّتِي حَوْلَ دَارِكَ.
+
+### 2. TRANSLITERASI LATIN
+
+'indahamlihi bi'udin hindiyyin wa jawiyyin wa 'udish-shalibi, wa hadzihi shuratuhu kasy-syaklil-ati kama tara.
+
+Aidhan min fawa'idi wa khawashshi Ayatil-Kursiyyisy-syarifati: ruwiya 'anibni Mas'udin (radhiyallahu ta'ala 'anhu) qala: qala rajulun: ya rasulallahi ﷺ 'allimni syai'an yanfa'unillahu bihi. Qala: iqra' Ayatal-Kursiyyi fa-innahu yanfa'uka wa dzurriyyataka, wa yahfazhu daraka hattad-duwairatil-lati haula darika.
+
+### 3. TERJEMAHAN INDONESIA
+
+… ketika membawanya, dengan kayu **'ud hindi**, **jawi**, dan **kayu salib**; dan inilah bentuknya sebagaimana gambar berikut yang engkau lihat.
+
+Juga di antara faedah dan keistimewaan Ayatul Kursi yang mulia: diriwayatkan dari Ibnu Mas'ud (semoga Allah Ta'ala meridhainya), ia berkata: seorang lelaki berkata: "Wahai Rasulullah ﷺ, ajarkanlah kepadaku sesuatu yang Allah akan memberi manfaat kepadaku dengannya." Beliau bersabda: "Bacalah Ayatul Kursi, karena sesungguhnya ia memberi manfaat kepadamu dan kepada keturunanmu, dan menjaga rumahmu sampai rumah-rumah kecil yang ada di sekitar rumahmu."
+
+### 4. TATACARA PRAKTIK LENGKAP
+
+- **Wafaq mahabbah 5×5 (gambar):** kotak 5 kolom × 5 baris; sel tengah memuat lafaz "الله", sel-sel lain memuat huruf dan angka (antara lain sel-sel bertuliskan nama-nama seperti "الأعلى" dan "أنا"). Di sekeliling bingkai wafaq ada tulisan tangan yang dicetak miring pada keempat sisi. **Tulisan tangan pada bingkai tidak terbaca utuh dan angka di dalam sel tampak terbalik/mirror pada cetakan**, sehingga **tidak ditafsirkan dan tidak "dibetulkan"** — salin apa adanya dari gambar cetak.
+- **Cara memakai wafaq (lanjutan halaman 96):** wafaq digambar pada kulit kijang jantan atau kertas putih bersih dengan misik + za'faran + air mawar; Ayatul Kursi dituliskan mengelilingi wafaq; lalu **diasapi** dengan **'ud hindi, jawi, dan kayu salib** saat membawanya. Naskah menyebut tujuan: cinta, penerimaan, dan kedudukan di sisi raja/menteri/hakim.
+- **Riwayat Ibnu Mas'ud:** membaca Ayatul Kursi memberi manfaat kepada pembaca dan keturunannya, serta menjaga rumahnya hingga rumah-rumah kecil di sekitarnya. Ini keterangan keutamaan (tanpa alat).
+- Istilah **"عود الصليب"** ("kayu salib") tercetak demikian pada naskah; maknanya tidak dijelaskan oleh teks dan **tidak ditafsirkan** di sini — sebaiknya dikonfirmasi kepada ahli/guru.
+- Pada halaman ini tidak ada kata فُلَان / فُلَانَة, sehingga keterangan Fulan/Fulanata tidak berlaku di sini.
