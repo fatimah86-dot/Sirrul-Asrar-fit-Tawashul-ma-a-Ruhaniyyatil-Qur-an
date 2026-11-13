@@ -272,3 +272,16 @@ Catatan: induk **1123 hlm**, `wafak/rajah` **106**, DOCX 32.07 MB, PDF 47.96 MB.
 | 107 | Nama Isa pada shalat Subuh + ayat syifa' + 19 ayat hifzh | — | bagian 'azimah "بألف ألف…" tidak diterjemahkan |
 
 Catatan: induk **1138 hlm**, `wafak/rajah` **106**, DOCX 32.09 MB, PDF 48.01 MB. Verifikasi: 0 kebocoran `![`/`](`, render hlm. 284–296 bersih.
+
+### Status pengerjaan Hal. 108–112 (selesai)
+
+| Hal. | Judul | Rajah | Catatan |
+|---|---|---|---|
+| 108 | Khawash ayat (riwayat Ahlulbait): 10 ayat Al-Baqarah, aman dari tenggelam, ayat sihir, ayat masuk tempat ditakuti | — | tanpa alat/tulisan |
+| 109 | Ayat perlindungan (Al-Kahf/An-Nahl/Al-Jatsiyah), ayat syifa' digantung, ayat hifzh jin, awal باب خاتم سليمان | — | empat lapis cincin Sulaiman |
+| 110 | Tulisan 4 lapis cincin Sulaiman + gambar bentuknya + khawash (sihir, 'aridh, tahanan) | `hal-110-rajah-01.png` — deretan simbol (✡ آ م ا # ١١١١ ٨ م ٦ ✡) | simbol tidak diterjemah; syarat: tahanan **terzalimi** saja |
+| 111 | Doa pengusir 'aridh + faedah khatam + rajah mahabbah suami–isteri | `hal-111-rajah-01.png` — dua lingkaran berisi `فُلَان` | memuat `فُلَان` → kaidah Fulan/Fulanata |
+| 112 | **Halaman iklan — salinan identik Hal. 76** | — | terverifikasi piksel (selisih 0,004); 172 & 207 identik dengan 112 |
+
+Catatan: induk **1154 hlm**, `wafak/rajah` naik 106 → **108**, DOCX 32.15 MB, PDF 48.14 MB. Verifikasi: 0 kebocoran `![`/`](`; render hlm. 309 menunjukkan rajah dua lingkaran tercetak.
+**Temuan penting:** halaman 112 **bukan** duplikat Hal. 77 — ia duplikat **Hal. 76** (diperiksa dengan pembanding piksel terhadap 66–77). Hal. 172 dan 207 juga identik dengan 112/76. Karena itu halaman 112 memuat **daftar karya lengkap 39 judul**, bukan judul 33–39.
