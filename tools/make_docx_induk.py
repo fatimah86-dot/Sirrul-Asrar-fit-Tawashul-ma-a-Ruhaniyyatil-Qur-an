@@ -147,6 +147,7 @@ def sections(body):
         # buang penanda markdown (**tebal**) — di dokumen dicetak sebagai teks biasa
         lines = [re.sub(r'\*\*(.+?)\*\*', r'\1', ln) for ln in lines]
         lines = [re.sub(r'`(.+?)`', r'\1', ln) for ln in lines]
+        # baris gambar (![...]) DIPERTAHANKAN: dicetak di posisinya
         out.append((m.group(1), SEC_NAMES.get(m.group(1), m.group(2).strip()),
                     lines))
     return out
@@ -250,13 +251,14 @@ def build_docx():
         r.bold = True
         r.font.size = Pt(13)
 
-        for path in images(body):
-            try:
-                doc.add_picture(path, width=Inches(4.2))
-            except Exception:
-                pass
-
         secs = sections(body)
+        if not secs:
+            for path in images(body):
+                try:
+                    doc.add_picture(path, width=Inches(4.2))
+                except Exception:
+                    pass
+
         if secs:
             for num, name, lines in secs:
                 sh = doc.add_paragraph()
@@ -264,6 +266,19 @@ def build_docx():
                 sr.bold = True
                 sr.font.size = Pt(11.5)
                 for line in lines:
+                    if line.startswith('!['):
+                        m = re.search(r'\(([^)]+)\)', line)
+                        if m:
+                            name = os.path.basename(m.group(1))
+                            for base in (TIGHT, RAJAH):
+                                cand = os.path.join(base, name)
+                                if os.path.exists(cand):
+                                    try:
+                                        doc.add_picture(cand, width=Inches(4.0))
+                                    except Exception:
+                                        pass
+                                    break
+                        continue
                     par = doc.add_paragraph()
                     if num == '1' and _has_ar(line):
                         rtl(par)
@@ -309,7 +324,7 @@ def build_docx():
     doc.add_paragraph().add_run(
         'DAFTAR WAFAK (%d halaman berwafak)' % len(wafak)).bold = True
     for n in wafak:
-        doc.add_paragraph('Hal. %d — Gambar wafak dari naskah asli halaman %d'
+        doc.add_paragraph('Hal. %d — Gambar wafak/rajah dari naskah asli halaman %d'
                           % (n, n))
         for path in images(dict((x[0], x[2]) for x in pages)[n]):
             try:
@@ -542,7 +557,8 @@ def build_pdf():
             y -= 16
         y -= 6
 
-        for path in images(body):
+        def draw_img(path):
+            nonlocal y
             try:
                 img = ImageReader(path)
                 iw, ih = img.getSize()
@@ -556,6 +572,11 @@ def build_pdf():
                 y -= h + 10
             except Exception:
                 pass
+
+        _secs_probe = sections(body)
+        if not _secs_probe:
+            for path in images(body):
+                draw_img(path)
 
         def emit(txt, kind, size, indent=0):
             nonlocal y
@@ -588,6 +609,16 @@ def build_pdf():
                 y -= 4
                 emit('%s. %s' % (num, name), 'H', 10.5)
                 for line in lines:
+                    if line.startswith('!['):
+                        m = re.search(r'\(([^)]+)\)', line)
+                        if m:
+                            name = os.path.basename(m.group(1))
+                            for base in (TIGHT, RAJAH):
+                                cand = os.path.join(base, name)
+                                if os.path.exists(cand):
+                                    draw_img(cand)
+                                    break
+                        continue
                     if num == '1' and _has_ar(line):
                         emit(line, 'AR', 15)
                     elif line.startswith('- '):
@@ -627,7 +658,7 @@ def build_pdf():
             c.showPage()
             y = new_page()
         c.setFont('DejaVu', 9.5)
-        c.drawString(M, y, 'Hal. %d — Gambar wafak dari naskah asli halaman %d' % (n, n))
+        c.drawString(M, y, 'Hal. %d — Gambar wafak/rajah dari naskah asli halaman %d' % (n, n))
         y -= 12
         for path in imgs:
             try:

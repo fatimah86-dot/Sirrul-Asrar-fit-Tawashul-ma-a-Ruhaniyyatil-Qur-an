@@ -181,3 +181,18 @@ Hal. 77 sesuai cetakan. Hal. 76 kini 33 blok (32 judul + baris pembuka), Hal. 77
 
 Urutan pengerjaan yang disarankan bila dilanjutkan: **77 → 238** (berurutan), dikelompokkan
 ±5 halaman per commit seperti batch sebelumnya.
+
+### Status pengerjaan Hal. 78–82 (selesai)
+
+| Hal. | Judul | Rajah | Catatan |
+|---|---|---|---|
+| 78 | Halaman judul bagian: `فَصْلٌ فِي فَضْلِ الْبَسْمَلَةِ وَالْفَاتِحَةِ` | — (bingkai hias, **bukan** wafaq) | crop dibatalkan: selalu memuat nama Syaikh + nomor kontak |
+| 79 | `فَضْلُ الْقُرْآنِ الْعَظِيمِ` + ayat syifā’ + hadits `شِفَاءُ أُمَّتِي فِي ثَلَاثٍ` + basmalah 487× | — | angka cetak **487** (bukan 428) |
+| 80 | Keutamaan basmalah butir 1–7 + doa Ibnu Umar | `hal-080-rajah-01.png` — tulisan basmalah berhias (“بسم الله الرحمن الرحيم” dalam bingkai) | gambar dicetak tepat pada posisinya (setelah butir 4) |
+| 81 | 19 nama (asma) + kunci huruf ba–mim + wafaq mukhammas jawfi | — (wafaq 19×19 ada di Hal. 82, disebut `فِي الصَّفْحَةِ الثَّانِيَةِ`) | — |
+| 82 | Wafaq 19×19 (وفق المربع التسعة عشر) + keutamaan basmalah + jumlah shuhuf | `hal-082-rajah-01.png` | wafaq **tidak diterjemahkan**, angka/huruf tidak dikarang |
+
+Catatan teknis: generator `tools/make_docx_induk.py` mencetak gambar pada **posisi baris
+`![...]`** di dalam seksi (bukan lagi di puncak halaman), dan baris gambar tidak lagi
+bocor sebagai teks markdown ke DOCX/PDF. Induk: DOCX 30.98 MB, PDF 45.98 MB, 888 hlm,
+101 hlm wafak.
