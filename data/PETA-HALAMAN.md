@@ -297,3 +297,15 @@ Catatan: induk **1154 hlm**, `wafak/rajah` naik 106 → **108**, DOCX 32.15 MB, 
 | 117 | Doa يا رزاق السائلين + wirid 4 surah rezeki + shalat hajat Surah Al-An'am | — | 7×, 70× |
 
 Catatan: induk **1166 hlm**, `wafak/rajah` tetap **108**, DOCX 32.17 MB, PDF 48.18 MB. Verifikasi: 0 kebocoran `![`/`](`, render hlm. 315 bersih (harakat ẓ/ā tampil normal).
+
+### Status pengerjaan Hal. 118–122 (selesai)
+
+| Hal. | Judul | Rajah | Catatan |
+|---|---|---|---|
+| 118 | Surah Al-Waqi'ah untuk rezeki + wirid 12 hari Imam Zainal Abidin + doa يا ماجد يا واحد | — | 3×/8×, 5 minggu, Al-Waqi'ah 1–14×, doa Kamis |
+| 119 | Al-Lail 40 malam + Al-Ikhlas & Mu'awwidzatain 7× + 4 surah Rabu akhir Shafar | — | 40×/malam, ayat diulang 3×, catatan "khatamkan dari orang bodoh" |
+| 120 | Al-Insyirah 41×; Al-Qadr 360×/344×; Al-Ma'un 41×; Al-'Adiyat | — | 10× setelah Subuh, Al-'Adiyat ditulis & dibawa |
+| 121 | Ayat Thalaq "ومن يتق الله" 359×/159× + يا رزاق 358× + يا نداء عليا 70× | — | 41 hari / 40 hari, hari ke-40 180×, mandi+sedekah+2 rakaat |
+| 122 | Doa "اللهم أغن فلان بن فلان" tinta misik + Ath-Thalaq 21× + riwayat orang kaya jadi fakir | — | mengandung `فُلَانَ بْنَ فُلَانٍ` → panduan Fulan/Fulanata |
+
+Catatan: induk **1178 hlm**, rajah tetap **108**, DOCX 32.18 MB, PDF 48.22 MB. Verifikasi: 0 kebocoran `![`/`](`, render hlm. 331 bersih.
