@@ -29,7 +29,7 @@ Halaman 67–71 **tidak memuat wafaq, rajah, tabel gambar, atau tabel bergaris**
 
 ---
 
-## HALAMAN 67 — Awal Bab Kedua: al-Istisyarah bil-Qur'an al-Karim
+## HALAMAN 67 — PDF hal. 67 / bagian — Awal Bab Kedua: al-Istisyarah bil-Qur'an al-Karim
 
 **AR:** الْبَابُ الثَّانِي
 الِاسْتِشَارَةُ بِالْقُرْآنِ الْكَرِيمِ
@@ -86,7 +86,7 @@ Permintaan Petunjuk (Istisyarah) melalui Al-Qur'an al-Karim.
 
 ---
 
-## HALAMAN 68 — Kelanjutan: Fathu al-Mushaf & Adab al-Musyawarah
+## HALAMAN 68 — PDF hal. 68 / bagian — Kelanjutan: Fathu al-Mushaf & Adab al-Musyawarah
 
 **AR:** وَيَفْتَحُ الْقُرْآنَ بِيَدِهِ وَيَحْكُمُ بِمَا يُتْلَى عَلَيْهِ.
 **LAT:** Wa yaftahul-Qur'ana biyadihi wa yahkumu bima yutla 'alaihi.
@@ -153,7 +153,7 @@ Permintaan Petunjuk (Istisyarah) melalui Al-Qur'an al-Karim.
 
 ---
 
-## HALAMAN 69 — Tanda Huruful-Fa'l (1): Sehat–Sakit, Kaya–Miskin
+## HALAMAN 69 — PDF hal. 69 / bagian — Tanda Huruful-Fa'l (1): Sehat–Sakit, Kaya–Miskin
 
 **AR:** إِنْ كَانَ السُّؤَالُ عَنِ الْغِنَى وَالْفَقْرِ، وَهَلْ لَهُ أَمْوَالٌ بِقَدْرِ الْكَفَافِ أَمْ لَا؟ وَفِي أَيِّ طَرَفٍ مِنَ الْأَطْرَافِ، وَكَذَا غَيْرِهَا عَنْ كُلِّ سُؤَالٍ يَكُونُ.
 **LAT:** In kanas-su'alu 'anil-ghina wal-faqri, wa hal lahu amwalun biqadril-kafafi am la? Wa fi ayyi tharafin minal-athrafi, wa kadza ghairiha 'an kulli su'alin yakunu.
@@ -213,7 +213,7 @@ Permintaan Petunjuk (Istisyarah) melalui Al-Qur'an al-Karim.
 
 ---
 
-## HALAMAN 70 — Tanda Huruful-Fa'l (2): Tempat, Negeri, dan Tempat Orang
+## HALAMAN 70 — PDF hal. 70 / bagian — Tanda Huruful-Fa'l (2): Tempat, Negeri, dan Tempat Orang
 
 **AR:** * مَعْرِفَةُ حَالِ الْمَكَانِ وَالْبَلَدِ:
 **LAT:** * Ma'rifatu hali-makani wal-baladi:
@@ -297,7 +297,7 @@ Permintaan Petunjuk (Istisyarah) melalui Al-Qur'an al-Karim.
 
 ---
 
-## HALAMAN 71 — Tanda Huruful-Fa'l (3): Keadaan Orang Sakit & Penentuan Arah
+## HALAMAN 71 — PDF hal. 71 / bagian — Tanda Huruful-Fa'l (3): Keadaan Orang Sakit & Penentuan Arah
 
 **AR:** وَإِنْ كَانَا مِنَ الْحُرُوفِ الْمُمْتَزِجَةِ فَهُوَ مَرِيضٌ أَوْ مَحْبُوسٌ أَوْ مَغْلُولٌ.
 **LAT:** Wa in kana minal-hurufil-mumtazijati fahuwa maridhun au mahbusun au maghlulun.
