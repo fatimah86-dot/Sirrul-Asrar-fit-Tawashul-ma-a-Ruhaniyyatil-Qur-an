@@ -1,7 +1,8 @@
 <!-- PETA HALAMAN: nomor di berkas ini = nomor BAGIAN milik dokumen asli,
-     ditambah keterangan halaman cetak/PDF asli. Tanda ± = belum terverifikasi
-     langsung (halaman scan tanpa lapisan teks), diturunkan dari halaman
-     tetangga yang terverifikasi. Lihat data/PETA-HALAMAN.md -->
+     ditambah keterangan halaman cetak/PDF asli. SELURUH 55 bagian sudah
+     TERVERIFIKASI langsung (render 200-300 dpi + baca mata untuk halaman scan,
+     pencocokan teks untuk halaman berlapis teks). Tidak ada lagi tanda ±.
+     Lihat data/PETA-HALAMAN.md + data/KOREKSI-PETA-HALAMAN.md -->
 
 # 📖 HALAMAN SAMPUL — PDF hal. 1
 
@@ -132,7 +133,7 @@ Halaman ini memuat **Munajat Pembuka, Tawassul, dan Istighfar Agung** yang dianj
 2. **Membaca Doa Munajat *Ya Muhsinu*:** Bacalah doa munajat di atas dengan penuh kerendahan hati, mengakui segala dosa dan kelemahan diri di hadapan Allah SWT, serta bertawassul dengan kemuliaan Nabi Muhammad SAW dan keluarganya agar segala dosa yang menghalangi terkabulnya doa diampuni oleh Allah SWT.
 
 
-# 📖 HALAMAN 4 — PDF hal. ±4
+# 📖 HALAMAN 4 — PDF hal. 4
 
 ### 1. TEKS ARAB BERHARAKAT
 مِنْ إِصْدَارَاتِ شَيْخِ الرُّوحَانِيِّينَ الشَّيْخِ عَطِيَّةَ عَبْدِ الْحَمِيدِ فِي الْمَكْتَبَاتِ
@@ -239,7 +240,7 @@ Di antara Terbitan-Terbitan Syaikh Para Ahli Ruhaniyyah, Asy-Syaikh 'Athiyyah 'A
 31. Kitab Al-Ashar fi Ta'limir-Ruhaniyyat lil-Masyayikhil-Kibar (Waktu-Waktu Sahur dalam Pengajaran Ilmu Ruhaniyyah bagi Para Syaikh Besar).
 32. Kitab Wadi Al-Jinn wa Thuruqut-Tahdhir wa Syarhul-Khalawat (Lembah Jin, Metode-Metode Pemanggilan, dan Penjelasan Khalwat).
 
-# 📖 HALAMAN 5 — PDF hal. ±5
+# 📖 HALAMAN 5 — PDF hal. 5
 
 ### 1. TEKS ARAB BERHARAKAT
 كِتَابُ نَهْرِ الرُّوحَانِيَّةِ فِيمَا يَتَعَلَّقُ بِالْأُمُورِ الْخَفِيَّةِ
@@ -274,7 +275,7 @@ Untuk penerawangan (kasyaf) dan bimbingan bersama Syaikh Para Ahli Ruhaniyyah di
 
 
 
-# 📖 HALAMAN 6 — PDF hal. ±6
+# 📖 HALAMAN 6 — PDF hal. 6
 
 ### 1. TEKS ARAB BERHARAKAT
 الْفَصْلُ الْأَوَّلُ
@@ -1131,7 +1132,7 @@ Yang Pertama Kali Turun Kepadaku dari Al-Qur'an Setelah Iqra' Adalah: Nun (Surah
 Penyebutan riwayat orang yang mengatakan demikian: Telah menceritakan kepadaku Ahmad bin 'Utsman Al-Bashri, ia berkata: Telah menceritakan kepada kami Wahb bin Jarir, ia berkata: Telah menceritakan kepada kami ayahku, ia berkata: Aku mendengar An-Nu'man bin Rasyid berkata dari Az-Zuhri, dari 'Urwah, dari 'Aisyah, bahwasanya beliau berkata: Permulaan wahyu yang dialami oleh Rasulullah shallallahu 'alaihi wa sallam adalah mimpi yang benar (Ar-Ru'ya Ash-Shadiqah); mimpi itu datang tampak jelas bagaikan terangnya cahaya subuh. Kemudian dijadikanlah beliau menyukai uzlah (menyendiri). Maka beliau biasa berada di Gua Hira untuk beribadah (bertahannuts) di dalamnya selama beberapa malam tertentu sebelum kembali kepada keluarganya, kemudian beliau kembali kepada keluarganya untuk mengambil bekal bagi malam-malam berikutnya yang serupa, hingga datanglah kebenaran (wahyu) secara tiba-tiba kepada beliau. Malaikat mendatangi beliau seraya berkata: "Wahai Muhammad, engkau adalah Rasulullah." Rasulullah bersabda: "Maka aku pun terduduk bertumpu pada kedua lututku padahal tadinya aku sedang berdiri, kemudian aku pulang dalam keadaan gemetar otot-otot bahuku, lalu aku menemui Khadijah dan berkata: 'Selimutilah aku, selimutilah aku!' hingga hilanglah rasa takut dariku. Kemudian malaikat itu mendatangiku lagi seraya berkata: 'Wahai Muhammad, aku adalah Jibril dan engkau adalah Rasulullah.' Beliau bersabda: Sungguh aku sempat berniat hendak menjatuhkan diriku dari puncak gunung yang tinggi, namun Jibril menampakkan wujudnya kepadaku ketika aku berniat melakukan hal itu seraya berkata: 'Wahai Muhammad, aku adalah Jibril dan engkau adalah Rasulullah.' Kemudian ia berkata: 'Bacalah (Iqra')!' Aku menjawab: 'Apa yang harus aku baca?' Beliau bersabda: Maka ia memegangku lalu mendekapku erat-erat sebanyak tiga kali hingga terasa sangat berat bagiku, kemudian ia berkata: 'Iqra' bismi Rabbikal-ladzi khalaq (Bacalah dengan menyebut nama Tuhanmu yang menciptakan)', maka aku pun membacanya. Lalu aku mendatangi Khadijah dan berkata: 'Sungguh aku sangat mengkhawatirkan diriku.' Aku pun menceritakan kejadian yang kualami kepadanya. Maka Khadijah berkata: 'Bergembiralah! Demi Allah, Allah tidak akan pernah menghinakanmu selama-lamanya. Demi Allah, sesungguhnya engkau benar-benar menyambung tali silaturahmi, jujur dalam berbicara, menunaikan amanah, menanggung beban orang yang lemah, menjamu tamu, dan menolong atas peristiwa-peristiwa kebenaran.' Kemudian Khadijah membawaku pergi menemui Waraqah bin Naufal bin Asad, lalu berkata: 'Dengarkanlah dari putra saudaramu ini!' Waraqah bertanya kepadaku, maka aku pun menceritakan pengalamanku kepadanya. Lalu Waraqah berkata: 'Ini adalah An-Namus (Malaikat Jibril pembawa wahyu) yang pernah diturunkan kepada Musa shallallahu 'alaihi wa sallam. Duhai kiranya aku masih muda perkasa saat itu, duhai kiranya aku masih hidup tatkala kaummu mengusirmu!' Aku bertanya: 'Apakah mereka benar-benar akan mengusirku?' Waraqah menjawab: 'Ya, sesungguhnya tidak pernah ada seorang laki-laki pun yang datang membawa seperti apa yang engkau bawa melainkan ia pasti dimusuhi. Dan seandainya aku mendapati harimu itu, niscaya aku akan menolongmu dengan pertolongan yang sekuat-kuatnya.' Kemudian yang pertama kali turun kepadaku dari Al-Qur'an setelah Iqra' adalah: 'Nun, wal-qalami wa ma yasthurun. Ma anta bini'mati Rabbika bimajnun. Wa inna laka la-ajran ghaira mamnun. Wa innaka la'ala khuluqin 'azhim. Fasatubshiru wa yubshirun' (Surah Al-Qalam ayat 1-5), dan 'Ya ayyuhal-muddatstsiru qum fa-andzir' (Surah Al-Muddatstsir ayat 1-2), serta 'Wadh-dhuha wal-laili idza saja' (Surah Adh-Dhuha ayat 1-2)."
 Telah menceritakan kepadaku Yunus, ia berkata: Telah mengabarkan kepada kami Ibnu Wahb, ia berkata: Telah mengabarkan kepadaku Yunus, dari Ibnu Syihab, ia berkata: Telah menceritakan kepadaku 'Urwah bahwasanya 'Aisyah telah mengabarkan kepadanya, lalu ia menyebutkan riwayat yang serupa dengannya, hanya saja ia tidak menyebutkan kalimat: "Kemudian yang pertama kali diturunkan kepadaku dari Al-Qur'an..." dan seterusnya hingga akhir ucapan tersebut... (Kitab Jami'ul Bayan karya Ath-Thabari).
 
-# 📖 HALAMAN 24 — PDF hal. ±28
+# 📖 HALAMAN 24 — PDF hal. 28–29
 
 ### 1. TEKS ARAB BERHARAKAT
 
@@ -1264,7 +1265,7 @@ Di Antara Karya-Karya Terbitan Syaikh Para Ahli Ruhaniyyah, Syaikh 'Athiyyah 'Ab
 
 
 
-# 📖 HALAMAN 25 — PDF hal. ±30
+# 📖 HALAMAN 25 — PDF hal. 31
 
 ### 1. TEKS ARAB BERHARAKAT
 
@@ -1340,7 +1341,7 @@ Tatacara Membuka Tafa'ul (Mencari Petunjuk/Kasyaf Penyakit dan Hajat) Melalui Mu
    - Cara Pengobatannya: Tuliskanlah "Hirzul-'Ain" (yang terdapat pada Pasal Kelima atau Pasal Terakhir kitab ini) untuk pasien tersebut, kemudian asapilah (bukhur) pasien tersebut dengan membakar biji Harmal. Dengan izin Allah Ta'ala, pasien akan sembuh.
    
 
-# 📖 HALAMAN 27 — PDF hal. ±32
+# 📖 HALAMAN 27 — PDF hal. 32
 
 ### 1. TEKS ARAB BERHARAKAT
 
@@ -1442,7 +1443,7 @@ Tatacara Pengobatan Berdasarkan Hasil Tafa'ul Huruf Ba (Wajah Kedua) dan Huruf T
    - Berikan roti bertuliskan ayat tersebut kepada pasien untuk dimakan di pagi hari dalam keadaan perut kosong ('alar-riq) selama 3 hari berturut-turut.
 
 
-# 📖 HALAMAN 28 — PDF hal. ±33
+# 📖 HALAMAN 28 — PDF hal. 33
 
 ### 1. TEKS ARAB BERHARAKAT
 
@@ -1545,7 +1546,7 @@ Tatacara Pengobatan Berdasarkan Hasil Tafa'ul Huruf Tsa (ث) dan Huruf Jim (ج):
    - Berikan tulisan tersebut kepada pasien sebagai hijab atau air penyembuhan, maka dengan izin Allah Ta'ala ia akan sembuh.
 
 
-# 📖 HALAMAN 29 — PDF hal. ±34
+# 📖 HALAMAN 29 — PDF hal. 35
 
 ### 1. TEKS ARAB BERHARAKAT
 
@@ -1653,7 +1654,7 @@ Tatacara Pengobatan Berdasarkan Hasil Tafa'ul Huruf Ha (ح) dan Huruf Kha (خ) W
    - Tuliskan 99 Al-Asma' Al-Husna secara lengkap untuk pasien (sebagaimana tercantum pada Pasal Kelima kitab ini) sebagai hijab atau air penyembuhan.
 
 
-# 📖 HALAMAN 30 — PDF hal. ±35
+# 📖 HALAMAN 30 — PDF hal. 36
 
 ### 1. TEKS ARAB BERHARAKAT
 
@@ -1757,7 +1758,7 @@ Tatacara Pengobatan Berdasarkan Hasil Tafa'ul Huruf Kha (خ) Wajah Kedua & Ketig
 *(Catatan: Tatacara praktik untuk Huruf Dzal Wajah Pertama bersambung ke halaman 31 dan akan dirangkum secara utuh pada halaman berikutnya setelah kalimat hijabnya selesai).*
 
 
-# 📖 HALAMAN 31 — PDF hal. ±36
+# 📖 HALAMAN 31 — PDF hal. 37
 
 ### 1. TEKS ARAB BERHARAKAT
 
@@ -1875,7 +1876,7 @@ Tatacara Pengobatan Berdasarkan Hasil Tafa'ul Huruf Dzal (ذ) dan Huruf Ra (ر) 
    - Balurkan ramuan tersebut ke tubuh pasien, kemudian mandilah hingga bersih.
 
 
-# 📖 HALAMAN 32 — PDF hal. ±37
+# 📖 HALAMAN 32 — PDF hal. 38
 
 ### 1. TEKS ARAB BERHARAKAT
 
@@ -1985,7 +1986,7 @@ Tatacara Pengobatan Berdasarkan Hasil Tafa'ul Huruf Ra (ر) Wajah Kedua & Ketiga
      سَنَفْرُغُ لَكُمْ أَيُّهَ الثَّقَلَانِ فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ
 
 
-# 📖 HALAMAN 33 — PDF hal. ±38
+# 📖 HALAMAN 33 — PDF hal. 39
 
 ### 1. TEKS ARAB BERHARAKAT
 
@@ -2693,7 +2694,7 @@ Sembelihlah seekor ayam jantan (dik) dengan menyebut nama Allah, masak dagingnya
 Tuliskan "Hirz Abi Dujanah Al-Anshari" (yang terdapat pada Pasal Kelima kitab ini) pada kertas bersih, lalu lipat dan berikan kepada pasien untuk dibawa sebagai hijab penjagaan
 
 
-# 📖 HALAMAN 39 — PDF hal. 46
+# 📖 HALAMAN 39 — PDF hal. 45
 
 ### 1. TEKS ARAB BERHARAKAT
 
@@ -2799,7 +2800,7 @@ Tatacara Pengobatan Berdasarkan Hasil Tafa'ul Huruf Qaf (ق) dan Huruf Kaf (ك) 
    - Terapi Minum: Tuangkan air bersih ke dalam wadah cangkang telur burung unta (Baidhatu Na'amah), lalu minumkan air dari cangkang telur burung unta tersebut kepada pasien selama 3 hari berturut-turut.
 
 
-# 📖 HALAMAN 40 — PDF hal. ±47
+# 📖 HALAMAN 40 — PDF hal. 46
 
 ### 1. TEKS ARAB BERHARAKAT
 
@@ -2916,7 +2917,7 @@ Tatacara Pengobatan Berdasarkan Hasil Tafa'ul Huruf Kaf (ك) Wajah Ketiga & Keem
 *(Catatan: Tatacara pengobatan untuk Huruf Mim Wajah Pertama bersambung ke halaman 41 dan akan dirangkum secara utuh pada halaman berikutnya).*
 
 
-# 📖 HALAMAN 41 — PDF hal. ±48
+# 📖 HALAMAN 41 — PDF hal. 47
 
 ### 1. TEKS ARAB BERHARAKAT
 
@@ -3038,7 +3039,7 @@ Tatacara Pengobatan Berdasarkan Hasil Tafa'ul Huruf Mim (م) dan Huruf Nun (ن) 
    - Terapi 5 Lembar Kertas: Tuliskan 6 Ayat Syifa' pada 5 lembar kertas bersih (untuk diminum air lunturannya atau digunakan berobat setiap hari 1 lembar selama 5 hari).
 
 
-# 📖 HALAMAN 42 — PDF hal. ±49
+# 📖 HALAMAN 42 — PDF hal. 48
 
 ### 1. TEKS ARAB BERHARAKAT
 
@@ -3242,7 +3243,7 @@ Pengobatan Huruf Ya (ي) - Wajah Kedua (Terjatuh di Tempat Gelap atau di Malam H
 Tuliskan 99 Al-Asma' Al-Husna (sebagaimana terdapat pada Pasal Kelima kitab ini) beserta Surah Al-Qari'ah (Ayat 1 sampai 11) pada kertas bersih untuk dibawa oleh pasien sebagai hijab
 
 
-# 📖 HALAMAN 44 — PDF hal. ±50
+# 📖 HALAMAN 44 — PDF hal. 50
 
 ### 1. TEKS ARAB BERHARAKAT
 
@@ -3275,7 +3276,7 @@ Tatacara Pengobatan Berdasarkan Hasil Tafa'ul Huruf Ya (ي) — Wajah Ketiga (Se
    قُلْ يُحْيِيهَا الَّذِي أَنْشَأَهَا أَوَّلَ مَرَّةٍ وَهُوَ بِكُلِّ خَلْقٍ عَلِيمٌ الَّذِي جَعَلَ لَكُمْ مِنَ الشَّجَرِ الْأَخْضَرِ نَارًا فَإِذَا أَنْتُمْ مِنْهُ تُوقِدُونَ أَوَلَيْسَ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ بِقَادِرٍ عَلَى أَنْ يَخْلُقَ مِثْلَهُمْ بَلَى وَهُوَ الْخَلَّاقُ الْعَلِيمُ إِنَّمَا أَمْرُهُ إِذَا أَرَادَ شَيْئًا أَنْ يَقُولَ لَهُ كُنْ فَيَكُونُ فَسُبْحَانَ الَّذِي بِيَدِهِ مَلَكُوتُ كُلِّ شَيْءٍ وَإِلَيْهِ تُرْجَعُونَ
 2. Terapi Air Minum 5 Hari: Siapkan 5 lembar kertas bersih. Pada masing-masing lembar kertas, tuliskan Surah Al-Fatihah menggunakan tinta za'faran. Setiap hari selama 5 hari berturut-turut, ambil 1 lembar kertas, larutkan tulisannya ke dalam air bersih, dan minumkan kepada pasien.
 
-# 📖 HALAMAN 45 — PDF hal. 51
+# 📖 HALAMAN 45 — PDF hal. 50
 
 ### 1. TEKS ARAB BERHARAKAT
 
