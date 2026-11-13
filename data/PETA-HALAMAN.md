@@ -124,3 +124,52 @@ Catatan:
 - Halaman 76 adalah **cetakan ulang** daftar karya yang juga muncul pada halaman 65–66
   (bagian 60). Teks AR/LAT/ID diambil konsisten dari daftar yang sama agar tidak berbeda.
 - **Halaman 77 belum ditranskripsi** — jangan dilewati saat melanjutkan.
+
+## Celah halaman 77–238 (BELUM ditranskripsi)
+
+**Halaman 77–238 BUKAN hilang dari naskah.** Semuanya ada di `sirrul asror ruhani.pdf`
+(516 halaman). Yang belum ada adalah **transkripnya**. Karena itu dokumen induk
+melompat dari 76 ke 239: dua batch ditulis pada waktu berbeda (batch 239–516 dulu,
+lalu batch 67–76), dan 77–238 belum pernah dikerjakan.
+
+- Jumlah halaman celah: **162 halaman** (77–238).
+- Semua 161 halaman (78–238) **berisi gambar scan** dengan lapisan teks hanya berupa
+  header/footer, jadi wajib dibaca dari render (200 dpi) — bukan dari ekstraksi teks.
+- Tidak ada halaman duplikat di dalam celah ini (dicek dengan pembanding piksel
+  antar-halaman berurutan: 0 pasangan identik).
+
+### Penanda yang sudah dipastikan di dalam celah
+
+| Hal. | Isi | Cara pasti |
+|---|---|---|
+| 77 | Lanjutan daftar karya + nomor kontak `0020162022238` | dibaca dari render |
+| 78 | Halaman judul berhias: **فصل في فضل البسملة والفاتحة** | dibaca dari render |
+| 79 | **فضل القرآن العظيم** — (باب في فضل القرآن العظيم والبسملة والفاتحة) | dibaca dari render |
+| 80 | lanjutan فضل القرآن — 7 poin keutamaan (basamalah, Ism al-A'zam, dll.) | dibaca dari render |
+| 81 | lanjutan — daftar makna huruf basamalah; ditutup `وهذه هي صورته كالشكل الآتي` | dibaca dari render |
+| 82 | `(وهذا وفق المربع تسعة عشر المبارك كما ترى)` — **berisi rajah/وفق 19×19** | dibaca dari render |
+| 100 | **أيضًا في معرفة اسم الله الأعظم** | dibaca dari render |
+| 112 | Halaman **iklan daftar karya** (39 judul) — identik dengan 77 | pembanding piksel |
+| 130 | **أيضًا باب لعلاج وجع في الرأس** + **باب في علاج أمراض العينين وهو عدة أبواب** | dibaca dari render |
+| 172 | Halaman **iklan daftar karya** — identik dengan 112 | pembanding piksel |
+| 207 | Halaman **iklan daftar karya** — identik dengan 172 | pembanding piksel |
+| 237 | `(وهذه فهي محصورة الشكل المذكور)` — rajah salib berisi **جبرائيل / ميكائيل / إسرافيل / عزرائيل** + **خواص فائدة جليلة** + bagian **اوفاق القرآن وفوائدها** | dibaca dari render |
+| 238 | Halaman judul berhias: **أوفاق القرآن وخواص كل وفق** — awal bagian wafaq (239 dst.) | dibaca dari render |
+
+### Sifat isi 77–238 (ringkas, dari pembacaan thumbnail seluruh rentang)
+
+1. Halaman judul/divider berhias (78, 238) dan halaman iklan daftar karya (77, 112, 172, 207).
+2. **فضل القرآن / فضل البسملة والفاتحة** dan keutamaan-keutamaan lain.
+3. **Bab-bab pengobatan** dengan ayat/rajah: sakit kepala, mata, gigi, telinga, fālij,
+   ‘irqun-nisā, nafsul-baul, niqris, hummā, ṣar‘, hummal-rib‘, judhām, qurūḥ, awrām,
+   sull, dhātul-janb, istisqā’, ṭiḥāl, kabid, mi‘dah, ishāl, qawlanj, bawāsīr, nāsūr,
+   mafāṣil, raqabah, ẓahr, dan seterusnya.
+4. **خواص السور** (keutamaan surah-surah: Al-An‘ām, Al-A‘rāf, Al-Anfāl, Al-Kahf,
+   Al-Mu’minūn, As-Sajdah, Yāsīn, Al-Ḥujurāt, Ar-Raḥmān, Al-Ḥadīd, Al-Mujādalah,
+   Al-Mulk, Al-Qalam, Al-Muddatstsir, Al-Mursalāt, Aṭ-Ṭāriq, Al-Ghāsyiyah, dst.).
+5. **أوفاق / rajah** (mis. وفق 19×19 pada 80–81, rajah empat malaikat pada 237) —
+   saat ditranskripsi wajib memakai aturan wafaq: **tidak diterjemahkan**, diberi
+   `[Wafak Hal. X]` + crop ketat.
+
+Urutan pengerjaan yang disarankan bila dilanjutkan: **77 → 238** (berurutan), dikelompokkan
+±5 halaman per commit seperti batch sebelumnya.
