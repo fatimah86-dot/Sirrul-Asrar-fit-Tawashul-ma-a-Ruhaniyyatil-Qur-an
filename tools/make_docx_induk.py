@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Bangun dokumen induk (DOCX + PDF): Sirrul Asrar Bab 2 — hal. 239–516 + lanjutan 67–76.
+"""Bangun dokumen induk (DOCX + PDF): Sirrul Asrar utuh — Sampul–60 + 67–87 + 239–516.
 
 Aturan yang ditegakkan:
   - isi AR/LAT/ID disalin apa adanya dari transkripsi/*.md (tidak diringkas/ditambah)
@@ -13,6 +13,7 @@ import re
 import sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+SRC_BAB0 = os.path.join(ROOT, 'transkripsi/bab0-sampul-001-066.md')
 SRC_MAIN = os.path.join(ROOT, 'transkripsi/bab2.md')
 SRC_EXT = os.path.join(ROOT, 'transkripsi/bab2-lanjutan-067-076.md')
 SRC_NEW = os.path.join(ROOT, 'transkripsi/bab2-lanjutan-077-100.md')
@@ -20,8 +21,8 @@ TIGHT = os.path.join(ROOT, 'assets/rajah/sirrul-asrar-tight')
 RAJAH = os.path.join(ROOT, 'assets/rajah/sirrul-asrar')
 FONT_DIR = os.path.join(ROOT, 'assets/fonts')
 
-OUT_DOCX = os.path.join(ROOT, 'Sirrul-Asrar-Bab2-Hal-67-516.docx')
-OUT_PDF = os.path.join(ROOT, 'Sirrul-Asrar-Bab2-Hal-67-516.pdf')
+OUT_DOCX = os.path.join(ROOT, 'Sirrul-Asrar-Kitab-Hal-01-516.docx')
+OUT_PDF = os.path.join(ROOT, 'Sirrul-Asrar-Kitab-Hal-01-516.pdf')
 
 
 def parse(path):
@@ -33,7 +34,7 @@ def parse(path):
     return out
 
 
-pages = parse(SRC_MAIN) + parse(SRC_EXT)
+pages = parse(SRC_BAB0) + parse(SRC_MAIN) + parse(SRC_EXT)
 if os.path.exists(SRC_NEW):
     pages = pages + parse(SRC_NEW)
 pages.sort(key=lambda x: x[0])
@@ -212,12 +213,12 @@ def build_docx():
     r.font.size = Pt(20)
     p = doc.add_paragraph()
     p.alignment = WD_ALIGN_PARAGRAPH.CENTER
-    r = p.add_run('Bab 2 — Transliterasi AR | LAT | ID')
+    r = p.add_run('Kitab Utuh — Transliterasi AR | LAT | ID')
     r.bold = True
     r.font.size = Pt(16)
     p = doc.add_paragraph()
     p.alignment = WD_ALIGN_PARAGRAPH.CENTER
-    r = p.add_run('Hal. %d–%d' % (first, last))
+    r = p.add_run('Halaman naskah %d–%d' % (first, last))
     r.bold = True
     r.font.size = Pt(14)
     doc.add_paragraph()
@@ -226,11 +227,9 @@ def build_docx():
     doc.add_paragraph().add_run('CATATAN CAKUPAN').bold = True
     for line in [
         'Dokumen induk ini memuat %d halaman naskah yang sudah ditranskripsi: '
-        'halaman 67–76 + 239–516 (nomor halaman naskah asli / PDF).' % len(pages),
-        'Halaman 1–66 (Sampul + Bab 1) ada di berkas Bab 1 arsip dan tidak '
-        'dimasukkan ke dokumen induk Bab 2 ini.',
-        'Halaman 77–238 BELUM dikerjakan dan TIDAK dikarang — lihat '
-        'data/PETA-HALAMAN.md.',
+        'Sampul–60 (PDF 1–66), 67–76, 77–87, dan 239–516.' % len(pages),
+        'Nomor halaman mengikuti nomor halaman naskah (lihat data/PETA-HALAMAN.md);'
+        ' halaman 88–238 BELUM dikerjakan dan TIDAK dikarang.',
         'Tanda [TIDAK JELAS] dan [TEKS ASLI DIJAGA] dipertahankan apa adanya; '
         'jumlahnya sama dengan sumber.',
     ]:
@@ -335,12 +334,12 @@ def build_docx():
     # --- footer
     sec = doc.sections[0]
     fp = sec.footer.paragraphs[0]
-    fp.text = 'Sirrul Asrar — Bab 2 · Hal. %d–%d · ' % (first, last)
+    fp.text = 'Sirrul Asrar — Kitab · Hal. %d–%d · ' % (first, last)
     field(fp, 'PAGE')
     fp.add_run(' / ')
     field(fp, 'NUMPAGES')
 
-    doc.core_properties.title = 'Sirrul Asrar — Bab 2 (AR | LAT | ID)'
+    doc.core_properties.title = 'Sirrul Asrar — Kitab (AR | LAT | ID)'
     doc.save(OUT_DOCX)
     return first, last, len(wafak)
 
@@ -489,7 +488,7 @@ def build_pdf():
 
     def new_page():
         c.setFont('DejaVu', 8)
-        c.drawString(M, H - 26, 'Sirrul Asrar — Bab 2 (AR | LAT | ID)')
+        c.drawString(M, H - 26, 'Sirrul Asrar — Kitab (AR | LAT | ID)')
         c.drawRightString(W - M, H - 26, 'Hal. %d–%d' % (first, last))
         c.line(M, H - 30, W - M, H - 30)
         return H - 52
@@ -504,9 +503,9 @@ def build_pdf():
     c.drawCentredString(W / 2, y + 24, 'Sirrul Asrar fi at-Tawashul')
     c.drawCentredString(W / 2, y, "ma'a Ruhaniyyatil Qur'an")
     c.setFont('DejaVu-Bold', 16)
-    c.drawCentredString(W / 2, y - 34, 'Bab 2 — Transliterasi AR | LAT | ID')
+    c.drawCentredString(W / 2, y - 34, 'Kitab Utuh — Transliterasi AR | LAT | ID')
     c.setFont('DejaVu-Bold', 13)
-    c.drawCentredString(W / 2, y - 62, 'Hal. %d–%d' % (first, last))
+    c.drawCentredString(W / 2, y - 62, 'Halaman naskah %d–%d' % (first, last))
     footer()
     c.showPage()
 
@@ -518,9 +517,8 @@ def build_pdf():
     c.setFont('DejaVu', 9)
     notes = [
         'Dokumen induk memuat %d halaman naskah yang sudah ditranskripsi:' % len(pages),
-        'halaman 67–76 + 239–516 (nomor halaman naskah asli / PDF).',
-        'Halaman 1–66 (Sampul + Bab 1) ada di berkas Bab 1 arsip, tidak dimasukkan ke sini.',
-        'Halaman 77–238 BELUM dikerjakan dan TIDAK dikarang.',
+        'Sampul–60 (PDF 1–66), 67–76, 77–87, dan 239–516.',
+        'Halaman 88–238 BELUM dikerjakan dan TIDAK dikarang.',
         'Setiap judul menyebut nomor halaman naskah asli agar mudah dicocokkan dengan rajah.',
         'Tanda [TIDAK JELAS] / [TEKS ASLI DIJAGA] dipertahankan apa adanya.',
     ]

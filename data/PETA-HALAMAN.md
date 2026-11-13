@@ -208,3 +208,19 @@ bocor sebagai teks markdown ke DOCX/PDF. Induk: DOCX 30.98 MB, PDF 45.98 MB, 888
 | 87 | Basmalah keluar-masuk rumah, tidur, makan, safar, ruqyah Isa, riwayat Ali–Ibnu Abbas | — | kalimat akhir terpotong "أُعْطِيتُ فَاتِحَةَ" → lanjut 88 |
 
 Catatan: `wafak` pada induk naik 101 → **102** (rajah 86 terhitung sebagai rajah). Induk: DOCX 31.22 MB, PDF 46.35 MB, **903 hlm**.
+
+### Penggabungan Sampul–60 (PDF 1–66) ke dokumen induk
+
+Sejak batch Hal. 88, dokumen induk memuat **kitab dari awal**: Sampul–60
+(PDF hal. 1–66, Bab 1 utuh + halaman daftar karya), lalu 67–87, lalu 239–516.
+
+- Sumber teks: `data/final/asror-tawashul-quran-USER-renumber-PDF.md`
+  (55 bagian; sudah terverifikasi pada pekerjaan Bab 1).
+- Penyalinan dilakukan oleh `tools/import_hal_01_66.py` → keluaran
+  `transkripsi/bab0-sampul-001-066.md`; **hanya penanda judul** yang diubah ke
+  format induk (`## HALAMAN n`), isi 4 sub-header disalin apa adanya.
+- Sembilan bagian pada rentang itu (1, 4, 5, 6, 23, 24, 49, 50, 60) hanya
+  memiliki sub-header 1–3 (tanpa TATACARA); dipertahankan seperti aslinya,
+  tidak ditambahi karangan.
+- Berkas induk baru: `Sirrul-Asrar-Kitab-Hal-01-516.docx/.pdf`.
+  Berkas lama `Sirrul-Asrar-Bab2-Hal-67-516.*` (mulai Hal. 67) digantikan.
