@@ -116,24 +116,26 @@ Transkripsi 67–76 sudah masuk `transkripsi/bab2-lanjutan-067-076.md`
 | 73 | Huruful-Fa'l (5): bahan penyakit & jenis kelamin | 20 | selesai |
 | 74 | Huruful-Fa'l (6): yang hilang, kembalinya, perjalanan | 18 | selesai |
 | 75 | Huruful-Fa'l (7): aman jalan, anak & menyusui, tempat | 17 | selesai |
-| 76 | Daftar karya Syaikh 'Athiyyah (39 judul, cetakan ulang) | 41 | selesai |
-| 77 | Lanjutan daftar karya + nomor kontak `0020162022238` | — | **BELUM** |
+| 76 | Daftar karya Syaikh 'Athiyyah — **judul 1–32** (cetakan ulang) | 33 | selesai |
+| 77 | Lanjutan daftar karya: **judul 33–39** + baris penutup (+ potongan kata `بِيهْ`) | 8 | selesai |
 
 Catatan:
 - Halaman 67–76 **tidak memuat rajah/wafaq** → Daftar Wafak tidak bertambah.
 - Halaman 76 adalah **cetakan ulang** daftar karya yang juga muncul pada halaman 65–66
-  (bagian 60). Teks AR/LAT/ID diambil konsisten dari daftar yang sama agar tidak berbeda.
-- **Halaman 77 belum ditranskripsi** — jangan dilewati saat melanjutkan.
+  (bagian 60) dan 112/172/207. Teks AR/LAT/ID diambil konsisten dari daftar yang sama.
+- **Koreksi penting:** cetakan 76 hanya memuat judul **1–32**; judul **33–39** + baris
+  penutup ada di **77**. Batch lama sempat menulis 33–39 di 76 — sudah dipindahkan ke 77.
+- **Halaman 77 sudah selesai** (format 4 sub-header). Berikutnya: 78.
 
-## Celah halaman 77–238 (BELUM ditranskripsi)
+## Celah halaman 78–238 (BELUM ditranskripsi)
 
-**Halaman 77–238 BUKAN hilang dari naskah.** Semuanya ada di `sirrul asror ruhani.pdf`
+**Halaman 78–238 BUKAN hilang dari naskah.** Semuanya ada di `sirrul asror ruhani.pdf`
 (516 halaman). Yang belum ada adalah **transkripnya**. Karena itu dokumen induk
 melompat dari 76 ke 239: dua batch ditulis pada waktu berbeda (batch 239–516 dulu,
 lalu batch 67–76), dan 77–238 belum pernah dikerjakan.
 
-- Jumlah halaman celah: **162 halaman** (77–238).
-- Semua 161 halaman (78–238) **berisi gambar scan** dengan lapisan teks hanya berupa
+- Jumlah halaman celah: **161 halaman** (78–238); 77 sudah selesai.
+- Semua 160 halaman (79–238) **berisi gambar scan** dengan lapisan teks hanya berupa
   header/footer, jadi wajib dibaca dari render (200 dpi) — bukan dari ekstraksi teks.
 - Tidak ada halaman duplikat di dalam celah ini (dicek dengan pembanding piksel
   antar-halaman berurutan: 0 pasangan identik).
@@ -142,7 +144,6 @@ lalu batch 67–76), dan 77–238 belum pernah dikerjakan.
 
 | Hal. | Isi | Cara pasti |
 |---|---|---|
-| 77 | Lanjutan daftar karya + nomor kontak `0020162022238` | dibaca dari render |
 | 78 | Halaman judul berhias: **فصل في فضل البسملة والفاتحة** | dibaca dari render |
 | 79 | **فضل القرآن العظيم** — (باب في فضل القرآن العظيم والبسملة والفاتحة) | dibaca dari render |
 | 80 | lanjutan فضل القرآن — 7 poin keutamaan (basamalah, Ism al-A'zam, dll.) | dibaca dari render |
@@ -155,6 +156,13 @@ lalu batch 67–76), dan 77–238 belum pernah dikerjakan.
 | 207 | Halaman **iklan daftar karya** — identik dengan 172 | pembanding piksel |
 | 237 | `(وهذه فهي محصورة الشكل المذكور)` — rajah salib berisi **جبرائيل / ميكائيل / إسرافيل / عزرائيل** + **خواص فائدة جليلة** + bagian **اوفاق القرآن وفوائدها** | dibaca dari render |
 | 238 | Halaman judul berhias: **أوفاق القرآن وخواص كل وفق** — awal bagian wafaq (239 dst.) | dibaca dari render |
+
+### Catatan koreksi Hal. 76 / 77
+
+Daftar karya di **Hal. 76** pada cetakan hanya memuat **judul nomor 1–32**. Batch lama ikut
+menulis judul 33–39 + baris penutup di Hal. 76; delapan baris itu sudah **dipindahkan** ke
+Hal. 77 sesuai cetakan. Hal. 76 kini 33 blok (32 judul + baris pembuka), Hal. 77 memuat
+8 baris isi + 1 potongan kata.
 
 ### Sifat isi 77–238 (ringkas, dari pembacaan thumbnail seluruh rentang)
 

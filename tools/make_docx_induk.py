@@ -15,6 +15,7 @@ import sys
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SRC_MAIN = os.path.join(ROOT, 'transkripsi/bab2.md')
 SRC_EXT = os.path.join(ROOT, 'transkripsi/bab2-lanjutan-067-076.md')
+SRC_NEW = os.path.join(ROOT, 'transkripsi/bab2-lanjutan-077-100.md')
 TIGHT = os.path.join(ROOT, 'assets/rajah/sirrul-asrar-tight')
 RAJAH = os.path.join(ROOT, 'assets/rajah/sirrul-asrar')
 FONT_DIR = os.path.join(ROOT, 'assets/fonts')
@@ -33,6 +34,8 @@ def parse(path):
 
 
 pages = parse(SRC_MAIN) + parse(SRC_EXT)
+if os.path.exists(SRC_NEW):
+    pages = pages + parse(SRC_NEW)
 pages.sort(key=lambda x: x[0])
 nums = [p[0] for p in pages]
 assert len(nums) == len(set(nums)), 'nomor halaman duplikat: %s' % [
@@ -114,11 +117,52 @@ def images(body):
     return res
 
 
+SEC_RE = re.compile(r'(?m)^###\s*([1-4])\.\s*(.+)$')
+SEC_NAMES = {
+    '1': 'TEKS ARAB BERHARAKAT',
+    '2': 'TRANSLITERASI LATIN',
+    '3': 'TERJEMAHAN INDONESIA',
+    '4': 'TATACARA PRAKTIK LENGKAP',
+}
+
+
+def sections(body):
+    """Halaman berformat 4 sub-header (aturan Ustadz Yoad).
+
+    Mengembalikan list (nomor, nama, [baris]) atau None bila format lama.
+    """
+    hits = list(SEC_RE.finditer(body))
+    if not hits:
+        return None
+    out = []
+    for i, m in enumerate(hits):
+        end = hits[i + 1].start() if i + 1 < len(hits) else len(body)
+        raw = body[m.end():end]
+        lines = [ln.rstrip() for ln in raw.split('\n')]
+        while lines and not lines[0].strip():
+            lines.pop(0)
+        while lines and not lines[-1].strip():
+            lines.pop()
+        lines = [ln for ln in lines if ln.strip() != '---']
+        # buang penanda markdown (**tebal**) — di dokumen dicetak sebagai teks biasa
+        lines = [re.sub(r'\*\*(.+?)\*\*', r'\1', ln) for ln in lines]
+        lines = [re.sub(r'`(.+?)`', r'\1', ln) for ln in lines]
+        out.append((m.group(1), SEC_NAMES.get(m.group(1), m.group(2).strip()),
+                    lines))
+    return out
+
+
 def clean(body):
     body = re.sub(r'(?m)^\*\*(AR|LAT|ID):\*\*.*$', '', body)
     body = re.sub(r'(?m)^!\[.*$', '', body)
     body = re.sub(r'(?m)^\*\*Rajah.*$', '', body)
     return body.strip()
+
+
+def _has_ar(text):
+    """True bila baris memuat huruf Arab (>= 3 karakter)."""
+    n = sum(1 for ch in text if 0x0600 <= ord(ch) <= 0x06FF)
+    return n >= 3
 
 
 # ---------------------------------------------------------------- DOCX
@@ -212,33 +256,53 @@ def build_docx():
             except Exception:
                 pass
 
-        for g in paired(body):
-            if g[0] == 'T':
-                _, ar, lat, idn = g
-                par = doc.add_paragraph()
-                rtl(par)
-                r = par.add_run(ar)
-                set_font(r)
-                r.font.size = Pt(15)
-                par = doc.add_paragraph()
-                r = par.add_run(lat)
-                r.italic = True
-                par = doc.add_paragraph()
-                par.add_run(idn)
-            else:
-                _, kind, text, _ = g
-                par = doc.add_paragraph()
-                if kind == 'AR':
+        secs = sections(body)
+        if secs:
+            for num, name, lines in secs:
+                sh = doc.add_paragraph()
+                sr = sh.add_run('### %s. %s' % (num, name))
+                sr.bold = True
+                sr.font.size = Pt(11.5)
+                for line in lines:
+                    par = doc.add_paragraph()
+                    if num == '1' and _has_ar(line):
+                        rtl(par)
+                        r = par.add_run(line)
+                        set_font(r)
+                        r.font.size = Pt(15)
+                    elif num == '4' and line.startswith('- '):
+                        par.paragraph_format.left_indent = Inches(0.28)
+                        par.add_run('• ' + line[2:])
+                    else:
+                        par.add_run(line)
+        else:
+            for g in paired(body):
+                if g[0] == 'T':
+                    _, ar, lat, idn = g
+                    par = doc.add_paragraph()
                     rtl(par)
-                    r = par.add_run(text)
+                    r = par.add_run(ar)
                     set_font(r)
                     r.font.size = Pt(15)
+                    par = doc.add_paragraph()
+                    r = par.add_run(lat)
+                    r.italic = True
+                    par = doc.add_paragraph()
+                    par.add_run(idn)
                 else:
-                    r = par.add_run(text)
-                    r.italic = (kind == 'LAT')
+                    _, kind, text, _ = g
+                    par = doc.add_paragraph()
+                    if kind == 'AR':
+                        rtl(par)
+                        r = par.add_run(text)
+                        set_font(r)
+                        r.font.size = Pt(15)
+                    else:
+                        r = par.add_run(text)
+                        r.italic = (kind == 'LAT')
 
-        for line in extras(body):
-            doc.add_paragraph(line)
+            for line in extras(body):
+                doc.add_paragraph(line)
 
     # --- daftar wafak
     doc.add_page_break()
@@ -493,44 +557,61 @@ def build_pdf():
             except Exception:
                 pass
 
-        for g in paired(body):
-            if g[0] == 'T':
-                seq = ((g[1], 'AR', 15), (g[2], 'LAT', 9), (g[3], 'ID', 9))
-            elif g[1] == 'AR':
-                seq = ((g[2], 'AR', 15),)
-            elif g[1] == 'LAT':
-                seq = ((g[2], 'LAT', 9),)
+        def emit(txt, kind, size, indent=0):
+            nonlocal y
+            if kind == 'AR':
+                lines = wrap_ar(txt, size, W - 2 * M - 10)
+                step = size + 11
+            elif kind == 'H':
+                lines = wrap_mixed(txt, 'DejaVu-Bold', size, W - 2 * M - 40)
+                step = size + 7
             else:
-                seq = ((g[2], 'ID', 9),)
-            for txt, kind, size in seq:
+                lines = wrap(txt, 'DejaVu', size, W - 2 * M - 30 - indent)
+                step = size + 4
+            for line in lines:
+                if y < 60:
+                    footer()
+                    c.showPage()
+                    y = new_page()
                 if kind == 'AR':
-                    lines = wrap_ar(txt, size, W - 2 * M - 10)
-                    step = size + 11
+                    c.setFont('Amiri', size)
+                    c.drawRightString(W - M, y, ar(line))
+                elif kind == 'H':
+                    draw_mixed(line, M, y, 'DejaVu-Bold', size)
                 else:
-                    lines = wrap(txt, 'DejaVu', size, W - 2 * M - 30)
-                    step = size + 4
-                for line in lines:
-                    if y < 60:
-                        footer()
-                        c.showPage()
-                        y = new_page()
-                    if kind == 'AR':
-                        c.setFont('Amiri', size)
-                        c.drawRightString(W - M, y, ar(line))
-                    else:
-                        draw_mixed(line, M, y, 'DejaVu', size)
-                    y -= step
-            y -= 8
+                    draw_mixed(line, M + indent, y, 'DejaVu', size)
+                y -= step
 
-        for line in extras(body):
-            if True:
-                for ll in wrap(line, 'DejaVu', 9, W - 2 * M - 20):
-                    if y < 60:
-                        footer()
-                        c.showPage()
-                        y = new_page()
-                    draw_mixed(ll, M, y, 'DejaVu', 9)
-                    y -= 13
+        secs = sections(body)
+        if secs:
+            for num, name, lines in secs:
+                y -= 4
+                emit('%s. %s' % (num, name), 'H', 10.5)
+                for line in lines:
+                    if num == '1' and _has_ar(line):
+                        emit(line, 'AR', 15)
+                    elif line.startswith('- '):
+                        emit('• ' + line[2:], 'T', 9, indent=14)
+                    else:
+                        emit(line, 'T', 9)
+                y -= 4
+        else:
+            for g in paired(body):
+                if g[0] == 'T':
+                    seq = ((g[1], 'AR', 15), (g[2], 'LAT', 9), (g[3], 'ID', 9))
+                elif g[1] == 'AR':
+                    seq = ((g[2], 'AR', 15),)
+                elif g[1] == 'LAT':
+                    seq = ((g[2], 'LAT', 9),)
+                else:
+                    seq = ((g[2], 'ID', 9),)
+                for txt, kind, size in seq:
+                    emit(txt, kind, size)
+                y -= 8
+
+            for line in extras(body):
+                emit(line, 'T', 9)
+
         footer()
         c.showPage()
 
