@@ -1,6 +1,6 @@
 # Draf PDF halaman 150–154
 
-Status: BELUM SELESAI, belum diverifikasi dan belum digabung ke induk.
+Transkripsi berdasarkan scan PDF halaman 150–154; uraian tentang kesehatan adalah riwayat naskah, bukan pengganti pertolongan medis.
 
 ## HALAMAN 150 — PDF hal. 150 — Khasiat Al-A'raf, Al-Anfal dan At-Taubah
 
@@ -230,6 +230,142 @@ Naskah menyebut tulisan Surah Ibrahim pada kain putih untuk anak; Al-Hijr dengan
 
 Catatan keselamatan: klaim kesehatan dan perkembangan anak adalah riwayat, bukan pengganti pemeriksaan profesional. Jangan memberikan kepada anak tinta, bahan atau cairan yang keamanannya tidak diketahui; jangan memasang ikatan yang dapat membahayakan anak.
 
-## HALAMAN 153–154
+## HALAMAN 153 — PDF hal. 153 — Lanjutan Al-Isra' dan khasiat Al-Kahfi
 
-Belum ditranskripsi dan diverifikasi.
+### 1. TEKS ARAB BERHARAKAT
+
+وَعَلَيْهِ وَعَلَى آبَائِهِ وَأَجْدَادِهِ (أَفْضَلُ الصَّلَوَاتِ وَالسَّلَامِ) وَكَمَا جَاءَ وَوَرَدَ فِي كِتَابِ ثَوَابِ الْأَعْمَالِ: عَنِ الْحَسَنِ بْنِ عَاصِمٍ الْخَيَّاطِ، عَنْ مُحَمَّدِ بْنِ مُسْلِمٍ، عَنْ أَبِي عَبْدِ اللَّهِ (عَلَيْهِ أَفْضَلُ الصَّلَاةِ وَالسَّلَامِ): مَنْ قَرَأَ سُورَةَ بَنِي إِسْرَائِيلَ فِي كُلِّ لَيْلَةِ جُمُعَةٍ لَمْ يَمُتْ حَتَّى يُدْرِكَ الْقَائِمَ (عَلَيْهِ أَفْضَلُ الصَّلَوَاتِ وَالسَّلَامِ) وَيَكُونَ مِنْ أَصْحَابِهِ.
+
+(خَوَاصُّ سُورَةِ الْكَهْفِ الْمُبَارَكَةِ)
+
+١ - أَيْضًا تَفْسِيرُ الْبُرْهَانِ: عَنِ الْإِمَامِ جَعْفَرٍ الصَّادِقِ (عَلَيْهِ أَفْضَلُ السَّلَامِ) أَنَّهُ مَنْ كَتَبَهَا وَجَعَلَهَا فِي إِنَاءٍ زُجَاجٍ ضَيِّقِ الرَّأْسِ وَجَعَلَهُ فِي مَنْزِلِهِ أَمِنَ مِنَ الْفَقْرِ وَالدَّيْنِ هُوَ وَأَهْلُهُ، وَأَمِنَ مِنْ أَذَى النَّاسِ.
+
+٢ - وَإِنْ كُتِبَتْ وَجُعِلَتْ فِي مَخَازِنِ الْحُبُوبِ مِنَ الْقَمْحِ وَالشَّعِيرِ وَالْأَرُزِّ وَالْحِمَّصِ وَغَيْرِ ذَلِكَ دَفَعَ اللَّهُ عَنْهُ، بِإِذْنِ اللَّهِ تَعَالَى كُلَّ مُؤْذٍ مِمَّا يَطْرُقُ الْحُبُوبَ.
+
+٣ - خَوَاصُّ سُورَةِ الْكَهْفِ الشَّرِيفَةِ: أَنَّهُ يُوجَدُ آيَةٌ كَرِيمَةٌ فِيهَا لِإِيقَاظِ الشَّخْصِ مِنْ نَوْمِهِ السَّاعَةَ الَّتِي يُرِيدُهَا وَالْآيَةُ هِيَ ﴿قُلْ إِنَّمَا أَنَا بَشَرٌ مِثْلُكُمْ يُوحَى إِلَيَّ أَنَّمَا إِلَهُكُمْ إِلَهٌ وَاحِدٌ فَمَنْ كَانَ يَرْجُو لِقَاءَ رَبِّهِ فَلْيَعْمَلْ عَمَلًا صَالِحًا وَلَا يُشْرِكْ بِعِبَادَةِ رَبِّهِ أَحَدًا﴾ (صَدَقَ اللَّهُ الْعَظِيمُ وَرَسُولُهُ الْكَرِيمُ) تَأْكِيدًا عَلَى ذَلِكَ وَرَدَ فِي الْكَافِي: عَنْ أَحْمَدَ بْنِ مُحَمَّدِ بْنِ أَحْمَدَ، عَنْ مُحَمَّدِ بْنِ أَحْمَدَ النَّهْدِيِّ عَنْ مُحَمَّدِ بْنِ الْوَلِيدِ، عَنْ أَبَانَ عَنْ عَامِرٍ، عَنْ عَبْدِ اللَّهِ بْنِ جُذَاعَةَ، عَنْ أَبِي عَبْدِ اللَّهِ (عَلَيْهِ أَفْضَلُ الصَّلَاةِ وَالسَّلَامِ) أَنَّهُ قَالَ: مَا عَبْدٌ يَقْرَأُ آخِرَ سُورَةِ الْكَهْفِ إِلَّا يَتَيَقَّظُ فِي السَّاعَةِ الَّتِي يُرِيدُهَا.
+
+٤ - يُوجَدُ، خَاصَّةٌ مُهِمَّةٌ لِسُورَةِ الْكَهْفِ الْمُعَظَّمَةِ ذَاتِ الشَّأْنِ الرَّفِيعِ وَهُوَ كَمَا وَرَدَ فِي كِتَابِ مَجْمَعِ الْبَيَانِ: عَنِ النَّبِيِّ الْأَكْرَمِ ﷺ قَالَ: أَلَا أَدُلُّكُمْ عَلَى سُورَةٍ شَيَّعَهَا سَبْعُونَ أَلْفَ مَلَكٍ حِينَ نَزَلَتْ، مَلَأَ عَظَمَتُهَا مَا بَيْنَ السَّمَاءِ وَالْأَرْضِ؟ قَالُوا: بَلَى. قَالَ: سُورَةُ أَصْحَابِ الْكَهْفِ، مَنْ قَرَأَهَا يَوْمَ الْجُمُعَةِ غَفَرَ اللَّهُ لَهُ إِلَى الْجُمُعَةِ الْأُخْرَى وَزِيَادَةِ ثَلَاثَةِ أَيَّامٍ، وَأُعْطِيَ نُورًا يَبْلُغُ السَّمَاءَ وَالْأَرْضَ وَوُقِيَ فِتْنَةَ الدَّجَّالِ.
+
+(خَوَاصُّ سُورَةِ مَرْيَمَ عَلَيْهَا السَّلَامُ)
+
+١ - وَفِي تَفْسِيرِ الْبُرْهَانِ: عَنِ الْإِمَامِ جَعْفَرٍ الصَّادِقِ (عَلَيْهِ أَفْضَلُ السَّلَامِ): [يَتْبَعُ فِي الصَّفْحَةِ ١٥٤].
+
+### 2. TRANSLITERASI LATIN
+
+Wa 'alaihi wa 'ala aba'ihi wa ajdadihi (afdhalush-shalawati was-salam) wa kama ja'a wa warada fi kitabi Tsawabil-A'mal: 'anil-Hasani bni 'Ashimin al-Khayyath, 'an Muhammadi bni Muslimin, 'an Abi 'Abdillah ('alaihi afdhalush-shalati was-salam): man qara'a surata Bani Isra'ila fi kulli lailati jumu'atin lam yamut hatta yudrikal-Qa'im ('alaihi afdhalush-shalawati was-salam) wa yakuna min ashhabih.
+
+(Khawashshu suratil-Kahfil-mubarakah)
+
+1. Aidhan Tafsirul-Burhan: 'anil-imami Ja'farinish-Shadiq ('alaihi afdhalus-salam) annahu man katabaha wa ja'alaha fi ina'in zujajin dhayyiqir-ra'si wa ja'alahu fi manzilihi amina minal-faqri wad-daini huwa wa ahluhu, wa amina min adzan-nas.
+
+2. Wa in kutibat wa ju'ilat fi makhazinil-hububi minal-qamhi wasy-sya'iri wal-aruzzi wal-himmishi wa ghairi dzalika dafa'allahu 'anhu, bi-idznillahi ta'ala kulla mu'dzin mimma yathruqul-hubub.
+
+3. Khawashshu suratil-Kahfisy-syarifah: annahu yujadu ayatun karimatun fiha li-iqazhisy-syakhshi min naumihis-sa'atal-lati yuriduha wal-ayatu hiya «Qul innama ana basyarun mitslukum yuha ilayya annama ilahukum ilahun wahidun faman kana yarju liqa'a rabbihi falya'mal 'amalan shalihan wa la yusyrik bi'ibadati rabbihi ahada» (shadaqallahu al-'azhimu wa rasuluhul-karim) ta'kidan 'ala dzalika warada fil-Kafi: 'an Ahmada bni Muhammadi bni Ahmad, 'an Muhammadi bni Ahmad an-Nahdi 'an Muhammadi bnil-Walid, 'an Abana 'an 'Amir, 'an 'Abdillahi bni Judza'ah, 'an Abi 'Abdillah ('alaihi afdhalush-shalati was-salam) annahu qala: ma 'abdun yaqra'u akhira suratil-Kahfi illa yatayaqqazhu fis-sa'atil-lati yuriduha.
+
+4. Yujadu khashshatun muhimmatun lisurati al-Kahfil-mu'azhzhama dzatisy-sya'nir-rafi' wa huwa kama warada fi kitabi Majma'il-Bayan: 'anin-nabiyyil-akrami shallallahu 'alaihi wa sallam qala: ala adullukum 'ala suratin syayya'aha sab'una alfa malakin hina nazalat, mala'a 'azhamatuha ma bainas-sama'i wal-ardh? Qalu: bala. Qala: suratu ash-habil-Kahf, man qara'aha yaumal-jumu'ati ghafarallahu lahu ilal-jumu'atil-ukhra wa ziyadati tsalatsati ayyamin, wa u'thiya nuran yablughus-sama'a wal-ardha wa wuqiya fitnatad-Dajjal.
+
+(Khawashshu surati Maryama 'alaihas-salam)
+
+1. Wa fi Tafsiril-Burhan: 'anil-imami Ja'farinish-Shadiq ('alaihi afdhalus-salam): [bersambung ke halaman 154].
+
+### 3. TERJEMAHAN INDONESIA
+
+[Lanjutan:] Semoga shalawat dan salam tercurah atas beliau, para ayah dan leluhurnya. Dalam Tsawab al-A'mal diriwayatkan dari al-Hasan bin 'Ashim al-Khayyath, dari Muhammad bin Muslim, dari Abu Abdullah: siapa membaca Surah Bani Israil setiap malam Jumat disebut tidak meninggal sebelum menjumpai al-Qa'im dan termasuk sahabatnya.
+
+(Khasiat Surah Al-Kahfi)
+
+1. Dalam Tafsir al-Burhan diriwayatkan dari Imam Ja'far ash-Shadiq: siapa menulisnya, memasukkannya dalam wadah kaca berleher sempit dan meletakkannya di rumah, disebut ia dan keluarganya aman dari kemiskinan dan utang serta dari gangguan orang.
+
+2. Jika ditulis dan diletakkan di gudang biji-bijian seperti gandum, jelai, beras, kacang arab dan lainnya, disebut Allah menjauhkannya dari setiap gangguan yang menimpa biji-bijian.
+
+3. Disebut ada ayat untuk membangunkan seseorang dari tidur pada waktu yang dikehendakinya: “Katakanlah, sesungguhnya aku hanya seorang manusia seperti kamu, diwahyukan kepadaku bahwa Tuhanmu adalah Tuhan Yang Esa. Maka barang siapa mengharap perjumpaan dengan Tuhannya hendaklah ia beramal saleh dan tidak mempersekutukan seorang pun dalam beribadah kepada Tuhannya.” Naskah menyebut riwayat dalam al-Kafi melalui Ahmad bin Muhammad bin Ahmad, Muhammad bin Ahmad an-Nahdi, Muhammad bin al-Walid, Aban, 'Amir dan Abdullah bin Judza'ah dari Abu Abdullah: tidaklah seorang hamba membaca akhir Surah Al-Kahfi melainkan ia bangun pada waktu yang diinginkannya.
+
+4. Dalam Majma' al-Bayan diriwayatkan Nabi ﷺ bertanya apakah beliau boleh menunjukkan suatu surah yang diiringi tujuh puluh ribu malaikat ketika turun dan keagungannya memenuhi antara langit dan bumi. Mereka menjawab, “Ya.” Beliau menyebut Surah Ashhab al-Kahfi: orang yang membacanya pada hari Jumat disebut diampuni sampai Jumat berikutnya ditambah tiga hari, diberi cahaya yang mencapai langit dan bumi dan dilindungi dari fitnah Dajjal.
+
+(Khasiat Surah Maryam)
+
+1. Dalam Tafsir al-Burhan diriwayatkan dari Imam Ja'far ash-Shadiq: [bersambung ke halaman 154].
+
+### 4. TATACARA PRAKTIK LENGKAP
+
+Naskah menyebut membaca Surah Bani Israil pada malam Jumat; menulis Surah Al-Kahfi dan meletakkannya dalam wadah kaca di rumah atau di gudang biji-bijian; membaca ayat terakhir Al-Kahfi untuk bangun pada waktu yang dikehendaki; serta membacanya pada hari Jumat. Riwayat tentang Surah Maryam bersambung pada halaman berikutnya.
+
+## HALAMAN 154 — PDF hal. 154 — Lanjutan Maryam, khasiat Thaha dan Al-Anbiya'
+
+### 1. TEKS ARAB BERHARAKAT
+
+مَنْ كَتَبَهَا وَجَعَلَهَا فِي جَامِ زُجَاجٍ ضَيِّقِ الرَّأْسِ، وَجَعَلَهَا فِي مَنْزِلِهِ كَثُرَ خَيْرُهُ وَيَرَى الْخَيْرَ فِي مَنَامِهِ كَمَا يَرَى أَهْلَ مَنْزِلِهِ.
+
+٢ - إِذَا كُتِبَتْ عَلَى حَائِطِ الْبَيْتِ مَنَعَتْ طَوَارِقَهُ وَحَرَسَتْ مَا فِيهِ، وَإِذَا شَرِبَهَا الْخَائِفُ أَمِنَ بِإِذْنِ اللَّهِ تَعَالَى.
+
+(خَوَاصُّ سُورَةِ طه الشَّرِيفَةِ)
+
+١ - تَفْسِيرُ الْبُرْهَانِ: عَنِ النَّبِيِّ ﷺ قَالَ: مَنْ قَرَأَ هَذِهِ السُّورَةَ «طه» أُعْطِيَ يَوْمَ الْقِيَامَةِ مِثْلَ ثَوَابِ الْمُهَاجِرِينَ وَالْأَنْصَارِ.
+
+٢ - وَمَنْ كَتَبَهَا وَجَعَلَهَا فِي خِرْقَةِ حَرِيرٍ خَضْرَاءَ وَقَصَدَ إِلَى قَوْمٍ يُرِيدُ التَّزْوِيجَ لَمْ يُرَدَّ، وَقُضِيَتْ حَاجَتُهُ وَإِنْ مَشَى بَيْنَ عَسْكَرَيْنِ يَقْتَتِلَانِ افْتَرَقُوا وَلَمْ يُقَاتِلْ أَحَدٌ مِنْهُمُ الْآخَرَ.
+
+٣ - وَإِنْ دَخَلَ عَلَى سُلْطَانٍ كَفَاهُ اللَّهُ شَرَّهُ وَقَضَى لَهُ جَمِيعَ حَوَائِجِهِ، وَكَانَ عِنْدَهُ جَلِيلَ الْقَدْرِ.
+
+٤ - وَرَدَ فِي بَعْضِ الْكُتُبِ إِذَا اغْتَسَلَتْ بِمَائِهَا الَّتِي طَالَتْ عُزُوبَتُهَا تَزَوَّجَتْ سَرِيعًا وَسَهَّلَ اللَّهُ تَعَالَى عَلَيْهَا ذَلِكَ الْأَمْرَ الَّتِي تُرِيدُ الْوُصُولَ إِلَيْهِ.
+
+(خَوَاصُّ سُورَةِ الْأَنْبِيَاءِ الْمُبَارَكَةِ)
+
+١ - رُوِيَ عَنِ الْإِمَامِ جَعْفَرٍ الصَّادِقِ (عَلَيْهِ أَفْضَلُ السَّلَامِ): مَنْ كَتَبَهَا فِي رَقِّ ظَبْيٍ (جِلْدِ غَزَالٍ) وَجَعَلَهَا فِي وَسَطِهِ وَنَامَ لَمْ يَسْتَيْقِظْ حَتَّى يُرْفَعَ الْكِتَابُ مِنْ وَسَطِهِ.
+
+٢ - وَهِيَ تَصْلُحُ لِلْمَرْضَى، وَمَنْ طَالَ سَهَرُهُ مِنْ فِكْرٍ أَوْ خَوْفٍ أَوْ مَرَضٍ فَإِنَّهُ يَبْرَأُ بِإِذْنِ اللَّهِ تَعَالَى.
+
+٣ - مِنْ خَوَاصِّ سُورَةِ الْأَنْبِيَاءِ: الْإِدْمَانُ فِي قِرَاءَتِهَا أَصْبَحَ مَهَابًا، وَمِمَّا جَاءَ وَوَرَدَ فِي كِتَابِ ثَوَابِ الْأَعْمَالِ: عَنِ الْحَسَنِ، عَنْ يَحْيَى بْنِ مُسَاوِرٍ، عَنْ فَضْلٍ الْغَسَّانِيِّ، عَنْ أَبِي عَبْدِ اللَّهِ (عَلَيْهِ أَفْضَلُ السَّلَامِ) قَالَ: مَنْ قَرَأَ سُورَةَ الْأَنْبِيَاءِ حُبًّا لَهَا [يَتْبَعُ فِي الصَّفْحَةِ ١٥٥].
+
+### 2. TRANSLITERASI LATIN
+
+Man katabaha wa ja'alaha fi jami zujajin dhayyiqir-ra'si, wa ja'alaha fi manzilihi katsura khairuhu wa yaral-khaira fi manamihi kama yara ahla manzilih.
+
+2. Idza kutibat 'ala ha'ithil-baiti mana'at thawariqahu wa harasat ma fihi, wa idza syaribahal-kha'ifu amina bi-idznillahi ta'ala.
+
+(Khawashshu surati Thaha asy-syarifah)
+
+1. Tafsirul-Burhan: 'anin-nabiyyi shallallahu 'alaihi wa sallam qala: man qara'a hadzihis-surata «Thaha» u'thiya yaumal-qiyamati mitsla tsawabil-muhajirina wal-anshar.
+
+2. Wa man katabaha wa ja'alaha fi khirqati haririn khadhra'a wa qashada ila qaumin yuridut-tazwija lam yuradd, wa qudhiyat hajatuhu wa in masya baina 'askarayni yaqtatilani iftaraqu wa lam yuqatil ahadun minhumul-akhar.
+
+3. Wa in dakhala 'ala sulthanin kafahullahu syarrahu wa qadha lahu jami'a hawa'ijihi, wa kana 'indahu jalilal-qadr.
+
+4. Warada fi ba'dhil-kutubi idzaghtasalat bima'iha allati thalat 'uzubatuha tazawwajat sari'an wa sahhalallahu ta'ala 'alaiha dzalikal-amra allati turidul-wushula ilaih.
+
+(Khawashshu suratil-Anbiya'il-mubarakah)
+
+1. Ruwiya 'anil-imami Ja'farinish-Shadiq ('alaihi afdhalus-salam): man katabaha fi raqqi zhabyin (jildi ghazalin) wa ja'alaha fi wasathihi wa nama lam yastaiqizh hatta yurfa'al-kitabu min wasathih.
+
+2. Wa hiya tashluhu lil-mardha, wa man thala saharuhu min fikrin au khaufin au maradhin fa-innahu yabra'u bi-idznillahi ta'ala.
+
+3. Min khawashshi suratil-Anbiya': al-idmanu fi qira'atiha ashbaha mahaban, wa mimma ja'a wa warada fi kitabi Tsawabil-A'mal: 'anil-Hasani, 'an Yahya bni Musawirin, 'an Fadhlil-Ghassani, 'an Abi 'Abdillah ('alaihi afdhalus-salam) qala: man qara'a suratal-Anbiya'i hubban laha [bersambung ke halaman 155].
+
+### 3. TERJEMAHAN INDONESIA
+
+[Lanjutan Surah Maryam:] Siapa menulisnya dan meletakkannya dalam wadah kaca berleher sempit lalu meletakkannya di rumah, disebut bertambah kebaikannya dan ia melihat kebaikan dalam tidurnya sebagaimana ia melihat anggota rumahnya.
+
+2. Jika ditulis pada dinding rumah, disebut dapat mencegah orang yang datang mengganggu dan menjaga isinya. Apabila orang yang takut meminumnya, ia disebut aman dengan izin Allah.
+
+(Khasiat Surah Thaha)
+
+1. Dalam Tafsir al-Burhan diriwayatkan dari Nabi ﷺ: siapa membaca Surah Thaha diberi pada hari kiamat pahala seperti pahala Muhajirin dan Anshar.
+
+2. Siapa menulisnya dan meletakkannya dalam kain sutra hijau lalu mendatangi suatu kaum untuk meminang, disebut tidak ditolak dan hajatnya dipenuhi. Jika ia berjalan di antara dua pasukan yang bertempur, disebut mereka berpisah dan tidak saling memerangi.
+
+3. Jika ia masuk menghadap penguasa, disebut Allah mencukupinya dari keburukan penguasa itu, memenuhi seluruh hajatnya, dan ia menjadi orang yang tinggi kedudukannya di hadapannya.
+
+4. Dalam sebagian kitab disebut perempuan yang lama belum menikah, apabila mandi dengan airnya, akan segera menikah dan Allah memudahkan urusan yang ingin dicapainya.
+
+(Khasiat Surah Al-Anbiya')
+
+1. Diriwayatkan dari Imam Ja'far ash-Shadiq: siapa menulisnya pada kulit kijang, meletakkannya di pinggang dan tidur, disebut tidak akan bangun sampai tulisan itu diangkat dari pinggangnya.
+
+2. Naskah menyebutnya baik bagi orang sakit dan orang yang lama terjaga karena pikiran, ketakutan atau penyakit; ia disebut sembuh dengan izin Allah.
+
+3. Di antara khasiat yang disebut: orang yang tekun membacanya menjadi disegani. Dalam Tsawab al-A'mal diriwayatkan dari al-Hasan melalui Yahya bin Musawir dan Fadhl al-Ghassani dari Abu Abdullah: siapa membaca Surah Al-Anbiya' karena mencintainya [bersambung ke halaman 155].
+
+### 4. TATACARA PRAKTIK LENGKAP
+
+Naskah menyebut penulisan Surah Maryam dalam wadah kaca atau pada dinding; pembacaan dan penulisan Thaha pada kain sutra hijau dan penggunaan airnya; serta penulisan Al-Anbiya' pada kulit kijang dan pembacaannya secara tekun. Riwayat terakhir bersambung pada halaman 155.
+
+Catatan keselamatan: klaim tentang tidur dan penyakit adalah riwayat naskah, bukan pengobatan yang terbukti. Kesulitan tidur yang menetap atau penyakit memerlukan pemeriksaan kesehatan; jangan meminum bahan yang keamanannya tidak diketahui dan jangan memasuki situasi pertempuran.

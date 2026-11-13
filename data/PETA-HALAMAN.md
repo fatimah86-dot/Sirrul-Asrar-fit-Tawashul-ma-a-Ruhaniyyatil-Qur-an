@@ -379,3 +379,15 @@ Catatan: 143–144 dan 144–145 bersambung. Catatan keselamatan membedakan riwa
 | 149 | Lanjutan Al-Ma’idah dan khasiat Al-An’am | — |
 
 Klaim mengenai kesehatan adalah riwayat naskah, bukan pengganti pertolongan medis.
+
+### Status pengerjaan Hal. 150–154
+
+| Hal. | Judul | Rajah |
+|---|---|---|
+| 150 | Khasiat Al-A'raf, Al-Anfal dan At-Taubah | — |
+| 151 | Khasiat Hud, Yusuf, Ar-Ra'd dan Ibrahim | — |
+| 152 | Lanjutan Ibrahim, khasiat Al-Hijr, An-Nahl dan Al-Isra' | — |
+| 153 | Lanjutan Al-Isra', khasiat Al-Kahfi dan awal Maryam | — |
+| 154 | Lanjutan Maryam, khasiat Thaha dan Al-Anbiya' | — |
+
+Riwayat Al-Isra' bersambung 152–153, Maryam 153–154, Al-Anbiya' 154–155. Klaim kesehatan dan keselamatan adalah riwayat naskah, bukan pengganti penanganan yang sesuai.
