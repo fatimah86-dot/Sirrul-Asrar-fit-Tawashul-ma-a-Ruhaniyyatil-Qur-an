@@ -346,3 +346,15 @@ Hal. 128–130: teks saya yang kirim, dimasukkan apa adanya. Scan disertakan seb
 | 137 | Mimisan, nyeri dada dan jantung | — |
 
 Catatan: 133–134 dan 135–136 memuat kalimat yang bersambung; 136–137 menyambung uraian batu akik. Teks merupakan riwayat naskah, bukan nasihat medis.
+
+### Status pengerjaan Hal. 138–142
+
+| Hal. | Judul | Rajah |
+|---|---|---|
+| 138 | Sakit limpa dan rajah | `hal-138-rajah-01.png`; sebagian tulisan [TIDAK JELAS] |
+| 139 | Sakit limpa, perut dan usus besar | — |
+| 140 | Sakit pinggang, sisi tubuh, pusar dan kandung kemih | — |
+| 141 | Sakit punggung dan anggota kaki | — |
+| 142 | Nyeri saraf, wasir, kutil dan luka | — |
+
+Catatan: halaman 139–140 bersambung. Riwayat bukan nasihat medis; keterangan klaim panas/bara pada halaman 138 diberi peringatan keselamatan.
