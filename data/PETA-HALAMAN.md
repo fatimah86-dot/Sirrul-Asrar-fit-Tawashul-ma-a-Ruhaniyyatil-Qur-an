@@ -248,3 +248,15 @@ Catatan: penghitung `wafak/rajah` pada induk naik 102 → **104**. Induk: DOCX 3
 | 97 | **Wafaq 5×5 mahabbah** + cara mengasapi ('ud hindi, jawi, "kayu salib") + riwayat Ibnu Mas'ud | `hal-097-rajah-01.png` — wafaq 5×5 berbingkai + tulisan tangan di 4 sisi | tulisan bingkai tidak terbaca utuh, angka sel tampak mirror → **tidak ditafsirkan**; "عود الصليب" tidak dijelaskan naskah |
 
 Catatan: penghitung `wafak/rajah` pada induk naik 104 → **106**. Induk: DOCX 32.05 MB, PDF 47.95 MB, **1114 hlm** (termasuk Sampul–60). Verifikasi render PDF hlm. 255/258/260/262/267: rajah tampil benar, tidak ada `![` / `](` bocor sebagai teks.
+
+### Status pengerjaan Hal. 98–102 (selesai)
+
+| Hal. | Judul | Rajah | Catatan |
+|---|---|---|---|
+| 98 | Fadhilah Ayatul Kursi (Imam ash-Shadiq) + penulisan di smat rumah + awal kaifiyat wirid 10 waqaf | — | hitungan: 1×, 1.000×, 10 waqaf, 3×, 1× |
+| 99 | Penutup wirid 10 waqaf + syarat 12 hari + awal باب في معرفة اسم الله الأعظم (doa A'ma) | — | 12 hari, 1.000× |
+| 100 | Pelengkap doa A'ma + dua cara mengenal Ismullah Al-A'zham + daftar ayat per surah | — | memuat `فُلَانٍ` (mimpi Syuraih) → kaidah Fulan |
+| 101 | Daftar ayat "لا إله إلا هو" dalam Al-Qur'an (Ismullah Al-A'zham riwayat Syuraih) | — | kutipan ayat; tanpa angka rajah |
+| 102 | Penutup daftar + riwayat Ibnu Abbas (37 tempat) + syarat wirid agar diterima pembesar | — | 37 tempat, 1× setelah tiap shalat |
+
+Catatan: induk **1123 hlm**, `wafak/rajah` **106**, DOCX 32.07 MB, PDF 47.96 MB. Perbaikan: 94 baris `**Rajah:** ![...]` pada `transkripsi/bab2.md` (Hal. 376–516) sebelumnya **tidak menempel gambar** karena prefiks tebal; kini dinormalkan jadi `![...]` sehingga 94 rajah itu ikut tercetak (total gambar PDF 400). Verifikasi: 0 kebocoran `![`/`](` di seluruh PDF.

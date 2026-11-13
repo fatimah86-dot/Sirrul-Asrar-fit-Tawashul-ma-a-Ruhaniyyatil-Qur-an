@@ -4485,7 +4485,7 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 (2) bingkai tengah dan bawah memuat **sembilan kotak** berisi tulisan thilasm (bentuk «ط» berekor panjang dengan gerigi di bawahnya, berulang) yang tersusun 3×3;
 (3) pada sisi kanan, kiri, dan bawah bingkai terdapat tulisan doa/hizib yang mengelilingi rajah (antara lain «اللهم إنا نسألك بكل اسم سميت به نفسك…»، «الذي يشفع عنده إلا بإذنه يعلم ما بين أيديهم وما خلفهم»).
 
-**Rajah:** ![Rajah hal. 376 — ṭilasm/wafaq hari Ahad](../assets/rajah/sirrul-asrar/hal-376-rajah-01.jpg)
+![Rajah hal. 376 — ṭilasm/wafaq hari Ahad](../assets/rajah/sirrul-asrar/hal-376-rajah-01.jpg)
 
 **[TIDAK JELAS - HALAMAN 376]** (1) **Angka-angka wafaq 4×4 pada halaman ini tidak dapat dibaca dengan pasti** dari citra scan: tabel ditulis tangan dengan kemiringan ±8° dan garis-garis sel saling berhimpit, sehingga angka terakhir pada banyak kotak tampak ganda (misalnya bentuk yang menyerupai ٠/٥ atau ٥/٦) tanpa dapat dipastikan. Sesuai aturan, **tidak ada satu angka pun yang diklaim sebagai angka wafaq** di sini; angka sesungguhnya dapat dilihat langsung pada rajah yang dilampirkan. (2) Tulisan thilasm pada sembilan kotak (bentuk «ط» bergerigi) adalah thilasm tanpa vokalisasi; **[TEKS ASLI DIJAGA]** dan tidak diterka bacaannya. (3) Tulisan yang mengelilingi bingkai (kanan, kiri, bawah) tercetak miring dan sebagian terpotong tepi bingkai; hanya frasa yang terbaca jelas yang dikutip di keterangan, selebihnya tidak ditranskripsi untuk menghindari kesalahan. (4) Keterangan sumber menyebut «ص٢٧٩» (Kitab Ḍiyā’ al-Ṣāliḥīn halaman 279); angka ini disalin persis dari scan.
 
@@ -4544,7 +4544,7 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 (2) di bawahnya sebuah **rajah bundar (dā’irah)**: lingkaran-lingkaran konsentris bertuliskan huruf-huruf/doa yang mengelilingi **sebuah kotak pusat** yang di dalamnya tertulis nama-nama dan huruf terpisah («إلياسا»، «حمو»، «عزيز»، «جليل»، «ميططرون» dan sejenisnya);
 (3) pada keempat sudut bingkai terdapat **empat ruang setengah lingkaran** yang masing-masing berisi tulisan kecil, dan pada sisi kanan, kiri, serta bawah bingkai terdapat tulisan yang mengelilingi rajah, antara lain «الْقَيُّومُ الْمُهَيْمِنُ الْعَزِيزُ الْجَبَّارُ الْمُتَكَبِّرُ سُبْحَانَ اللَّهِ عَمَّا يُشْرِكُونَ هُوَ» serta pada sisi kiri «تَوَكَّلْتُ عَلَى الْحَيِّ الَّذِي لَا يَمُوتُ…».
 
-**Rajah:** ![Rajah hal. 378 — ṭilasm/wafaq hari Senin](../assets/rajah/sirrul-asrar/hal-378-rajah-01.jpg)
+![Rajah hal. 378 — ṭilasm/wafaq hari Senin](../assets/rajah/sirrul-asrar/hal-378-rajah-01.jpg)
 
 **[TIDAK JELAS - HALAMAN 378]** (1) **Angka wafaq 4×4 pada halaman ini tidak diklaim secara rinci**: seluruh sel diawali «١٩١٨» namun dua angka terakhir pada setiap kotak tidak dapat dipastikan dari citra scan (tabel ditulis tangan miring dan garis sel berhimpit); angka sebenarnya dapat dibaca langsung pada rajah yang dilampirkan. (2) Tulisan pada lingkaran-lingkaran rajah (huruf-huruf terpisah dan nama-nama) sangat rapat dan sebagian saling menimpa; **[TEKS ASLI DIJAGA]** — hanya bentuk yang terbaca jelas yang dikutip, selebihnya tidak diterka. (3) Tulisan pada empat sudut bingkai tidak dapat dibaca utuh; tidak ditranskripsi. (4) Keterangan sumber «ص٢٨٩» (Kitab Ḍiyā’ al-Ṣāliḥīn halaman 289) disalin persis dari scan.
 
@@ -4616,7 +4616,7 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 (3) pada keempat sudut bingkai terdapat **empat ruang setengah lingkaran** berisi tulisan kecil;
 (4) pada sisi kiri bingkai (dari atas ke bawah) tercetak deret «اللهم صل على محمد المصطفى وعلى المرتضى علي والحسن والحسين» dan seterusnya; pada sisi kanan deret «علي والحسن…»; pada sisi bawah «الحسين وسيد العابدين علي والباقر محمد والصادق جعفر والكاظم موسى».
 
-**Rajah:** ![Rajah hal. 381 — ṭilasm/wafaq hari Selasa](../assets/rajah/sirrul-asrar/hal-381-rajah-01.jpg)
+![Rajah hal. 381 — ṭilasm/wafaq hari Selasa](../assets/rajah/sirrul-asrar/hal-381-rajah-01.jpg)
 
 **[TIDAK JELAS - HALAMAN 381]** (1) **Angka wafaq 4×4 tidak diklaim**: seluruh sel diawali «١٩١٨» tetapi dua angka terakhir tiap kotak tidak dapat dipastikan dari citra scan (tabel ditulis tangan miring); angka sebenarnya dapat dibaca langsung pada rajah terlampir. (2) Tulisan pada lingkaran rajah dan pada empat sudut bingkai sangat rapat, sebagian saling menimpa dan terpotong tepi bingkai; **[TEKS ASLI DIJAGA]** — hanya frasa yang terbaca jelas yang dikutip, selebihnya tidak diterka. (3) Keterangan sumber «ص٢٨٩» (Kitab Ḍiyā’ al-Ṣāliḥīn halaman 289) disalin persis dari scan; angka halaman ini **sama** dengan yang tercetak pada halaman 378.
 
@@ -4694,7 +4694,7 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 (3) sebuah **rajah bundar besar (dā’irah)** di bawahnya: lingkaran berlapis yang pada pita luarnya tertulis «بسم الله الرحمن الرحيم إِنَّ اللَّهَ…» dan pada pusatnya kotak-kotak kecil bertuliskan huruf dan nama;
 (4) tulisan yang mengelilingi seluruh bingkai: pada sisi kanan «…قديم لم يزل…»، pada sisi kiri «…تبارك الله…»، dan pada sisi bawah «بِيَدِكَ الْخَيْرُ اِنَّكَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ تُولِجُ اللَّيْلَ فِي النَّهَارِ وَتُولِجُ».
 
-**Rajah:** ![Rajah hal. 383 — ṭilasm/wafaq hari Rabu](../assets/rajah/sirrul-asrar/hal-383-rajah-01.jpg)
+![Rajah hal. 383 — ṭilasm/wafaq hari Rabu](../assets/rajah/sirrul-asrar/hal-383-rajah-01.jpg)
 
 **[TIDAK JELAS - HALAMAN 383]** (1) **Angka wafaq 4×4 tidak diklaim**: seluruh sel diawali «١٩١٨» tetapi dua angka terakhir tiap kotak tidak dapat dipastikan dari citra scan; angka sebenarnya dapat dibaca langsung pada rajah terlampir. (2) Tulisan pada tiga bundaran kecil dan pada lingkaran-lingkaran rajah sangat kecil serta saling menimpa; **[TEKS ASLI DIJAGA]** — hanya frasa yang terbaca jelas yang dikutip, selebihnya tidak diterka. (3) Tulisan tepi bingkai (kanan dan kiri) terpotong di beberapa tempat; tidak ditranskripsi utuh. (4) Keterangan sumber «ص٣٠٧» (Kitab Ḍiyā’ al-Ṣāliḥīn halaman 307) disalin persis dari scan.
 
@@ -4797,7 +4797,7 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 (4) di bawah rajah bundar tercetak **bingkai mendatar** berisi «لَا اِلَهَ الَّا اللَّهُ مُحَمَّدٌ رَسُولُ اللَّهِ»;
 (5) tulisan mengelilingi bingkai: sisi kanan (dari atas) «…قدير…»، sisi kiri «…تبارك الله…»، dan di bawah bingkai «وَالرَّازِقُ وَاِنَّكَ خَيْرُ الرَّازِقِينَ وَمَنْ بَنِي اللَّهَ يَجْعَلْ لَهُ مَخْرَجًا».
 
-**Rajah:** ![Rajah hal. 386 — ṭilasm/wafaq hari Kamis](../assets/rajah/sirrul-asrar/hal-386-rajah-01.jpg)
+![Rajah hal. 386 — ṭilasm/wafaq hari Kamis](../assets/rajah/sirrul-asrar/hal-386-rajah-01.jpg)
 
 **AR:** قِسْمُ يَوْمِ الْجُمُعَةِ
 
@@ -4870,7 +4870,7 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 (4) **empat kotak bersudut** (bukan setengah lingkaran) yang masing-masing berisi deret angka dan huruf;
 (5) tulisan mengelilingi bingkai: sisi kanan «اللهم صل على محمد…»، sisi kiri «اللهم صل على محمد…»، dan di bawah «يَكَادُ زَيْتُهَا يُضِيءُ وَلَوْ لَمْ تَمْسَسْهُ نَارٌ نُورٌ عَلَى نُورٍ يَهْدِى اللَّهُ لِنُورِهِ مَنْ يَشَاءُ».
 
-**Rajah:** ![Rajah hal. 388 — ṭilasm/wafaq hari Jumat](../assets/rajah/sirrul-asrar/hal-388-rajah-01.jpg)
+![Rajah hal. 388 — ṭilasm/wafaq hari Jumat](../assets/rajah/sirrul-asrar/hal-388-rajah-01.jpg)
 
 **AR:** قِسْمُ الْمَلِكِ ابَا نُوخَ
 
@@ -4947,7 +4947,7 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 (4) empat **ruang setengah lingkaran** pada keempat sudut bingkai (berisi tulisan kecil «حروز» dan sejenisnya);
 (5) tulisan mengelilingi bingkai: sisi kanan «اللهُ لَا إِلَهَ إِلَّا هُوَ الْحَىُّ الْقَيُّومُ لَا تَاخُذُهُ سِنَةٌ وَلَا نَوْمٌ لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْاَرْضِ…»؛ sisi kiri «…الْعَلِيُّ الْعَظِيمُ» dan deret lain yang sebagian terpotong; sisi bawah «يَشْفَعُ عِنْدَهُ إِلَّا بِاِذْنِهِ يَعْلَمُ مَا بَيْنَ اَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلَا يُحِيطُونَ بِشَيْءٍ مِنْ عِلْمِهِ إِلَّا بِمَا شَاءَ وَسِعَ كُرْسِيُّهُ السَّمَاوَاتِ وَالْاَرْضَ وَلَا يَؤُدُهُ حِفْظُهُمَا وَهُوَ الْعَلِيُّ الْعَظِيمُ».
 
-**Rajah:** ![Rajah hal. 390 — ṭilasm/wafaq hari Sabtu](../assets/rajah/sirrul-asrar/hal-390-rajah-01.jpg)
+![Rajah hal. 390 — ṭilasm/wafaq hari Sabtu](../assets/rajah/sirrul-asrar/hal-390-rajah-01.jpg)
 
 **AR:** لِلْكَشْفِ وَالْمُتَابَعَةِ مَعَ شَيْخِ الرُّوحَانِيِّينَ — الشَّيْخُ عَطِيَّةُ عَبْدُ الْحَمِيدِ ٠٠٢٠١٦٢٠٢٢٢٣٨
 
@@ -5127,7 +5127,7 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 
 **Keterangan halaman.** Seluruh halaman ini berisi satu **rajah ṭilasm** besar — yaitu wujud gambar dari «رُقْعَةُ الاصْرَاف» yang metodenya dijelaskan pada halaman 392. Tidak ada teks uraian (prosa) pada halaman ini; teks hanya terdapat **di dalam** rajah, dalam bentuk tulisan tangan huruf-huruf terpotong, angka, dan satu kutipan Qur’an. Halaman dicetak sebagai gambar pindaian utuh (satu objek gambar menurut `get_image_info()`, bbox kurang-lebih [88, 69, 502, 647]), sehingga teks di dalamnya tidak dapat diambil dari lapisan teks PDF sama sekali — semuanya dibaca dari citra.
 
-**Rajah:** ![Rajah hal. 393 — ṭilasm «ruq‘ah al-aṣrāf»](../assets/rajah/sirrul-asrar/hal-393-rajah-01.jpg)
+![Rajah hal. 393 — ṭilasm «ruq‘ah al-aṣrāf»](../assets/rajah/sirrul-asrar/hal-393-rajah-01.jpg)
 
 **Susunan rajah (dari luar ke dalam).**
 (1) **Bingkai luar** persegi panjang bertepi ganda, terbagi menjadi **sembilan baris** yang dipisahkan garis mendatar; pada keempat sudutnya terdapat **empat kotak kecil** berisi tulisan tangan, dan di antara kotak-kotak itu memanjang deret **huruf-huruf terpotong besar** (bentuk seperti «ط ط ط…» dan bulatan-bulatan bertitik) pada baris teratas dan terbawah.
@@ -8061,7 +8061,7 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 
 **ID:** “**Dituliskan khātim (wafaq) berikut**, dan **di sekelilingnya ayat berikut 61 kali**, serta **(di sekitar) ayat berikut 313 kali** — dan **ayat itu ialah**: «**Salāmun qawlan min rabbin raḥīm**» (Q.S. Yāsīn 36:58: «Salam (sejahtera), sebagai ucapan (yang datang) dari Tuhan Yang Maha Penyayang»). **Dan inilah khātim (wafaq)-nya**:”
 
-**Rajah:** ![Rajah hal. 428 — wafaq «سلام قولا من رب رحيم» 4×4](../assets/rajah/sirrul-asrar/p428-wafaq-salam-qawlan.png)
+![Rajah hal. 428 — wafaq «سلام قولا من رب رحيم» 4×4](../assets/rajah/sirrul-asrar/p428-wafaq-salam-qawlan.png)
 
 **AR:** (جَدْوَلُ الْخَاتَمِ — أَرْبَعَةٌ فِى أَرْبَعَةٍ)
 
@@ -8111,7 +8111,7 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 
 **ID:** “Dituliskan **pada aṡar** — **ṭilasm ini**, dan **di sekelilingnya surah al-Burūj** («**Wa al-Samā’i dhāti al-Burūj**», Q.S. 85) **sampai «ḥarīq»** — dan engkau **mengazamkan (ta‘zīm) sebanyak jumlah jumal (nilai numerik) nama orang yang diminta beserta nama ibunya** (nama ibunya = «ism ummah»). **Amalanmu disesuaikan dengan tabiat orang yang diminta**, karena (dengan itu) ia akan terjadi. Dan **inilah yang engkau tulis**:”
 
-**Rajah:** ![Rajah hal. 429 — ṭilasm jalbu ‘alā aṡar, kotak bertingkat dengan deret huruf dan angka](../assets/rajah/sirrul-asrar/hal-429-rajah-01.png)
+![Rajah hal. 429 — ṭilasm jalbu ‘alā aṡar, kotak bertingkat dengan deret huruf dan angka](../assets/rajah/sirrul-asrar/hal-429-rajah-01.png)
 
 **AR:** (وَصْفُ الطِّلَسْمِ الْاَوَّلِ) مِرْبَعٌ كَبِيرٌ مُنَقَّسٌ بِخَطٍّ يَدَوِىٍّ مُقَسَّمٌ اِلَى قِسْمَيْنِ: الْقِسْمُ الْعُلْوِىُّ يَحْتَوِى ثَلَاثَةَ اَسْطُرٍ مِنْ حُرُوفٍ وَكَلِمَاتٍ مَقْطُوعَةٍ، وَفِيهِ كَلِمَاتٌ مَقْرُوءَةٌ مِثْلُ «قَلْبِى وَفُؤَادِ … ابْنِ فُلَانٍ» وَعَلَامَةُ «لَـجْـ» وَرُقُومٌ مِثْلُ «٣٣٣» وَ«٨٨٨»؛ وَالْقِسْمُ السُّفْلِىُّ يَحْتَوِى خَمْسَةَ اَسْطُرٍ وَفِيهِ «قَلْبِى وَهَيْبَتِى … بِنْتِ فُلَانَةَ» وَعَلَامَةُ «١١١» وَرُقُومٌ مِثْلُ «١١١١١٨٨١١٣١١».
 
@@ -8131,7 +8131,7 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 
 **ID:** “**(Di antara kedua ṭilasm)** ada satu baris angka: «**٧ ١١١ || || ||| ٣٣٣ ٥٧٨ ٥٩**» — **angka-angkanya tidak dapat dipastikan** karena merupakan **tulisan tangan**.”
 
-**Rajah:** ![Rajah hal. 429 — ṭilasm kedua (tulisan tangan) dengan lingkaran ٩٩٩ dan deret angka](../assets/rajah/sirrul-asrar/hal-429-rajah-02.png)
+![Rajah hal. 429 — ṭilasm kedua (tulisan tangan) dengan lingkaran ٩٩٩ dan deret angka](../assets/rajah/sirrul-asrar/hal-429-rajah-02.png)
 
 **AR:** (وَصْفُ الطِّلَسْمِ الثَّانِى) صَفْحَةٌ مَكْتُوبَةٌ بِيَدٍ حُرَّةٍ تَحْتَوِى: سَطْرًا عُلْوِيًّا مِنْ رُقُومٍ مُتَصِلَةٍ («٢١١١١٨١١٨٥٩١٢» تَقْرِيبًا)؛ وَفِى الْوَسَطِ **دَائِرَةٌ** مَكْتُوبٌ فِيهَا «**٩٩٩**» وَعَنْ يَمِينِهَا وَيَسَارِهَا حُرُوفٌ مُفْرَدَةٌ؛ وَسَطْرَيْنِ مِنْ حُرُوفٍ مَقْطُوعَةٍ تَنْتَهِى بِعَلَامَةٍ تُشْبِهُ «٧»؛ وَسَطْرَيْنِ سُفْلِيَّيْنِ مُتَصِلَيْنِ يَحْتَوِى كَلِمَاتٍ مَقْرُوءَةً مِثْلَ «**يَا هَوْدُ عِيسَى**» وَ«**يَا اِلْيَاسُ الْوِصَالُ**» وَعَلَامَاتٍ مِثْلَ «**٥٥٥**».
 
@@ -8174,7 +8174,7 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 
 **ID:** “**(Lanjutan «Jalbu dengan Segumpal Adonan»)**: **inilah yang engkau ukir pada sisi (wajah) pertama adonan**:”
 
-**Rajah:** ![Rajah hal. 430 — ṭilasm wajah pertama adonan: kotak tiga kolom dengan huruf dan angka tulisan tangan](../assets/rajah/sirrul-asrar/hal-430-rajah-01.png)
+![Rajah hal. 430 — ṭilasm wajah pertama adonan: kotak tiga kolom dengan huruf dan angka tulisan tangan](../assets/rajah/sirrul-asrar/hal-430-rajah-01.png)
 
 **AR:** (وَصْفُ الطِّلَسْمِ الْاَوَّلِ) جَدْوَلٌ مُرَبَّعٌ بِخَطٍّ يَدَوِىٍّ مُقَسَّمٌ اِلَى **ثَلَاثَةِ اَعْمِدَةٍ** وَ**خَمْسَةِ اَسْطُرٍ** (وَبَعْضُهَا مُنْقَسِمٌ اِلَى نِصْفَيْنِ بِخَطٍّ عَرْضِىٍّ):
 
@@ -8200,7 +8200,7 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 
 **ID:** “**Dan pada sisi (wajah) yang lain**:” (Petunjuk untuk ṭilasm berikut.)
 
-**Rajah:** ![Rajah hal. 430 — ṭilasm wajah kedua adonan: tiga bentuk oval bergerigi berisi huruf dan angka](../assets/rajah/sirrul-asrar/hal-430-rajah-02.png)
+![Rajah hal. 430 — ṭilasm wajah kedua adonan: tiga bentuk oval bergerigi berisi huruf dan angka](../assets/rajah/sirrul-asrar/hal-430-rajah-02.png)
 
 **AR:** (وَصْفُ الطِّلَسْمِ الثَّانِى) ثَلَاثَةُ اَشْكَالٍ بَيْضَاوِيَّةٍ (اَوَالِيَّةٍ) ذَاتِ حَافَّةٍ مُسَنَّنَةٍ، فَوْقَ بَعْضِهَا، وَفِى دَاخِلِهَا وَحَوْلَهَا حُرُوفٌ وَرُقُومٌ:
 
@@ -8253,7 +8253,7 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 
 **ID:** “**(Lanjutan «Jalbu dan Maḥabbah»)**: **inilah yang engkau tulis pada sisi pertama**:” (sambungan kalimat terakhir halaman 430.)
 
-**Rajah:** ![Rajah hal. 431 — dua belas kotak ṭilasm (tiga baris empat kotak) bertulisan tangan](../assets/rajah/sirrul-asrar/hal-431-rajah-01.png)
+![Rajah hal. 431 — dua belas kotak ṭilasm (tiga baris empat kotak) bertulisan tangan](../assets/rajah/sirrul-asrar/hal-431-rajah-01.png)
 
 **AR:** (وَصْفُ الطِّلَسْمِ) اِثْنَا عَشَرَ مُسْتَطِيلًا (مُرَبَّعًا صَغِيرًا) مَرْصُوفَةً فِى **ثَلَاثَةِ صُفُوفٍ**، فِى كُلِّ صَفٍّ **اَرْبَعَةُ صَنَادِيقَ**، وَفِى كُلِّ صُنْدُوقٍ كَلِمَةٌ طِلَسْمِيَّةٌ بِخَطٍّ يَدَوِىٍّ. وَالْمَقْرُوءُ مِنْهَا (مِنَ الْيَمِينِ اِلَى الْيَسَارِ):
 
@@ -8271,7 +8271,7 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 
 **ID:** “**Dan ini (yang engkau tulis) pada sisi yang lain**:” (Petunjuk untuk ṭilasm berikut.)
 
-**Rajah:** ![Rajah hal. 431 — ṭilasm sisi kedua: tiga baris panjang huruf dan angka tulisan tangan](../assets/rajah/sirrul-asrar/hal-431-rajah-02.png)
+![Rajah hal. 431 — ṭilasm sisi kedua: tiga baris panjang huruf dan angka tulisan tangan](../assets/rajah/sirrul-asrar/hal-431-rajah-02.png)
 
 **AR:** (وَصْفُ الطِّلَسْمِ الثَّانِى) ثَلَاثَةُ اَسْطُرٍ عَرِيضَةٍ تَحْتَهَا خُطُوطٌ اُفُقِيَّةٌ، وَالْحُرُوفُ فِيهَا مَمْدُودَةٌ مُتَّصِلَةٌ بِلَا نِقَاطٍ:
 
@@ -8312,7 +8312,7 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 
 **ID:** “Kitab «Sirr al-Asrār fī al-Tawāṣul ma‘a Rūḥāniyyāt al-Qur’ān» — Syaikh para ruhaniyyin, Syaikh ‘Aṭiyyah ‘Abd al-Ḥamīd.” (Kepala halaman.)
 
-**Rajah:** ![Rajah hal. 432 — ṭilasm gambar tangan: figur manusia berjubah dengan wadah, deret simbol (ج) dan huruf-huruf talismanic](../assets/rajah/sirrul-asrar/hal-432-rajah-01.png)
+![Rajah hal. 432 — ṭilasm gambar tangan: figur manusia berjubah dengan wadah, deret simbol (ج) dan huruf-huruf talismanic](../assets/rajah/sirrul-asrar/hal-432-rajah-01.png)
 
 **AR:** (وَصْفُ الطِّلَسْمِ) رَسْمٌ بِيَدٍ حُرَّةٍ يَحْتَوِى:
 
@@ -8485,7 +8485,7 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 
 **ID:** “**Caranya**: membaca **surah al-Ṣāffāt di tengah malam** dengan **dupa jawi** di sisinya, sampai (lafaz) «**salāmun ‘alā āli yā sīn**» (Q.S. 37:130) — **mengulang «salāmun ‘alā āli yā sīn» ٣١٣١×** dan **tidak menyempurnakan surah**; lalu **tidur**. **Malam kedua**: membaca **al-Ṣāffāt** dan **mengulang «salāmun ‘alā āli yā sīn» ٣١٣١×**. **Malam ketiga**: **sama seperti itu**; lalu **mengulang**: «**Di mana para malaikat yang keras? Di mana para malaikat yang kuat? Di mana mereka yang membawa tongkat Mūsā? Di mana mereka yang membelah laut? Di mana mereka yang membawa Muḥammad ﷺ ketika beliau naik (mi‘rāj) ke langit?**» — dan **menyebutkan hajatnya** (**mengulang doa tiga kali**); dan **khatam ini dituliskan dan dibawa bersamanya**.”
 
-**Rajah:** ![Rajah hal. 434 — khatam: bingkai bertulis «الله» berulang, huruf «هـ» berjajar membentuk segitiga, lingkaran ganda bertulis «هـ», dan wafaq 3×3 di tengah](../assets/rajah/sirrul-asrar/hal-434-rajah-01.png)
+![Rajah hal. 434 — khatam: bingkai bertulis «الله» berulang, huruf «هـ» berjajar membentuk segitiga, lingkaran ganda bertulis «هـ», dan wafaq 3×3 di tengah](../assets/rajah/sirrul-asrar/hal-434-rajah-01.png)
 
 **AR:** (وَصْفُ الْخَاتَمِ) خَاتَمٌ مُرَبَّعٌ دَاخِلَ اِطَارٍ مُزَخْرَفٍ:
 
@@ -8620,7 +8620,7 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 
 **ID:** “Kemudian **setelah itu engkau meletakkan kedua gambar itu di dalam kertas** dan **membungkusnya dengan benang sutra putih**, lalu **menguburnya di tempat gelap yang tidak seorang pun melihat matahari dan bulan di dalamnya**. Dan engkau **menurunkan gambar laki-laki pada gambar perempuan, dan nama perempuan pada gambar laki-laki** — ditulis dengan **za‘farān, air mawar, dan darah dua saudara(?) (dam al-akhawayn)**. Dan **inilah mutsallatsnya**:”
 
-**Rajah:** ![Rajah hal. 436 — dua tabel mutsallats (sisi gambar laki-laki dan sisi gambar perempuan) berisi huruf dan kata «وألقيت عليك محبة فلان مني»](../assets/rajah/sirrul-asrar/hal-436-rajah-01.png)
+![Rajah hal. 436 — dua tabel mutsallats (sisi gambar laki-laki dan sisi gambar perempuan) berisi huruf dan kata «وألقيت عليك محبة فلان مني»](../assets/rajah/sirrul-asrar/hal-436-rajah-01.png)
 
 **AR:** (وَصْفُ الْمُثَلَّثِ) جَدْوَلَانِ مُتَجَاوِرَانِ، كُلُّ وَاحِدٍ **ثَلَاثَةُ اَعْمِدَةٍ** وَسَطْرَانِ، وَفِى كُلِّ خَلِيَّةٍ حَرْفٌ مُفْرَدٌ:
 
@@ -8936,7 +8936,7 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 
 **ID:** “**Dan ṭilasm ini dituliskan pada mangkuk (ṭāsah)**:”
 
-**Rajah:** ![Rajah hal. 441 — ṭilasm mangkuk: tiga baris huruf dan angka tulisan tangan](../assets/rajah/sirrul-asrar/hal-441-rajah-01.png)
+![Rajah hal. 441 — ṭilasm mangkuk: tiga baris huruf dan angka tulisan tangan](../assets/rajah/sirrul-asrar/hal-441-rajah-01.png)
 
 **AR:** (وَصْفُ طِلَسْمِ الطَّاسَةِ) ثَلَاثَةُ اَسْطُرٍ بِخَطٍّ يَدَوِىٍّ عَرِيْضٍ:
 
@@ -8985,7 +8985,7 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 
 **ID:** “**Maḥabbah yang Dimakan atau Diminum oleh Orang yang Diminta.**” (Judul bagian.)
 
-**Rajah:** ![Rajah hal. 442 — ṭilasm empat wajah: tabel empat baris bertuliskan «الوجه الأول / الثاني / الثالث / الرابع» beserta huruf dan kalimat](../assets/rajah/sirrul-asrar/hal-442-rajah-01.png)
+![Rajah hal. 442 — ṭilasm empat wajah: tabel empat baris bertuliskan «الوجه الأول / الثاني / الثالث / الرابع» beserta huruf dan kalimat](../assets/rajah/sirrul-asrar/hal-442-rajah-01.png)
 
 **AR:** (وَصْفُ الطِّلَسْمِ) جَدْوَلٌ مُرَبَّعٌ مُقَسَّمٌ اِلَى **اَرْبَعَةِ صُفُوْفٍ**، كُلُّ صَفٍّ مِنْ **ثَلَاثِ خَلَايَا**: الْخَلِيَّةُ الْيُمْنٰى فِيْهَا «**الْوَجْهُ الْاَوَّلُ**»، «**الْوَجْهُ الثَّانِىْ**»، «**الْوَجْهُ الثَّالِثُ**»، «**الْوَجْهُ الرَّابِعُ**»؛ الْخَلِيَّةُ الْوُسْطٰى فِيْهَا كَلِمَةٌ طِلَسْمِيَّةٌ: «**كَمْطَم**»، «**قَسْوَرَة**»، «**طَفْكَل**»، «**مَازِر**»؛ وَالْخَلِيَّةُ الْيُسْرٰى (الْعَرِيْضَةُ) فِيْهَا مِنَ الْقُرْآنِ:
 
@@ -9004,7 +9004,7 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 
 **ID:** “**Ṭilasm ini dituliskan pada ٧ potong gula**, atau **cokelat**, atau **tujuh buah apel** atau lainnya — maka ia **puncak dalam (menimbulkan) cinta**. **Ṭilasm tersebut ditulis**, lalu **didupai dengan lubān dhakar saja**, dan **diazamkan atasnya dengan al-Barhatiyyah ٧× atau ١١× atau ١٢×**; dan **sesudah itu engkau membaca ayat mulia ini**: «**Wa dhallalnāhā lahum fa-minhā rakūbuhum wa-minhā ya’kulūn**» (**Q.S. 36:72**). Demikian pula **Fulan bin Fulanah ditundukkan** menuju **cinta, kerinduan, dan kepatuhan kepada Fulanah binti Fulanah**. Dan **waktu amalnya adalah saat Zuhrah pada awal bulan Arab** — maka **terjadilah apa yang engkau kehendaki**. **Dan inilah ṭilasmnya**:”
 
-**Rajah:** ![Rajah hal. 442 — ṭilasm kedua: tanda salib berujung bulat dan satu baris huruf/angka tulisan tangan](../assets/rajah/sirrul-asrar/hal-442-rajah-02.png)
+![Rajah hal. 442 — ṭilasm kedua: tanda salib berujung bulat dan satu baris huruf/angka tulisan tangan](../assets/rajah/sirrul-asrar/hal-442-rajah-02.png)
 
 **AR:** (وَصْفُ الطِّلَسْمِ الثَّانِى) مِنَ الْيَسَارِ: **صَلِيْبٌ** تَنْتَهِى اَطْرَافُهُ الْاَرْبَعَةُ بِدَوَائِرَ صَغِيْرَةٍ، ثُمَّ كَلِمَاتٌ مُتَّصِلَةٌ مُتَرَاكِبَةٌ تَقْرِيْبًا «**بَهْمَطَغَ … يَطْعَجَ … مَهْجَعَ**»، ثُمَّ كَلِمَةٌ اَخِيْرَةٌ تَنْتَهِى بِرُقُوْمٍ «**٣٣٤**» تَقْرِيْبًا.
 
@@ -9043,7 +9043,7 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 
 **ID:** “Kitab «Sirr al-Asrār fī al-Tawāṣul ma‘a Rūḥāniyyāt al-Qur’ān» — Syaikh para ruhaniyyin, Syaikh ‘Aṭiyyah ‘Abd al-Ḥamīd.” (Kepala halaman.)
 
-**Rajah:** ![Rajah hal. 443 — sambungan ṭilasm «جلب قوى للمحبوب» dari halaman 442: deret salib berujung lingkaran dan kata «والنور … لك»](../assets/rajah/sirrul-asrar/hal-443-rajah-01.png)
+![Rajah hal. 443 — sambungan ṭilasm «جلب قوى للمحبوب» dari halaman 442: deret salib berujung lingkaran dan kata «والنور … لك»](../assets/rajah/sirrul-asrar/hal-443-rajah-01.png)
 
 **AR:** (تَكْمِلَةُ طِلَسْمِ «جَلْبٍ قَوِىٍّ لِلْمَحْبُوْبِ» مِنْ صَفْحَةِ ٤٤٢) سَطْرٌ وَاحِدٌ طَوِيْلٌ مِنَ الْيَمِيْنِ اِلَى الْيَسَارِ: **ثَلَاثُ عَلَامَاتٍ عَلٰى شَكْلِ «صَلِيْبٍ»** تَنْتَهِى اَطْرَافُهَا بِدَوَائِرَ صَغِيْرَةٍ، بَيْنَهَا **شَكْلٌ مُتَعَرِّجٌ**، وَعَلَى الْيَسَارِ كَلِمَاتٌ مُتَّصِلَةٌ تَقْرِيْبًا «**وَالنُّوْرُ … لِکَ**».
 
@@ -9057,7 +9057,7 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 
 **ID:** “**Menghadirkan Suami kepada Istrinya dan Kepatuhannya kepadanya sampai Mati.**” (Judul bagian.)
 
-**Rajah:** ![Rajah hal. 443 — ṭilasm al-Zuhrah (Venus): deret simbol dan huruf tulisan tangan](../assets/rajah/sirrul-asrar/hal-443-rajah-02.png)
+![Rajah hal. 443 — ṭilasm al-Zuhrah (Venus): deret simbol dan huruf tulisan tangan](../assets/rajah/sirrul-asrar/hal-443-rajah-02.png)
 
 **AR:** يُكْتَبُ فِى وَرَقَةٍ وَيُمْحَىْ وَتُغْسَلُ الطَّالِبَةُ بِالْمَاءِ الْقَرْنِ(؟) وَيُسْقَى لِلْمَطْلُوْبِ. وَهُوَ طِلَسْمُ الزُّهْرَةِ. وَهَذَا هُوَ — «اِجْلِبُوْا يَا خُدَّامَ هَذِهِ الطَّلَاسِمِ قَلْبَ وَعَقْلَ وَلُبَّ وَجَمِيْعَ جَوَارِحِ فُلَانٍ ابْنِ فُلَانَةَ فِى مَحَبَّةِ وَعِشْقِ وَطَاعَةِ وَسَمَاعِ قَوْلِ فُلَانَةَ بِنْتِ فُلَانَةَ»
 
@@ -9089,7 +9089,7 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 
 **ID:** “«**Wahai Tuhan kami, tunjukkanlah kepada kami dua orang yang telah menyesatkan kami dari (golongan) jin dan manusia, agar kami menjadikan keduanya di bawah telapak kaki kami supaya keduanya menjadi orang-orang yang paling rendah**» (**Q.S. 41:29**) — **demikian pula Fulan bin Fulanah jatuh di bawah hukum Fulanah binti Fulanah**, dengan hak «**Wa al-tīni wa al-zaytūni**» (**Q.S. 95:1**) **sampai «asfali sāfilīn»** (**Q.S. 95:5**) — **demikian pula Fulan bin Fulanah jatuh di bawah telapak kaki dan hukum Fulanah binti Fulanah** — **«Berkatalah dua orang laki-laki di antara orang-orang yang takut (kepada Allah) yang Allah telah memberi nikmat kepada keduanya: “Masukilah pintu gerbang itu menuju mereka; apabila kalian memasukinya, maka sesungguhnya kalian akan menang”**» (**Q.S. 5:23**) — **demikian pula Fulanah menang atas suaminya Fulan dengan seribu ribu (kekuatan); tiada daya dan kekuatan kecuali dengan Allah Yang Maha Tinggi lagi Maha Agung.**»”
 
-**Rajah:** ![Rajah hal. 443 — ṭilasm untuk penundukan: dua baris huruf dan angka tulisan tangan](../assets/rajah/sirrul-asrar/hal-443-rajah-03.png)
+![Rajah hal. 443 — ṭilasm untuk penundukan: dua baris huruf dan angka tulisan tangan](../assets/rajah/sirrul-asrar/hal-443-rajah-03.png)
 
 **AR:** (وَصْفُ الطِّلَسْمِ) سَطْرَانِ طَوِيْلَانِ مُتَرَاكِبَانِ بِخَطٍّ يَدَوِىٍّ، يَحْتَوِيَانِ عَلٰى رُقُوْمٍ مِثْلِ «**٩ ١٢ ١**»، «**٨٨**»، «**٩**»، «**٨٦١**»، وَعَلَامَاتٍ مِثْلِ «**ح**»، «**ط**»، «**٧ ٧**»، مَعَ **دَوَائِرَ صَغِيْرَةٍ** وَنُقَطٍ. وَالْاَرْقَامُ **غَيْرُ مَضْبُوْطَةٍ** لِاَنَّهَا خَطٌّ يَدَوِىٌّ.
 
@@ -9146,7 +9146,7 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 
 **ID:** “«**Dan jika kalian khawatir akan terjadi perpecahan antara keduanya, maka kirimkan seorang juru damai dari keluarga laki-laki dan seorang juru damai dari keluarga perempuan; jika keduanya menghendaki perbaikan, Allah akan memberi taufik di antara keduanya**» (**Q.S. 4:35**) — [ṭilasm] — **«Ya Allah, berilah taufik antara Fulan bin Fulanah dan Fulanah binti Fulanah; semoga amal-amal kalian menjadi baik**» — «**Dan jika seorang perempuan khawatir terhadap suaminya (kemungkinan) nusyūz atau berpaling, maka tidak ada dosa bagi keduanya untuk mengadakan perdamaian; dan perdamaian itu lebih baik**» (**Q.S. 4:128**) — [ṭilasm].”
 
-**Rajah:** ![Rajah hal. 444 — ṭilasm pertama: satu baris panjang angka dan huruf tulisan tangan](../assets/rajah/sirrul-asrar/hal-444-rajah-01.png)
+![Rajah hal. 444 — ṭilasm pertama: satu baris panjang angka dan huruf tulisan tangan](../assets/rajah/sirrul-asrar/hal-444-rajah-01.png)
 
 **AR:** (وَصْفُ الطِّلَسْمِ الْاَوَّلِ) سَطْرٌ وَاحِدٌ طَوِيْلٌ بِخَطٍّ يَدَوِىٍّ يَحْتَوِى عَلٰى رُقُوْمٍ وَحُرُوْفٍ مَقْطُوْعَةٍ، مِنْهَا مَا يُشْبِهُ «**١١**»، «**٨١**»، «**٦٨**»، «**٩٨١**»، «**٦٨١**»، «**٨١١**»، مَعَ **قَوْسٍ** فِى الطَّرَفِ الْاَيْسَرِ عَلٰى شَكْلِ «**ن**».
 
@@ -9160,7 +9160,7 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 
 **ID:** “«**Maka ketika mereka melihatnya, mereka mengagungkannya dan mereka memotong tangan mereka sendiri dan berkata: “Maha Suci Allah, ini bukanlah manusia, ini tidak lain adalah malaikat yang mulia”**» (**Q.S. 12:31**) — **«Ya Allah, damaikanlah antara Fulan bin Fulanah dan Fulanah binti Fulanah**» — «**Mudah-mudahan Allah menumbuhkan kasih sayang di antara kalian dengan orang-orang yang pernah kalian musuhi; dan Allah Maha Kuasa, dan Allah Maha Pengampun lagi Maha Penyayang**» (**Q.S. 60:7**) — [ṭilasm].”
 
-**Rajah:** ![Rajah hal. 444 — ṭilasm kedua: satu baris angka dan tanda tulisan tangan](../assets/rajah/sirrul-asrar/hal-444-rajah-02.png)
+![Rajah hal. 444 — ṭilasm kedua: satu baris angka dan tanda tulisan tangan](../assets/rajah/sirrul-asrar/hal-444-rajah-02.png)
 
 **AR:** (وَصْفُ الطِّلَسْمِ الثَّانِى) سَطْرٌ يَدَوِىٌّ يَبْدَاُ بِـ«**٧**» وَنُقْطَةٍ، ثُمَّ «**١ ٨ ١**» مَرْصُوْفَةً، ثُمَّ «**٦**» وَ«**١**» ثُمَّ «**٨ ١١ ٨ ١١ ٢**»، وَفِى الطَّرَفِ الْاَيْسَرِ خَطَّانِ مُتَوَازِيَانِ مَائِلَانِ («**//**»).
 
@@ -9174,7 +9174,7 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 
 **ID:** “«**Ya Allah, dengan agungnya rahasia ayat-ayat-Mu, dan agar Engkau menyatukan antara Fulan bin Fulanah dan Fulanah binti Fulanah dengan cinta dan kasih sayang yang abadi**» — «**Dan berpeganglah kalian semuanya pada tali (agama) Allah, dan jangan bercerai-berai; dan ingatlah nikmat Allah atas kalian ketika kalian dahulu bermusuhan, lalu Dia menyatukan hati kalian … dan Dia menghilangkan kedengkian dari dada mereka; mereka bersaudara, duduk berhadap-hadapan di atas singgasana**» (**Q.S. 3:103** + **15:47**). — **Bacaannya ٣×**, dan engkau **mengulang ayat terakhir** («**wa naza‘nā mā fī ṣudūrihim**») **٢٤٦×**. — Kemudian **bab ini teruji dan sahih**.”
 
-**Rajah:** ![Rajah hal. 444 — ṭilasm ketiga: satu baris tanda dan angka tulisan tangan](../assets/rajah/sirrul-asrar/hal-444-rajah-03.png)
+![Rajah hal. 444 — ṭilasm ketiga: satu baris tanda dan angka tulisan tangan](../assets/rajah/sirrul-asrar/hal-444-rajah-03.png)
 
 **AR:** (وَصْفُ الطِّلَسْمِ الثَّالِثِ) سَطْرٌ يَدَوِىٌّ فِيْهِ **مُعْظَمُهُ رُقُوْمٌ** مِثْلُ «**١ ١ ١ ٥ ١ ١ ٧ ١ ٤ ١**» وَعَلَامَاتٍ عَلٰى شَكْلِ «**٥**» الْمَقْلُوْبَةِ وَ«**٧**» وَنُقَطٍ صَغِيْرَةٍ.
 
@@ -9254,7 +9254,7 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 
 **ID:** “Kitab «Sirr al-Asrār fī al-Tawāṣul ma‘a Rūḥāniyyāt al-Qur’ān» — Syaikh para ruhaniyyin, Syaikh ‘Aṭiyyah ‘Abd al-Ḥamīd.” (Kepala halaman.)
 
-**Rajah:** ![Rajah hal. 446 — ṭilasm besar: kotak berbingkai miring (empat trapesium) dengan tawkil di tengah dan deret huruf/angka di tepinya](../assets/rajah/sirrul-asrar/hal-446-rajah-01.png)
+![Rajah hal. 446 — ṭilasm besar: kotak berbingkai miring (empat trapesium) dengan tawkil di tengah dan deret huruf/angka di tepinya](../assets/rajah/sirrul-asrar/hal-446-rajah-01.png)
 
 **AR:** (وَصْفُ الطِّلَسْمِ الْكَبِيْرِ) مُرَبَّعٌ كَبِيْرٌ مُحَاطٌ بِاِطَارٍ مُثَلَّثِ الْجَوَانِبِ (اَرْبَعَةُ اَشْكَالٍ شِبْهِ مُنْحَرِفَةٍ حَوْلَ مَرْكَزٍ مُرَبَّعٍ):
 
@@ -9279,7 +9279,7 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 
 **ID:** “**Ṭilasm ini dituliskan pada kāghid (kertas)** dengan **misk dan za‘farān**, lalu **dibakar**; dan engkau **mengambil abu ṭilasm itu** dan **meletakkannya ke dalam makanan yang ia makan** — maka **ia tidak akan dapat bersabar** dan akan **senantiasa tergila-gila dengan cinta peminta**. **Dan inilah yang engkau tulis**:”
 
-**Rajah:** ![Rajah hal. 446 — ṭilasm baris: tiga baris angka dan huruf tulisan tangan](../assets/rajah/sirrul-asrar/hal-446-rajah-02.png)
+![Rajah hal. 446 — ṭilasm baris: tiga baris angka dan huruf tulisan tangan](../assets/rajah/sirrul-asrar/hal-446-rajah-02.png)
 
 **AR:** (وَصْفُ طِلَسْمِ الرُّقْعَةِ) ثَلَاثَةُ اَسْطُرٍ بِقَلَمٍ عَرِيْضٍ:
 
@@ -9328,7 +9328,7 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 
 **ID:** “Dituliskan **pada kain merah** lalu **dinyalakan (dibakar/diasapi)**, atau **pada ٧ lembar kertas**; dan **lepaskanlah kemenyan** — yaitu **kundur (kemenyan) dan lada** — dan **bacakanlah asmā’ di atasnya sampai asapnya habis, satu per satu**. **Amalannya boleh pada waktu mana pun dari jam-jam yang khusus untuk cinta, pengobaran (tahyīj), menghadap raja dan sultan, serta pemenuhan hajat.** Dan **inilah ṭilasm yang dimaksud**.”
 
-**Rajah:** ![Rajah hal. 447 — ṭilasm merah, baris pertama: garis mendatar dengan tanda «٩» dan «ع/ح» tulisan tangan](../assets/rajah/sirrul-asrar/hal-447-rajah-01.png)
+![Rajah hal. 447 — ṭilasm merah, baris pertama: garis mendatar dengan tanda «٩» dan «ع/ح» tulisan tangan](../assets/rajah/sirrul-asrar/hal-447-rajah-01.png)
 
 **AR:** (وَصْفُ الطِّلَسْمِ — السَّطْرُ الْاَوَّلُ) خَطٌّ اُفُقِىٌّ طَوِيْلٌ عَلَيْهِ عَلَامَةٌ عَلٰى شَكْلِ «**٩**» فِى الطَّرَفِ الْاَيْمَنِ، وَعَلَامَةٌ عَلٰى شَكْلِ «**ع**» اَوْ «**ح**» مُعَلَّقَةٌ فِى الْوَسَطِ، وَقَوْسٌ صَغِيْرَةٌ فِى الطَّرَفِ الْاَيْسَرِ.
 
@@ -9336,7 +9336,7 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 
 **ID:** “**(Deskripsi ṭilasm — baris pertama)**: **garis mendatar panjang** yang di **ujung kanan** ada tanda berbentuk «**٩**»، di **tengah** ada tanda seperti «**ع**» atau «**ح**» menggantung, dan di **ujung kiri** ada **busur kecil**.”
 
-**Rajah:** ![Rajah hal. 447 — ṭilasm merah, baris kedua: deret angka dan huruf tulisan tangan](../assets/rajah/sirrul-asrar/hal-447-rajah-02.png)
+![Rajah hal. 447 — ṭilasm merah, baris kedua: deret angka dan huruf tulisan tangan](../assets/rajah/sirrul-asrar/hal-447-rajah-02.png)
 
 **AR:** (وَصْفُ الطِّلَسْمِ — السَّطْرُ الثَّانِى) سَطْرٌ يَدَوِىٌّ مَبْنِىٌّ عَلَى خَطٍّ اُفُقِىٍّ، يَحْتَوِى رُقُوْمًا مِثْلَ «**٩ ٤ ٩**» وَ«**٥ ١ ٦**» وَ«**١١ ٨**» وَ«**٩ ٤**» مُتَقَاطِعَةً مَعَ حُرُوْفٍ مُشَابِكَةٍ، وَعَلَامَةٍ كَبِيْرَةٍ عَلٰى شَكْلِ «**٩**» فِى الْوَسَطِ.
 
@@ -9385,7 +9385,7 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 
 **ID:** “Kitab «Sirr al-Asrār fī al-Tawāṣul ma‘a Rūḥāniyyāt al-Qur’ān» — Syaikh para ruhaniyyin, Syaikh ‘Aṭiyyah ‘Abd al-Ḥamīd.” (Kepala halaman.)
 
-**Rajah:** ![Rajah hal. 448 — wafaq besar: bujur sangkar bertumpuk (kotak luar, ketupat, kotak grid ٣×٣ di tengah) dengan tulisan tangan di setiap bidang](../assets/rajah/sirrul-asrar/hal-448-rajah-01.png)
+![Rajah hal. 448 — wafaq besar: bujur sangkar bertumpuk (kotak luar, ketupat, kotak grid ٣×٣ di tengah) dengan tulisan tangan di setiap bidang](../assets/rajah/sirrul-asrar/hal-448-rajah-01.png)
 
 **AR:** (وَصْفُ الْوَفْقِ) وَفْقٌ كَبِيْرٌ مِنْ طَبَقَتَيْنِ: **مُرَبَّعٌ خَارِجِيٌّ** وَفَوْقَهُ **مُرَبَّعٌ دَاخِلِيٌّ** مَائِلٌ (مُعَيَّنٌ)، وَفِى الْوَسَطِ **جَدْوَلٌ ٣ × ٣** كَهَذَا:
 
@@ -9441,7 +9441,7 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 
 **ID:** “**(Cap)** «**Ya Allah, sucikanlah ilmu-ilmu ruhaniyyah dari campuran yang buruk**» — **Syaikh para ruhaniyyin, Syaikh ‘Aṭiyyah ‘Abd al-Ḥamīd** — «**Mujarrabāt Syaikh para ruhaniyyin, Syaikh ‘Aṭiyyah**» — «**Telepon khusus ٠٠٢٠١٢٦٢٠٢٢٢٣٨**».”
 
-**Rajah:** ![Rajah hal. 449 — cap singa bertuah: singa bermahkota memegang pedang, cakram matahari bersinar di punggungnya, deret angka di badannya, tulisan melingkar](../assets/rajah/sirrul-asrar/hal-449-rajah-01.png)
+![Rajah hal. 449 — cap singa bertuah: singa bermahkota memegang pedang, cakram matahari bersinar di punggungnya, deret angka di badannya, tulisan melingkar](../assets/rajah/sirrul-asrar/hal-449-rajah-01.png)
 
 **AR:** (وَصْفُ الْخَاتَمِ) خَاتَمٌ لِطَبْعِ الْكِتَابِ: **اَسَدٌ** وَاقِفٌ يَحْمِلُ **سَيْفًا** فِى يَدِهِ الْيُمْنٰى، وَعَلٰى رَاْسِهِ **تَاْجٌ**، وَعَلٰى ظَهْرِهِ **قُرْصُ شَمْسٍ** بِاَشِعَّةٍ، وَعَلٰى جِسْمِهِ ثَلَاثَةُ اَسْطُرٍ مِنَ الرُّقُوْمِ الْمُتَدَاخِلَةِ مِثْلِ «**٥ ٩ ١ ٦ ٢ ١ ٩ ٤ ٧ ٦ ٤ ٣**»، وَحَوْلَ الصُّوْرَةِ كِتَابَةٌ دَائِرِيَّةٌ بِحُرُوْفٍ مَقْطُوْعَةٍ، وَفِىْ اَسْفَلِ الْيَسَارِ رَقْمُ «**٢**». (**هَذَا خَاتَمُ نَشْرٍ لَا طِلَسْمٌ عَمَلِىٌّ**.)
 
@@ -9480,9 +9480,9 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 
 **ID:** “Kitab «Sirr al-Asrār fī al-Tawāṣul ma‘a Rūḥāniyyāt al-Qur’ān» — Syaikh para ruhaniyyin, Syaikh ‘Aṭiyyah ‘Abd al-Ḥamīd.” (Kepala halaman.)
 
-**Rajah:** ![Rajah hal. 450 — ṭilasm «حبة تعلق فى الهواء»: timbangan dengan pangeran bermahkota di tengah, tabel angka ٥ kolom × ٣ baris, baris tulisan tangan](../assets/rajah/sirrul-asrar/hal-450-rajah-01.png)
+![Rajah hal. 450 — ṭilasm «حبة تعلق فى الهواء»: timbangan dengan pangeran bermahkota di tengah, tabel angka ٥ kolom × ٣ baris, baris tulisan tangan](../assets/rajah/sirrul-asrar/hal-450-rajah-01.png)
 
-**Rajah:** ![Rajah hal. 450 — wafaq kecil di sisi kiri: kotak ٣×٣ berhuruf «ط ي ك / ف / ع ل ش»](../assets/rajah/sirrul-asrar/hal-450-rajah-02.png)
+![Rajah hal. 450 — wafaq kecil di sisi kiri: kotak ٣×٣ berhuruf «ط ي ك / ف / ع ل ش»](../assets/rajah/sirrul-asrar/hal-450-rajah-02.png)
 
 **AR:** (وَصْفُ الطِّلَسْمِ) يَتَكَوَّنُ مِنْ ثَلَاثِ طَبَقَاتٍ:
 
@@ -9530,9 +9530,9 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 
 **ID:** “Kitab «Sirr al-Asrār fī al-Tawāṣul ma‘a Rūḥāniyyāt al-Qur’ān» — Syaikh para ruhaniyyin, Syaikh ‘Aṭiyyah ‘Abd al-Ḥamīd.” (Kepala halaman.)
 
-**Rajah:** ![Rajah hal. 451 — tabel huruf ٣×٥ (ح د ج / ب و ز ف / ش ف ي) dengan baris angka dan tulisan tangan di bawahnya](../assets/rajah/sirrul-asrar/hal-451-rajah-01.png)
+![Rajah hal. 451 — tabel huruf ٣×٥ (ح د ج / ب و ز ف / ش ف ي) dengan baris angka dan tulisan tangan di bawahnya](../assets/rajah/sirrul-asrar/hal-451-rajah-01.png)
 
-**Rajah:** ![Rajah hal. 451 — wafaq segi lima dengan wafaq kecil ٣×٣ «٥ ٤ ٣ / ٢ ٦ ٤ / ٥ ٢ ١» dan tabel ٢×٢ «٣ ٢ / ٤ ١» berbintang, dikelilingi tulisan «الله»](../assets/rajah/sirrul-asrar/hal-451-rajah-02.png)
+![Rajah hal. 451 — wafaq segi lima dengan wafaq kecil ٣×٣ «٥ ٤ ٣ / ٢ ٦ ٤ / ٥ ٢ ١» dan tabel ٢×٢ «٣ ٢ / ٤ ١» berbintang, dikelilingi tulisan «الله»](../assets/rajah/sirrul-asrar/hal-451-rajah-02.png)
 
 **AR:** (وَصْفُ الْجَدْوَلِ الْاَوَّلِ) جَدْوَلٌ بِخَمْسَةِ اَعْمِدَةٍ وَثَلَاثَةِ صُفُوْفٍ بِخَطٍّ يَدَوِىٍّ: الصَّفُّ الْاَوَّلُ «**ح د ج**» ثُمَّ خَامِسٌ **غَيْرُ مَقْرُوءٍ**؛ الصَّفُّ الثَّانِى «**ب و ز**» ثُمَّ «**ف**»؛ الصَّفُّ الثَّالِثُ «**ش ف ي**». وَاَسْفَلَهُ سَطْرُ رُقُوْمٍ مُتَدَاخِلَةٍ، ثُمَّ سَطْرٌ ثَانٍ، ثُمَّ سَطْرٌ فِيْهِ «**ع ش د و ح ب ر و ج ل س ع س ع د**» تَقْرِيْبًا، وَعَلٰى يَسَارِ الْجَدْوَلِ **رَمْزُ نَجْمَةٍ صَغِيْرَةٍ**.
 
@@ -9595,7 +9595,7 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 
 **ID:** “**Ṭilasm ini dituliskan pada ٣ lembar kertas** dengan **misk, za‘farān, kuning telur, dan «dam al-akhawayn»**؛ **ketiganya didupai** dengan **may‘ah cair dan sandarūs**؛ **dibakar setiap hari pada waktu maghrib, satu lembar per hari selama ٣ hari**. **Tentu saja ayat-ayat yang menyertai ṭilasm tidak ditulis pada lembar-lembar ini**؛ **lembar keempat** justru **ditulis di dalamnya ayat dan ṭilasm**, dengan **syarat yang sama seperti ٣ (lembar lain)** — **tidak dibakar**, baik dari sisi **dupa** maupun **bahan tulisnya** — **tetapi lembar ini ditanam di bawah kasur suami-istri**. **‘Azīmahnya satu saja untuk keempat lembar**, yaitu **surah al-Kahf dua kali** dengan **tawkil setelah setiap kali**. **Ketahuilah, mereka tidak akan berpisah selama ḥijāb ini ada di bawah mereka sepanjang umur.** **Dan inilah ṭilasm yang dimaksud**:”
 
-**Rajah:** ![Rajah hal. 452 — «للمحبة القاطعة والجلب»: dua wajah berhadapan (laki-laki berjanggut, perempuan berkerudung) yang badannya menyatu menjadi sulur bersilang (caduceus) menembus tabel huruf dan berakhir di hati di atas kotak bergaris](../assets/rajah/sirrul-asrar/hal-452-rajah-01.png)
+![Rajah hal. 452 — «للمحبة القاطعة والجلب»: dua wajah berhadapan (laki-laki berjanggut, perempuan berkerudung) yang badannya menyatu menjadi sulur bersilang (caduceus) menembus tabel huruf dan berakhir di hati di atas kotak bergaris](../assets/rajah/sirrul-asrar/hal-452-rajah-01.png)
 
 **AR:** (وَصْفُ الطِّلَسْمِ) رَسْمٌ يَدَوِىٌّ: **وَجْهَانِ** مُتَقَابِلَانِ — رَجُلٌ بِعِمَامَةٍ وَلِحْيَةٍ مِنَ الْيَمِيْنِ، وَامْرَاَةٌ بِخِمَارٍ مِنَ الْيَسَارِ — وَبَدَنَاهُمَا يَلْتَحِمَانِ وَيَنْزِلُ مِنْهُمَا **سُلَيْمَانِيَّانِ مُتَشَابِكَانِ** (شَكْلُ عَصَا هِرْمِسَ) يَخْتَرِقُ **جَدْوَلَ حُرُوْفٍ (٣ صُفُوْفٍ × ٦ اَعْمِدَةٍ)** وَيَنْتَهِيْ اِلٰى **قَلْبٍ** فَوْقَ **مُرَبَّعٍ صَغِيْرٍ ذِىْ اَخْطَاطٍ مَائِلَةٍ**. وَحَوْلَ الرَّسْمِ: كِتَابَاتٌ مَدَائِرِيَّةٌ وَرُمُوْزٌ نُجُوْمِيَّةٌ (☿، ♀، ✶، ✷) وَاَقْوَاسٌ.
 
@@ -9646,7 +9646,7 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 
 **ID:** “**(Baris nama kitab)** «**Al-Sahm al-Ṣā’ib fī Tanqiyat al-‘Ulūm al-Rūḥāniyyah min al-Shawā’ib al-Khabīthah**» — **Syaikh para ruhaniyyin, Syaikh ‘Aṭiyyah ‘Abd al-Ḥamīd**.” (Nama judul induk.)
 
-**Rajah:** ![Rajah hal. 453 — dua sosok (laki-laki dan perempuan) duduk bersila, tangan di dada, bertanda bintang pada pakaian; pita bertulisan talismanic di atas kaki mereka, tulisan melingkar dan simbol bintang di sekitarnya](../assets/rajah/sirrul-asrar/hal-453-rajah-01.png)
+![Rajah hal. 453 — dua sosok (laki-laki dan perempuan) duduk bersila, tangan di dada, bertanda bintang pada pakaian; pita bertulisan talismanic di atas kaki mereka, tulisan melingkar dan simbol bintang di sekitarnya](../assets/rajah/sirrul-asrar/hal-453-rajah-01.png)
 
 **AR:** (وَصْفُ الرَّسْمِ) **شَخْصَانِ** جَالِسَانِ مُتَرَبِّعَانِ:
 
@@ -9792,7 +9792,7 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 
 **ID:** “**Dituliskan da‘wah al-Barhatiyyah di sekeliling sha‘bādh ini** dan **ṣarf al-‘ummār dengan al-Zalzalah ٧×**, dan engkau **mengulang «ashtātan» ٧×**, lalu **menggantung kertas itu di dalam «sabiyyah» (kelopak/pelepah) dari delima atau zaitun** dan **melepaskan dupa — yaitu lada**؛ kemudian engkau **mulai membaca ‘azīmah**. **Jangan ada yang menyibukkanmu selain amalanmu pada waktu amal**, dan **ingatlah orang yang diminta**. **Bacalah da‘wah ١٢×**؛ dan **jika engkau menyempurnakan ٤٥×**, itu **lebih baik dan lebih cepat terkabul**. **Amalannya pada saat Zuhrah (jam Venus)**، dan **setelah selesai menanam amalan di dekat api atau tungku**. **Inilah yang dimaksud**, dan **da‘wah ditulis di sekelilingnya dengan tinta ruhani, huruf-huruf terpisah**؛ **jangan lupa raṣd (waktu pengintaian) yang sesuai** untuk amalan ini **pada hari-hari qamariyyah**.”
 
-**Rajah:** ![Rajah hal. 456 — «شعباذ» berupa wajah bermahkota dengan dua tangan berujung seperti pentolan, dikelilingi tulisan talismanic berhuruf terpisah](../assets/rajah/sirrul-asrar/hal-456-rajah-01.png)
+![Rajah hal. 456 — «شعباذ» berupa wajah bermahkota dengan dua tangan berujung seperti pentolan, dikelilingi tulisan talismanic berhuruf terpisah](../assets/rajah/sirrul-asrar/hal-456-rajah-01.png)
 
 **AR:** (وَصْفُ الشَّعْبَاذِ) رَسْمٌ يَدَوِىٌّ: **وَجْهٌ** فِى الْوَسَطِ (عَيْنَانِ، اَنْفٌ، فَمٌ) وَعَلٰى رَاْسِهِ **تَاْجٌ** مُثَلَّثٌ، وَعَلٰى جَانِبَيْهِ **يَدَانِ** تَنْتَهِيَانِ اِلٰى **ثَلَاثِ حَبَّاتٍ مُدَوَّرَةٍ** كَالْاَصَابِعِ، وَحَوْلَهُ **كِتَابَاتٌ مَدَائِرِيَّةٌ** بِحُرُوْفٍ مُنْفَصِلَةٍ، وَتَحْتَ الْوَجْهِ سَطْرٌ يَدَوِىٌّ. (**لَا يُمْكِنُ قِرَاءَةُ الْكِتَابَاتِ الْمَدَائِرِيَّةِ** — اُنْظُرِ الْكَرْوِبَ.)
 
@@ -9831,11 +9831,11 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 
 **ID:** “Kitab «Sirr al-Asrār fī al-Tawāṣul ma‘a Rūḥāniyyāt al-Qur’ān» — Syaikh para ruhaniyyin, Syaikh ‘Aṭiyyah ‘Abd al-Ḥamīd.” (Kepala halaman.)
 
-**Rajah:** ![Rajah hal. 457 — ṭilasm pertama: tiga baris huruf «ع» dan «د» berulang dengan garis lengkung di bawahnya, memuat angka «٥٢٨١»](../assets/rajah/sirrul-asrar/hal-457-rajah-01.png)
+![Rajah hal. 457 — ṭilasm pertama: tiga baris huruf «ع» dan «د» berulang dengan garis lengkung di bawahnya, memuat angka «٥٢٨١»](../assets/rajah/sirrul-asrar/hal-457-rajah-01.png)
 
-**Rajah:** ![Rajah hal. 457 — ṭilasm kedua: empat baris huruf «ط» dan «ه» berulang, dengan baris terakhir berbentuk gelombang](../assets/rajah/sirrul-asrar/hal-457-rajah-02.png)
+![Rajah hal. 457 — ṭilasm kedua: empat baris huruf «ط» dan «ه» berulang, dengan baris terakhir berbentuk gelombang](../assets/rajah/sirrul-asrar/hal-457-rajah-02.png)
 
-**Rajah:** ![Rajah hal. 457 — gambar wajah perempuan dengan tulisan tangan memenuhi dada dan tubuhnya, memuat deret angka «١١٣ ٤١١ ٨١ ٩١ ٤ ٤ ٨١» dan «الوحا العجل الساعة»](../assets/rajah/sirrul-asrar/hal-457-rajah-03.png)
+![Rajah hal. 457 — gambar wajah perempuan dengan tulisan tangan memenuhi dada dan tubuhnya, memuat deret angka «١١٣ ٤١١ ٨١ ٩١ ٤ ٤ ٨١» dan «الوحا العجل الساعة»](../assets/rajah/sirrul-asrar/hal-457-rajah-03.png)
 
 **AR:** (وَصْفُ الشَّعْبَاذَيْنِ) رَسْمَانِ يَدَوِيَّانِ مِنْ نَوْعِ «الشَّعْبَاذِ» (طِلَسْمٌ خَطِّىٌّ لَا صُوْرَةَ فِيْهِ):
 
@@ -9895,7 +9895,7 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 
 **ID:** “**Gambarlah, wahai peminta ilmu yang mulia ini, kedua sha‘bādh ini** — **setiap sha‘bādh pada satu sisi kertas**. **Tawkilnya sama**, yaitu **tawkil yang engkau tulis di sekeliling sha‘bādh pertama harus sama persis, tanpa kurang dan tanpa tambahan, di sekeliling yang kedua**. Dan engkau **membaca «دعوة خلخلة الهواء الكبرى»** atas amalanmu؛ **setelah selesai, ditanam di jalan orang yang diminta** — **setiap kali ia melewatinya, bertambah cinta dan kerinduannya kepada peminta**. **Dan jika ditulis pada bekas (jejak) orang yang diminta**, maka ia **seperti racun dalam makanan** — artinya **sangat kuat pengaruh dan penundukannya atasnya**. **Para pelayan da‘wah dan sha‘bādh tidak akan meninggalkannya sampai orang yang diminta datang menghadap** kepadanya. **Inilah untukmu, wahai peminta, sha‘bādh yang diminta dalam amalan ini — dan inilah sha‘bādh pertama**.”
 
-**Rajah:** ![Rajah hal. 458 — sha‘bādh pertama: gambar kepala (satu mata terlihat) dengan badan berisi angka «٧ ٨ ٩ ١ ٨ ٩ ١ ٢» dan tulisan «على … محبة», dua tangan berjari bulat, dikelilingi tulisan talismanic](../assets/rajah/sirrul-asrar/hal-458-rajah-01.png)
+![Rajah hal. 458 — sha‘bādh pertama: gambar kepala (satu mata terlihat) dengan badan berisi angka «٧ ٨ ٩ ١ ٨ ٩ ١ ٢» dan tulisan «على … محبة», dua tangan berjari bulat, dikelilingi tulisan talismanic](../assets/rajah/sirrul-asrar/hal-458-rajah-01.png)
 
 **AR:** (وَصْفُ الشَّعْبَاذِ الْاَوَّلِ) **رَاْسٌ** بِعَيْنٍ وَاحِدَةٍ ظَاهِرَةٍ وَحَاجِبٍ، وَبَدَنٌ عَرِيْضٌ ذُوْ **يَدَيْنِ** تَنْتَهِيَانِ اِلٰى **اَصَابِعَ عَلٰى شَكْلِ حَبَّاتٍ مُدَوَّرَةٍ**، وَفِى الْبَدَنِ كِتَابَةٌ يَدَوِيَّةٌ: «**عَلٰى … مَحَبَّة**» مَعَ دَرَجِ رُقُوْمٍ «**٧ ٨ ٩ ١ ٨ ٩ ١ ٢**»، وَحَوْلَهُ كِتَابَةٌ مَدَائِرِيَّةٌ بِحُرُوْفٍ مَقْطُوْعَةٍ (فِى الْيَمِيْنِ «**٨ ٩ ١ ٤ ١ ٣ ١ ٨ ١**» تَقْرِيْبًا، وَفِى الْيَسَارِ رُقُوْمٌ اُخْرٰى).
 
@@ -9903,7 +9903,7 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 
 **ID:** “**(Deskripsi sha‘bādh pertama)**: **kepala** dengan **satu mata tampak** dan **alis**، **badan lebar** dengan **dua tangan** yang berujung **jari berbentuk bulatan-bulatan**؛ **di badannya** tulisan tangan «**على … محبة**» dengan deret angka «**٧ ٨ ٩ ١ ٨ ٩ ١ ٢**»؛ **di sekelilingnya** tulisan melingkar berhuruf terpotong (di **kanan** «**٨ ٩ ١ ٤ ١ ٣ ١ ٨ ١**» perkiraan, di **kiri** angka lain).”
 
-**Rajah:** ![Rajah hal. 458 — sha‘bādh kedua: kepala dengan satu mata, badan berupa kotak bertulisan tangan dan deret angka «٨ ٩ ١ ٦ ١ ٤», dengan garis dan tulisan talismanic di sekitarnya](../assets/rajah/sirrul-asrar/hal-458-rajah-02.png)
+![Rajah hal. 458 — sha‘bādh kedua: kepala dengan satu mata, badan berupa kotak bertulisan tangan dan deret angka «٨ ٩ ١ ٦ ١ ٤», dengan garis dan tulisan talismanic di sekitarnya](../assets/rajah/sirrul-asrar/hal-458-rajah-02.png)
 
 **AR:** (وَصْفُ الشَّعْبَاذِ الثَّانِى) **رَاْسٌ** بِعَيْنٍ وَاحِدَةٍ، وَبَدَنٌ **مُرَبَّعٌ** ذُوْ اطَارٍ، فِيْهِ كِتَابَةٌ يَدَوِيَّةٌ وَدَرَجُ رُقُوْمٍ «**٨ ٩ ١ ٦ ١ ٤**»، وَحَوْلَهُ خُطُوْطٌ مَمْدُوْدَةٌ وَكِتَابَةٌ مَدَائِرِيَّةٌ. (**هَذَانِ الشَّعْبَاذَانِ لَيْسَا جَدْوَلَ اَوْفَاقٍ** — لِذَلِكَ لَا يُطَبَّقُ عَلَيْهِمَا بُرْهَانُ الْجَمْعِ.)
 
@@ -9942,7 +9942,7 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 
 **ID:** “**Jika engkau ingin agar seseorang mencintaimu dan ia tidak punya pilihan selain cintamu**: engkau **memahat ṭilasm ini pada besi** dan **meletakkannya di tungku api** — maka **orang yang diminta akan datang kepadamu, meskipun antara engkau dan dia ada perang**; ia datang **dengan izin Allah Ta‘ālā**. **Dan inilah ṭilasmnya**, dan **waktu tambahan nūr (kekuatan) adalah jam pertama hari Senin**.”
 
-**Rajah:** ![Rajah hal. 459 — ṭilasm besi: empat bentuk “tangga/sula” (garis mendatar bertingkat dengan ujung berkait) dan dua baris angka tulisan tangan di bawahnya](../assets/rajah/sirrul-asrar/hal-459-rajah-01.png)
+![Rajah hal. 459 — ṭilasm besi: empat bentuk “tangga/sula” (garis mendatar bertingkat dengan ujung berkait) dan dua baris angka tulisan tangan di bawahnya](../assets/rajah/sirrul-asrar/hal-459-rajah-01.png)
 
 **AR:** (وَصْفُ الطِّلَسْمِ) اَرْبَعَةُ اَشْكَالٍ يَدَوِيَّةٍ كُلُّهَا مِنْ نَوْعِ «السُّلَّمِ»: خَطٌّ رَاْسِىٌّ تَتَفَرَّعُ مِنْهُ **خُطُوْطٌ اُفُقِيَّةٌ** (٤ اِلٰى ٦ خُطُوْطٍ)، وَكُلُّ خَطٍّ يَنْتَهِيْ بِـ**كَاعٍ/حَرْفٍ مَعْقُوْفٍ** — الْاَوَّلُ (الْاَكْبَرُ) فِى الْيَسَارِ، ثُمَّ الثَّانِى، ثُمَّ الثَّالِثُ، ثُمَّ الرَّابِعُ (الْاَصْغَرُ) فِى الْيَمِيْنِ. وَتَحْتَهَا سَطْرَانِ: الْاَوَّلُ «**١١ ٩ ٩ ٨ ١ ٠ ١١**» تَقْرِيْبًا، وَالثَّانِى «**٩ ٩ ٣ ١ ٩ ٨ ١ ١ ٢ ١١**» تَقْرِيْبًا، مَعَ رُسُوْمٍ كَالْاَقْوَاسِ.
 
@@ -9962,7 +9962,7 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 
 **ID:** “**Dituliskan pada hari Rabu waktu Zuhur**, dengan **syarat pakaian dan tempat harus bersih**؛ **digantung di udara** dan **diikatkan pada rambut orang yang diminta**؛ dan **diazamkan dengan ‘azīmah udara**. **Dan inilah yang ditulis**, dan **amalanmu (dilakukan) pada saat bertambahnya bulan, awal bulan**.”
 
-**Rajah:** ![Rajah hal. 459 — «فائدة محبة»: empat baris panjang tulisan tangan berisi huruf «ع» dan «ه» berulang serta huruf-huruf kecil bersambung](../assets/rajah/sirrul-asrar/hal-459-rajah-02.png)
+![Rajah hal. 459 — «فائدة محبة»: empat baris panjang tulisan tangan berisi huruf «ع» dan «ه» berulang serta huruf-huruf kecil bersambung](../assets/rajah/sirrul-asrar/hal-459-rajah-02.png)
 
 **AR:** (وَصْفُ مَا يُكْتَبُ) اَرْبَعَةُ اَسْطُرٍ طَوِيْلَةٍ بِخَطٍّ يَدَوِىٍّ عَرِيْضٍ: السَّطْرُ الْاَوَّلُ «**ع هـ ع هـ ع هـ …**» مُتَكَرِّرًا، الثَّانِى مِثْلُهُ مَعَ زِيَادَةِ حُرُوْفٍ صَغِيْرَةٍ، الثَّالِثُ سَطْرٌ مُتَرَاكِمٌ (فِيْهِ «**ط هـ ع س**» وَنَحْوُهَا)، وَالرَّابِعُ سَطْرٌ مَوْصُوْلٌ يَنْتَهِيْ بِحُرُوْفٍ مَمْدُوْدَةٍ. (**كُلُّهَا حُرُوْفٌ مُفْرَدَةٌ لَا كَلِمَاتٌ** — انْظُرِ الْكَرْوِبَ.)
 
@@ -10001,7 +10001,7 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 
 **ID:** “Kitab «Sirr al-Asrār fī al-Tawāṣul ma‘a Rūḥāniyyāt al-Qur’ān» — Syaikh para ruhaniyyin, Syaikh ‘Aṭiyyah ‘Abd al-Ḥamīd.” (Kepala halaman.)
 
-**Rajah:** ![Rajah hal. 460 — tabel angka tujuh baris bertinta tebal, baris pertama dan terakhir di luar bingkai, memuat deret panjang angka Arab-Hindi](../assets/rajah/sirrul-asrar/hal-460-rajah-01.png)
+![Rajah hal. 460 — tabel angka tujuh baris bertinta tebal, baris pertama dan terakhir di luar bingkai, memuat deret panjang angka Arab-Hindi](../assets/rajah/sirrul-asrar/hal-460-rajah-01.png)
 
 **AR:** (وَصْفُ الْجَدْوَلِ) جَدْوَلٌ يَدَوِىٌّ مِنْ **سَبْعَةِ اَسْطُرٍ** (سَطْرٌ اَعْلٰى خَارِجُ الْاِطَارِ، ثُمَّ خَمْسَةُ اَسْطُرٍ دَاخِلَ الْاِطَارِ، ثُمَّ سَطْرٌ سُفْلِىٌّ خَارِجُهُ)، كُلُّهَا **رُقُوْمٌ عَرَبِيَّةٌ-هِنْدِيَّةٌ مُتَدَاخِلَةٌ** بِخَطٍّ عَرِيْضٍ، تَقْرِيْبًا:
 
@@ -10029,7 +10029,7 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 
 **ID:** “**Siapa yang ingin menghadirkan seseorang** — ia **menulis ṭilasm ini pada bekas (jejak) orang yang diminta**, lalu **memilinnya menjadi fatilah (sumbu)**, dan **menyalakannya di malam yang gelap**. **Dupanya pada waktu amal: lubān dan jāwī**؛ **amalannya pada malam Ahad atau malam Rabu**، **awal bulan**؛ **‘azīmahnya: «دعوة المريخ» ١١×**. **Dan inilah yang ditulis**, dan **saat penulisan harus saat yang baik**.”
 
-**Rajah:** ![Rajah hal. 460 — «ما تكتب» untuk فائدة محبة وجاب: dua baris panjang tulisan tangan berisi huruf «ع» berulang dan deret angka, dengan ٢ di ujung kiri bawah](../assets/rajah/sirrul-asrar/hal-460-rajah-02.png)
+![Rajah hal. 460 — «ما تكتب» untuk فائدة محبة وجاب: dua baris panjang tulisan tangan berisi huruf «ع» berulang dan deret angka, dengan ٢ di ujung kiri bawah](../assets/rajah/sirrul-asrar/hal-460-rajah-02.png)
 
 **AR:** (وَصْفُ مَا يُكْتَبُ) سَطْرَانِ طَوِيْلَانِ عَلٰى خَطٍّ اُفُقِىٍّ: السَّطْرُ الْاَعْلٰى حُرُوْفُ «**ع**» مَوْصُوْلَةٌ مُتَكَرِّرَةٌ مَعَ حُرُوْفٍ صَغِيْرَةٍ بَيْنَهَا، وَالسَّطْرُ الْاَسْفَلُ دَرَجٌ طَوِيْلٌ مِنَ الرُّقُوْمِ «**٢ ١ ٥ ١ ٨ ١ ٥ ١ ٨ ٩ ٩ ٢ ٥ ٣ ١ ٢ ٣ ٢ ٩ ٥ ٤ ١ ٥ ١ ٥ ٣ ٥ ٥ ٥ ٥ ٥**» تَقْرِيْبًا، وَفِى الطَّرَفِ الْاَيْسَرِ رَقْمُ «**٢**» بِخَطٍّ مَمْدُوْدٍ.
 
@@ -10068,7 +10068,7 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 
 **ID:** “Kitab «Sirr al-Asrār fī al-Tawāṣul ma‘a Rūḥāniyyāt al-Qur’ān» — Syaikh para ruhaniyyin, Syaikh ‘Aṭiyyah ‘Abd al-Ḥamīd.” (Kepala halaman.)
 
-**Rajah:** ![Rajah hal. 461 — bintang enam (kotak bergaris ganda dengan dua segitiga) bertulisan nama-nama di sudut luar dan huruf tunggal di sudut kotak, dengan dua baris garis bertakik di tengah](../assets/rajah/sirrul-asrar/hal-461-rajah-01.png)
+![Rajah hal. 461 — bintang enam (kotak bergaris ganda dengan dua segitiga) bertulisan nama-nama di sudut luar dan huruf tunggal di sudut kotak, dengan dua baris garis bertakik di tengah](../assets/rajah/sirrul-asrar/hal-461-rajah-01.png)
 
 **AR:** (وَصْفُ الطِّلَسْمِ) نَجْمَةٌ سُدَاسِيَّةٌ: **مُرَبَّعٌ** وَدَاخِلَهُ **مُرَبَّعٌ ثَانٍ**، وَمِنْ رُؤُوْسِهِ تَخْرُجُ **مُثَلَّثَاتٌ** وَاحِدٌ اِلٰى اَعْلٰى وَوَاحِدٌ اِلٰى اَسْفَلَ، فَتُكَوِّنُ **نَجْمَةً سُدَاسِيَّةً**. فِى زَوَايَا الْمُرَبَّعِ دَاخِلِيًّا حُرُوْفٌ مُفْرَدَةٌ: «**ج**»، «**ف**»، «**ج**»، «**ج**»، «**ع**»، «**ج**»، «**ج**» (تَقْرِيْبًا). وَفِى الْخَارِجِ عِنْدَ كُلِّ زَاوِيَةٍ اَسْمَاءٌ: «**جَبْجُوْت**» (اَعْلٰى يَسَارٍ)، «**عَزْرَائِيْل**» (اَعْلٰى يَمِيْنٍ)، «**جِبْرَائِيْل**» (يَسَارٌ اَعْلٰى، عَمُوْدِيًّا)، «**مِيْكَائِيْل**» (يَمِيْنٌ اَعْلٰى، عَمُوْدِيًّا)، «**اِسْرَافِيْل**» (يَسَارٌ اَسْفَلُ)، «**جَبْجُوْت**» (يَمِيْنٌ اَسْفَلُ). وَفِى الْوَسَطِ **سَطْرَانِ** مِنْ **خُطُوْطٍ قَصِيْرَةٍ مُتَكَاثِفَةٍ** كَالْاَسْنَانِ.
 
@@ -10137,7 +10137,7 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 
 **ID:** “Kitab «Sirr al-Asrār fī al-Tawāṣul ma‘a Rūḥāniyyāt al-Qur’ān» — Syaikh para ruhaniyyin, Syaikh ‘Aṭiyyah ‘Abd al-Ḥamīd.” (Kepala halaman.)
 
-**Rajah:** ![Rajah hal. 462 — sambungan ṭilasm «فائدة محبة»: dua deret angka tulisan tangan di atas kotak pandek, dua sosok garis (satu bertopi lebar dengan kaki berujung bulatan dan tangan berjari, satu berbentuk mangkuk terbelah bertulisan «مادر»), lalu baris angka dan huruf «ط» berulang](../assets/rajah/sirrul-asrar/hal-462-rajah-01.png)
+![Rajah hal. 462 — sambungan ṭilasm «فائدة محبة»: dua deret angka tulisan tangan di atas kotak pandek, dua sosok garis (satu bertopi lebar dengan kaki berujung bulatan dan tangan berjari, satu berbentuk mangkuk terbelah bertulisan «مادر»), lalu baris angka dan huruf «ط» berulang](../assets/rajah/sirrul-asrar/hal-462-rajah-01.png)
 
 **AR:** (تَكْمِلَةُ «وَهَذَا الطِّلَسْمُ» مِنْ ص ٤٦١) جَدْوَلٌ يَدَوِىٌّ: فِى الْاَعْلٰى **صَفِيْحَةٌ مُدَوَّرَةُ الزَّاوِيَةِ** بِسَطْرَيْنِ مِنَ الرُّقُوْمِ، وَعَلٰى يَسَارِهَا سَطْرٌ طَوِيْلٌ مِنَ الرُّقُوْمِ اَيْضًا؛ وَفِى الْوَسَطِ **شَكْلَانِ**: (١) **رَجُلٌ ذُوْ قُبَّعَةٍ عَرِيْضَةٍ** (فَوْقَهَا رَقْمُ «**٥**»)، عَيْنَانِ نُقْطَتَانِ، وَفَمٌ مُسَنَّنٌ، وَلَهُ **رِجْلَانِ مُنْفَرِجَتَانِ تَنْتَهِيَانِ بِبَيْضَاوَيْنِ**، وَيَدَانِ بِاَصَابِعَ كَالْاَوْرَاقِ؛ (٢) **شَكْلٌ كَالْكَاْسِ الْمَقْلُوْبِ** الْمَشْقُوْقِ بِخَطٍّ، تَحْتَهُ كَلِمَةٌ بِخَطٍّ يَدَوِىٍّ تُقْرَاُ «**مَادَر**» تَقْرِيْبًا، وَعَلٰى جَانِبِهِ خُطُوْطٌ قَصِيْرَةٌ. ثُمَّ سَطْرَانِ طَوِيْلَانِ مِنَ الرُّقُوْمِ وَالْحُرُوْفِ، وَسَطْرٌ مِنَ الْحُرُوْفِ «**ط ه ع ع ع ع**»، ثُمَّ سَطْرٌ سُفْلِىٌّ طَوِيْلٌ مِنَ الرُّقُوْمِ.
 
@@ -10157,7 +10157,7 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 
 **ID:** “**Dituliskan pada hari raya** dan **diletakkan di kantong (saku)**؛ **setelah itu ditulis setiap hari Jumat** dan diletakkan di kantong, dan **yang pertama ditinggalkan** — dan **ini sudah dicoba dan sahih**. **Dan dituliskan di sekelilingnya**: «**Dan sungguh Kami telah menempatkan kamu di bumi dan Kami jadikan di sana penghidupan bagimu; sedikit sekali kamu bersyukur**» — **tanpa bilangan** yang disebut.”
 
-**Rajah:** ![Rajah hal. 462 — «اقلعة»: bentuk bertingkat dengan tulisan «١ ع ر ا ي ة» di dalam lonjong, kotak bertuliskan «١ ع ر و ا ل س ع ع», dan sembilan bentuk «م» berujung kait](../assets/rajah/sirrul-asrar/hal-462-rajah-02.png)
+![Rajah hal. 462 — «اقلعة»: bentuk bertingkat dengan tulisan «١ ع ر ا ي ة» di dalam lonjong, kotak bertuliskan «١ ع ر و ا ل س ع ع», dan sembilan bentuk «م» berujung kait](../assets/rajah/sirrul-asrar/hal-462-rajah-02.png)
 
 **AR:** (وَصْفُ الطِّلَسْمِ الثَّانِى) فِى الْيَسَارِ **شَكْلٌ مُدَرَّجٌ** (اَرْبَعَةُ خُطُوْطٍ اُفُقِيَّةٍ)، تَحْتَهُ **بَيْضَاوِىٌّ** دَاخِلَهُ «**١ ع ر ا ي ة**» (تَقْرِيْبًا)، ثُمَّ **مُسْتَطِيْلٌ** دَاخِلَهُ «**١ ع ر و ا ل س ع ع**» (تَقْرِيْبًا)؛ وَفِى الْيَمِيْنِ وَاَسْفَلَ مِنْهُ **تِسْعُ هَيْئَاتٍ** كُلُّهَا **كَالْحَرْفِ «م»** ذِىْ **ذَيْلٍ مَعْقُوْفٍ**، مَوْضُوْعَةٍ فِى ثَلَاثَةِ صُفُوْفٍ (٣ × ٣).
 
@@ -10202,7 +10202,7 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 
 **ID:** “**Wafaq ini dituliskan** dan **di sekelilingnya ditulis «البرهتية»**؛ **diazamkan**؛ **dupaamu: lubān natāyah dan cendana merah**؛ **ambil raṣd yang sesuai** untuk amalanmu؛ **‘azīmahnya ١١×**؛ lalu **digantung di udara menghadap arah orang yang diminta**.”
 
-**Rajah:** ![Rajah hal. 463 — wafaq pertama: tabel ٤×٤ berisi campuran angka dan huruf tulisan tangan («ط، ح، ج، ع، ش» dsb.)](../assets/rajah/sirrul-asrar/hal-463-rajah-01.png)
+![Rajah hal. 463 — wafaq pertama: tabel ٤×٤ berisi campuran angka dan huruf tulisan tangan («ط، ح، ج، ع، ش» dsb.)](../assets/rajah/sirrul-asrar/hal-463-rajah-01.png)
 
 **AR:** (وَصْفُ الْوِفْقِ الْاَوَّلِ) جَدْوَلٌ ٤ × ٤ خَلَايَاهُ خَلِيْطٌ مِنَ الرُّقُوْمِ وَالْحُرُوْفِ بِخَطٍّ يَدَوِىٍّ عَرِيْضٍ. قِرَاءَةٌ تَقْرِيْبِيَّةٌ (مِنَ الْيَسَارِ اِلَى الْيَمِيْنِ كَمَا تُرَى الْخَلَايَا):
 
@@ -10227,7 +10227,7 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 
 **ID:** “**Ṭilasm ini dituliskan dengan tinta ruhani** dan **raṣd yang sesuai**, **awal bulan**؛ **diazamkan dengan «دعوة الجلجلوتية الصغرى» ١٢×**؛ lalu **ditanam di rumah orang yang diminta**؛ **penulisan dilakukan hari Jumat**؛ dan **jika ditulis pada bekas (jejak) orang yang diminta**, itu **lebih baik** — **dan inilah ṭilasmnya**:”
 
-**Rajah:** ![Rajah hal. 463 — ṭilasm kedua: tabel ٥×٥ berisi angka dan huruf tulisan tangan («الخمس»، «الرحمن»، «ط»، «ج»، «ش»، «١» dsb.)](../assets/rajah/sirrul-asrar/hal-463-rajah-02.png)
+![Rajah hal. 463 — ṭilasm kedua: tabel ٥×٥ berisi angka dan huruf tulisan tangan («الخمس»، «الرحمن»، «ط»، «ج»، «ش»، «١» dsb.)](../assets/rajah/sirrul-asrar/hal-463-rajah-02.png)
 
 **AR:** (وَصْفُ الطِّلَسْمِ الثَّانِى) جَدْوَلٌ ٥ × ٥ (خَمْسَةُ اَصْفُفٍ)، وَفِىْ صَفِّهِ الْاَخِيْرِ كَلِمَاتٌ: «**الْخَمْس**»، «**الرَّحْمٰن**»، «**٥٢١**»، «**٢٨٨**»، «**٣ب**». قِرَاءَةٌ تَقْرِيْبِيَّةٌ:
 
@@ -10253,7 +10253,7 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 
 **ID:** “**Ṭilasm ini dituliskan di dalam botol atau kertas**, lalu **“ditanjumkan” dengan air** dan **airnya diletakkan di botol**, kemudian **botol diletakkan di atas api**؛ **diazamkan padanya «دعوة النار» ٥٣×**؛ dan **jika ditulis di dalam botol**, **tuangkan air sumur atau air yang tidak terkena matahari** — **dan inilah ṭilasmnya**:”
 
-**Rajah:** ![Rajah hal. 463 — ṭilasm ketiga (yang ditulis di dalam botol): dua baris tulisan tangan memuat deret angka dan huruf «هـ/ع» berulang, dengan tiga bentuk berkait di bawahnya](../assets/rajah/sirrul-asrar/hal-463-rajah-03.png)
+![Rajah hal. 463 — ṭilasm ketiga (yang ditulis di dalam botol): dua baris tulisan tangan memuat deret angka dan huruf «هـ/ع» berulang, dengan tiga bentuk berkait di bawahnya](../assets/rajah/sirrul-asrar/hal-463-rajah-03.png)
 
 **AR:** (وَصْفُ الطِّلَسْمِ الثَّالِثِ) سَطْرَانِ يَدَوِيَّانِ عَرِيْضَانِ: الْاَوَّلُ دَرَجٌ مِنْ حُرُوْفٍ وَرُقُوْمٍ («**اَلْعَهْر ١١١ ٥٥٩ ٩٨ ٨ ٥٥ ٥٤ ١١ …**» تَقْرِيْبًا) يَنْتَهِيْ بِـ«**١١**» فِى الطَّرَفِ الْيَسَارِ، وَالثَّانِى «**# ا ١ ع ٥ هـ ٦ ١ ١ ٢ ١ ١ ٥ ر ١ ٨ ٨ ٥ م**» تَقْرِيْبًا؛ وَتَحْتَهُمَا **ثَلَاثَةُ اَشْكَالٍ مُعَقَّفَةٍ** كَالْكُوْزِ، وَفِىْ الْيَمِيْنِ خُطُوْطٌ مَمْدُوْدَةٌ.
 
@@ -10294,7 +10294,7 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 
 **ID:** “**Engkau menyiapkan telur yang (diambil) hari Sabtu** dan **menuliskan ṭilasm ini padanya**, lalu **mengazamkannya dengan «عزيمة البيض» yang terkenal**؛ kemudian **meletakkan telur itu di bara api** dengan **api yang tenang**؛ **begitu telur matang**, **orang yang diminta akan hadir di hadapanmu**؛ **dan inilah yang ditulis**, **dupaamu: lubān dan ketumbar (kuzbarah)**.”
 
-**Rajah:** ![Rajah hal. 464 — ṭilasm ١: dua baris tulisan tangan berisi huruf-huruf tunggal bersambung («ع، هـ، ص، س») dan bentuk palang/garis bersilang](../assets/rajah/sirrul-asrar/hal-464-rajah-01.png)
+![Rajah hal. 464 — ṭilasm ١: dua baris tulisan tangan berisi huruf-huruf tunggal bersambung («ع، هـ، ص، س») dan bentuk palang/garis bersilang](../assets/rajah/sirrul-asrar/hal-464-rajah-01.png)
 
 **AR:** (وَصْفُ الطِّلَسْمِ الْاَوَّلِ) سَطْرَانِ: الْاَوَّلُ يَبْدَاُ بِـ«**ض ص**» وَيَنْتَهِيْ بِحُرُوْفٍ مُنْفَصِلَةٍ «**س ص**»، وَالثَّانِى يَبْدَاُ بِـ«**ط هـ**» وَفِيْهِ «**ع س ر هـ**» وَ«**هـ ل**»؛ وَفِىْ اَوَاخِرِ السَّطْرَيْنِ **اَشْكَالُ صَلِيْبٍ/مِرْبَعٍ** ذَاتُ **اَرْبَعَةِ اَطْرَافٍ مُنْعَقِفَةٍ**. الْحُرُوْفُ **مُفْرَدَةٌ غَيْرُ مَنْقُوْطَةٍ تَقْرِيْبًا**، وَهُوَ **طِلَسْمٌ لَا وِفْقٌ**.
 
@@ -10314,7 +10314,7 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 
 **ID:** “**Ṭilasm ini ditulis dengan tinta ruhani yang dikenal**؛ **raṣd-mu adalah al-Zuhrah pada awal bulan Arab**؛ **lakukan tawkil di sekelilingnya** dan **tuliskan surah al-Burūj**, dan **dengannya engkau mengazamkan ١٢×**؛ lalu **membawanya di lengan kananmu**, dan **engkau menghadapi orang yang engkau kehendaki dengannya** — **dan inilah yang ditulis**:”
 
-**Rajah:** ![Rajah hal. 464 — ṭilasm ٢: satu baris panjang huruf dan angka tulisan tangan dengan cincin/mata di tengah dan tulisan «عذاب الى هزع ١١» di sisinya, plus kotak berisi angka](../assets/rajah/sirrul-asrar/hal-464-rajah-02.png)
+![Rajah hal. 464 — ṭilasm ٢: satu baris panjang huruf dan angka tulisan tangan dengan cincin/mata di tengah dan tulisan «عذاب الى هزع ١١» di sisinya, plus kotak berisi angka](../assets/rajah/sirrul-asrar/hal-464-rajah-02.png)
 
 **AR:** (وَصْفُ الطِّلَسْمِ الثَّانِى) **دَائِرَةٌ مُزْدَوِجَةٌ** فِى الْوَسَطِ كَالْعَيْنِ، وَعَلٰى يَسَارِهَا «**عَذَابٌ اِلٰى هَزْعٍ ١١**» (تَقْرِيْبًا)، وَعَلٰى يَمِيْنِهَا «**ع هـ ر م**» (تَقْرِيْبًا)؛ وَتَحْتَهَا سَطْرٌ طَوِيْلٌ مِنْ حُرُوْفٍ وَرُقُوْمٍ («**هـ ل ع ا ل م ع ب ل س ا م ا د ل**» تَقْرِيْبًا) عَلٰى خَطٍّ اُفُقِىٍّ؛ وَفِى الْيَمِيْنِ **مُسْتَطِيْلٌ مُشَوَّهٌ** دَاخِلَهُ **مُرَبَّعٌ صَغِيْرٌ** بِخَطٍّ رَاْسِىٍّ.
 
@@ -10334,7 +10334,7 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 
 **ID:** “**Dituliskan pada hari Rabu sebelum terbit matahari** dengan **nama orang yang engkau kehendaki**؛ **diazamkan dengan surah Yāsīn ٣×**؛ dan **pada setiap «مبين»** lakukan **tawkil** sesuai kehendakmu؛ lalu **ulangi «سلام قولا من رب رحيم» ١١١×** pada setiap (kali) — **dan inilah yang ditulis**.”
 
-**Rajah:** ![Rajah hal. 464 — ṭilasm ٣: empat kelompok tulisan tangan pendek berisi angka dan huruf di atas garis mendatar, tersusun dua baris dua kolom](../assets/rajah/sirrul-asrar/hal-464-rajah-03.png)
+![Rajah hal. 464 — ṭilasm ٣: empat kelompok tulisan tangan pendek berisi angka dan huruf di atas garis mendatar, tersusun dua baris dua kolom](../assets/rajah/sirrul-asrar/hal-464-rajah-03.png)
 
 **AR:** (وَصْفُ الطِّلَسْمِ الثَّالِثِ) اَرْبَعُ كُتَلٍ يَدَوِيَّةٍ عَلٰى خُطُوْطٍ اُفُقِيَّةٍ، مَوْضُوْعَةٍ فِىْ شَكْلِ (٢ × ٢): كُلُّ كُتْلَةٍ تَبْدَاُ بِرَقْمٍ («**٥**» اَوْ «**٤**») وَتَتْبَعُهَا حُرُوْفٌ مَمْدُوْدَةٌ وَرُقُوْمٌ صَغِيْرَةٌ، وَعَلٰى يَسَارِ بَعْضِهَا **ثَلَاثُ شَرَطَاتٍ رَاْسِيَّةٍ** «**|||**».
 
@@ -10363,7 +10363,7 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 
 **ID:** “Kitab «Sirr al-Asrār fī al-Tawāṣul ma‘a Rūḥāniyyāt al-Qur’ān» — Syaikh para ruhaniyyin, Syaikh ‘Aṭiyyah ‘Abd al-Ḥamīd.” (Kepala halaman.)
 
-**Rajah:** ![Rajah hal. 465 — ṭilasm ١: kotak kecil bertuliskan «هود / محمد»، bentuk palang dengan angka «٩»، skema bintang berhuruf (عزرائيل، جبرائيل، ميكائيل، اسرافيل، جنجوش)، dan baris angka «٤ ٥ ٥ ٥ ٥ ٥ ٥ ١ ٢ ٢ ٢» di bawah tiga baris huruf](../assets/rajah/sirrul-asrar/hal-465-rajah-01.png)
+![Rajah hal. 465 — ṭilasm ١: kotak kecil bertuliskan «هود / محمد»، bentuk palang dengan angka «٩»، skema bintang berhuruf (عزرائيل، جبرائيل، ميكائيل، اسرافيل، جنجوش)، dan baris angka «٤ ٥ ٥ ٥ ٥ ٥ ٥ ١ ٢ ٢ ٢» di bawah tiga baris huruf](../assets/rajah/sirrul-asrar/hal-465-rajah-01.png)
 
 **AR:** فَائِدَةُ مَحَبَّةٍ فِىْ سَمَكَةٍ
 
@@ -10401,7 +10401,7 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 
 **ID:** “**Dan ini — yaitu «العزيمة»**: «**Aku berketetapan atas kalian, wahai sekalian jin dan manusia: Ḥayyūsh, Jalyūsh, Naqqāsh, Taqqāsh, Nu‘yūsh, Taqyūsh**».” (Nama-nama ini disalin literal.)
 
-**Rajah:** ![Rajah hal. 465 — ṭilasm ٢ (di dalam kotak): enam baris tulisan tangan berhuruf «ط، هـ، م، ص، ل» dengan garis-garis kait di kiri, diakhiri baris «! العهد ٣ الوحا ٣ الساعة ٣»](../assets/rajah/sirrul-asrar/hal-465-rajah-02.png)
+![Rajah hal. 465 — ṭilasm ٢ (di dalam kotak): enam baris tulisan tangan berhuruf «ط، هـ، م، ص، ل» dengan garis-garis kait di kiri, diakhiri baris «! العهد ٣ الوحا ٣ الساعة ٣»](../assets/rajah/sirrul-asrar/hal-465-rajah-02.png)
 
 **AR:** (وَصْفُ الطِّلَسْمِ الثَّانِى) **مُسْتَطِيْلٌ كَبِيْرٌ** يَحْتَوِىْ سِتَّةَ اَسْطُرٍ: الْاَوَّلُ «**ط ل ل ل م ع ل س ع**» تَقْرِيْبًا، الثَّانِى «**س ل ط ا ن هـ هـ هـ م**»، الثَّالِثُ «**ص م ج ا ي م ع ج ا د ا م ا هـ**»، الرَّابِعُ «**ط ن ت ع ل ب ف م ن م ر ع ل ن م ح ب ر ن م**»، الْخَامِسُ مَحْذُوْفٌ/مَشْطُوْبٌ، وَالسَّادِسُ «**! الْعَهْد ٣ اَلْوَحَا ٣ اَلسَّاعَة ٣**». وَعَلٰى يَسَارِ الْاَسْطُرِ الْعُلْيَا **خُطُوْطٌ ذَاتُ اَرْبَعِ شُعَبٍ** وَثَلَاثُ نُقَطٍ.
 
@@ -10436,7 +10436,7 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 
 **ID:** “**Aku berketetapan atas kalian, wahai Danash, Shukaththak, Shakīs, Lislīūd, Hayrāṭish, Ghaṭshalān, Lāfīs, dan Iblīs — sampai kepada Hārūt dan Mārūt**؛ **setelah itu engkau membaca al-Fātiḥah** atas **sebutir kacang fava (bāqillā’)** dan **meletakkannya di atas api** — **selesai dengan pujian kepada-Nya.**” (Nama-nama ini disalin **literal**, tanpa penafsiran.)
 
-**Rajah:** ![Rajah hal. 466 — «وهذا الطلسم»: empat baris angka tulisan tangan di atas garis-garis mendatar](../assets/rajah/sirrul-asrar/hal-466-rajah-01.png)
+![Rajah hal. 466 — «وهذا الطلسم»: empat baris angka tulisan tangan di atas garis-garis mendatar](../assets/rajah/sirrul-asrar/hal-466-rajah-01.png)
 
 **AR:** بَابٌ لِلْجَلْبِ وَالتَّهْيِيْجِ
 
@@ -10495,7 +10495,7 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 
 **ID:** “Kitab «Sirr al-Asrār fī al-Tawāṣul ma‘a Rūḥāniyyāt al-Qur’ān» — Syaikh para ruhaniyyin, Syaikh ‘Aṭiyyah ‘Abd al-Ḥamīd.” (Kepala halaman.)
 
-**Rajah:** ![Rajah hal. 467 — «البراوات»: tujuh kotak berbingkai, masing-masing berisi nama hari dan planetnya, dikelilingi tulisan kecil, dengan satu baris tulisan tangan di bawahnya](../assets/rajah/sirrul-asrar/hal-467-rajah-01.png)
+![Rajah hal. 467 — «البراوات»: tujuh kotak berbingkai, masing-masing berisi nama hari dan planetnya, dikelilingi tulisan kecil, dengan satu baris tulisan tangan di bawahnya](../assets/rajah/sirrul-asrar/hal-467-rajah-01.png)
 
 **AR:** (الْبَرَاوَاتُ — تَكْمِلَةٌ مِنْ ص ٤٦٦) سَبْعَةُ مُرَبَّعَاتٍ، فِى كُلٍّ **اِسْمُ يَوْمٍ وَاسْمُ كَوْكَبِهِ**، وَحَوْلَ كُلِّ مُرَبَّعٍ **كِتَابَةٌ صَغِيْرَةٌ مُتَكَرِّرَةٌ** (دُعَاءٌ/أَسْمَاءٌ لَا تَكَادُ تُقْرَاُ)، وَتَحْتَ كُلِّ مُرَبَّعٍ **سَطْرٌ مِنَ الْحُرُوْفِ الطِّلَسْمِيَّةِ**. وَالْقِرَاءَةُ (مِنَ الْيَمِيْنِ اِلَى الْيَسَارِ كَمَا هِىَ مَرْتَّبَةٌ فِى الْكِتَابِ):
 
@@ -10529,7 +10529,7 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 
 **ID:** “**Jika untuk lelaki**: dituliskan **dengan darah ayam betina hitam** pada **saat yang baik (sa‘īd)**؛ **perempuan** yang membawanya, lalu **mencium tangannya**؛ dan **jika untuk perempuan**: **dengan darah ayam jantan merah**؛ **lelaki** yang membawanya, lalu **mencium tangannya** — **karena besarnya kepatuhan dan cinta**. **Dan ia seperti yang engkau lihat**:”
 
-**Rajah:** ![Rajah hal. 467 — ṭilasm «محبة قوية»: dua baris tulisan tangan berupa deret angka «٨ ١ ٤ ٨ ١ ١ …» dan «٣ ١ ٦ ١ ٥ …» di atas garis, dengan kata «تمت»](../assets/rajah/sirrul-asrar/hal-467-rajah-02.png)
+![Rajah hal. 467 — ṭilasm «محبة قوية»: dua baris tulisan tangan berupa deret angka «٨ ١ ٤ ٨ ١ ١ …» dan «٣ ١ ٦ ١ ٥ …» di atas garis, dengan kata «تمت»](../assets/rajah/sirrul-asrar/hal-467-rajah-02.png)
 
 **AR:** (وَصْفُ الطِّلَسْمِ) سَطْرَانِ يَدَوِيَّانِ: الْاَوَّلُ «**٨ ١ ٤ ٨ ١ ١ ٠ ١١ ٨ ١ ٤ ٨ ١ ١ ٤ ٦ ١ ٤ ٤ ١ ٠**» تَقْرِيْبًا، وَالثَّانِى «**٨ ١ ١ ١ ٢ ١ ٦ ١ ٤ ١ ١ ٨ ١ ١ ٤ ١ ١ ٨ ١ ١ ٤ ١ ٨ ١ ١ ٠**» تَقْرِيْبًا، ثُمَّ كَلِمَةُ «**تَمَّتْ**».
 
@@ -10576,7 +10576,7 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 
 **ID:** “**Sifat tawkil**: «**Bergeraklah, wahai para pelayan seruan ini dan kekuatan serta pemaksaan yang ada padanya, terhadap siapa yang mendengar seruan tetapi tidak menyambutnya: bergeraklah, hai kalian yang mendengar seruanku, mencium asapku, dan datang ke tempat sunyiku — bergeraklah untuk keperluanku, dan palingkan serta bangkitkan hati Fulan bin Fulanah kepada Fulanah binti Fulanah dengan cinta dan kasih sayang — al-waḥā ٢, al-‘ajal ٢, al-sā‘ah ٢**» — **dan inilah wafaq yang ditulis**.”
 
-**Rajah:** ![Rajah hal. 468 — wafaq tiga kolom: kolom kanan memuat «١١١ م س ع هـ» diikuti baris huruf kecil, kolom tengah memuat deret «٤٢٣ ٩ ٩ ٥ ٨» dan «١١١ ١١ ٥ ٥ ٨», kolom kiri memuat «ي ط ع ل ي ا س م» dengan «٤١٧ ٧ ٥ ٧ ٦ ٤» dan bentuk bintang](../assets/rajah/sirrul-asrar/hal-468-rajah-01.png)
+![Rajah hal. 468 — wafaq tiga kolom: kolom kanan memuat «١١١ م س ع هـ» diikuti baris huruf kecil, kolom tengah memuat deret «٤٢٣ ٩ ٩ ٥ ٨» dan «١١١ ١١ ٥ ٥ ٨», kolom kiri memuat «ي ط ع ل ي ا س م» dengan «٤١٧ ٧ ٥ ٧ ٦ ٤» dan bentuk bintang](../assets/rajah/sirrul-asrar/hal-468-rajah-01.png)
 
 **AR:** (وَصْفُ الْوِفْقِ) ثَلَاثَةُ اَعْمِدَةٍ بِخَطٍّ يَدَوِىٍّ عَرِيْضٍ، وَالْقِرَاءَةُ مِنَ الْيَمِيْنِ:
 
@@ -10602,7 +10602,7 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 
 **ID:** “**Dituliskan pada empat lembar kertas dengan bentuk (ṣifah) ini**؛ lalu **dibakar satu demi satu dengan cepat** — **inilah dia, dan dari Allah-lah taufik**. **Sebelum mulai, lepaskan (ṣarf) para ‘ummār dengan iṣrāf kekuatan**, dan **azamkan atas kertas itu pada waktu pembakaran dengan «دعوة العهد القديم»**, dan **letakkan “faṣṣ lubān dhakar”** di dalam kertas؛ **sebelum asap lembar pertama habis, lemparkan lembar kedua ke api**, begitu seterusnya **sampai lembar keempat selesai**.”
 
-**Rajah:** ![Rajah hal. 468 — empat lembar kecil berbingkai (١–٤) berisi tulisan tangan: «هـ ع هـ …» / «١ ع ل ب ا …»، «هـ ر ا م ع هـ / ع زر ا ي ل»، «ع هـ / ٥»، «هـ ع ي ا د / ر م ل ح»](../assets/rajah/sirrul-asrar/hal-468-rajah-02.png)
+![Rajah hal. 468 — empat lembar kecil berbingkai (١–٤) berisi tulisan tangan: «هـ ع هـ …» / «١ ع ل ب ا …»، «هـ ر ا م ع هـ / ع زر ا ي ل»، «ع هـ / ٥»، «هـ ع ي ا د / ر م ل ح»](../assets/rajah/sirrul-asrar/hal-468-rajah-02.png)
 
 **AR:** (وَصْفُ الْوَرَقَاتِ الْاَرْبَعِ) اَرْبَعَةُ مُرَبَّعَاتٍ صَغِيْرَةٍ، فَوْقَ كُلِّ وَاحِدٍ رَقْمُهُ (١، ٢، ٣، ٤):
 
@@ -10715,7 +10715,7 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 
 **ID:** “Kitab «Sirr al-Asrār fī al-Tawāṣul ma‘a Rūḥāniyyāt al-Qur’ān» — Syaikh para ruhaniyyin, Syaikh ‘Aṭiyyah ‘Abd al-Ḥamīd.” (Kepala halaman.)
 
-**Rajah:** ![Rajah hal. 470 — ṭilasm «لتحير السارق» (sambungan p.469): kotak bergaris ganda memuat tulisan «ومن اراد الخروج لاعدو له عدة / وان لم يعلم فبسطهم وقيل / اقعدوا مع القاعدين»، bentuk segitiga bersilang bertulisan tangan, dan dua baris huruf «ق ف ت / ق ف ت» berulang](../assets/rajah/sirrul-asrar/hal-470-rajah-01.png)
+![Rajah hal. 470 — ṭilasm «لتحير السارق» (sambungan p.469): kotak bergaris ganda memuat tulisan «ومن اراد الخروج لاعدو له عدة / وان لم يعلم فبسطهم وقيل / اقعدوا مع القاعدين»، bentuk segitiga bersilang bertulisan tangan, dan dua baris huruf «ق ف ت / ق ف ت» berulang](../assets/rajah/sirrul-asrar/hal-470-rajah-01.png)
 
 **AR:** (تَكْمِلَةُ «لِتَحْيِيْرِ السَّارِقِ» مِنْ ص ٤٦٩) فِى الْاِعْلٰى كِتَابَةٌ: «**وَمَنْ اَرَادَ الْخُرُوْجَ لِعَدُوٍّ لَهُ عُدَّةٌ، وَاِنْ لَمْ يَعْلَمْ فَبَسَطَهُمْ وَقِيْلَ: اقْعُدُوْا مَعَ الْقَاعِدِيْنَ**»؛ وَفِى الْوَسَطِ **مُثَلَّثَانِ مُتَقَاطِعَانِ** كَنَجْمَةٍ بِخُطُوْطٍ يَدَوِيَّةٍ تُشْبِهُ الْحُرُوْفَ؛ وَتَحْتَهُمَا سَطْرَانِ «**ق ف ت ق ف ت ق ف ت**» وَ«**ق ف ت ق ف ت ق ف ت**» (تَقْرِيْبًا).
 
@@ -10735,7 +10735,7 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 
 **ID:** “**Dituliskan pada hari Sabtu**؛ dan **ṭilasm ini dituliskan pada telur pertama**:”
 
-**Rajah:** ![Rajah hal. 470 — ṭilasm telur pertama: satu baris angka tulisan tangan «٥ ٢ ٦ ٨ ٥ ١٤ ١١ ٤ ٣ ١ ١» di atas garis mendatar dengan ujung berkait](../assets/rajah/sirrul-asrar/hal-470-rajah-02.png)
+![Rajah hal. 470 — ṭilasm telur pertama: satu baris angka tulisan tangan «٥ ٢ ٦ ٨ ٥ ١٤ ١١ ٤ ٣ ١ ١» di atas garis mendatar dengan ujung berkait](../assets/rajah/sirrul-asrar/hal-470-rajah-02.png)
 
 **AR:** (طِلَسْمُ الْبَيْضَةِ الْاُوْلٰى) سَطْرٌ وَاحِدٌ يَدَوِىٌّ عَلٰى خَطٍّ اُفُقِىٍّ: «**٥ ٢ ٦ ٨ ٥ ١٤ ١١ ٤ ٣ ١ ١**» تَقْرِيْبًا، يَنْتَهِيْ فِى الْيَسَارِ بِخَطٍّ مُنْعَقِفٍ.
 
@@ -10755,7 +10755,7 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 
 **ID:** “**Dan pada telur kedua dituliskan ṭilasm ini**:”
 
-**Rajah:** ![Rajah hal. 470 — ṭilasm telur kedua: dua baris panjang angka dan huruf tulisan tangan («٩ ٩ ٩ ٩ ٥ ١ ٨ ٨ ٨ ١ ١» dsb.) di atas garis mendatar](../assets/rajah/sirrul-asrar/hal-470-rajah-03.png)
+![Rajah hal. 470 — ṭilasm telur kedua: dua baris panjang angka dan huruf tulisan tangan («٩ ٩ ٩ ٩ ٥ ١ ٨ ٨ ٨ ١ ١» dsb.) di atas garis mendatar](../assets/rajah/sirrul-asrar/hal-470-rajah-03.png)
 
 **AR:** (طِلَسْمُ الْبَيْضَةِ الثَّانِيَةِ) سَطْرَانِ طَوِيْلَانِ: الْاَوَّلُ «**٣ ١ ٢ ٤ ١ ١ ٨ ٤ ٦ ٦ ١ ١ ٣ ٥ ٥ ٥ ٩ ٩ ٨ ١ ٤ ٥ ٨ ٣ ١ ١ ١ ٣ ١ ٩**» تَقْرِيْبًا، وَالثَّانِى «**٩ ٨ ١ ١ ٩ ٩ ٥ ١ ١ ٩ ٩ ٩ ٩ ١ ٨ ٨ ٨ ١ ١ ٩**» تَقْرِيْبًا.
 
@@ -10812,7 +10812,7 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 
 **ID:** “**Satu malam sekali, selama ٣ malam**؛ maka **orang yang diminta akan ditundukkan oleh cinta si peminta dan kembali kepadanya serta kepada cintanya** — **dan inilah «cincin» (al-khātam)**:”
 
-**Rajah:** ![Rajah hal. 471 — «الخاتم»: tabel ٣×٣ berisi angka tulisan tangan (١٠١، ١٠٦، ٩٩ / ١٠٢، ١٠٥، ١٠٣ / ١٠٥، ٩٨، ١٠٤), dengan huruf-huruf di keempat sudut luar bingkai](../assets/rajah/sirrul-asrar/hal-471-rajah-01.png)
+![Rajah hal. 471 — «الخاتم»: tabel ٣×٣ berisi angka tulisan tangan (١٠١، ١٠٦، ٩٩ / ١٠٢، ١٠٥، ١٠٣ / ١٠٥، ٩٨، ١٠٤), dengan huruf-huruf di keempat sudut luar bingkai](../assets/rajah/sirrul-asrar/hal-471-rajah-01.png)
 
 **AR:** (وَصْفُ الْخَاتَمِ) جَدْوَلٌ **٣ × ٣** بِخَطٍّ يَدَوِىٍّ رَقِيْقٍ، وَفِىْ زَوَايَاهُ الْخَارِجِيَّةِ حُرُوْفٌ مُفْرَدَةٌ («**م**»، «**هـ**»، «**ى**» وَنَحْوُهَا). وَقِرَاءَةُ الْخَلَايَا (مِنَ الْيَمِيْنِ اِلَى الْيَسَارِ كَمَا تُرَى):
 
@@ -10929,7 +10929,7 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 
 **ID:** “**Dituliskan dan digantung di udara** — **dan inilah yang ditulis**:”
 
-**Rajah:** ![Rajah hal. 472 — «جلب الغائب والهارب والسارق»: di kiri sebuah lingkaran (bentuk telur) bertulisan tangan di dalam dan dikelilingi tulisan kecil; di kanan wafaq ٣×٣ dengan angka «١ / ٨٦ / ٢»، «٨ / (kosong) / ٤٤»، «٤٢ / ٥٤ / ٢»](../assets/rajah/sirrul-asrar/hal-472-rajah-01.png)
+![Rajah hal. 472 — «جلب الغائب والهارب والسارق»: di kiri sebuah lingkaran (bentuk telur) bertulisan tangan di dalam dan dikelilingi tulisan kecil; di kanan wafaq ٣×٣ dengan angka «١ / ٨٦ / ٢»، «٨ / (kosong) / ٤٤»، «٤٢ / ٥٤ / ٢»](../assets/rajah/sirrul-asrar/hal-472-rajah-01.png)
 
 **AR:** (وَصْفُ الطِّلَسْمِ) فِى الْيَسَارِ **بَيْضَاوِىٌّ (دَائِرَةٌ مُسْتَطِيْلَةٌ)** دَاخِلَهُ كِتَابَةٌ يَدَوِيَّةٌ، وَحَوْلَهُ كِتَابَةٌ صَغِيْرَةٌ مُتَكَرِّرَةٌ؛ وَفِى الْيَمِيْنِ **جَدْوَلٌ ٣ × ٣** قِرَاءَتُهُ (مِنَ الْيَمِيْنِ اِلَى الْيَسَارِ):
 
@@ -10962,7 +10962,7 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 
 **ID:** “Kitab «Sirr al-Asrār fī al-Tawāṣul ma‘a Rūḥāniyyāt al-Qur’ān» — Syaikh para ruhaniyyin, Syaikh ‘Aṭiyyah ‘Abd al-Ḥamīd.” (Kepala halaman.)
 
-**Rajah:** ![Rajah hal. 473 — sambungan ṭilasm «جلب الغائب والهارب والسارق»: dua baris panjang angka dan huruf tulisan tangan, lalu tiga bentuk garis (satu berkait panjang dan dua “pagar” bersilang dengan titik-titik di ujungnya)](../assets/rajah/sirrul-asrar/hal-473-rajah-01.png)
+![Rajah hal. 473 — sambungan ṭilasm «جلب الغائب والهارب والسارق»: dua baris panjang angka dan huruf tulisan tangan, lalu tiga bentuk garis (satu berkait panjang dan dua “pagar” bersilang dengan titik-titik di ujungnya)](../assets/rajah/sirrul-asrar/hal-473-rajah-01.png)
 
 **AR:** (تَكْمِلَةٌ مِنْ ص ٤٧٢) … وَتُبَخَّرُ وَقْتَ الْكِتَابَةِ **بِاللُّبَانِ الذَّكَرِ**، وَالْعَزِيْمَةُ **الْجَلْجَلُوْتِيَّةُ الْكُبْرٰى ثَلَاثَ مَرَّاتٍ** — فَاِنَّهُ **يَكُوْنُ مَا اَرَدْتَ**.
 
@@ -10988,7 +10988,7 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 
 **ID:** “**Dituliskan pada lempeng kaca** lalu **diletakkan di atas api yang lembut**؛ atau **dituliskan pada kaca lampu** lalu **dinyalakan** dan **nama-nama dibacakan padanya ٣٠١× atau ٣١١×**, serta **tawkil** — **dan inilah yang ditulis**:”
 
-**Rajah:** ![Rajah hal. 473 — «ما تكتب» untuk محبة على الزجاج: tabel ٤×٢ berisi huruf «ق، ل، ف، س / ش، و، ن، التوكل» dengan huruf «ج ر» di atas dan «ع، م» di sisi luar](../assets/rajah/sirrul-asrar/hal-473-rajah-02.png)
+![Rajah hal. 473 — «ما تكتب» untuk محبة على الزجاج: tabel ٤×٢ berisi huruf «ق، ل، ف، س / ش، و، ن، التوكل» dengan huruf «ج ر» di atas dan «ع، م» di sisi luar](../assets/rajah/sirrul-asrar/hal-473-rajah-02.png)
 
 **AR:** (وَصْفُ مَا يُكْتَبُ) جَدْوَلٌ **٤ × ٢** (اَرْبَعَةُ اَعْمِدَةٍ وَصَفَّانِ)، وَفَوْقَهُ «**ج ر**»، وَعَلٰى جَانِبَيْهِ حَرْفُ «**ع**» وَحَرْفُ «**م**»:
 
@@ -11056,7 +11056,7 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 
 **ID:** “**Dan ia juga (dipakai) untuk menjaga rumah**؛ **dituliskan pada kulit gazal dengan misk dan za‘farān**؛ **dituliskan pada ٤ — empat — lembar**؛ lalu **tanamlah dan gantunglah ia di empat penjuru tempat** — **dan inilah yang ditulis**:”
 
-**Rajah:** ![Rajah hal. 474 — «ما يكتب» untuk ترحيل الجن: satu baris panjang huruf bersambung berujung kait di atas tabel ٢×٣ (kolom kanan: angka «٩٢٠٣» dsb.; kolom kiri: angka dan huruf), lalu trapesium terbalik berisi baris-baris huruf «ط ط ط» dan «ع ع ع» dengan garis-garis diagonal bertulisan](../assets/rajah/sirrul-asrar/hal-474-rajah-01.png)
+![Rajah hal. 474 — «ما يكتب» untuk ترحيل الجن: satu baris panjang huruf bersambung berujung kait di atas tabel ٢×٣ (kolom kanan: angka «٩٢٠٣» dsb.; kolom kiri: angka dan huruf), lalu trapesium terbalik berisi baris-baris huruf «ط ط ط» dan «ع ع ع» dengan garis-garis diagonal bertulisan](../assets/rajah/sirrul-asrar/hal-474-rajah-01.png)
 
 **AR:** (وَصْفُ الطِّلَسْمِ) فِى الْاَعْلٰى **سَطْرٌ طَوِيْلٌ** مِنْ حُرُوْفٍ مُتَّصِلَةٍ تَنْتَهِيْ بِـ**كَلَالِيْبَ مَعْقُوْفَةٍ**؛ ثُمَّ **جَدْوَلٌ ٢ × ٣** (عَمُوْدَانِ وَثَلَاثَةُ صُفُوْفٍ): فِى الْعَمُوْدِ الْاَيْمَنِ رُقُوْمٌ مِثْلُ «**٩٢٠٣**» وَ«**٨٤٣٥**» وَ«**٨٤٥٣**»، وَفِى الْاَيْسَرِ رُقُوْمٌ مِثْلُ «**٨٤٣٥**» وَ«**٨٤٥٣**» وَمِثْلُ «**٤ ٥ ٢**»؛ وَتَحْتَ الْجَدْوَلِ **شَكْلٌ مُعَيَّنِىٌّ مَقْلُوْبٌ (مُثَلَّثٌ عَرِيْضٌ)** فِيْهِ خُطُوْطٌ وَرُقُوْمٌ («**٤ ١ ٤ ١**»، «**٣ ١ ١**»، «**ط ط ط**»، «**ع ع ع**»)، وَضِلْعَاهُ الْمُنْحَدِرَانِ مُغَطَّيَانِ بِكِتَابَةٍ يَدَوِيَّةٍ.
 
@@ -11076,7 +11076,7 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 
 **ID:** “**Dituliskan pada lempeng dari «الأسراب»** — untuk **keburukan** — dan pada **tembaga merah** — untuk **kebaikan** — **«الخاتم» ini**؛ **tawkil di sekelilingnya**؛ **nama itu dibacakan berkali-kali ٣٠٩×**, yaitu «**يا قابض**»؛ lalu **ber-tawakal**: «**Ya Allah, genggamlah atas Fulan bin Fulanah — hatinya, rahasianya, dan ruhnya — dengan hak malaikat ‘Azrā’īl dan dengan hak malaikat hari ini yang tinggi serta pelayan perempuannya**» …”
 
-**Rajah:** ![Rajah hal. 474 — «الخاتم» untuk اسم قابض: dua baris tulisan tangan panjang berisi huruf «أ»، «هـ»، «ع»، «ط» dan angka ٨ berulang, dengan bintang berlima di kanan dan kotak berujung bulatan bertuliskan «ملاطيسا / مليئا حليفنا»](../assets/rajah/sirrul-asrar/hal-474-rajah-02.png)
+![Rajah hal. 474 — «الخاتم» untuk اسم قابض: dua baris tulisan tangan panjang berisi huruf «أ»، «هـ»، «ع»، «ط» dan angka ٨ berulang, dengan bintang berlima di kanan dan kotak berujung bulatan bertuliskan «ملاطيسا / مليئا حليفنا»](../assets/rajah/sirrul-asrar/hal-474-rajah-02.png)
 
 **AR:** (وَصْفُ «الْخَاتَمِ») سَطْرَانِ طَوِيْلَانِ بِخَطٍّ عَرِيْضٍ: الْاَوَّلُ «**ا ل ا ل هـ ا ٨ ٨ ٨ ٨ ٨ ٨ ا ل ا ل هـ**» تَقْرِيْبًا، وَالثَّانِى «**ا هـ ا ش ر ا هـ ي ا ا ق د و س ا ا ب ا ؤ ت**» تَقْرِيْبًا؛ وَ**نَجْمَةٌ خُمَاسِيَّةٌ** فِى الْيَمِيْنِ؛ وَ**مُسْتَطِيْلٌ** ذُو **زَوَايَا مُدَوَّرَةٍ** فِيْهِ سَطْرَانِ: «**مَلَاطِيْسَا**» وَ«**مَلِيْئَا حَلِيْفُنَا**» (تَقْرِيْبًا).
 
@@ -11111,7 +11111,7 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 
 **ID:** “**(Pelengkap doa «Qābiḍ» dari p.474)** … **dan yang bersifat bumi serta pemilik jam ini, agar kalian melaksanakan permintaanku, yaitu ini dan itu** — **semoga Allah memberkahi kalian**، **al-waḥā, al-‘ajal, al-sā‘ah** — **dan inilah «الخاتم» yang dimaksud**:”
 
-**Rajah:** ![Rajah hal. 475 — «الخاتم»: wafaq berbentuk salib (sel tengah ٣×٣ dikelilingi empat “lengan” tiga sel) berisi huruf «ج/ب/ى/ط/ك» dan angka «٤٧٤، ٤٧٦، ٤٥٩، ٤٥٦، ٤٦٠، ٤٢٦، ٤٢٤، ٤٤٢»; tabel kecil ٣×٣ di kanan atas («٩٠٠ ٩٠٢ ٩٠٦ / ٩٠٥ ٩٠٤ ٩٠١ / ٩٠٤ ٨٩٩ ٩٠٧»); tabel ٣×٣ di kiri bawah; dikelilingi tulisan melingkar](../assets/rajah/sirrul-asrar/hal-475-rajah-01.png)
+![Rajah hal. 475 — «الخاتم»: wafaq berbentuk salib (sel tengah ٣×٣ dikelilingi empat “lengan” tiga sel) berisi huruf «ج/ب/ى/ط/ك» dan angka «٤٧٤، ٤٧٦، ٤٥٩، ٤٥٦، ٤٦٠، ٤٢٦، ٤٢٤، ٤٤٢»; tabel kecil ٣×٣ di kanan atas («٩٠٠ ٩٠٢ ٩٠٦ / ٩٠٥ ٩٠٤ ٩٠١ / ٩٠٤ ٨٩٩ ٩٠٧»); tabel ٣×٣ di kiri bawah; dikelilingi tulisan melingkar](../assets/rajah/sirrul-asrar/hal-475-rajah-01.png)
 
 **AR:** (وَصْفُ «الْخَاتَمِ») **صَلِيْبٌ مُرَبَّعٌ**: خَلِيَّةٌ وَسَطِيَّةٌ ٣ × ٣ وَحَوْلَهَا **اَرْبَعَةُ اَذْرُعٍ** بِثَلَاثِ خَلَايَا لِكُلِّ ذِرَاعٍ، فَتَكُوْنُ **خَمْسَةَ عَشَرَ خَلِيَّةً**. وَفِىْ كُلِّ خَلِيَّةٍ **حَرْفٌ وَاَحْيَانًا مَعَهُ رَقْمٌ**: «**ج**»، «**ب**»، «**ى**»، «**ط**»، «**ك**» مَعَ «**٤٢٤**»، «**٤٧٦**»، «**٤٥٩**»، «**٤٧٤**»، «**٤٥٦**»، «**٤٦٠**»، «**٤٢٦**»، «**٤٤٢**» (تَقْرِيْبًا). وَفِى الْاَعْلٰى يَمِيْنًا **جَدْوَلٌ ٣ × ٣** صَغِيْرٌ: «**٩٠٦ ٩٠٢ ٩٠٠**» / «**٩٠١ ٩٠٤ ٩٠٥**» / «**٩٠٧ ٨٩٩ ٩٠٤**»؛ وَفِى الْيَسَارِ اَسْفَلَ **جَدْوَلٌ ٣ × ٣** آخَرُ بِحُرُوْفٍ مُخْتَلِطَةٍ («**ص**»، «**ج**»، «**ع**»، «**غ**»). وَحَوْلَ الْجَمِيْعِ **كِتَابَةٌ دَائِرِيَّةٌ** طَوِيْلَةٌ.
 
@@ -11182,7 +11182,7 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 
 **ID:** “**Dituliskan pada ٣٥ — tiga puluh lima — lembar** huruf **ج**، dengan **ekornya di kepalanya** (dibalik), dan **di tengah setiap «ج» ada ṭilasm** seperti ini؛ lalu **lakukan tawkil di sekelilingnya untuk tahyīj dan jalb**؛ kemudian **pada setiap lembar diletakkan «حَصوة» (keping) lubān jantan**, dan **surah al-Jinn dibaca pada setiap lembar satu kali** — **Dan Allah yang tidak ada tuhan selain Dia, tidak ada keraguan pada-Nya: bilangan itu tidak akan sempurna kecuali orang yang diminta hadir di hadapanmu** — dan amalan ini termasuk **rahasia-rahasia**؛ **dan inilah huruf-huruf serta ṭilasm-ṭilasm yang ditulis di dalam «jantung» huruf ج**:”
 
-**Rajah:** ![Rajah hal. 476 — ٣٥ (tiga puluh lima) kotak kecil tersusun lima baris tujuh kolom, masing-masing berisi bentuk «ج» dengan ekor di atas dan sebuah ṭilasm bernomor (٩٩٣، ٤٠٠، ١٣١، ٨٨٨، ٢٥٥ …) di dalamnya](../assets/rajah/sirrul-asrar/hal-476-rajah-01.png)
+![Rajah hal. 476 — ٣٥ (tiga puluh lima) kotak kecil tersusun lima baris tujuh kolom, masing-masing berisi bentuk «ج» dengan ekor di atas dan sebuah ṭilasm bernomor (٩٩٣، ٤٠٠، ١٣١، ٨٨٨، ٢٥٥ …) di dalamnya](../assets/rajah/sirrul-asrar/hal-476-rajah-01.png)
 
 **AR:** (وَصْفُ الطَّلَاسِمِ) **خَمْسَةٌ وَثَلَاثُوْنَ شَكْلًا** فِىْ **سَبْعَةِ صُفُوْفٍ وَخَمْسَةِ اَعْمِدَةٍ**، كُلُّ شَكْلٍ **رَاْسُ «ج» مَقْلُوْبٌ** (ذَنَبُهَا اِلٰى اَعْلٰى) وَفِىْ جَوْفِهَا **رَقْمٌ اَوْ حُرُوْفٌ يَدَوِيَّةٌ**، مِنْهَا: «**٩٩٣**»، «**٤٠٠**»، «**١٣١**»، «**٨٨٨**»، «**٢٥٥**»، «**٥٥٥**»، «**٧٢**»، «**٥٧**»، «**٤٢**»، «**٦١**»، «**٩٩**»، «**١٠١**» (تَقْرِيْبًا)، وَبَعْضُهَا **حُرُوْفٌ فَقَطْ**.
 
@@ -11222,7 +11222,7 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 
 **ID:** “Kitab «Sirr al-Asrār fī al-Tawāṣul ma‘a Rūḥāniyyāt al-Qur’ān» — Syaikh para ruhaniyyin, Syaikh ‘Aṭiyyah ‘Abd al-Ḥamīd.” (Kepala halaman.)
 
-**Rajah:** ![Rajah hal. 477 — lanjutan ṭilasm «حرف الجيم» (halaman sebelumnya): kotak-kotak «ج» terbalik dalam susunan ٤ kolom, berisi angka «٤٣، ١١٣، ١٢٥، ٧١، ٣٤، ١١٠، ٦٣، ٤٢، ٤١٢، ١٢٢، ١٣٦، ٢٦، ٢٨٦، ١٦١، ٣٥» dsb.](../assets/rajah/sirrul-asrar/hal-477-rajah-01.png)
+![Rajah hal. 477 — lanjutan ṭilasm «حرف الجيم» (halaman sebelumnya): kotak-kotak «ج» terbalik dalam susunan ٤ kolom, berisi angka «٤٣، ١١٣، ١٢٥، ٧١، ٣٤، ١١٠، ٦٣، ٤٢، ٤١٢، ١٢٢، ١٣٦، ٢٦، ٢٨٦، ١٦١، ٣٥» dsb.](../assets/rajah/sirrul-asrar/hal-477-rajah-01.png)
 
 **AR:** (تَكْمِلَةُ طَلَاسِمِ حَرْفِ الْجِيْمِ مِنْ ص ٤٧٦) اَرْبَعَةُ اَعْمِدَةٍ مِنْ اَشْكَالِ «**ج**» الْمَقْلُوْبَةِ، فِىْ كُلِّ شَكْلٍ رَقْمٌ اَوْ حَرْفَانِ: «**٤٣**»، «**١١٣**»، «**١٢٥**»، «**٧١**»، «**٣٤**»، «**١١٠**»، «**٦٣**»، «**٤٢**»، «**٤١٢**»، «**١٢٢**»، «**١٣٦**»، «**٢٦**»، «**٢٨٦**»، «**١٦١**»، «**٣٥**»، «**٢٢**»، «**٩٦**»، «**١٥**» (تَقْرِيْبًا)، مَعَ **اَقْوَاسٍ وَخُطُوْطٍ اُفُقِيَّةٍ** فَاصِلَةٍ بَيْنَهَا.
 
@@ -11242,7 +11242,7 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 
 **ID:** “**Ṭilasm ini dituliskan pada daun rayḥān (kemangi)**؛ lalu **daun itu dikeringkan** dan **engkau remukkan ke dalam telur**, dan **orang yang diminta memakannya** — maka hal itu **terjadi dengan izin Allah** — **dan inilah ṭilasm yang dimaksud**:”
 
-**Rajah:** ![Rajah hal. 477 — ṭilasm «للصلح بين الزوجين»: empat baris tulisan tangan memuat huruf «ص»، «م»، «هـ»، «و» berulang berjajar seperti pagar, dengan «س» memanjang di baris akhir](../assets/rajah/sirrul-asrar/hal-477-rajah-02.png)
+![Rajah hal. 477 — ṭilasm «للصلح بين الزوجين»: empat baris tulisan tangan memuat huruf «ص»، «م»، «هـ»، «و» berulang berjajar seperti pagar, dengan «س» memanjang di baris akhir](../assets/rajah/sirrul-asrar/hal-477-rajah-02.png)
 
 **AR:** (وَصْفُ الطِّلَسْمِ) اَرْبَعَةُ اَسْطُرٍ بِخَطٍّ عَرِيْضٍ: الْاَوَّلُ «**ص ص ص ص ص ص ص م**» مَعَ كَلِمَةٍ مُتَدَاخِلَةٍ فِى الْيَسَارِ؛ الثَّانِى «**ص ص ص ص م م م م م ل ا ل ا**»؛ الثَّالِثُ «**س س س س س س و و و**»؛ الرَّابِعُ سَطْرٌ طَوِيْلٌ **«س»** مَمْدُوْدَةٌ، وَفِىْ اَسْفَلِهِ «**م**» وَ«**ص**» مُنْفَصِلَتَانِ.
 
@@ -11283,7 +11283,7 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 
 **ID:** “Kitab «Sirr al-Asrār fī al-Tawāṣul ma‘a Rūḥāniyyāt al-Qur’ān» — Syaikh para ruhaniyyin, Syaikh ‘Aṭiyyah ‘Abd al-Ḥamīd.” (Kepala halaman.)
 
-**Rajah:** ![Rajah hal. 478 — wafaq ٣×٣ dalam bingkai berbentuk hati/tetes air, sel: «١٦٤ | ١٦٧ | ١٦١» / «١٦١ | ١٦٣ | ١٦٥» / «١٦٦ | ١٥٩ | ١٦٤»؛ di atas bingkai «٢٧٣» dan «٨٤٦»، di bawahnya «فتح فتح فتح»، dan di kiri-kanan tulisan melingkar](../assets/rajah/sirrul-asrar/hal-478-rajah-01.png)
+![Rajah hal. 478 — wafaq ٣×٣ dalam bingkai berbentuk hati/tetes air, sel: «١٦٤ | ١٦٧ | ١٦١» / «١٦١ | ١٦٣ | ١٦٥» / «١٦٦ | ١٥٩ | ١٦٤»؛ di atas bingkai «٢٧٣» dan «٨٤٦»، di bawahnya «فتح فتح فتح»، dan di kiri-kanan tulisan melingkar](../assets/rajah/sirrul-asrar/hal-478-rajah-01.png)
 
 **AR:** فَائِدَةٌ لِجَلْبِ الزَّبُوْنِ لِلْمَكَانِ
 
@@ -11313,7 +11313,7 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 
 **Wafaq diuji penjumlahan.** Jumlah **baris**: ١٦٤+١٦٧+١٦١ = **٤٩٢**؛ ١٦١+١٦٣+١٦٥ = **٤٨٩**؛ ١٦٦+١٥٩+١٦٤ = **٤٨٩**. Jumlah **kolom**: ١٦٤+١٦١+١٦٦ = **٤٩١**؛ ١٦٧+١٦٣+١٥٩ = **٤٨٩**؛ ١٦١+١٦٥+١٦٤ = **٤٩٠**. **Diagonal ١**: ١٦٤+١٦٣+١٦٤ = **٤٩١**؛ **Diagonal ٢**: ١٦١+١٦٣+١٦٦ = **٤٩٠**. → **TIDAK berjumlah sama** (baris/kolom berkisar **٤٨٩–٤٩٢**). **Sesuai aturan, sel TIDAK dikoreksi**؛ angka dipertahankan **persis seperti tercetak**, dan **tidak ada klaim wafaq magis**.
 
-**Rajah:** ![Rajah hal. 478 — wafaq kedua: dua kotak (lembar) bersambung di sudut, masing-masing ٤ kolom × ٤ baris berisi angka dan huruf kecil («٢٦»، «٨٠»، «١٠»، «٣٠»…)، dengan tulisan doa «اللهم ارزقني… حلالا» di antaranya](../assets/rajah/sirrul-asrar/hal-478-rajah-02.png)
+![Rajah hal. 478 — wafaq kedua: dua kotak (lembar) bersambung di sudut, masing-masing ٤ kolom × ٤ baris berisi angka dan huruf kecil («٢٦»، «٨٠»، «١٠»، «٣٠»…)، dengan tulisan doa «اللهم ارزقني… حلالا» di antaranya](../assets/rajah/sirrul-asrar/hal-478-rajah-02.png)
 
 **AR:** (الْوِفْقُ الثَّانِى) **شَكْلَانِ مُتَجَاوِرَانِ** كَصَفْحَتَىْ كِتَابٍ: كُلُّ صَفْحَةٍ **٤ اَعْمِدَةٍ × ٤ صُفُوْفٍ** بِخُطُوْطٍ يَدَوِيَّةٍ، وَفِىْ كُلِّ خَلِيَّةٍ **رَقْمٌ اَوْ حَرْفٌ صَغِيْرٌ** («٢٢»، «٨٠»، «١٠»، «٣٠»، «٢٠»، «٩٩» …)، وَبَيْنَ الشَّكْلَيْنِ **دُعَاءٌ مَكْتُوْبٌ بِخَطٍّ صَغِيْرٍ**: «**اَللّٰهُمَّ ارْزُقْنِىْ … حَلَالًا**»؛ وَفِىْ اَعْلٰى الصَّفْحَةِ الْيُمْنٰى **دَائِرَةٌ** بِخُطُوْطٍ مُتَوَازِيَةٍ، وَفِىْ يَسَارِ الصَّفْحَةِ الْيُسْرٰى **اَرْقَامٌ** («٥، ٩، ٩، ٩، ٩، ٩»)، وَفِىْ اَسْفَلِهَا **خَمْسُ نُقَطٍ/حَرْفَاتٍ («٥ ٥ ٥ ٥ ٥»)**.
 
@@ -11360,7 +11360,7 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 
 **ID:** “**Wahai peminta yang cerdas**: **potonglah (gambarlah) seperti sha‘bādh ini**, dan **tuliskan «khalfah» ṭilasm** bersama **‘azīmah an-Nār**, lalu **berazamlah dengannya sejumlah «jummal» nama orang yang diminta beserta nama ibunya** — maka hal itu **akan terjadi**؛ dan **ditanam di bawah pemanas (daffāyah) atau di dekat tungku** — **dan inilah sha‘bādh-nya**:”
 
-**Rajah:** ![Rajah hal. 479 — sha‘bādh berupa figur bertopi segitiga, wajah bermata dua, kedua tangan terentang dan berjari; di dada ada wafaq ٣×٣ («٤ ٩ ٧» / «٣ • ٧» / «٨ ١ ٧»), di lengan tertulis «هيام مكين» dan «قر الآسما»، di kaki tertulis «طيلش…»، dan di kiri-kanan figur tulisan melingkar](../assets/rajah/sirrul-asrar/hal-479-rajah-01.png)
+![Rajah hal. 479 — sha‘bādh berupa figur bertopi segitiga, wajah bermata dua, kedua tangan terentang dan berjari; di dada ada wafaq ٣×٣ («٤ ٩ ٧» / «٣ • ٧» / «٨ ١ ٧»), di lengan tertulis «هيام مكين» dan «قر الآسما»، di kaki tertulis «طيلش…»، dan di kiri-kanan figur tulisan melingkar](../assets/rajah/sirrul-asrar/hal-479-rajah-01.png)
 
 **AR:** (وَصْفُ الشَّعْبَاذِ) **رَاْسٌ مُثَلَّثٌ** (طَاقِيَةٌ مُدَرَّجَةٌ) فَوْقَ **وَجْهٍ مُرَبَّعٍ** لَهُ **عَيْنَانِ وَاَنْفٌ وَفَمٌ**؛ **ذِرَاعَانِ مَمْدُوْدَتَانِ** بِاَصَابِعَ، وَعَلَى **الذِّرَاعِ الْيُمْنٰى** «**هِيَامٌ مَكِيْنٌ**»، وَعَلَى **الْيُسْرٰى** «**قِرُّ الْاَسْمَا**»؛ **الْجِسْمُ مُرَبَّعٌ** مُقَسَّمٌ **٣ × ٣**: «**٤ | ٩ | ٧**»، «**٣ | ٠ | ٧**»، «**٨ | ١ | ٧**»؛ وَفِىْ **الرِّجْلَيْنِ** كِتَابَةٌ مُدَرَّجَةٌ («**طَيْلَش…**» تَكْرَارًا)؛ وَحَوْلَ الْجِسْمِ **كِتَابَةٌ مَلْفُوْفَةٌ** عَلٰى الْيَمِيْنِ وَالْيَسَارِ.
 
@@ -11376,7 +11376,7 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 
 **ID:** “**Dan inilah ṭilasm-nya** (yang ditulis di belakang gambar):”
 
-**Rajah:** ![Rajah hal. 479 — «الطلسم»: tiga baris tulisan tangan tebal bergaya talismanic; baris 1 diapit «٩ ٨ ١ ١ ٦»، baris 2 memuat deret panjang huruf berkait, baris 3 berakhir «ر ع ش ا ل ع ا ل م»](../assets/rajah/sirrul-asrar/hal-479-rajah-02.png)
+![Rajah hal. 479 — «الطلسم»: tiga baris tulisan tangan tebal bergaya talismanic; baris 1 diapit «٩ ٨ ١ ١ ٦»، baris 2 memuat deret panjang huruf berkait, baris 3 berakhir «ر ع ش ا ل ع ا ل م»](../assets/rajah/sirrul-asrar/hal-479-rajah-02.png)
 
 **AR:** (وَصْفُ الطِّلَسْمِ) **ثَلَاثَةُ اَسْطُرٍ** بِخَطٍّ عَرِيْضٍ: الْاَوَّلُ يَبْدَاُ بِـ«**٩ ٨ ١ ١ ٦**» ثُمَّ «**ر و ا ع ا ل ا ع ا و ل**»؛ الثَّانِى «**ص ا د م … ا ل ا ع …**»؛ الثَّالِثُ «**ر ع ش ا ل ع ا ل م**»؛ وَالْحُرُوْفُ **مُتَدَاخِلَةٌ** وَبَعْضُهَا **مُشَوَّشٌ**.
 
@@ -11423,7 +11423,7 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 
 **ID:** “Kitab «Sirr al-Asrār fī al-Tawāṣul ma‘a Rūḥāniyyāt al-Qur’ān» — Syaikh para ruhaniyyin, Syaikh ‘Aṭiyyah ‘Abd al-Ḥamīd.” (Kepala halaman.)
 
-**Rajah:** ![Rajah hal. 480 — tabel ٤×٤ tulisan tangan berisi deret angka dan bentuk «٤» bergerigi («٤٤٤٤»، «٨٨»، «٣٩١٨»، «١٤٥»، «١٩١٥٥»، «٣٣»، «١٨١»، «٩١١٢»، «٨١٨»، «٩١٥»)، di bawahnya gambar «hati/tetes» berisi «(١٣)» dan deret angka](../assets/rajah/sirrul-asrar/hal-480-rajah-01.png)
+![Rajah hal. 480 — tabel ٤×٤ tulisan tangan berisi deret angka dan bentuk «٤» bergerigi («٤٤٤٤»، «٨٨»، «٣٩١٨»، «١٤٥»، «١٩١٥٥»، «٣٣»، «١٨١»، «٩١١٢»، «٨١٨»، «٩١٥»)، di bawahnya gambar «hati/tetes» berisi «(١٣)» dan deret angka](../assets/rajah/sirrul-asrar/hal-480-rajah-01.png)
 
 **AR:** فَائِدَةٌ لِلْمَحَبَّةِ وَالْمَوَدَّةِ
 
@@ -11437,7 +11437,7 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 
 **ID:** “**Ṭilasm ini dituliskan** dan **di sekelilingnya dilakukan tawkil dengan «da‘wah al-Barhatiyyah al-Kubrā» ١٢×**؛ lalu **diletakkan untuk orang yang diminta di minuman atau makanan apa pun** — maka hal itu **akan terjadi** — **dan inilah ṭilasm-nya**:”
 
-**Rajah:** ![Rajah hal. 480 — «الطلسم»: dua baris tulisan tangan talismanic; baris 1 diawali bentuk «٤» bergerigi berulang lalu deret angka/huruf berjalin; baris 2 diawali «٨١٦ ٣٥٧» lalu deret huruf](../assets/rajah/sirrul-asrar/hal-480-rajah-02.png)
+![Rajah hal. 480 — «الطلسم»: dua baris tulisan tangan talismanic; baris 1 diawali bentuk «٤» bergerigi berulang lalu deret angka/huruf berjalin; baris 2 diawali «٨١٦ ٣٥٧» lalu deret huruf](../assets/rajah/sirrul-asrar/hal-480-rajah-02.png)
 
 **AR:** (وَصْفُ الطِّلَسْمِ) **سَطْرَانِ** بِخَطٍّ عَرِيْضٍ: الْاَوَّلُ يَبْدَاُ بِخَمْسِ **اَشْكَالِ «٤»** مُتَتَابِعَةٍ ثُمَّ «**ع ل ع ل ع**» ثُمَّ دَرَجٌ مِنْ **الْاَرْقَامِ الْمُتَدَاخِلَةِ** («**…٩١ ٦٧ ٥٣**»)؛ الثَّانِى يَبْدَاُ «**٨ ١٦ ٣ ٥ ٧**» ثُمَّ «**٤ ٩ ٢**» ثُمَّ دَرَجٌ طَوِيْلٌ مِنَ **الْحُرُوْفِ وَالْاَشْكَالِ** («**ع ل ع ل**» مُكَرَّرًا).
 
@@ -11490,7 +11490,7 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 
 **ID:** “Kitab «Sirr al-Asrār fī al-Tawāṣul ma‘a Rūḥāniyyāt al-Qur’ān» — Syaikh para ruhaniyyin, Syaikh ‘Aṭiyyah ‘Abd al-Ḥamīd.” (Kepala halaman.)
 
-**Rajah:** ![Rajah hal. 481 — ṭilasm besar bergaya talismanic: beberapa baris garis bergerigi bersusun, huruf-huruf lepas bercabang, dan di kiri atas deret angka/huruf kecil bertumpuk](../assets/rajah/sirrul-asrar/hal-481-rajah-01.png)
+![Rajah hal. 481 — ṭilasm besar bergaya talismanic: beberapa baris garis bergerigi bersusun, huruf-huruf lepas bercabang, dan di kiri atas deret angka/huruf kecil bertumpuk](../assets/rajah/sirrul-asrar/hal-481-rajah-01.png)
 
 **AR:** (هٰذِهِ الصُّوْرَةُ الْكُبْرٰى) **اَرْبَعَةُ اَسْطُرٍ** مِنَ **الْخُطُوْطِ الْمُسَنَّنَةِ** الْمُتَرَاكِبَةِ (كَاَسْنَانِ الْمِنْشَارِ) تَنْزِلُ مِنَ الْيَمِيْنِ اِلَى الْيَسَارِ، وَتَحْتَهَا **حُرُوْفٌ مُنْفَصِلَةٌ** («**هـ هـ هـ**» وَ«**ن ن ن**» وَمَا يُشْبِهُهَا)، وَفِى الْيَسَارِ **دَرَجٌ** مِنْ اَرْقَامٍ وَحُرُوْفٍ صَغِيْرَةٍ مُتَرَاكِمَةٍ، وَفِى الْاَسْفَلِ **سَطْرٌ** يَنْتَهِيْ بِـ«**و م ا ل هـ**».
 
@@ -11498,7 +11498,7 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 
 **ID:** “**(Gambar besar ini)**: **empat baris garis bergerigi** bersusun (seperti **gigi gergaji**) turun dari **kanan ke kiri**؛ di bawahnya **huruf-huruf terpisah** («**هـ هـ هـ**»، «**ن ن ن**» dan sejenisnya)؛ di **sisi kiri** ada **tumpukan angka dan huruf kecil**؛ dan di **bagian bawah** satu baris berakhir «**و م ا ل هـ**».”
 
-**Rajah:** ![Rajah hal. 481 — «الوجه»/ṭilasm kedua: satu baris panjang berangka «٩١٢ ١١١ ٤٥ ٩٢ ٩٤» dan garis melengkung berujung angka «١١١ ١١٦٢١»](../assets/rajah/sirrul-asrar/hal-481-rajah-02.png)
+![Rajah hal. 481 — «الوجه»/ṭilasm kedua: satu baris panjang berangka «٩١٢ ١١١ ٤٥ ٩٢ ٩٤» dan garis melengkung berujung angka «١١١ ١١٦٢١»](../assets/rajah/sirrul-asrar/hal-481-rajah-02.png)
 
 **AR:** فَائِدَةُ جَلْبٍ وَحُضُوْرٍ عَلٰى مَعْدَنٍ
 
@@ -11512,7 +11512,7 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 
 **ID:** “**Ṭilasm ini dituliskan pada satu sisi (wajh)**؛ dan **wafaq serta tawkil pada sisi yang lain**؛ lalu **diletakkan dalam api yang tenang**؛ dan **engkau berazam dengan «da‘wah al-Mirrīkh» ١٢×** — maka **orang yang diminta akan hadir di hadapanmu**؛ dan jika engkau hendak **ia sadar (yufīq)**: **keluarkan logam dari api** dan **tuangkan ke atasnya air** yang **telah dibacakan da‘wah itu ٣×** — **dan inilah yang ditulis**:”
 
-**Rajah:** ![Rajah hal. 481 — wafaq ٤×٤: «١٨٧١ | ١٨٨٢ | ١٩٧٣ | ٤٨٥» / «١٨٤٣ | (belah ketupat) | ٢٤٨» / «١٨٨١ | ١٨٨٤ | ١٨٧٥ | ١٩٧٦» / «١٧٨١ | ١٨٨٣ | ١٨٧٣ | ١٨٨٥»، dengan tulisan «اجيبوا داعي الله» di atas dan di dalam belah ketupat «قلب فلان بن فلانة… على محبة…»](../assets/rajah/sirrul-asrar/hal-481-rajah-03.png)
+![Rajah hal. 481 — wafaq ٤×٤: «١٨٧١ | ١٨٨٢ | ١٩٧٣ | ٤٨٥» / «١٨٤٣ | (belah ketupat) | ٢٤٨» / «١٨٨١ | ١٨٨٤ | ١٨٧٥ | ١٩٧٦» / «١٧٨١ | ١٨٨٣ | ١٨٧٣ | ١٨٨٥»، dengan tulisan «اجيبوا داعي الله» di atas dan di dalam belah ketupat «قلب فلان بن فلانة… على محبة…»](../assets/rajah/sirrul-asrar/hal-481-rajah-03.png)
 
 **AR:** (الْوِفْقُ) جَدْوَلٌ **٤ × ٤** بِخُطُوْطٍ يَدَوِيَّةٍ، وَفِىْ **وَسَطِهِ بِلَاعَةٌ (مُعَيَّنٌ)** يَحْتَوِىْ **كِتَابَةً**، وَفَوْقَ الْجَدْوَلِ «**اَجِيْبُوْا دَاعِىَ اللهِ**»؛ وَالْخَلَايَا:
 
@@ -11554,7 +11554,7 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 
 **ID:** “Kitab «Sirr al-Asrār fī al-Tawāṣul ma‘a Rūḥāniyyāt al-Qur’ān» — Syaikh para ruhaniyyin, Syaikh ‘Aṭiyyah ‘Abd al-Ḥamīd.” (Kepala halaman.)
 
-**Rajah:** ![Rajah hal. 482 — kotak ṭilasm persegi panjang bergaris tebal, di dalamnya tulisan «لا يسمع صفحة» (perkiraan), pada sisi kiri dan kanan ada garis tegak berujung bulatan kecil; di bawah kotak «٨٩٠/٥١٠٥ ٢٠»](../assets/rajah/sirrul-asrar/hal-482-rajah-01.png)
+![Rajah hal. 482 — kotak ṭilasm persegi panjang bergaris tebal, di dalamnya tulisan «لا يسمع صفحة» (perkiraan), pada sisi kiri dan kanan ada garis tegak berujung bulatan kecil; di bawah kotak «٨٩٠/٥١٠٥ ٢٠»](../assets/rajah/sirrul-asrar/hal-482-rajah-01.png)
 
 **AR:** جَلْبٌ عَلٰى **شَمْعَةٍ اِسْكَنْدَرَانِىٍّ**
 
@@ -11568,7 +11568,7 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 
 **ID:** “**Ṭilasm ini dituliskan pada bekas/jejak orang yang diminta**؛ dan **dituliskan juga pada lilin**؛ lalu **bekas itu dijadikan sumbu lilin**, dan **lilin dinyalakan**؛ dan **engkau berazam sejumlah «jummal» nama orang yang diminta dan nama ibunya** — maka hal itu **puncaknya (sangat kuat)**؛ **dan azamnya adalah ayat ini**: «**قَالَ عِفْرِيتٌ مِنَ الْجِنِّ**» (Q.S. an-Naml 27:39) **sampai akhirnya** — **dan inilah ṭilasm yang dimaksud**:”
 
-**Rajah:** ![Rajah hal. 482 — ṭilasm lima baris tulisan tangan: baris 1–3 berisi huruf lepas dan angka berjalin («١٩٢٥…»، «…٨٧…»)، baris 4 «٢٠٤٣…٨٦٢٨٣١٥١٠٥١٨٢»، baris 5 «٠٢٤٣٢٢…٥ ٧ ٣ ٤ ١»](../assets/rajah/sirrul-asrar/hal-482-rajah-02.png)
+![Rajah hal. 482 — ṭilasm lima baris tulisan tangan: baris 1–3 berisi huruf lepas dan angka berjalin («١٩٢٥…»، «…٨٧…»)، baris 4 «٢٠٤٣…٨٦٢٨٣١٥١٠٥١٨٢»، baris 5 «٠٢٤٣٢٢…٥ ٧ ٣ ٤ ١»](../assets/rajah/sirrul-asrar/hal-482-rajah-02.png)
 
 **AR:** (وَصْفُ الطِّلَسْمِ) **خَمْسَةُ اَسْطُرٍ** بِخَطٍّ عَرِيْضٍ عَلٰى خُطُوْطٍ مُسْتَقِيْمَةٍ: الْاَوَّلُ «**١٩٢٥ ٨٧ ١٩٠ …**» مَعَ حُرُوْفٍ مُنْفَصِلَةٍ؛ الثَّانِى «**… ق س م … ا ل ا ل ع**»؛ الثَّالِثُ «**ع ط و ف … و ر ب … ل ا**»؛ الرَّابِعُ سَطْرُ اَرْقَامٍ طَوِيْلٌ («**٢٠٤٣ … ٨٦٢٨٣ … ٥١٠٥ ١٨٢**»)؛ الْخَامِسُ «**٠٢٤٣٢٢ … ٥ ٧ ٣ ٤ ١**».
 
@@ -11594,7 +11594,7 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 
 **ID:** “**Letakkan kunci pada awal surah Yāsīn**؛ dan **kencangkan penutupnya pada kunci dengan karet gelang (astīk maṭṭāṭī)**, misalnya, **yang diikatkan pada kunci**؛ lalu **lilitkan (karet itu) mengelilingi mushaf**.”
 
-**Rajah:** ![Rajah hal. 482 — diagram modern: kotak kuning bertulis «القرآن الكريم»، di atasnya kunci (miftāḥ) yang diikat, dan dua panah oranye bertulis «يد شخص» dan «يد شخص اخر»](../assets/rajah/sirrul-asrar/hal-482-rajah-03.png)
+![Rajah hal. 482 — diagram modern: kotak kuning bertulis «القرآن الكريم»، di atasnya kunci (miftāḥ) yang diikat, dan dua panah oranye bertulis «يد شخص» dan «يد شخص اخر»](../assets/rajah/sirrul-asrar/hal-482-rajah-03.png)
 
 **AR:** (تَوْضِيْحُ الصُّوْرَةِ) **مُسْتَطِيْلٌ اَصْفَرُ** كُتِبَ عَلَيْهِ «**الْقُرْآنُ الْكَرِيْمُ**» (المُصْحَف)، وَفَوْقَهُ **مِفْتَاحٌ** مَرْبُوْطٌ بِخَيْطٍ/مَطَّاطٍ يَمْتَدُّ اِلٰى دَاخِلِ الْمُصْحَفِ، وَعَلٰى يَسَارِهِ **سَهْمٌ بُرْتُقَالِىٌّ** كُتِبَ عَلَيْهِ «**يَدُ شَخْصٍ**»، وَعَلٰى يَمِيْنِهِ سَهْمٌ مِثْلُهُ كُتِبَ عَلَيْهِ «**يَدُ شَخْصٍ آخَرَ**»، وَفِى الْوَسَطِ «**مِفْتَاحٌ**».
 
@@ -11659,7 +11659,7 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 
 **ID:** “Dan **inilah yang dituliskan pada telapak tangan orang yang melihat**:”
 
-**Rajah:** ![Rajah hal. 483 — diagram «طلسم الكشف»: kotak persegi bergaris tebal, di sisi atas tertulis «جبرائيل» dan «ف ق ج م خ م ت»، di sudut kiri atas «روت»، kanan bawah «٦٢»، dan pada tiap sisi ada tulisan tegak pendek («ش ش»، «م ش» dsb.) serta sebuah bulatan kosong di tengah](../assets/rajah/sirrul-asrar/hal-483-rajah-01.png)
+![Rajah hal. 483 — diagram «طلسم الكشف»: kotak persegi bergaris tebal, di sisi atas tertulis «جبرائيل» dan «ف ق ج م خ م ت»، di sudut kiri atas «روت»، kanan bawah «٦٢»، dan pada tiap sisi ada tulisan tegak pendek («ش ش»، «م ش» dsb.) serta sebuah bulatan kosong di tengah](../assets/rajah/sirrul-asrar/hal-483-rajah-01.png)
 
 **AR:** (وَصْفُ الشَّكْلِ) **مُرَبَّعٌ** بِخُطُوْطٍ ثَقِيْلَةٍ، فِى **اَعْلَاهُ** كَلِمَةُ «**جِبْرَائِيْل**» وَتَحْتَهَا حُرُوْفٌ مُنْفَصِلَةٌ «**ف ق ج م خ م ت**»؛ وَفِى **زَاوِيَةِ الْيَسَارِ الْعُلْيَا** «**ر و ت**»؛ وَفِى **زَاوِيَةِ الْيَمِيْنِ السُّفْلٰى** «**٦ ٢**»؛ وَعَلٰى كُلِّ ضِلْعٍ **كِتَابَةٌ عَمُوْدِيَّةٌ صَغِيْرَةٌ** (حُرُوْفٌ مُنْفَصِلَةٌ)؛ وَفِى **الْوَسَطِ دَائِرَةٌ فَارِغَةٌ**.
 
@@ -11700,7 +11700,7 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 
 **ID:** “Kitab «Sirr al-Asrār fī al-Tawāṣul ma‘a Rūḥāniyyāt al-Qur’ān» — Syaikh para ruhaniyyin, Syaikh ‘Aṭiyyah ‘Abd al-Ḥamīd.” (Kepala halaman.)
 
-**Rajah:** ![Rajah hal. 484 — satu baris ṭilasm tulisan tangan tebal di antara dua garis mendatar: diawali bentuk bintang, lalu deret huruf/angka berjalin («٤٨٦» dan sejenisnya)](../assets/rajah/sirrul-asrar/hal-484-rajah-01.png)
+![Rajah hal. 484 — satu baris ṭilasm tulisan tangan tebal di antara dua garis mendatar: diawali bentuk bintang, lalu deret huruf/angka berjalin («٤٨٦» dan sejenisnya)](../assets/rajah/sirrul-asrar/hal-484-rajah-01.png)
 
 **AR:** شُرُوْطُ طِلَسْمِ الْكَشْفِ
 
@@ -11720,7 +11720,7 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 
 **ID:** “**Ṭilasm al-Kasyf yang Diberkahi** — **(!) kesalahan**.” (Judul bagian kedua؛ **kata «خطأ» (kesalahan) tercetak di bawah judul** — dicatat apa adanya, tidak diperbaiki.)
 
-**Rajah:** ![Rajah hal. 484 — «طلسم الكشف المبارك»: bingkai persegi bergaris tebal dengan «kaki» melengkung di empat sudut; di tengahnya bulatan besar bergerigi (seperti matahari) berisi tulisan; di atas dan di bawah bingkai deretan tulisan talismanic, dan di dalam bingkai beberapa baris huruf serta bentuk bintang](../assets/rajah/sirrul-asrar/hal-484-rajah-02.png)
+![Rajah hal. 484 — «طلسم الكشف المبارك»: bingkai persegi bergaris tebal dengan «kaki» melengkung di empat sudut; di tengahnya bulatan besar bergerigi (seperti matahari) berisi tulisan; di atas dan di bawah bingkai deretan tulisan talismanic, dan di dalam bingkai beberapa baris huruf serta bentuk bintang](../assets/rajah/sirrul-asrar/hal-484-rajah-02.png)
 
 **AR:** (وَصْفُ الطِّلَسْمِ) **اِطَارٌ مُرَبَّعٌ** بِخُطُوْطٍ ثَقِيْلَةٍ، لَهُ فِى الزَّوَايَا **اَرْبَعَةُ اَرْجُلٍ مَلْفُوْفَةٍ** (كَالْعُقَدِ)؛ وَفِى **وَسَطِهِ بُلْعَةٌ (دَائِرَةٌ) كَبِيْرَةٌ** بِاَشِعَّةٍ (كَالشَّمْسِ) وَحَوْلَهَا **حُرُوْفٌ مُنْفَصِلَةٌ**؛ وَفِى **اَعْلَى الْاِطَارِ** «**ث ل ا**» وَفِى **اَسْفَلِهِ** «**ث ل ا**» اَيْضًا؛ وَ**فَوْقَ الْاِطَارِ** سَطْرٌ طَوِيْلٌ يَنْتَهِيْ بِـ«**م ج م و ع ا ئ ل**» (تَقْرِيْبًا)، وَ**تَحْتَهُ** سَطْرٌ مِثْلُهُ؛ وَ**دَاخِلَ الْاِطَارِ** سَطْرَانِ: الْعُلْيَا يَحْتَوِىْ اَشْكَالَ **نُجُوْمٍ** وَ«**×**»، وَالسُّفْلٰى «**… ٨٤٦٨ …**» (تَقْرِيْبًا).
 
@@ -12085,7 +12085,7 @@ salāmun qawlan min rabbin raḥīm. Wa-imtāzū al-yawma ayyuhā al-mujrimūn (
 
 **ID:** “Kitab «Sirr al-Asrār fī al-Tawāṣul ma‘a Rūḥāniyyāt al-Qur’ān» — Syaikh para ruhaniyyin, Syaikh ‘Aṭiyyah ‘Abd al-Ḥamīd.” (Kepala halaman.)
 
-**Rajah:** ![Rajah hal. 490 — halaman judul berbingkai ornamen tumbuhan (sulur dan kuntum simetris di keempat sisi), berisi teks «ذكر الصلاة على أشرف الخلائق» / «شيخ الروحانيين فى الوطن العربى» / «الشيخ عطية عبد الحميد» / «للمتابعة والتواصل» / «0020162022238»](../assets/rajah/sirrul-asrar/hal-490-rajah-01.png)
+![Rajah hal. 490 — halaman judul berbingkai ornamen tumbuhan (sulur dan kuntum simetris di keempat sisi), berisi teks «ذكر الصلاة على أشرف الخلائق» / «شيخ الروحانيين فى الوطن العربى» / «الشيخ عطية عبد الحميد» / «للمتابعة والتواصل» / «0020162022238»](../assets/rajah/sirrul-asrar/hal-490-rajah-01.png)
 
 **AR:** **ذِكْرُ الصَّلَاةِ عَلٰى اَشْرَفِ الْخَلَائِقِ**
 
