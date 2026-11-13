@@ -485,3 +485,295 @@ Dan sebagaimana diriwayatkan dan datang dari Ibnu Abbas ra. bahwa ia berkata: "A
 - Riwayat Ali–Ibnu Abbas: pembacaan basmalah lalu penjelasan huruf ba' hingga fajar. Ini riwayat keilmuan (bukan tata cara amalan); teks menutup dengan perkataan Imam Ali tentang tafsir basmalah dan Fatihah.
 - Kalimat terakhir halaman terpotong di batas halaman ("أُعْطِيتُ فَاتِحَةَ"); lanjutannya tercetak pada halaman 88 dan akan ditranskripsi pada batch berikutnya.
 - Pada halaman ini tidak ada kata فُلَان / فُلَانَة, sehingga keterangan Fulan/Fulanah tidak berlaku di sini.
+
+## HALAMAN 88 — PDF hal. 88 / bagian — Basmalah sebagai Ismullah Al-A'zham (lanjutan) + butir 1–8 keutamaan
+
+### 1. TEKS ARAB BERHARAKAT
+
+الْكِتَابُ مِنْ تَحْتِ الْعَرْشِ، وَقَالَ ﷺ: مَنْ أَتَى إِلَى مَنْزِلِهِ وَقَرَأَ سُورَةَ الْفَاتِحَةِ وَالْإِخْلَاصِ نُفِيَ عَنْهُ الْفَقْرُ وَكَثْرُ خَيْرِهِ وَقَالَ ﷺ: فَاتِحَةُ الْكِتَابِ شِفَاءٌ مِنْ كُلِّ دَاءٍ.
+
+(أَيْضًا عَظَمَةُ وَشَأْنُ الْبَسْمَلَةِ الْمُبَارَكَةِ).
+
+وَرَدَ فِيهِ: أَنَّ الْبَسْمَلَةَ فِيهَا الِاسْمُ الْأَعْظَمُ، وَلَمَّا نَزَلَتِ اهْتَزَّتِ السَّمَاوَاتُ وَتَزَلْزَلَتِ الْأَرْضُونَ وَزَادَتِ الْمَلَائِكَةُ فِي التَّسْبِيحِ وَخَرَّتِ الْجِبَالُ عَلَى وُجُوهِهَا وَهِيَ: مَكْتُوبَةٌ عَلَى جَبْهَةِ إِسْرَافِيلَ، وَعَلَى جَبْهَةِ آدَمَ عَلَيْهِ السَّلَامُ، وَعَلَى جَنَاحِ جِبْرَائِيلَ، وَعَلَى كَفِّ عِزْرَائِيلَ، وَعَلَى لِسَانِ عِيسَى، وَخَاتَمِ سُلَيْمَانَ.
+
+وَهِيَ فَصْلٌ بَيْنَ الْقُرْآنِ (وَعِنْدَ الشَّافِعِيِّ آيَةٌ مِنْ كُلِّ سُورَةٍ وَبَرَكَتُهَا أُشْرِفَتْ عَلَى الْقُرْآنِ الْعَظِيمِ، وَلِنَذْكُرْ أَيْضًا إِضَافَةً جَدِيدَةً لِبَعْضِ خَوَاصِّهَا تَبَرُّكًا فِيهَا وَلِنَعْلُو مَرْتَبَتُهَا عِنْدَ اللَّهِ).
+
+١ - إِذَا تَلَاهَا الْمَرِيضُ عَدَدَهَا لِمُدَّةِ سَبْعَةِ أَيَّامٍ عَافَاهُ اللَّهُ.
+
+٢ - وَإِذَا تُلِيَتْ فِي وَجْهِ ظَالِمٍ خَمْسِينَ مَرَّةً، فَإِنَّ اللَّهَ يَكْفِيهِ شَرَّهُ، وَإِذَا تُلِيَتْ هَذَا الْعَدَدَ أَيِ الْخَمْسِينَ مَرَّةً لِقَضَاءِ الْحَوَائِجِ قُضِيَتْ بِإِذْنِ اللَّهِ تَعَالَى.
+
+٣ - وَإِذَا تَلَاهَا عِنْدَ النَّوْمِ خَمْسِينَ مَرَّةً أَمَّنَهُ اللَّهُ مِنْ شَرِّ مَا يُؤْذِيهِ.
+
+٤ - وَإِذَا تُلِيَتْ عَلَى مَرِيضٍ (مِائَةَ مَرَّةٍ) لِمُدَّةِ ثَلَاثَةِ أَيَّامٍ عُوفِيَ.
+
+٥ - وَإِذَا تُلِيَتْ أَرْبَعِينَ مَرَّةً فِي أُذُنِ مَصْرُوعٍ أَفَاقَ.
+
+٦ - وَإِذَا تُلِيَتْ عَلَى صَاحِبِ الْأَرْيَاحِ لِمُدَّةِ ثَلَاثَةِ أَيَّامٍ كُلَّ يَوْمٍ أَلْفَ مَرَّةٍ، فَإِنَّ اللَّهَ يُعَافِيهِ وَكَذَلِكَ الرِّيحُ الْأَحْمَرُ.
+
+٧ - وَإِذَا تَلَاهَا مَسْجُونٌ وَمَأْسُورٌ عَدَدَهَا فَإِنَّ اللَّهَ يَفُكُّ أَسْرَهُ.
+
+٨ - وَإِذَا تُلِيَتِ السَّاعَةُ السَّابِعَةُ صَبَاحًا مِنْ يَوْمِ الْجُمُعَةِ (مِائَةً وَثَلَاثَةً وَعِشْرِينَ مَرَّةً) وَيَسْأَلُ اللَّهَ مَا أَرَادَ مِنْ أُمُورِ الدُّنْيَا أَوِ الْآخِرَةِ إِلَّا أَعْطَاهُ اللَّهُ إِيَّاهُ بِعَوْنِ اللَّهِ تَعَالَى.
+
+### 2. TRANSLITERASI LATIN
+
+Al-kitabu min tahtil-'arsyi, wa qala ﷺ: man ata ila manzilihi wa qara'a suratal-Fatihati wal-ikhlashi nufiya 'anhul-faqru wa katsura khairuhu wa qala ﷺ: Fatih atul-kitabi syifa'un min kulli da'in.
+
+(Aidhan 'azhamatu wa sya'nul-basmalatil-mubarakati).
+
+Wa warada fihi: annal-basmalata fihal-ismul-a'zhzhamu, wa lamma nazalatihtazzatis-samawatu wa tazalzalatil-ardhuna wa zadatil-mala'ikatu fit-tasbihi wa kharratil-jibalu 'ala wujuhiha wa hiya: maktubatun 'ala jabhati Israfila, wa 'ala jabhati Adama 'alaihis-salamu, wa 'ala janahi Jibra'ila, wa 'ala kaffi 'Izra'ila, wa 'ala lisani 'Isa, wa khatami Sulaimana.
+
+Wa hiya fashlun bainal-Qur'ani (wa 'indasy-Syafi'iyyi ayatun min kulli suratin wa barakatuhasynifat 'alal-Qur'anil-'azhimi, wa lindzkur aidhan idhafatan jadidatan liba'dhi khawashshiha tabarrukan fiha wa lina'luw martabatuha 'indallah).
+
+1 — Idza talahal-maridhu 'adadaha limud dati sab'ati ayyamin 'afahullahu.
+
+2 — Wa idza tuliyat fi wajhi zhalimin khamsina marratan, fa-innallaha yakfihi syarrahu, wa idza tuliyat hadzal-'adada ayil-khamsina marratan liqadha'il-hawa'iji qudhiyat bi-idznillahi ta'ala.
+
+3 — Wa idza talaha 'indan-naumi khamsina marratan ammanahullahu min syarri ma yu'dzihi.
+
+4 — Wa idza tuliyat 'ala maridhin (mi'ata marratin) limud dati tsalatsati ayyamin 'ufiya.
+
+5 — Wa idza tuliyat arba'ina marratan fi udzuni mashru'in afaqa.
+
+6 — Wa idza tuliyat 'ala shahibil-aryahi limud dati tsalatsati ayyamin kulla yaumin alfa marratin, fa-innallaha yu'afihi wa kadzalikar-rihul-ahmaru.
+
+7 — Wa idza talaha masjunun wa ma'surun 'adadaha fa-innallaha yafukku asrahu.
+
+8 — Wa idza tuliyatis-sa'atus-sabi'atu shabahan min yaumil-jumu'ati (mi'atan wa tsalatsatan wa 'isyrina marratan) wa yas'alullaha ma arada min umurid-dunya awil-akhirati illa a'thahullahu iyyahu bi'aunillahi ta'ala.
+
+### 3. TERJEMAHAN INDONESIA
+
+Kitab itu (diambil) dari bawah Arasy; dan beliau ﷺ bersabda: "Barangsiapa mendatangi rumahnya lalu membaca surah Al-Fatihah dan Al-Ikhlas, dihilangkan darinya kefakiran dan dilipatgandakan kebaikannya." Dan beliau ﷺ bersabda: "Fatihah al-Kitab adalah penyembuh dari segala penyakit."
+
+(Juga keagungan dan kedudukan basmalah yang diberkahi.)
+
+Disebutkan di dalamnya: bahwa basmalah mengandung Ismullah Al-A'zham; dan ketika ia diturunkan, langit-langit bergetar, bumi-bumi bergoncang, para malaikat menambah tasbih, dan gunung-gunung tersungkur di atas wajahnya. Dan ia tertulis pada dahi Israfil, pada dahi Adam as., pada sayap Jibril, pada telapak tangan Izrail, pada lisan Isa, dan pada cincin Sulaiman.
+
+Dan ia adalah pemisah di antara Al-Qur'an (dan menurut Syafi'i ia adalah ayat dari setiap surah), dan berkahnya meliputi Al-Qur'an yang agung. Dan mari kami sebutkan pula tambahan baru sebagian keistimewaannya untuk mengambil berkah dan agar kedudukannya di sisi Allah semakin tinggi.
+
+1 — Apabila orang sakit membacanya sebanyak bilangannya selama tujuh hari, Allah menyembuhkannya.
+2 — Apabila dibacakan di hadapan orang zalim lima puluh kali, Allah mencukupkan (melindungi) dari keburukannya; dan apabila dibaca sebanyak ini — yaitu lima puluh kali — untuk memenuhi kebutuhan, kebutuhan itu ditunaikan dengan izin Allah Ta'ala.
+3 — Apabila dibaca menjelang tidur lima puluh kali, Allah memberinya keamanan dari keburukan yang menyakitinya.
+4 — Apabila dibacakan pada orang sakit seratus kali selama tiga hari, ia disembuhkan.
+5 — Apabila dibacakan empat puluh kali di telinga orang yang kerasukan (mashru'), ia sadar.
+6 — Apabila dibacakan pada penderita penyakit angin (aryah) selama tiga hari, setiap hari seribu kali, Allah menyembuhkannya; demikian pula (penyakit) angin merah (rih ahmar).
+7 — Apabila orang yang dipenjara dan ditawan membacanya sebanyak bilangannya, Allah melepaskan tawanannya.
+8 — Apabila dibaca pada pukul tujuh pagi hari Jumat seratus dua puluh tiga kali, lalu ia memohon kepada Allah apa yang ia kehendaki dari urusan dunia atau akhirat, niscaya Allah memberikannya kepadanya dengan pertolongan Allah Ta'ala.
+
+### 4. TATACARA PRAKTIK LENGKAP
+
+- Butir 1: membaca basmalah oleh orang sakit sebanyak 19 kali (bilangan huruf basmalah, sesuai keterangan halaman 83) selama tujuh hari; menurut teks, Allah menyembuhkannya.
+- Butir 2: membacakan basmalah di hadapan orang zalim 50 kali; atau membacanya 50 kali untuk kebutuhan; menurut teks, keburukan orang zalim dicegah dan kebutuhan ditunaikan dengan izin Allah.
+- Butir 3: membaca basmalah 50 kali menjelang tidur; menurut teks, pengamal aman dari keburukan yang menyakiti.
+- Butir 4: membacakan basmalah pada orang sakit 100 kali selama tiga hari.
+- Butir 5: membacakan basmalah 40 kali di telinga orang yang kerasukan; menurut teks, ia sadar.
+- Butir 6: membacakan basmalah pada penderita penyakit angin selama tiga hari, tiap hari 1.000 kali; disebutkan pula penyakit "angin merah" (rih ahmar).
+- Butir 7: membacakan basmalah oleh tahanan sebanyak bilangan hurufnya; menurut teks, Allah melepaskan tawanannya.
+- Butir 8: membaca basmalah 123 kali pada pukul tujuh pagi hari Jumat, lalu berdoa memohon kebutuhan dunia atau akhirat.
+- Teks penutup butir (tentang tertulisnya basmalah pada dahi Israfil, dahi Adam, sayap Jibril, telapak tangan Izrail, lisan Isa, dan cincin Sulaiman) adalah keterangan keutamaan, bukan tatacara amalan.
+- Pada halaman ini tidak ada kata فُلَان / فُلَانَة, sehingga keterangan Fulan/Fulanah tidak berlaku di sini.
+
+---
+
+## HALAMAN 89 — PDF hal. 89 / bagian — Keutamaan butir 9–12 + rajah matsalats 3×3 + awal bab keagungan Al-Qur'an
+
+### 1. TEKS ARAB BERHARAKAT
+
+٩ - وَإِذَا تُلِيَتْ أَرْبَعُونَ صَبَاحًا كُلَّ يَوْمٍ أَلْفَ مَرَّةٍ، فَإِنَّ اللَّهَ يَكْشِفُ عَنْ قَلْبِهِ وَيُلْهِمُهُ غَوَامِضَ الْأَسْرَارِ وَيَرَى كُلَّ شَيْءٍ يَحْدُثُ فِي الْعَالَمِ، وَاللَّهُ الْعَالِمُ.
+
+١٠ - وَكَمَا وَرَدَ إِذَا تُلِيَتْ فِي دُبُرِ (عَقِبِ) كُلِّ صَلَاةٍ مَفْرُوضَةٍ (أَلْفَيْنِ وَخَمْسِمِائَةِ مَرَّةٍ)، فَإِنَّهُ يَرَى كُلَّ شَيْءٍ يَحْدُثُ فِي الْعَالَمِ وَسَيُشَاهِدُ الْوَقَائِعَ قَبْلَ وُقُوعِهَا.
+
+١١ - إِذَا كُتِبَتْ بِمِسْكٍ وَزَعْفَرَانٍ وَمَاءِ وَرْدٍ عَلَى وَرَقٍ أَبْيَضَ نَقِيٍّ وَذَلِكَ (تِسْعَةَ عَشْرَةَ مَرَّةً) وَحَمَلَتْهَا الْمَرْأَةُ الَّتِي لَا تَحْمِلُ أَوِ الشَّجَرَةُ لَا تَحْمِلُ حَمَلَتْ بِإِذْنِ اللَّهِ تَعَالَى.
+
+١٢ - وَمِنْ خَوَاصِّهَا إِذَا كُتِبَتْ فِي مُثَلَّثٍ وَذَلِكَ فِي لَوْحٍ مِنْ رَصَاصٍ وُضِعَتْ فِي شَبَكَةِ صَيَّادٍ كَثُرَ صَيْدُهُ، وَأَيْضًا نَفْسُ الْمُثَلَّثِ إِذَا وُضِعَ فِي حَانُوتٍ (دُكَّانٍ) كَثُرَ زَبُونُهُ، أَيْضًا إِذَا كُتِبَ الْمُثَلَّثُ فِي لَوْحِ ذَهَبٍ أَوْ فِضَّةٍ وَحَمَلَهُ الْمَوْلُودُ حَفِظَهُ اللَّهُ تَعَالَى. وَهَذِهِ صُورَتُهُ كَالشَّكْلِ الْآتِي:
+
+(ada wafaq halaman 89 — matsalats 3×3: sel pertama memuat بسم / الرحمن / الرحيم, sel tengah memuat tulisan طلسم, sel-sel lain memuat angka; angka pada cetakan tidak dapat dipastikan sehingga tidak dikarang)
+
+![Wafaq matsalats halaman 89](../assets/rajah/sirrul-asrar-tight/hal-089-rajah-01.png)
+
+(أَيْضًا بَابٌ فِي عَظَمَةِ الْقُرْآنِ الْكَرِيمِ وَعُلُوِّ شَأْنِهِ عِنْدَ اللَّهِ الْعَزِيزِ)
+
+قَالَ اللَّهُ تَعَالَى ﴿مَا فَرَّطْنَا فِي الْكِتَابِ مِنْ شَيْءٍ﴾. وَقَدْ قَالَ الرَّسُولُ الْأَكْرَمُ ﷺ: إِنَّ لِلْقُرْآنِ ظَهْرًا وَبَطْنًا إِلَى سَبْعَةِ أَبْطُنٍ. وَقَالَ الْإِمَامُ عَلِيُّ بْنُ أَبِي طَالِبٍ (عَلَيْهِ وَعَلَى أَبْنَائِهِ الْكِرَامِ أَفْضَلُ الصَّلَاةِ وَالسَّلَامِ): فِي الْقُرْآنِ الْكَرِيمِ وَجْهٌ ظَاهِرٌ وَأَبْيَنُ وَبَاطِنُهُ عَمِيقٌ لَا يَفْنَى عَجَائِبُهُ وَلَا تَنْقَضِي غَرَائِبُهُ وَمَا مِنْ آيَةٍ مِنَ الْقُرْآنِ إِلَّا
+
+### 2. TRANSLITERASI LATIN
+
+9 — Wa idza tuliyat arba'una shabahan kulla yaumin alfa marratin, fa-innallaha yaksyifu 'an qalbihi wa yulhimuhu ghawamidhal-asrari wa yara kulla syai'in yahdutsu fil-'alami, wallahul-'alimu.
+
+10 — Wa kama warada idza tuliyat fi duburi ('aqibi) kulli shalatin mafrudhatin (alfaini wa khamsimi'ati marratin), fa-innahu yara kulla syai'in yahdutsu fil-'alami wa sayusyahidu waqa'i'a qabla wuqi'iha.
+
+11 — Idza kutibat bimiskin wa za'faranin wa ma'i wardin 'ala waraqin abyadha naqiyyin wa dzalika (tis'ata 'asyarata marratan) wa hamalatha al-mar'atul-lati la tahmilu awisy-syajaratu la tahmilu hamalat bi-idznillahi ta'ala.
+
+12 — Wa min khawashshiha idza kutibat fi mutsallatsin wa dzalika fi lauhin min rashashin wudhi'at fi syabakati shayyadin katsura shaiduhu, wa aidhan naf sul-mutsallatsi idza wudhi'a fi hanutin (dukkanin) katsura zabunuhu, aidhan idza kutibal-mutsallatsu fi lauhin dzahabin aw fiddhatin wa hamalahul-mauludu hafizhahullahu ta'ala. Wa hadzihi shuratuhu kasy-syaklil-ati:
+
+(Aidhan babun fi 'azhamatil-Qur'anil-karimi wa 'uluwwi sya'nihi 'indallahil-'azizi)
+
+Qalallahu ta'ala ﴿Ma farrathna fil-kitabi min syai'﴾. Wa qad qalar-rasulul-akramu ﷺ: inna lil-Qur'ani zhahran wa bathnan ila sab'ati abthunin. Wa qalal-imamu 'Aliyyu bnu Abi Thalibin ('alaihi wa 'ala abna'ihil-kirami afdhalush-shalati was-salamu): fil-Qur'anil-karimi wajhun zhahirun wa abyannu wa bathinuhu 'amiqun la yafna 'aja'ibuhu wa la tanqadhi ghara'ibuhu wa ma min ayatin minal-Qur'ani illa
+
+### 3. TERJEMAHAN INDONESIA
+
+9 — Apabila dibaca empat puluh pagi, setiap hari seribu kali, maka Allah menyingkap (hijab) dari hatinya, mengilhamkan kepadanya rahasia-rahasia yang tersembunyi, dan ia melihat segala sesuatu yang terjadi di alam. Dan Allah Maha Mengetahui.
+10 — Sebagaimana disebutkan: apabila dibaca setelah setiap shalat fardhu dua ribu lima ratus kali, maka ia melihat segala sesuatu yang terjadi di alam dan akan menyaksikan peristiwa-peristiwa sebelum terjadi.
+11 — Apabila ditulis dengan misik, za'faran, dan air mawar pada kertas putih bersih — yaitu sembilan belas kali — lalu dibawa oleh perempuan yang tidak hamil (tidak bisa hamil) atau (diletakkan pada) pohon yang tidak berbuah, maka ia hamil/berbuah dengan izin Allah Ta'ala.
+12 — Dan di antara keistimewaannya: apabila ditulis dalam bentuk matsalats (segitiga/matriks) pada lempeng timah (rashash), lalu diletakkan pada jaring penangkap ikan, maka tangkapannya menjadi banyak; juga matsalats yang sama, apabila diletakkan di toko (dakan), maka pembelinya menjadi banyak; juga apabila matsalats ditulis pada lempeng emas atau perak lalu dibawa oleh anak yang baru lahir, Allah menjaganya. Dan ini bentuknya seperti gambar berikut:
+
+[Wafaq Hal. 89 — gambar disalin dari cetakan; tulisan dan angka di dalam sel tidak diterjemahkan dan tidak dikarang, lihat keterangan pada seksi 4]
+
+(Juga bab tentang keagungan Al-Qur'an yang mulia dan ketinggian kedudukannya di sisi Allah Yang Mahaperkasa.)
+
+Allah Ta'ala berfirman: "Kami tidak meninggalkan sesuatu pun di dalam Kitab" (QS Al-An'am: 38). Dan Rasul yang paling mulia ﷺ bersabda: "Sesungguhnya Al-Qur'an memiliki zhahir dan bathin sampai tujuh bathin." Dan Imam Ali bin Abi Thalib (semoga shalawat dan salam terbaik atasnya dan atas anak-anaknya yang mulia) berkata: "Di dalam Al-Qur'an yang mulia terdapat wajah yang zhahir dan yang lebih jelas, dan bathinnya sangat dalam; keajaiban-keajaibannya tidak habis dan hal-hal yang menakjubkan darinya tidak berakhir. Tidak ada satu ayat pun dari Al-Qur'an kecuali…" — (lanjutan kalimat ada pada halaman 90).
+
+### 4. TATACARA PRAKTIK LENGKAP
+
+- Butir 9: membaca basmalah seribu kali setiap pagi selama empat puluh pagi. Menurut teks, Allah menyingkap hijab hati, mengilhamkan rahasia-rahasia, dan pengamal dapat mengetahui kejadian di alam.
+- Butir 10: membaca basmalah dua ribu lima ratus kali setelah setiap shalat fardhu. Menurut teks, pengamal menyaksikan peristiwa sebelum terjadi.
+- Butir 11: menulis basmalah dengan misik, za'faran, dan air mawar pada kertas putih bersih sebanyak 19 kali; tulisan dibawa oleh perempuan yang belum/tidak bisa hamil, atau diletakkan pada pohon yang tidak berbuah. Menurut teks, dengan izin Allah ia hamil/berbuah.
+- Butir 12 (rajah matsalats): menulis matsalats pada lempeng timah lalu diletakkan di jaring penangkap ikan (menurut teks, tangkapan banyak); meletakkannya di toko (pembeli banyak); atau menulisnya pada lempeng emas/perak lalu dibawa anak yang baru lahir (menurut teks, Allah menjaganya).
+- Rajah halaman ini: sel wafaq memuat lafaz "بسم / الرحمن / الرحيم", satu sel memuat tulisan thilasm (طلسم), dan sel-sel lain memuat angka. Angka pada cetakan tidak terbaca pasti, sehingga **tidak dikarang**; gambar disalin apa adanya sebagai `[Wafak Hal. 89]` dan dicetak dari crop naskah. Bila akan dipakai, salin bentuk dan angka dari gambar cetak, jangan mengganti dengan perkiraan.
+- Bab "keagungan Al-Qur'an" yang dimulai di akhir halaman ini adalah keterangan ilmu (bukan amalan); lanjutannya ada pada halaman 90.
+- Pada halaman ini tidak ada kata فُلَان / فُلَانَة, sehingga keterangan Fulan/Fulanah tidak berlaku di sini.
+
+---
+
+## HALAMAN 90 — PDF hal. 90 / bagian — Tujuh makna Al-Qur'an, keutamaan basmalah, dan dua wafaq 4×4
+
+### 1. TEKS ARAB BERHARAKAT
+
+وَلَهَا سَبْعُ مَعَانٍ ظَاهِرٌ وَبَاطِنٌ وَإِشَارَاتٌ وَأَمَارَاتٌ وَلَطَائِفُ وَحَقَائِقُ، فَالظَّاهِرُ لِلْعَوَامِ وَالْبَاطِنُ لِلْخَوَاصِّ وَالْإِشَارَاتُ لِخَوَاصِّ الْخَوَاصِّ وَالْأَمَارَاتُ لِلْأَوْلِيَاءِ وَاللَّطَائِفُ لِلصَّادِقِينَ وَالْمُحِبِّينَ وَالْحَقَائِقُ لِلنَّبِيِّينَ ثُمَّ تَحْتَ كُلِّ كَلِمَةٍ بَلْ تَحْتَ كُلِّ حَرْفٍ مِنْهُ بِحْكَمٍ لُجَاجٍ وَبَحْرٍ عَجَّاجٍ وَأُفُقٍ مَوَّاجٍ فَإِذَا قَرَأَ الشَّاهِدُ مِنَ الْعَارِفِينَ، وَالصَّادِقُ مِنَ الْمُحِبِّينَ أَعْمَلَ لِكُلِّ حَرْفٍ مِنْهُ أَلْفَ فَهْمٍ وَلِكُلِّ فَهْمٍ أَلْفَ فِطْنَةٍ وَلِكُلِّ فَهْمٍ أَلْفَ عِبْرَةٍ وَالْعِبْرَةُ الْوَاحِدَةُ لَا يَقُومُ بِهَا مَنْ فِي السَّمَاوَاتِ وَالْأَرْضِ فَلِذَلِكَ قَالَ اللَّهُ تَعَالَى ﴿يُؤْتِي الْحِكْمَةَ مَنْ يَشَاءُ وَمَنْ يُؤْتَ الْحِكْمَةَ فَقَدْ أُوتِيَ خَيْرًا كَثِيرًا﴾.
+
+أَيْضًا فِي مَعْنَى فَهْمِ الْقُرْآنِ وَمَعَانِيهِ: قَالَ بَعْضُ الْعُلَمَاءِ إِنَّ لِكُلِّ آيَةٍ مِنَ الْقُرْآنِ سِتِّينَ أَلْفَ فَهْمٍ وَمَا بَقِيَ مِنْ فَهْمِهَا فَهُوَ أَكْثَرُ، أَيْضًا قَالَ بَعْضُهُمُ الْقُرْآنُ مُحْتَوٍ عَلَى سَبْعَةٍ وَسَبْعِينَ أَلْفَ عِلْمٍ. وَقَالَ بَعْضُ الْأَكَابِرِ مِنْ أَرْبَابِ الْبَصَائِرِ حَقِيقَةُ الْقُرْآنِ عَلَى الْقُوَّةِ الْحَامِلَةِ لِلسَّمَاوَاتِ وَالْأَرْضِ وَمَا فِيهِمَا مِنْ يَوْمِ وُجُودِهِمَا إِلَى يَوْمِ عَوْدِهِمَا وَلِذَلِكَ كَانَ اشْتِرَاطُ السَّاعَةِ ذَهَابَهَا مِنْ صُدُورِ الرِّجَالِ وَمُصَاحَبَتِهِمْ كَطَيِّ السَّمَاوَاتِ وَقَبْضِ الْأَرْضِ، (تَدَبَّرْ ذَلِكَ وَافْهَمْ وَاللَّهُ وَلِيُّ التَّوْفِيقِ).
+
+- أَيْضًا قَالَ الرَّسُولُ الْأَكْرَمُ ﷺ فِي فَضْلِ «بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ» أَنَّهُ مَنْ قَالَ بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ (مَرَّةً) لَمْ يَبْقَ مِنْ ذُنُوبِهِ ذَرَّةٌ. وَقَدْ رَوَى هَذَا الْحَدِيثَ عَبْدُ اللَّهِ بْنُ مَسْعُودٍ قَالَ: إِنَّ رَسُولَ اللَّهِ ﷺ أَنَّهُ قَالَ: كُلُّ مَنْ يَقْرَأُ هَذِهِ الْأَسْمَاءَ الثَّلَاثَةَ لَا تَبْقَى ذَرَّةٌ مِنَ الذُّنُوبِ. (يَعْنِي كَلِمَةَ بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ الْمُبَارَكَةَ).
+
+أَيْضًا قَالَ أَحَدُ أَصْحَابِ الْمَعْرِفَةِ بِفَضَائِلِ «بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ» وَهُوَ كُلُّ مَنْ يُرِيدُ فَتْحَ أُمُورِهِ، وَالْحِفْظَ مِنَ الْبَلَايَا وَالِاعْتِيَادَ مِنْ مَكْرِ الشَّيْطَانِ، يَكْتُبُ وَيَرْسُمُ هَذَا الشَّكْلَ الْآتِي أَيْ هَذَيْنِ الْوَفْقَيْنِ أَرْبَعَةً فِي أَرْبَعَةٍ وَيَكُونَا مَعَهُ، وَيَكْتُبُهُمَا فِي شَرَفِ الشَّمْسِ مِنْ سَاعَاتِ السَّعْدِ فَسَوْفَ يَتَحَقَّقُ لَهَا خَوَاصُّ عَظِيمَةٌ وَكُلُّ مَنْ يَحْمِلُ مَعَهُ هَذَيْنِ الْوَفْقَيْنِ، وَيَقْرَأُ كُلَّ يَوْمٍ الْبَسْمَلَةَ (سَبْعَمِائَةٍ وَسِتَّةٍ وَثَمَانِينَ مَرَّةً) فَسَوْفَ يَحُلُّ الطِّلَسْمَ الَّذِي يُرِيدُ حَلَّهُ، وَتَرْتَفِعُ مُشْكِلَاتُهُ، وَبَعْدَ الْفَرَاغِ مِنْ ذَلِكَ عَلَيْهِ أَنْ يُصَلِّيَ عَلَى مُحَمَّدٍ وَآلِ مُحَمَّدٍ (مِائَةً وَاثْنَتَيْنِ وَثَلَاثِينَ مَرَّةً) فَسَيَكُونُ مُسْتَجَابَ الدَّعْوَةِ وَتُفْتَحُ أَمَامَهُ أَبْوَابُ الرِّزْقِ، وَيَصْفُو قَلْبُهُ، وَلَا يُوَاجِهُ أَيَّ مُشْكِلَةٍ فِي حَيَاتِهِ مِنْ بَرَكَةِ هَذَانِ الْوَفْقَانِ وَهِيَ هَذِهِ صُورَتُهَا كَالشَّكْلِ الْآتِي كَمَا تَرَى.
+
+### 2. TRANSLITERASI LATIN
+
+Wa laha sab'u ma'anin zhahirun wa bathinun wa isyaratun wa amaratun wa latha'ifu wa haqa'iqu, fazh-zhahiru lil-'awami wal-bathinu lil-khawashshi wal-isyaratu likhawashshil-khawashshi wal-amaratu lil-auliya'i wal-latha'ifu lish-shadiqina wal-muhibbina wal-haqa'iqu lin-nabiyyina tsumma tahta kulli kalimatin bal tahta kulli harfin minhu bihikamil-lujajin wa bahrin 'ajjajin wa ufuqin mawwajin fa-idza qara'asy-syahidu minal-'arifina, wash-shadiqu minal-muhibbina a'mala likulli harfin minhu alfa fahmin wa likulli fahmin alfa fitnatin wa likulli fahmin alfa 'ibratin wal-'ibratul-wahidatu la yaqumu biha man fis-samawati wal-ardhi falidzalika qalallahu ta'ala ﴿Yu'til-hikmata man yasya'u wa man yu'til-hikmata faqad utiya khairan katsiran﴾.
+
+Aidhan fi ma'na fahmil-Qur'ani wa ma'anihi: qala ba'dhul-'ulama'i inna likulli ayatin minal-Qur'ani sittina alfa fahmin wa ma baqiya min fahmiha fahuwa aktsaru, aidhan qala ba'dhuhumul-Qur'anu muhtawin 'ala sab'atin wa sab'ina alfa 'ilmin. Wa qala ba'dhul-akabiri min arbab il-basha'iri haqiqatul-Qur'ani 'alal-quwwatil-hamilati lissamawati wal-ardhi wa ma fihima min yaumi wujudihima ila yaumi 'audihima wa lidzalika kanasy-tirathus-sa'ati dzahabaha min shudurir-rijali wa mushahabatihim kathayyis-samawati wa qabdil-ardhi, (tadabbar dzalika wafham wallahu waliyyut-taufiqi).
+
+- Aidhan qalar-rasulul-akramu ﷺ fi fadhli «bismillahir-rahmanir-rahimi» annahu man qala bismillahir-rahmanir-rahimi (marratan) lam yabqa min dzunubihi dzarratun. Wa qad rawa hadzal-haditsa 'Abdullahi bnu Mas'udin qala: inna rasulallahi ﷺ annahu qala: kullu man yaqra'u hadzihil-asma'ats-tsalatsata la tabqa dzarratun minadz-dzunubi. (ya'ni kalimata bismillahir-rahmanir-rahimil-mubarakata).
+
+Aidhan qala ahadu ashhabil-ma'rifati bifadha'ili «bismillahir-rahmanir-rahimi» wa huwa kullu man yuridu fatha umurihi, wal-hifzha minal-balaya wal-i'tiyada min makrisy-syaithani, yaktubu wa yarsumu hadzasy-syaklal-ati ay hadzainil-wafqaini arba'atan fi arba'atin wa yakuna ma'ahu, wa yaktubuhuma fi syarafisy-syamsi min sa'atisy-sa'di fasaufa yatahaqqaqu laha khawashshun 'azhimatun wa kullu man yahmilu ma'ahu hadzainil-wafqaini, wa yaqra'u kulla yaumil-basmalata (sab'ami'atin wa sittatin wa tsamanina marratan) fasaufa yahulluth-thilasmalladzi yuridu hallahu, wa tartafi'u musykilatuhu, wa ba'dal-faragh min dzalika 'alaihi an yushalliya 'ala Muhammadin wa ali Muhammadin (mi'atan watsnataini wa tsalatsina marratan) fasayakunu mustajabad-da'wati wa tuftahu amamahu abwabur-rizqi, wa yashfu qalbuhu, wa la yuwajihu ayya musykilatin fi hayatihi min barakati hadzanil-wafqani wa hiya hadzihi shuratuba kasy-syaklil-ati kama tara.
+
+### 3. TERJEMAHAN INDONESIA
+
+Dan ia (Al-Qur'an) memiliki tujuh makna: zhahir, bathin, isyarat, amarat, lathifah, dan hakikat. Yang zhahir untuk orang awam, yang bathin untuk orang khusus (khawash), isyarat untuk khawashul-khawash, amarat untuk para wali, lathifah untuk orang-orang jujur dan para pencinta, dan hakikat untuk para nabi. Kemudian di bawah setiap kata — bahkan di bawah setiap huruf darinya — terdapat hukum-hukum laksana lautan luas, gelombang yang bergulung, dan cakrawala yang bergelora. Maka apabila pembaca (syahid) dari kalangan 'arifin dan orang jujur dari kalangan muhibbin membaca, ia memberlakukan untuk setiap hurufnya seribu pemahaman, dan setiap pemahaman seribu kecerdasan, dan setiap pemahaman seribu pelajaran; sedangkan satu pelajaran saja tidak mampu ditanggung oleh siapa pun yang ada di langit dan bumi. Karena itulah Allah Ta'ala berfirman: "Dia memberikan hikmah kepada siapa yang Dia kehendaki; dan barangsiapa diberi hikmah, sungguh ia telah diberi kebaikan yang banyak" (QS Al-Baqarah: 269).
+
+Juga mengenai makna pemahaman Al-Qur'an dan makna-maknanya: sebagian ulama berkata bahwa setiap ayat Al-Qur'an memiliki enam puluh ribu pemahaman, dan yang tersisa dari pemahamannya lebih banyak lagi. Sebagian yang lain berkata bahwa Al-Qur'an mengandung tujuh puluh tujuh ribu ilmu. Sebagian tokoh pemilik bashirah berkata bahwa hakikat Al-Qur'an berada pada kekuatan yang menanggung langit dan bumi serta segala isinya sejak hari keberadaannya sampai hari kembalinya; oleh karena itu syarat (terjadinya) Kiamat adalah hilangnya (Al-Qur'an) dari dada para lelaki dan dari hafalan mereka, seperti tergulungnya langit dan digenggamnya bumi. (Renungkanlah itu dan pahamilah; Allah adalah penolong taufik.)
+
+- Juga Rasul yang paling mulia ﷺ bersabda tentang keutamaan "bismillahir-rahmanir-rahim": barangsiapa membaca "bismillahir-rahmanir-rahim" satu kali, tidak tersisa satu dzarrah pun dari dosa-dosanya. Hadis ini diriwayatkan oleh Abdullah bin Mas'ud, ia berkata: "Sesungguhnya Rasulullah ﷺ bersabda: 'Setiap orang yang membaca tiga nama ini, tidak tersisa satu dzarrah pun dari dosa.'" (yakni kalimat "bismillahir-rahmanir-rahim" yang diberkahi).
+
+Juga berkata salah seorang ahli ma'rifat tentang keutamaan "bismillahir-rahmanir-rahim": barangsiapa ingin membuka segala urusannya, terjaga dari bencana, dan terpelihara dari tipu daya setan, hendaklah ia menulis dan menggambar bentuk berikut — yaitu dua wafaq empat kali empat — dan keduanya dibawa bersamanya; ia menulis keduanya pada (waktu) "syaraf asy-syams" dari saat-saat yang baik (sa'at sa'd), maka akan terwujud keistimewaan-keistimewaan yang besar. Dan setiap orang yang membawa kedua wafaq ini serta membaca basmalah setiap hari tujuh ratus delapan puluh enam kali, maka ia akan membuka thilasm yang ingin dibukanya dan masalah-masalahnya akan terangkat. Setelah selesai dari itu, hendaklah ia bershalawat kepada Muhammad dan keluarga Muhammad seratus tiga puluh dua kali, maka ia akan menjadi orang yang dikabulkan doanya, pintu-pintu rezeki terbuka di hadapannya, hatinya menjadi jernih, dan ia tidak menghadapi masalah apa pun dalam hidupnya berkat kedua wafaq ini. Dan inilah bentuk keduanya sebagaimana gambar berikut yang engkau lihat.
+
+### 4. TATACARA PRAKTIK LENGKAP
+
+- Keterangan tujuh makna Al-Qur'an (zhahir–batin–isyarat–amarat–lathifah–hakikat) dan perkataan ulama tentang enam puluh ribu pemahaman serta tujuh puluh tujuh ribu ilmu adalah keterangan ilmu, bukan amalan.
+- Amalan pembuka segala urusan (butir wafaq): menulis **dua wafaq 4×4** (gambarnya tercetak pada halaman 91) pada waktu "syaraf asy-syams" di antara saat-saat yang baik, lalu keduanya dibawa.
+- Wirid harian: membaca basmalah **786 kali** setiap hari.
+- Setelah wirid selesai: bershalawat kepada Nabi dan keluarganya **132 kali**.
+- Menurut teks, hasilnya: thilasm yang diinginkan terbuka, masalah terangkat, doa dikabulkan, pintu rezeki terbuka, hati jernih, dan tidak menghadapi masalah dalam hidup.
+- Bentuk kedua wafaq tidak diuraikan angka/hurufnya di halaman ini; gambarnya ada pada halaman 91 dan wajib disalin dari cetakan (tidak dikarang).
+- Pada halaman ini tidak ada kata فُلَان / فُلَانَة, sehingga keterangan Fulan/Fulanah tidak berlaku di sini.
+
+---
+
+## HALAMAN 91 — PDF hal. 91 / bagian — Dua wafaq 4×4 (gambar), adab membawanya, wirid ba'da 'Ashar, dan awal bab Khawash Ayatul Kursi
+
+### 1. TEKS ARAB BERHARAKAT
+
+(ada wafaq halaman 91 — dua wafaq 4×4: yang kanan memuat lafaz بسم / الله / الرحمن / الرحيم, yang kiri memuat angka-angka; angka pada cetakan tidak dapat dipastikan sehingga tidak dikarang)
+
+![Dua wafaq 4x4 halaman 91](../assets/rajah/sirrul-asrar-tight/hal-091-rajah-01.png)
+
+(وَالَّذِي أَنْ يَحْمِلَ هَذَانِ الْوَفْقَانِ عَلَيْهِ أَنْ يَكُونَ دَائِمًا عَلَى طَهَارَةٍ، وَيُعَطِّرَ وَيُطَيِّبَ نَفْسَهُ، وَيَبْتَعِدَ عَنِ الذُّنُوبِ الصَّغِيرَةِ وَالْكَبِيرَةِ وَكَمَا وَرَدَ لِهَذَانِ الْوَفْقَانِ خَوَاصُّ كَثِيرَةٌ).
+
+أَيْضًا مِنْ خَوَاصِّ بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ الْمُبَارَكَةِ: أَنَّهُ مَنْ أَرَادَ قَضَاءَ حَاجَاتِهِ وَحَلَّ مَشَاكِلِهِ وَكُلِّيَّةَ أُمُورِهِ، عَلَيْهِ أَنْ يَتَوَجَّهَ بَعْدَ صَلَاةِ الْعَصْرِ مِنْ يَوْمِ الْجُمُعَةِ الْمُفَضَّلِ، وَيَقْرَأَ «بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ» حَتَّى يَسْمَعَ أَذَانَ الْمَغْرِبِ، مِنْ ثَمَّ يَسْجُدُ إِلَى اللَّهِ سُبْحَانَهُ وَتَعَالَى وَيَطْلُبُ حَاجَتَهُ حَتَّى يَنْتَهِيَ الْمُؤَذِّنُ مِنَ الْأَذَانِ، عِنْدَهَا يَرْفَعُ وَجْهَهُ وَيَدَيْهِ إِلَى السَّمَاءِ وَيُصَلِّي عَلَى مُحَمَّدٍ وَآلِهِ وَيَدْعُو لِلْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ وَيَطْلُبُ لَهُمُ الْمَغْفِرَةَ، وَلَوْ دَاوَمَ عَلَى هَذَا الْوِرْدِ فَسَوْفَ يَحْصُلُ عَلَى مُرَادِهِ بِبَرَكَةِ هَذِهِ الْأَسْمَاءِ الشَّرِيفَةِ. مِنْ ثَمَّ يَذْكُرُ أَحَدُ الْعُلَمَاءِ الْكِبَارِ أَنَّهُ يَذْكُرُ مِنْ مُعَلِّمِهِ وَأُسْتَاذِهِ كَمَا وَرَدَ فِي الرِّوَايَةِ أَنَّهُ قَالَ: لَا يُوجَدُ اسْمٌ مِنْ أَسْمَاءِ اللَّهِ تَبَارَكَ وَتَعَالَى أَعْظَمُ مِنْ هَذَا الِاسْمِ لِأَنَّهُ لَوْ كَانَ هُنَاكَ اسْمٌ أَعْظَمُ وَأَكْبَرُ مَنْزِلَةً مِنْهُ لَذَكَرَ اللَّهُ تَعَالَى وَجَعَلَهُ فِي الْبَسْمَلَةِ الَّتِي وَصَفَهَا فِي مُقَدِّمَةِ كُلِّ سُورَةٍ مِنْ سُوَرِ الْقُرْآنِ الْكَرِيمِ.
+
+(بَابٌ فِي خَوَاصِّ آيَةِ الْكُرْسِيِّ الشَّرِيفَةِ)
+
+١ - مِنْ خَوَاصِّ آيَةِ الْكُرْسِيِّ الشَّرِيفَةِ: مَنْ كَتَبَهَا حُرُوفًا مُفَرَّقَةً فِي جَامِ زُجَاجٍ بِمِسْكٍ وَزَعْفَرَانٍ وَمَاءِ وَرْدٍ وَشَرِبَتْ بِعَدَدِ كَلِمَاتِهَا أَيَّامًا وَيَكُونُ صَائِمًا لَا يُفْطِرُ إِلَّا
+
+### 2. TRANSLITERASI LATIN
+
+(Walladzi an yahmila hadzanil-wafqani 'alaihi an yakuna da'iman 'ala thaharatin, wa yu'aththira wa yuthayyiba nafsahu, wa yabta'ida 'anidz-dzunubish-shaghirati wal-kabirati wa kama warada lihadzanil-wafqani khawashshun katsiratun).
+
+Aidhan min khawashshi bismillahir-rahmanir-rahimil-mubarakati: annahu man arada qadha'a hajatihi wa halla masyakilihi wa kulliyyata umurihi, 'alaihi an yatawajjaha ba'da shalatil-'ashri min yaumil-jumu'atil-mufadhdhal, wa yaqra'a «bismillahir-rahmanir-rahim» hatta yasma'a adzanl-maghribi, min tsamma yasjudu ilallahi subhanahu wa ta'ala wa yathlubu hajatahu hatta yantahiyal-mu'adzinu minal-adzani, 'indaha yarfa'u wajhahu wa yadaihi ilas-sama'i wa yushalliya 'ala Muhammadin wa alihi wa yad'u lil-mu'minina wal-mu'minati wa yathlubu lahumul-maghfirata, wa lau dawama 'ala hadzal-wirdi fasaufa yahshulu 'ala muradihi bibarakatihadzihil-asma'isy-syarifati. Min tsamma yadzkuru ahadul-'ulama'il-kibari annahu yadzkuru min mu'allimihi wa ustadzihi kama warada fir-riwayati annahu qala: la yujadu ismun min asma'illahi tabaraka wa ta'ala a'zhzhamu min hadzal-ismi li-annahu lau kana hunaka ismun a'zhzhamu wa akbaru manzilatan minhu ladzakarallahu ta'ala wa ja'alahu fil-basmalatil-lati washafaha fi muqaddimati kulli suratin min suwaril-Qur'anil-karimi.
+
+(Babun fi khawashshi Ayatil-Kursiyyisy-syarifati)
+
+1 — Min khawashshi Ayatil-Kursiyyisy-syarifati: man katabaha hurufan mufarraqatan fi jamin zujajin bimiskin wa za'faranin wa ma'i wardin wa syaribat bi'adadi kalimatiha ayyaman wa yakunu sha'iman la yufthiru illa
+
+### 3. TERJEMAHAN INDONESIA
+
+(Dan orang yang membawa kedua wafaq ini hendaklah senantiasa dalam keadaan suci, memakai wangi-wangian dan menyenangkan dirinya, serta menjauhi dosa-dosa kecil dan besar. Sebagaimana disebutkan, kedua wafaq ini memiliki keistimewaan yang banyak.)
+
+Juga di antara keistimewaan "bismillahir-rahmanir-rahim" yang diberkahi: barangsiapa ingin menunaikan kebutuhannya, menyelesaikan masalahnya, dan semua urusannya, hendaklah ia menghadap setelah shalat Ashar pada hari Jumat yang diutamakan, lalu membaca "bismillahir-rahmanir-rahim" sampai ia mendengar adzan Maghrib. Kemudian ia bersujud kepada Allah Mahasuci dan Mahatinggi dan memohon kebutuhannya sampai muadzin selesai dari adzan; pada saat itu ia mengangkat wajah dan kedua tangannya ke langit, bershalawat kepada Muhammad dan keluarganya, mendoakan kaum mukmin laki-laki dan perempuan, serta memohon ampunan untuk mereka. Jika ia menjaga wirid ini, maka ia akan memperoleh keinginannya berkat nama-nama yang mulia ini. Kemudian salah seorang ulama besar menyebutkan dari gurunya dan ustaznya, sebagaimana disebutkan dalam riwayat, bahwa ia berkata: "Tidak ada satu nama pun dari nama-nama Allah Tabaraka wa Ta'ala yang lebih agung dari nama ini, karena jika ada nama yang lebih agung dan lebih tinggi kedudukannya darinya, niscaya Allah Ta'ala menyebutkannya dan menjadikannya di dalam basmalah yang Dia letakkan pada pembuka setiap surah dari surah-surah Al-Qur'an yang mulia."
+
+(Bab tentang keistimewaan Ayatul Kursi yang mulia.)
+
+1 — Di antara keistimewaan Ayatul Kursi yang mulia: barangsiapa menulisnya dalam keadaan huruf-huruf terpisah di dalam gelas kaca dengan misik, za'faran, dan air mawar, lalu meminumnya sebanyak bilangan kalimatnya selama beberapa hari dan ia berpuasa serta tidak berbuka kecuali… — (lanjutan ada pada halaman 92).
+
+### 4. TATACARA PRAKTIK LENGKAP
+
+- Rajah halaman ini: **dua wafaq 4×4** yang dijanjikan pada halaman 90. Wafaq kanan memuat lafaz "بسم / الله / الرحمن / الرحيم"; wafaq kiri memuat angka-angka. Angka pada cetakan tidak terbaca pasti, sehingga **tidak dikarang**; salin dari gambar cetak apa adanya.
+- Adab membawa wafaq (teks): senantiasa dalam keadaan suci, memakai wangi-wangian, menjauhi dosa kecil dan besar.
+- Amalan hajat ba'da Ashar Jumat: setelah shalat Ashar hari Jumat, membaca "بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ" terus-menerus sampai mendengar adzan Maghrib; lalu bersujud dan memohon hajat sampai muadzin selesai adzan; kemudian mengangkat wajah dan kedua tangan ke langit, bershalawat kepada Nabi dan keluarganya, mendoakan kaum mukminin/mukminat dan memohon ampunan bagi mereka. Menurut teks, dengan menjaga wirid ini hajat tercapai berkat nama-nama yang mulia.
+- Awal bab Ayatul Kursi (butir 1): menulis Ayatul Kursi dengan huruf terpisah di dalam gelas kaca memakai misik, za'faran, dan air mawar, lalu meminumnya sebanyak bilangan kalimatnya selama beberapa hari, dengan berpuasa. Kalimat terpotong di batas halaman; lanjutannya pada halaman 92 dan amalannya digabung utuh di halaman 92.
+- Pada halaman ini tidak ada kata فُلَان / فُلَانَة, sehingga keterangan Fulan/Fulanah tidak berlaku di sini.
+
+---
+
+## HALAMAN 92 — PDF hal. 92 / bagian — Khawash Ayatul Kursi 1–5 (lanjutan) dan riwayat rumah berhantu
+
+### 1. TEKS ARAB BERHARAKAT
+
+عَلَيْهَا (أَيْ بِمَعْنَى أَنْ لَا يَتَنَاوَلَ شَيْئًا قَبْلَهَا) أَنْفَذَهُ اللَّهُ بِفُنُونِ الْحِكْمَةِ وَيَكُونُ الِابْتِدَاءُ بِهَذَا الْعَمَلِ فِي شَهْرِ نَيْسَانَ وَأَنْ أَضَافَ إِلَيْهِ مِنْ مَائِهِ كَانَ أَجْوَدَ. وَإِذَا أَرَادَ الطُّهُورَ عَلَى الْآيَةِ كَمَا ذَكَرْنَا يَقْرَأُ الْآيَةَ سَبْعَ مَرَّاتٍ، ثُمَّ يَقُولُ: اللَّهُمَّ إِنِّي أَسْأَلُكَ بِحَقِّ هَذِهِ الْآيَةِ الشَّرِيفَةِ أَنْ تُلْهِمَنِي عِلْمَكَ اللَّدُنِّيَّ يَا اللَّهُ.
+
+٢ - مِنْ خَوَاصِّ آيَةِ الْكُرْسِيِّ هِيَ لِإِفَاقَةِ الْمَصْرُوعِ: قِيلَ: إِذَا قَرَأْتَ آيَةَ الْكُرْسِيِّ عَلَى رَأْسِ مَصْرُوعٍ إِحْدَى عَشْرَةَ مَرَّةً، أَفَاقَ لِوَقْتِهِ وَإِنْ أَقَامَ الْعَارِضُ بِالْجُثَّةِ احْتَرَقَ.
+
+٣ - أَيْضًا مِنْ خَوَاصِّ آيَةِ الْكُرْسِيِّ إِذَا كُنْتَ تَخَافُ مِنْ أَحَدٍ وَحَصَلَ لَكَ مِنْهُ ضَرَرٌ فَتُصَلِّي بَعْدَ الْمَغْرِبِ رَكْعَتَيْنِ بِالْفَاتِحَةِ وَتَقْرَأُ آيَةَ الْكُرْسِيِّ وَأَنْتَ سَاجِدٌ ثَلَاثَ مَرَّاتٍ فَإِذَا وَصَلْتَ إِلَى قَوْلِهِ تَعَالَى ﴿وَلَا يَئُودُهُ حِفْظُهُمَا وَهُوَ الْعَلِيُّ الْعَظِيمُ﴾ كَرَّرْهَا ثَلَاثًا أَوْ سَبْعًا وَتَقُولُ أَثْنَاءَ قِرَاءَتِكَ: اللَّهُمَّ حُلَّ بَيْنِي وَبَيْنَ فُلَانٍ ابْنِ فُلَانَةَ كَمَا حَلَلْتَ بَيْنَ السَّمَاءِ وَالْأَرْضِ وَالنَّجْمِ فَاهُ عَنِّي كَمَا أَلْجَمْتَ السِّبَاعَ عَنْ دَنِّيَالَ بِحَقِّ هَذِهِ الْأَسْمَاءِ الشَّرِيفَةِ فَإِنَّكَ تَكْفِينِي شَرَّهُ وَيُلْجِمُ اللَّهُ فَاهُ عَنْكَ حَتَّى لَا يَتَكَلَّمَ فِيكَ إِلَّا بِخَيْرٍ.
+
+٤ - وَمِنْ خَوَاصِّهَا أَيْضًا: فِي جَمَاعَةٍ وَأَرَدْتَ أَنْ تَكْفِيَ شَرَّهُمْ وَأَذِيَّتَهُمْ فَاقْرَأْ آيَةَ الْكُرْسِيِّ ثَلَاثَ مَرَّاتٍ، وَانْفُثْ فِي كَفَّيْكَ ثَلَاثَ مَرَّاتٍ وَامْسَحْ بِيَدِكَ عَلَى وَجْهِكَ وَأَنْتَ تَقُولُ: اللَّهُمَّ اكْفِنِي شَرَّ هَؤُلَاءِ الْقَوْمِ يَا كَافِي وَعَافِنِي مِنْ أَذَاهُمْ يَا مُعَافِي فَإِنَّ اللَّهَ تَعَالَى يُؤَمِّنُكَ مِنْهُمْ وَلَا يَحْصُلُ لَكَ ضَرَرٌ.
+
+٥ - أَيْضًا مِنْ خَوَاصِّ آيَةِ الْكُرْسِيِّ: إِذَا قَرَأْتَهَا لَيْلًا فَإِنَّكَ تَأْمَنُ إِلَى الصَّبَاحِ وَإِذَا قَرَأْتَهَا صَبَاحًا تَأْمَنُ إِلَى الْمَسَاءِ.
+
+- وَرُوِيَ وَقِيلَ: أَنَّ رَجُلًا سَكَنَ دَارًا مَهْجُورَةً فَلَمَّا جُنَّ عَلَيْهِ اللَّيْلُ (أَيْ أَظْلَمَ) فَإِذَا يُفْتَحُ وَجَلْجَلَةٌ فَنَظَرَ الرَّجُلُ مَا فِي الْأَمْرِ فَإِذَا هُوَ مَارِدٌ قَاصِدُهُ قَالَ: فَلَمَّا رَأَيْتُهُ خِفْتُ فَأُلْهِمْتُ أَنْ قَرَأْتُ آيَةَ الْكُرْسِيِّ وَكُنْتُ كُلَّمَا أَقُولُ كَلِمَةً يَقُولُهَا مَعِي إِلَى قَوْلِهِ تَعَالَى ﴿وَلَا يَئُودُهُ حِفْظُهُمَا وَهُوَ الْعَلِيُّ الْعَظِيمُ﴾ فَلَمَّا قَالَهَا كَرَّرْتُهَا عَلَيْهِ مِرَارًا عَدِيدَةً فَغَابَ عَنِّي وَلَمْ أَرَهُ بَقِيَّةَ لَيْلِي فَلَمَّا كَانَ الصَّبَاحُ نَظَرْتُ فِي رُكْنِ الْبَيْتِ رَمَادٌ فَتَعَجَّبْتُ مِنْ ذَلِكَ. ثُمَّ قَصَصْتُ قِصَّتِي عَلَى
+
+### 2. TRANSLITERASI LATIN
+
+'alaiha (ay bima'na an la yatanawala syai'an qablahu) anfadzahullahu bifununil-hikmati wa yakunul-ibtida'u bihadzal-'amali fi syahri Naisana wa an adhafa ilaihi min ma'ihi kana ajwada. Wa idza aradath-thuhura 'alal-ayati kama dzakarna yaqra'ul-ayata sab'a marratin, tsumma yaqulu: Allahumma inni as-aluka bihaqqi hadzihil-ayatis-syarifati an tulhimani 'ilmakal-ladunniyya ya Allahu.
+
+2 — Min khawashshi Ayatil-Kursiyyi hiya li-afaqatil-mashru'i: qila: idza qara'ta Ayatal-Kursiyyi 'ala ra'si mashru'in ihda 'asyarata marratan, afaqa liwaqtihi wa in aqamal-'aridhu bil-jutsatihtaraqa.
+
+3 — Aidhan min khawashshi Ayatil-Kursiyyi idza kunta takhafu min ahadin wa hashala laka minhu dhararun fatushalliya ba'dal-maghribi rak'ataini bil-Fatihati wa taqra'u Ayatal-Kursiyyi wa anta sajidun tsalatsa marratin fa-idza washalta ila qaulihi ta'ala ﴿Wa la ya'uduhu hifzhuhuma wa huwal-'aliyyul-'azhimu﴾ karrarha tsalatsan aw sab'an wa taqulu atsna'a qira'atika: Allahumma hull baini wa baina fulanin ibni fulanata kama halalta bainas-sama'i wal-ardhi wan-najmi fahu 'anni kama aljamtas-siba'a 'an Danyala bihaqqi hadzihil-asma'isy-syarifati fa-innaka takfini syarrahu wa yuljimullahu fahu 'anka hatta la yatakallama fika illa bikhairin.
+
+4 — Wa min khawashshiha aidhan: fi jama'atin wa aradta an takfiya syarrahum wa adziyyatahum faqra' Ayatal-Kursiyyi tsalatsa marratin, wanfuts fi kaffaika tsalatsa marratin wamsah biyadika 'ala wajhika wa anta taqulu: Allahummakfini syarra haulai il-qaumi ya kafiy wa 'afini min adzahum ya mu'afiy fa-innallaha ta'ala yu'amminuka minhum wa la yahshulu laka dhararun.
+
+5 — Aidhan min khawashshi Ayatil-Kursiyyi: idza qara'taha lailan fa-innaka ta'manu ilas-shabahi wa idza qara'taha shabahan ta'manu ilal-masa'i.
+
+- Wa ruwiya wa qila: anna rajulan sakana daran mahjuratan falamma junna 'alaihil-lailu (ay azh-lama) fa-idza yuftahu wa jaljalatun fanazharar-rajulu ma fil-amri fa-idza huwa maridun qashiduhu qala: falamma ra'aitukhu khuftu fa-ulhimtu an qara'tu Ayatal-Kursiyyi wa kuntu kullama aqulu kalimatan yaquluha ma'i ila qaulihi ta'ala ﴿Wa la ya'uduhu hifzhuhuma wa huwal-'aliyyul-'azhimu﴾ falamma qalaha karrartuha 'alaihi miraran 'adidatan faghaba 'anni wa lam arahu baqiyyata laili falamma kanash-shabahu nazhartu fi ruknil-baiti ramadun fata'ajjabtu min dzalika. Tsumma qashashtu qishshati 'ala
+
+### 3. TERJEMAHAN INDONESIA
+
+… atasnya (yakni dengan makna: ia tidak memakan sesuatu sebelum (minum itu)), maka Allah menjadikannya berhasil melalui berbagai macam hikmah. Hendaklah permulaan amalan ini dilakukan pada bulan Naisan (April); dan jika ia menambahkan air (lain) ke dalamnya, itu lebih baik. Dan apabila ia hendak melakukan "thuhur" (bersuci dengan air ayat) sebagaimana kami sebutkan, ia membaca ayat itu tujuh kali, lalu berkata: "Ya Allah, aku memohon kepada-Mu dengan hak ayat yang mulia ini agar Engkau mengilhamkan kepadaku ilmu-Mu yang ladunni (langsung dari sisi-Mu), ya Allah."
+
+2 — Di antara keistimewaan Ayatul Kursi adalah untuk menyadarkan orang yang kerasukan: dikatakan, apabila engkau membaca Ayatul Kursi di atas kepala orang yang kerasukan sebelas kali, ia sadar pada saat itu; dan jika "al-'aridh" (penyebab kerasukan) tetap berada di tubuh, ia terbakar.
+
+3 — Juga di antara keistimewaan Ayatul Kursi: apabila engkau takut kepada seseorang dan engkau mendapat bahaya darinya, maka shalatlah setelah Maghrib dua rakaat dengan (surah) Al-Fatihah, lalu bacalah Ayatul Kursi dalam keadaan sujud tiga kali. Apabila engkau sampai pada firman Allah "Dan Dia tidak merasa berat memelihara keduanya, dan Dialah Yang Mahatinggi lagi Mahabesar", ulangilah tiga atau tujuh kali, dan di tengah bacaanmu engkau berkata: "Ya Allah, pisahkanlah antara aku dan Fulan bin Fulanah sebagaimana Engkau memisahkan antara langit dan bumi, dan (keluarkan) bintang mulutnya dariku sebagaimana Engkau membungkam binatang-binatang buas dari Daniyal, dengan hak nama-nama yang mulia ini; sesungguhnya Engkau mencukupkanku dari keburukannya." Maka Allah akan membungkam mulutnya darimu sehingga ia tidak berbicara tentangmu kecuali dengan kebaikan.
+
+4 — Dan di antara keistimewaannya juga: (apabila engkau berada) dalam suatu kelompok dan engkau ingin dicukupkan dari keburukan dan gangguan mereka, bacalah Ayatul Kursi tiga kali, tiupkan pada kedua telapak tanganmu tiga kali, dan usapkan tanganmu pada wajahmu sambil berkata: "Ya Allah, cukupkanlah aku dari keburukan kaum ini, wahai Yang Maha Mencukupi, dan lindungilah aku dari gangguan mereka, wahai Yang Maha Melindungi." Sesungguhnya Allah Ta'ala melindungimu dari mereka dan engkau tidak tertimpa bahaya.
+
+5 — Juga di antara keistimewaan Ayatul Kursi: apabila engkau membacanya pada malam hari, engkau aman sampai pagi; dan apabila engkau membacanya pada pagi hari, engkau aman sampai sore.
+
+- Diriwayatkan dan dikatakan: bahwa seorang lelaki tinggal di sebuah rumah yang ditinggalkan (kosong). Ketika malam telah gelap, tiba-tiba terdengar pintu terbuka dan suara gaduh. Lelaki itu melihat apa yang terjadi, ternyata ada makhluk perusak (marid) yang menghendakinya. Ia berkata: "Ketika aku melihatnya, aku takut, lalu aku diilhamkan untuk membaca Ayatul Kursi. Setiap kali aku mengucapkan satu kalimat, ia mengucapkannya bersamaku sampai firman Allah 'Dan Dia tidak merasa berat memelihara keduanya, dan Dialah Yang Mahatinggi lagi Mahabesar'. Ketika ia mengucapkannya, aku mengulanginya berkali-kali, lalu ia menghilang dariku dan aku tidak melihatnya sepanjang sisa malamku. Ketika pagi, aku melihat di sudut rumah ada abu, maka aku heran akan hal itu. Kemudian aku menceritakan kisahku kepada…" — (lanjutan ada pada halaman 93).
+
+### 4. TATACARA PRAKTIK LENGKAP
+
+- Amalan butir 1 (lanjutan dari halaman 91): menulis Ayatul Kursi dengan huruf terpisah pada gelas kaca memakai misik, za'faran, dan air mawar, lalu meminumnya sebanyak bilangan kalimatnya selama beberapa hari; pengamal berpuasa dan tidak memakan apa pun sebelum meminumnya. Waktu mulai: bulan Naisan (April); menambahkan air lain dianggap lebih baik. Untuk "bersuci" dengan air ayat: membaca ayat itu tujuh kali lalu membaca doa "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِحَقِّ هَذِهِ الْآيَةِ الشَّرِيفَةِ أَنْ تُلْهِمَنِي عِلْمَكَ اللَّدُنِّيَّ يَا اللَّهُ".
+- Butir 2: membaca Ayatul Kursi di atas kepala orang yang kerasukan 11 kali; menurut teks, ia sadar saat itu, dan bila penyebabnya tetap di tubuh ia terbakar.
+- Butir 3: shalat dua rakaat setelah Maghrib dengan Al-Fatihah, lalu membaca Ayatul Kursi dalam sujud tiga kali; saat sampai pada "وَلَا يَئُودُهُ حِفْظُهُمَا…" diulang tiga atau tujuh kali; di tengah bacaan membaca doa pemisah dengan menyebut nama: **Fulan ibni Fulanata** (laki-laki = nama orang + nama ibunya) — bila yang dimaksud perempuan, dipakai **Fulanata binti Fulanata**. Teks mencetak فُلَانٍ ابْنِ فُلَانَةَ; keduanya disebut karena naskah memakai bentuk laki-laki.
+- Butir 4: dalam kelompok yang dikhawatirkan, membaca Ayatul Kursi tiga kali, meniup kedua telapak tangan tiga kali, mengusap wajah, lalu membaca "اللَّهُمَّ اكْفِنِي شَرَّ هَؤُلَاءِ الْقَوْمِ يَا كَافِي وَعَافِنِي مِنْ أَذَاهُمْ يَا مُعَافِي".
+- Butir 5: membaca Ayatul Kursi pada malam hari (aman sampai pagi) dan pada pagi hari (aman sampai sore).
+- Riwayat rumah kosong berhantu: pembacaan Ayatul Kursi hingga ayat "وَلَا يَئُودُهُ حِفْظُهُمَا" dan pengulangannya; berita ini keterangan keutamaan, bukan tatacara tambahan.
+- Kalimat terakhir halaman terpotong di batas halaman; lanjutannya ada pada halaman 93.
+- Nama pada butir 3 adalah satu-satunya tempat di halaman ini yang memuat kata فُلَان / فُلَانَة; kaidah penulisannya dijelaskan pada butir di atas (laki-laki: Fulan ibni Fulanata; perempuan: Fulanata binti Fulanata).

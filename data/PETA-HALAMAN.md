@@ -224,3 +224,15 @@ Sejak batch Hal. 88, dokumen induk memuat **kitab dari awal**: Sampul–60
   tidak ditambahi karangan.
 - Berkas induk baru: `Sirrul-Asrar-Kitab-Hal-01-516.docx/.pdf`.
   Berkas lama `Sirrul-Asrar-Bab2-Hal-67-516.*` (mulai Hal. 67) digantikan.
+
+### Status pengerjaan Hal. 88–92 (selesai)
+
+| Hal. | Judul | Rajah | Catatan |
+|---|---|---|---|
+| 88 | Basmalah sebagai Ismullah Al-A'zham (lanjutan) + keutamaan butir 1–8 | — | 7 hari, 50×, 100×, 40×, 1.000×/3 hari, 123× Jumat |
+| 89 | Keutamaan butir 9–12 + awal bab keagungan Al-Qur'an | `hal-089-rajah-01.png` — matsalats 3×3 (satu sel `بسم/الرحمن/الرحيم`, satu sel `طلسم`, sisanya angka) | **angka tidak terbaca pasti → tidak dikarang**, gambar disalin apa adanya |
+| 90 | Tujuh makna Al-Qur'an + basmalah 786× + shalawat 132× | — (bentuk wafaq ada di 91) | janji dua wafaq 4×4 |
+| 91 | **Dua wafaq 4×4** + adab membawa + wirid ba'da Ashar Jumat + awal bab Ayatul Kursi | `hal-091-rajah-01.png` — dua wafaq 4×4 | satu wafaq berisi lafaz, satu berisi angka; angka tidak dikarang |
+| 92 | Khawash Ayatul Kursi butir 1–5 + riwayat rumah kosong | — | memuat `فُلَانٍ ابْنِ فُلَانَةَ` → kaidah Fulan diterapkan |
+
+Catatan: penghitung `wafak/rajah` pada induk naik 102 → **104**. Induk: DOCX 31.6 MB, PDF 47.19 MB, **1099 hlm** (termasuk Sampul–60).
