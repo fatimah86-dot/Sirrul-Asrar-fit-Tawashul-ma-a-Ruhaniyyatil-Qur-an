@@ -334,3 +334,15 @@ Hal. 128–130: teks saya yang kirim, dimasukkan apa adanya. Scan disertakan seb
 | 131 | Doa dan amalan untuk mata | — |
 | 132 | Lemah penglihatan dan radang mata | — |
 
+
+### Status pengerjaan Hal. 133–137
+
+| Hal. | Judul | Rajah |
+|---|---|---|
+| 133 | Sakit mata, bulu mata dan awal sakit telinga | — |
+| 134 | Sakit telinga, tuli dan awal sakit gigi | — |
+| 135 | Sakit gigi dan geraham | — |
+| 136 | Lanjutan doa, sakit mulut dan mimisan | — |
+| 137 | Mimisan, nyeri dada dan jantung | — |
+
+Catatan: 133–134 dan 135–136 memuat kalimat yang bersambung; 136–137 menyambung uraian batu akik. Teks merupakan riwayat naskah, bukan nasihat medis.
