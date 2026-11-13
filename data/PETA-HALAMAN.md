@@ -358,3 +358,15 @@ Catatan: 133–134 dan 135–136 memuat kalimat yang bersambung; 136–137 menya
 | 142 | Nyeri saraf, wasir, kutil dan luka | — |
 
 Catatan: halaman 139–140 bersambung. Riwayat bukan nasihat medis; keterangan klaim panas/bara pada halaman 138 diberi peringatan keselamatan.
+
+### Status pengerjaan Hal. 143–147
+
+| Hal. | Judul | Rajah / catatan |
+|---|---|---|
+| 143 | Benjolan, penyakit kulit dan perlindungan | — |
+| 144 | Penyakit kuning, paru dan anak | Huruf scan; [TIDAK JELAS] |
+| 145 | Lanjutan anak dan sengatan kalajengking | Scan pengulangan huruf; [TIDAK JELAS] |
+| 146 | Lanjutan sengatan kalajengking dan gigitan ular | — |
+| 147 | Gigitan ular dan sengatan serangga | — |
+
+Catatan: 143–144 dan 144–145 bersambung. Catatan keselamatan membedakan riwayat naskah dari pertolongan medis, terutama praktik terhadap anak dan gigitan atau sengatan.
