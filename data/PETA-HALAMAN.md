@@ -321,3 +321,17 @@ Catatan: induk **1178 hlm**, rajah tetap **108**, DOCX 32.18 MB, PDF 48.22 MB. V
 | 127 | Hitungan huruf dan hirz sakit kepala | — | hirz berlanjut di Hal. 128; simbol dipertahankan |
 
 Catatan: induk **1192 hlm**, **109 halaman berrajah**, DOCX 32.27 MB, PDF 48.38 MB. Verifikasi: 0 kebocoran `![`/`](`; render PDF hlm. 347 menunjukkan rajah dan simbol ✱. Generator PDF memakai font cadangan untuk simbol yang tidak tersedia pada Amiri.
+
+### Status pengerjaan Hal. 128–132
+
+Hal. 128–130: teks saya yang kirim, dimasukkan apa adanya. Scan disertakan sebagai pembanding; panduan praktik pemilik berlabel [Masukan saya].
+
+| Hal. | Judul | Rajah |
+|---|---|---|
+| 128 | Lanjutan hirz dan amalan sakit kepala | Asma dan huruf; scan pembanding |
+| 129 | Lanjutan amalan sakit kepala | Huruf; scan pembanding |
+| 130 | Huruf untuk sakit kepala dan awal bab penyakit mata | Tujuh deret huruf; scan pembanding |
+| 131 | Doa dan amalan untuk mata | — |
+| 132 | Lemah penglihatan dan radang mata | — |
+
+Catatan Arena: kiriman lengkap halaman 130 yang terakhir diterima tidak memuat rangkaian كهيعص sebagai deret tersendiri; tidak ditambahkan berdasarkan dugaan.
