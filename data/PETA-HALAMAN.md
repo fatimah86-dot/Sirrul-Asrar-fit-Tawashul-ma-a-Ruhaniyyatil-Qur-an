@@ -370,3 +370,12 @@ Catatan: halaman 139–140 bersambung. Riwayat bukan nasihat medis; keterangan k
 | 147 | Gigitan ular dan sengatan serangga | — |
 
 Catatan: 143–144 dan 144–145 bersambung. Catatan keselamatan membedakan riwayat naskah dari pertolongan medis, terutama praktik terhadap anak dan gigitan atau sengatan.
+
+### Status pengerjaan Hal. 148–149
+
+| Hal. | Judul | Rajah / catatan |
+|---|---|---|
+| 148 | Lanjutan sengatan dan khasiat Al-Baqarah, Ali Imran dan Al-Ma’idah | — |
+| 149 | Lanjutan Al-Ma’idah dan khasiat Al-An’am | — |
+
+Klaim mengenai kesehatan adalah riwayat naskah, bukan pengganti pertolongan medis.

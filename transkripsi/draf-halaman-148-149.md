@@ -1,12 +1,12 @@
 # Draf transkripsi PDF halaman 148–149
 
-Status: BELUM SELESAI, belum diverifikasi dan belum digabung ke induk.
+Transkripsi berdasarkan scan PDF halaman 148–149; keterangan tentang penyakit adalah riwayat naskah, bukan pengganti pertolongan medis.
 
 ## HALAMAN 148 — PDF hal. 148 — Khasiat beberapa surah
 
 ### 1. TEKS ARAB BERHARAKAT
 
-أَيْضًا يَنْفَعُ لِدَغِ الزَّنَابِيرِ، إِذَا أُخِذَ الْكُرَّاثُ وَدُقَّ وَجُعِلَ بِشَكْلِ لَطُوخٍ مَكَانَ اللَّدْغِ نَفَعَهُ بِإِذْنِ اللَّهِ تَعَالَى.
+أَيْضًا يَنْفَعُ لِلَدْغِ الزَّنَابِيرِ، إِذَا أُخِذَ الْكُرَّاثُ وَدُقَّ وَجُعِلَ بِشَكْلِ لَطُوخٍ مَكَانَ اللَّدْغِ نَفَعَهُ بِإِذْنِ اللَّهِ تَعَالَى.
 
 (بَابٌ فِي خَوَاصِّ بَعْضِ سُوَرِ الْقُرْآنِ الْكَرِيمِ وَهُوَ عِدَّةُ أَبْوَابٍ)
 
@@ -72,6 +72,47 @@ Aidhan yanfa'u lidaghiz-zanabir, idza ukhidzal-kurratsu wa duqqa wa ju'ila bisya
 
 Catatan keselamatan: pernyataan mengenai sengatan, kejang, kesuburan dan penyakit adalah isi riwayat, bukan pengganti penanganan medis. Sengatan dengan sesak napas, pembengkakan berat atau reaksi menyeluruh memerlukan pertolongan darurat.
 
-## HALAMAN 149 — PDF hal. 149
+## HALAMAN 149 — PDF hal. 149 — Lanjutan Al-Ma'idah dan khasiat Al-An'am
 
-Belum ditranskripsi. Harus dibaca dan diperiksa terhadap scan sebelum digabung.
+### 1. TEKS ARAB BERHARAKAT
+
+٢ - وَإِذَا شَرِبَهَا الْجَائِعُ وَالْعَطْشَانُ شَبِعَ وَرَوِيَ وَلَمْ يَضُرَّهُ عَدَمُ الْخُبْزِ وَالْمَاءِ بِقُدْرَةِ اللَّهِ تَعَالَى.
+
+(فِي خَوَاصِّ سُورَةِ الْأَنْعَامِ الْمُبَارَكَةِ)
+
+وَرَدَ فِي كِتَابِ ثَوَابِ الْأَعْمَالِ قَوْلُهُ: قَالَ أَبُو عَبْدِ اللَّهِ (عَلَيْهِ أَفْضَلُ الصَّلَاةِ وَالسَّلَامِ) فِي خَوَاصِّ سُورَةِ الْأَنْعَامِ الشَّرِيفَةِ، مَنْ كَانَتْ لَهُ إِلَى اللَّهِ حَاجَةٌ يُرِيدُ قَضَاءَهَا فَلْيُصَلِّ أَرْبَعَ رَكَعَاتٍ بِفَاتِحَةِ الْكِتَابِ وَسُورَةِ الْأَنْعَامِ وَلْيَقُلْ فِي صَلَاتِهِ إِذَا فَرَغَ مِنَ الْقِرَاءَةِ: «يَا كَرِيمُ يَا كَرِيمُ يَا كَرِيمُ يَا عَظِيمُ يَا عَظِيمُ يَا عَظِيمُ يَا أَعْظَمَ مِنْ كُلِّ عَظِيمٍ يَا سَمِيعَ الدُّعَاءِ يَا مَنْ لَا تُغَيِّرُهُ اللَّيَالِي وَالْأَيَّامُ صَلِّ عَلَى مُحَمَّدٍ وَآلِ مُحَمَّدٍ وَارْحَمْ ضَعْفِي وَفَقْرِي وَفَاقَتِي وَمَسْكَنَتِي، يَا مَنْ رَحِمَ الشَّيْخَ يَعْقُوبَ حِينَ رَدَّ عَلَيْهِ يُوسُفَ قُرَّةَ عَيْنِهِ، يَا مَنْ رَحِمَ أَيُّوبَ بَعْدَ طُولِ بَلَائِهِ، يَا مَنْ رَحِمَ مُحَمَّدًا وَمِنَ الْيُتْمِ آوَاهُ وَنَصَرَهُ عَلَى جَبَابِرَةِ قُرَيْشٍ وَطَوَاغِيتِهَا وَأَمْكَنَهُ مِنْهُمْ، يَا مُغِيثُ يَا مُغِيثُ يَا مُغِيثُ» تَقُولُ ذَلِكَ مِرَارًا، فَوَالَّذِي نَفْسِي بِيَدِهِ لَوْ دَعَوْتَ اللَّهَ بِهَا ثُمَّ سَأَلْتَ اللَّهَ جَمِيعَ حَوَائِجِكَ لَأَعْطَاكَ.
+
+٢ - أَيْضًا خَوَاصُّ سُورَةِ الْأَنْعَامِ الْمُبَارَكَةِ: وَرَدَ فِي كِتَابِ طِبِّ الْأَئِمَّةِ عَلَيْهِمْ أَفْضَلُ السَّلَامِ، عَنْ سَلَامَةَ بْنِ عَمْرٍو الْهَمْدَانِيِّ، قَالَ: دَخَلْتُ الْمَدِينَةَ فَأَتَيْتُ أَبَا عَبْدِ اللَّهِ (عَلَيْهِ أَفْضَلُ السَّلَامِ) فَقُلْتُ لَهُ يَا بْنَ رَسُولِ اللَّهِ اعْتَلَلْتُ عَلَى أَهْلِ بَيْتِي بِالْحَجِّ وَأَتَيْتُكَ مُسْتَجِيرًا مُسْتَسِرًّا مِنْ أَهْلِ بَيْتِي مِنْ عِلَّةٍ أَصَابَتْنِي وَهِيَ الدَّاءُ الْخَبِيثَةُ (سُلْطَانٌ)، قَالَ أَقِمْ فِي جِوَارِ رَسُولِ اللَّهِ ﷺ وَفِي حَرَمِهِ وَأَمْنِهِ، وَاكْتُبْ سُورَةَ الْأَنْعَامِ بِالْعَسَلِ وَاشْرَبْهُ فَإِنَّهُ يَذْهَبُ عَنْكَ.
+
+٣ - أَيْضًا مِنْ خَوَاصِّ سُورَةِ الْأَنْعَامِ الْمُبَارَكَةِ: عَنِ الْإِمَامِ جَعْفَرٍ الصَّادِقِ (عَلَيْهِ أَفْضَلُ السَّلَامِ) أَنَّهُ قَالَ: إِذَا كُتِبَتْ بِمِسْكٍ وَزَعْفَرَانٍ شَعْرٍ وَشَرِبَهَا الْمَرْءُ ثَلَاثَةَ أَيَّامٍ مُتَوَالِيَةٍ نَظَرَ أَبَدًا خَيْرًا وَلَمْ يَرَ سُوءًا وَعُوفِيَ مِنَ الْأَوْجَاعِ كُلِّهَا وَالْأَوْرَامِ وَالطِّحَالِ، وَإِذَا عُلِّقَتْ عَلَى الدَّوَابِّ أَمِنَتْ مِنْ جَمِيعِ الْمَخَافَاتِ وَصَحَّتِ الدَّابَّةُ فِي جِسْمِهَا وَأَمِنَتْ مِنَ الْهُزَالِ وَالِاصْطِكَاكِ وَمَا يَحْدُثُ فِي الدَّوَابِّ مِنَ الْأَمْرَاضِ إِلَى الْوَقْتِ الْمَعْلُومِ بِإِذْنِ اللَّهِ تَعَالَى، وَمَنْ قَرَأَهَا فِي كُلِّ لَيْلَةٍ أَمِنَ فِيهَا مِمَّنْ يَطْرُقُ وَيُحْرَسُ بِإِذْنِ اللَّهِ تَعَالَى إِلَى النَّهَارِ.
+
+### 2. TRANSLITERASI LATIN
+
+2. Wa idza syaribahal-ja'i'u wal-'athsyanu syabi'a wa rawiya wa lam yadhurruhu 'adamul-khubzi wal-ma'i biqudratillahi ta'ala.
+
+(Fi khawashshi suratil-An'amil-mubarakah)
+
+Warada fi kitabi Tsawabil-A'mali qauluh: qala Abu 'Abdillah ('alaihi afdhalush-shalati was-salam) fi khawashshi suratil-An'amis-syarifah, man kanat lahu ilallahi hajatun yuridu qadha'aha falyushalli arba'a raka'atin bifatihatil-kitabi wa suratil-An'ami walyaqul fi shalatihi idza faragha minal-qira'ah: «Ya karimu ya karimu ya karim ya 'azhimu ya 'azhimu ya 'azhim ya a'zhama min kulli 'azhim ya sami'ad-du'a ya man la tughayyiruhul-layali wal-ayyamu shalli 'ala Muhammadin wa ali Muhammadin warham dha'fi wa faqri wa faqati wa maskanati, ya man rahimasy-syaikha Ya'quba hina radda 'alaihi Yusufa qurrata 'ainih, ya man rahima Ayyuba ba'da thuli bala'ih, ya man rahima Muhammadan wa minal-yutmi awahu wa nasharahu 'ala jababirati Quraisyin wa thawaghitiha wa amkanahu minhum, ya mughitsu ya mughitsu ya mughits» taqulu dzalika miraran, fawalladzi nafsi biyadihi law da'autallaha biha tsumma sa'altallaha jami'a hawa'ijika la-a'thak.
+
+2. Aidhan khawashshu suratil-An'amil-mubarakah: warada fi kitabi Thibbil-A'immati 'alaihim afdhalus-salam, 'an Salamata bni 'Amrin al-Hamdani, qala: dakhaltul-Madinata fa-ataitu Aba 'Abdillah ('alaihi afdhalus-salam) faqultu lahu ya bna rasulillahi i'talaltu 'ala ahli baiti bil-hajji wa ataituka mustajiran mustasirr'an min ahli baiti min 'illatin ashabatni wa hiyad-da'ul-khabitsah (sulthan), qala aqim fi jiwari rasulillahi shallallahu 'alaihi wa sallam wa fi haramihi wa amnihi, waktub suratal-An'ami bil-'asali wasyrabhu fa-innahu yadzhabu 'ank.
+
+3. Aidhan min khawashshi suratil-An'amil-mubarakah: 'anil-imami Ja'farinish-Shadiq ('alaihi afdhalus-salam) annahu qala: idza kutibat bimiskin wa za'farani sya'rin wa syaribahal-mar'u tsalatsata ayyamin mutawaliyatin nazhara abadan khairan wa lam yara su'an wa 'ufiya minal-auja'i kulliha wal-awrami wath-thihal, wa idza 'ulliqat 'alad-dawabbi aminat min jami'il-makhafati wa shahhatid-dabbatu fi jismiha wa aminat minal-huzali wal-isthikaki wa ma yahdutsu fid-dawabbi minal-amradhi ilal-waqtil-ma'lumi bi-idznillahi ta'ala, wa man qara'aha fi kulli lailatin amina fiha mimman yathruqu wa yuhrasu bi-idznillahi ta'ala ilan-nahar.
+
+### 3. TERJEMAHAN INDONESIA
+
+2. [Lanjutan:] Disebutkan bahwa apabila orang lapar dan haus meminumnya, ia kenyang dan hilang hausnya serta tidak dirugikan oleh ketiadaan roti dan air, dengan kuasa Allah.
+
+(Tentang khasiat Surah Al-An'am)
+
+Dalam Tsawab al-A'mal disebutkan dari Abu Abdullah: orang yang mempunyai hajat kepada Allah dan ingin hajatnya dipenuhi hendaklah shalat empat rakaat dengan Al-Fatihah dan Surah Al-An'am. Setelah selesai membaca dalam shalatnya, hendaklah ia mengucapkan: “Wahai Yang Mulia, wahai Yang Mulia, wahai Yang Mulia; wahai Yang Mahaagung, wahai Yang Mahaagung, wahai Yang Mahaagung; wahai Yang lebih agung dari setiap yang agung; wahai Yang Mendengar doa; wahai yang tidak diubah oleh malam dan hari, limpahkan shalawat kepada Muhammad dan keluarga Muhammad dan kasihilah kelemahan, kemiskinan, kekurangan dan ketidakberdayaanku. Wahai yang mengasihi Ya'qub yang lanjut usia ketika mengembalikan Yusuf, penyejuk matanya; wahai yang mengasihi Ayyub setelah panjang cobaannya; wahai yang mengasihi Muhammad, memberinya tempat berlindung dari keadaan yatim, menolongnya atas para penguasa angkuh dan durjana Quraisy, serta memberinya kuasa atas mereka. Wahai Penolong, wahai Penolong, wahai Penolong.” Ucapkan berulang kali; naskah menyebut bahwa orang yang memohon hajatnya dengan doa ini akan diberi.
+
+2. Dalam Thibb al-A'immah diriwayatkan dari Salamah bin Amr al-Hamdani: ia datang ke Madinah menemui Abu Abdullah dan mengatakan bahwa ia menggunakan haji sebagai alasan kepada keluarganya, padahal ia datang diam-diam untuk meminta pertolongan karena penyakit berat yang menimpanya, disebut dalam naskah sebagai penyakit ganas, dengan kata «سلطان» dalam tanda kurung. Ia diminta tinggal di sekitar Rasulullah ﷺ, di tanah haram dan tempat aman beliau, serta menulis Surah Al-An'am dengan madu dan meminumnya; naskah menyatakan penyakit itu akan hilang.
+
+3. Dari Imam Ja'far ash-Shadiq: naskah menyebut surah ditulis dengan misik dan za'faran lalu diminum selama tiga hari berturut-turut; disebut orang itu melihat kebaikan dan mendapat kesehatan dari sakit, benjolan dan sakit limpa. Jika digantungkan pada hewan tunggangan, naskah menyebut hewan itu terjaga dari ketakutan, sehat tubuhnya dan aman dari kekurusan, gesekan dan penyakit hingga waktu yang ditentukan. Siapa membacanya setiap malam disebut aman dari orang yang datang dan dijaga sampai pagi dengan izin Allah.
+
+### 4. TATACARA PRAKTIK LENGKAP
+
+1. Riwayat pertama menyebut shalat empat rakaat dengan Al-Fatihah dan Al-An'am, lalu membaca doa yang tercantum berulang kali setelah bacaan dalam shalat.
+2. Riwayat lainnya menyebut tulisan surah dengan madu atau misik dan za'faran, termasuk jangka tiga hari; ada pula keterangan tentang hewan dan membaca setiap malam.
+
+Peringatan keselamatan: pernyataan tentang kanker, kelaparan, kehausan dan penyakit hewan adalah riwayat naskah, bukan bukti pengobatan. Jangan mengganti makanan, air, diagnosis atau terapi medis dan dokter hewan; jangan meminum bahan yang keamanannya tidak diketahui.

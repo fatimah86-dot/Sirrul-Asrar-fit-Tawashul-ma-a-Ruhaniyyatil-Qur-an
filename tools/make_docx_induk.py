@@ -227,7 +227,7 @@ def build_docx():
     doc.add_paragraph().add_run('CATATAN CAKUPAN').bold = True
     for line in [
         'Dokumen induk ini memuat %d halaman naskah yang sudah ditranskripsi: '
-        'Sampul–60 (PDF 1–66), 67–147, dan 239–516.' % len(pages),
+        'Sampul–60 (PDF 1–66), 67–149, dan 239–516.' % len(pages),
         'Nomor halaman mengikuti nomor halaman naskah (lihat data/PETA-HALAMAN.md);'
         ' halaman 148–238 BELUM dikerjakan dan TIDAK dikarang.',
         'Tanda [TIDAK JELAS] dan [TEKS ASLI DIJAGA] dipertahankan apa adanya; '
@@ -529,7 +529,7 @@ def build_pdf():
     c.setFont('DejaVu', 9)
     notes = [
         'Dokumen induk memuat %d halaman naskah yang sudah ditranskripsi:' % len(pages),
-        'Sampul–60 (PDF 1–66), 67–147, dan 239–516.',
+        'Sampul–60 (PDF 1–66), 67–149, dan 239–516.',
         'Halaman 148–238 BELUM dikerjakan dan TIDAK dikarang.',
         'Setiap judul menyebut nomor halaman naskah asli agar mudah dicocokkan dengan rajah.',
         'Tanda [TIDAK JELAS] / [TEKS ASLI DIJAGA] dipertahankan apa adanya.',
