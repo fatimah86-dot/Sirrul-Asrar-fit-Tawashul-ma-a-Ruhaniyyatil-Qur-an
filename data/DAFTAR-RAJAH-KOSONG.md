@@ -241,3 +241,11 @@ Gambar asal PDF ditinjau terhadap tepi aslinya; simbol yang tidak terbaca tidak 
 - **485, 486, 487:** tidak ada rajah di aslinya; halaman berisi teks.
 
 Duplikat cocok berkas dan ukuran; media dan lampiran lama dan revisi 38/41 tetap utuh.
+
+### Pemeriksaan PDF 488–492
+
+- **488 dan 489:** tidak ada rajah di aslinya; halaman daftar promosi, penanda penghapusan sebelumnya dipertahankan.
+- **490:** tidak ada rajah di aslinya; halaman judul memiliki bingkai hias, bukan rajah.
+- **491 dan 492:** tidak ada rajah di aslinya; halaman teks.
+
+Tidak ada gambar yang dipaksakan atau perubahan Word pada lima halaman ini; revisi pemilik 38 dan 41 serta lampiran tetap utuh.
