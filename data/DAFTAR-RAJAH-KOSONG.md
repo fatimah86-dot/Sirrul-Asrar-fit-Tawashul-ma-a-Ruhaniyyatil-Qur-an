@@ -203,3 +203,13 @@ Gambar tambahan berasal dari PDF, tanpa menggambar ulang; simbol yang tidak terb
 - **467:** badan hanya memuat tiga kotak dan terduplikasi; kedua potongan diganti crop tujuh kotak lengkap. Rajah dua baris di bawah ditambahkan.
 
 Duplikat disebut identik setelah cocok berkas dan ukuran. Crop dari PDF, bagian kurang jelas tidak ditebak, lihat gambar; media dan lampiran lama serta revisi pemilik 38 dan 41 tetap utuh.
+
+### Pemeriksaan PDF 468–472
+
+- **468:** rajah tabel besar atas hilang, ditambahkan; duplikat badan kedua empat kotak identik dihapus, pertama tetap.
+- **469:** tidak ada rajah di aslinya; teks dan angka tercetak tidak dipaksakan menjadi gambar.
+- **470:** gambar atas dan rajah telur pertama hilang, ditambahkan. Duplikat kedua gambar baris telur kedua identik dihapus. **[TIDAK JELAS — terpotong di naskah asli]** Dua baris telur kedua terpotong sisi kanan pada sumber; tidak ditambahkan atau ditebak, gambar badan pertama dipertahankan.
+- **471:** crop badan terpotong di bagian atas tanda luar; diganti crop yang lebih lengkap dari PDF.
+- **472:** gambar badan cocok dengan sumber, dipertahankan; detail buram pada sumber tidak ditebak.
+
+Duplikat yang dihapus cocok berkas dan ukuran; media lama, lampiran serta revisi pemilik 38/41 tetap utuh. Simbol tidak diterjemahkan, lihat gambar.
