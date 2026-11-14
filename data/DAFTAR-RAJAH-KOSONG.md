@@ -57,7 +57,7 @@ Bagian revisi pemilik lama 32→38 dan 35→41 sudah memiliki gambar dan tetap d
 
 ## Kandidat duplikasi gambar, perlu pencocokan isi dengan PDF
 
-Pemeriksaan otomatis menemukan gambar badan duplikat di halaman berikut yang mempunyai lebih dari satu crop sumber: **262–276, 285, 429–431, 442–444, 446–447, 451, 457–460, 462–465, 467–468, 470, 473–474, 477–478, 481 dan 484**. Ini kandidat hilang sebagian, bukan konfirmasi final: isi masing-masing gambar masih harus dibandingkan dengan sumber. Nomornya adalah label Word saat ini; nomor PDF harus dipastikan dari isi.
+Pemeriksaan otomatis menemukan gambar badan duplikat di halaman berikut yang mempunyai lebih dari satu crop sumber: **267–276, 285, 429–431, 442–444, 446–447, 451, 457–460, 462–465, 467–468, 470, 473–474, 477–478, 481 dan 484**. Ini kandidat hilang sebagian, bukan konfirmasi final: isi masing-masing gambar masih harus dibandingkan dengan sumber. Nomornya adalah label Word saat ini; nomor PDF harus dipastikan dari isi.
 
 ## Pemeriksaan duplikat satu per satu: halaman 242–246
 
@@ -100,3 +100,15 @@ Pencocokan dengan masing-masing PDF mengonfirmasi gambar pertama hilang dan gamb
 Pemeriksaan kualitas di atas membandingkan file dan pengaturan di Word, belum memeriksa tampilan hasil cetak. Gambar baru ditambahkan di badan, bukan di lampiran; kandidat lain belum dicocokkan satu per satu.
 
 **Pembaruan persetujuan:** duplikat badan halaman 242–246 di atas telah dihapus satu per halaman sesuai persetujuan: salinan pertama tetap, salinan kedua dihapus. Lampiran dan media lama tidak dihapus.
+
+## Batch otonom 262–266
+
+Isi dan nomor Word dicocokkan dengan PDF halaman yang sama. Semua kurang **sebagian**, dan gambar yang hilang ditambahkan di akhir badan. Setiap duplikat di bawah adalah dua kemunculan file dan ukuran/pemotongan yang sama di badan; salinan pertama disimpan dan kedua dihapus. Gambar di lampiran tidak dihapus.
+
+| Word / PDF | Rajah hilang yang ditambahkan | Duplikat badan yang dikurangi |
+|---|---|---|
+| 262 / 262 | Al-Haqqah | Nuh `image69.png` |
+| 263 / 263 | Al-Jinn | Al-Muddaththir `image71.png` |
+| 264 / 264 | Al-Qiyamah | Al-Mursalat `image73.png` |
+| 265 / 265 | An-Naba | ‘Abasa `image75.png` |
+| 266 / 266 | At-Takwir | Al-Mutaffifin `image77.png` |
