@@ -183,3 +183,13 @@ Crop bersumber dari PDF dan dibandingkan dengan halaman asal; bagian tulisan yan
 - **457:** gambar badan memuat bagian kedua rajah atas dan gambar wajah, tetapi bagian pertama rajah atas hilang; crop lengkap bagian pertama ditambahkan. Duplikat kedua gambar wajah identik berkas dan ukuran dihapus, pertama dipertahankan.
 
 Seluruh media lama dan lampiran tetap; revisi pemilik 38 dan 41 identik. Simbol yang kurang jelas tidak ditebak, lihat gambar.
+
+### Pemeriksaan PDF 458–462
+
+- **458:** rajah pertama hilang; rajah kedua badan terpotong bawah. Kedua gambar badan identik yang terpotong diganti dengan dua crop lengkap PDF.
+- **459:** kelompok tanda rajah atas hilang dan ditambahkan. Dua gambar badan rajah bawah berkas dan ukuran sama; pertama dipertahankan, kedua dihapus.
+- **460:** tabel angka atas hilang dan ditambahkan. Dua gambar badan baris bawah identik dikurangi satu; baris kedua di bawahnya **[TIDAK JELAS — terpotong di naskah asli]**, sisi kanan terpotong pada sumber, tidak ditempel dan tidak ditebak.
+- **461:** rajah badan sesuai sumber dan dipertahankan.
+- **462:** rajah atas **[TIDAK JELAS — terpotong di naskah asli]**, sisi kanan tertutup/terpotong pada sumber; tidak ditempel dan tidak ditebak. Rajah bawah pada badan terpotong bagian bawah; dua salinan identik diganti crop yang lebih lengkap.
+
+Gambar tambahan berasal dari PDF, tanpa menggambar ulang; simbol yang tidak terbaca tidak ditebak, lihat gambar. Media lama, lampiran dan revisi pemilik 38/41 tetap utuh.
