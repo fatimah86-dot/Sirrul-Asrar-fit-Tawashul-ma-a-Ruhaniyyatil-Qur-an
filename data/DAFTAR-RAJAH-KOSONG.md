@@ -98,3 +98,5 @@ Pencocokan dengan masing-masing PDF mengonfirmasi gambar pertama hilang dan gamb
 | 261 / 261 | Al-Mulk `image67.png` ×2 | At-Talaq `image66.png` | At-Tahrim |
 
 Pemeriksaan kualitas di atas membandingkan file dan pengaturan di Word, belum memeriksa tampilan hasil cetak. Gambar baru ditambahkan di badan, bukan di lampiran; kandidat lain belum dicocokkan satu per satu.
+
+**Pembaruan persetujuan:** duplikat badan halaman 242–246 di atas telah dihapus satu per halaman sesuai persetujuan: salinan pertama tetap, salinan kedua dihapus. Lampiran dan media lama tidak dihapus.
