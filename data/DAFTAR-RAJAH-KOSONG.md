@@ -26,6 +26,12 @@ Daftar ini mencatat hasil yang sudah dapat dibedakan, bukan klaim bahwa semua 51
 | 245 | 245 | Wafaq Maryam dan Taha | Hilang sebagian: Maryam belum ada; Taha terpasang dua kali di badan. **Sudah ditambah di badan.** |
 | 246 | 246 | Wafaq Al-Anbiya, Al-Hajj, Al-Mu’minun | Hilang sebagian: Al-Anbiya belum ada; Al-Mu’minun terpasang dua kali di badan. **Sudah ditambah di badan.** |
 
+| 247 | 247 | Wafaq An-Nur, Al-Furqan, Ash-Shu’ara | Hilang sebagian: An-Nur belum ada; Ash-Shu’ara terpasang dua kali di badan. **Sudah ditambah di badan.** |
+| 248 | 248 | Wafaq An-Naml, Al-Qasas, Al-‘Ankabut | Hilang sebagian: An-Naml belum ada; Al-‘Ankabut terpasang dua kali di badan. **Sudah ditambah di badan.** |
+| 259 | 259 | Wafaq Al-Hashr, Al-Mumtahanah, As-Saff | Hilang sebagian: Al-Hashr belum ada; As-Saff terpasang dua kali di badan. **Sudah ditambah di badan.** |
+| 260 | 260 | Wafaq Al-Jumu’ah, Al-Munafiqun, At-Taghabun | Hilang sebagian: Al-Jumu’ah belum ada; At-Taghabun terpasang dua kali di badan. **Sudah ditambah di badan.** |
+| 261 | 261 | Wafaq At-Tahrim, At-Talaq, Al-Mulk | Hilang sebagian: At-Tahrim belum ada; Al-Mulk terpasang dua kali di badan. **Sudah ditambah di badan.** |
+
 ## B. Di naskah asli tidak ada rajah
 
 | Word lama | PDF sumber | Hasil |
@@ -51,7 +57,7 @@ Bagian revisi pemilik lama 32→38 dan 35→41 sudah memiliki gambar dan tetap d
 
 ## Kandidat duplikasi gambar, perlu pencocokan isi dengan PDF
 
-Pemeriksaan otomatis menemukan gambar badan duplikat di halaman berikut yang mempunyai lebih dari satu crop sumber: **247–248, 259–276, 285, 429–431, 442–444, 446–447, 451, 457–460, 462–465, 467–468, 470, 473–474, 477–478, 481 dan 484**. Ini kandidat hilang sebagian, bukan konfirmasi final: isi masing-masing gambar masih harus dibandingkan dengan sumber. Nomornya adalah label Word saat ini; nomor PDF harus dipastikan dari isi.
+Pemeriksaan otomatis menemukan gambar badan duplikat di halaman berikut yang mempunyai lebih dari satu crop sumber: **262–276, 285, 429–431, 442–444, 446–447, 451, 457–460, 462–465, 467–468, 470, 473–474, 477–478, 481 dan 484**. Ini kandidat hilang sebagian, bukan konfirmasi final: isi masing-masing gambar masih harus dibandingkan dengan sumber. Nomornya adalah label Word saat ini; nomor PDF harus dipastikan dari isi.
 
 ## Pemeriksaan duplikat satu per satu: halaman 242–246
 
@@ -66,3 +72,29 @@ Dibandingkan dengan PDF sumber dan isi gambar di badan dan lampiran. Gambar yang
 | 246 / 246 | Al-Mu’minun `image34.png` ×2 | Al-Hajj `image33.png` | Duplikat badan; usulkan menyisakan satu, tunggu persetujuan. Al-Anbiya sudah ditambahkan. |
 
 Tidak ada duplikat yang dihapus atau dipindah pada batch ini. Gambar yang baru ditambahkan hanya di badan, bukan di lampiran. Kandidat lain masih menunggu pencocokan satu per satu.
+
+## Kualitas pasangan duplikat badan 242–246
+
+Masing-masing pasangan mengacu pada berkas gambar tertanam **yang sama**, dengan ukuran tampilan dan parameter pemotongan Word sama (semua sisi 0%). Karena itu tidak ada satu yang lebih tajam atau lebih kabur di antara kedua salinan dalam pasangan. Kotak wafaq tampak utuh; potongan huruf judul di tepi atas gambar tetap sama pada kedua salinan. Ini bukan penilaian kualitas cetak setelah Word dirender.
+
+| Halaman | Pasangan ganda | Yang diusulkan disimpan / dihapus kelak |
+|---|---|---|
+| 242 | Hud, `image27.png` dua kali | Simpan kemunculan pertama di badan, hapus kemunculan kedua **hanya setelah persetujuan**; kualitas sama. |
+| 243 | Ibrahim, `image29.png` dua kali | Simpan pertama, hapus kedua **hanya setelah persetujuan**; kualitas sama. |
+| 244 | Al-Kahf, `image31.png` dua kali | Simpan pertama, hapus kedua **hanya setelah persetujuan**; kualitas sama. |
+| 245 | Taha, `image32.png` dua kali | Simpan pertama, hapus kedua **hanya setelah persetujuan**; kualitas sama. |
+| 246 | Al-Mu’minun, `image34.png` dua kali | Simpan pertama, hapus kedua **hanya setelah persetujuan**; kualitas sama. |
+
+## Pemeriksaan duplikat badan 247–248 dan 259–261
+
+Pencocokan dengan masing-masing PDF mengonfirmasi gambar pertama hilang dan gambar terakhir terpasang dua kali di badan sebelum batch ini. Gambar badan dan lampiran adalah salinan antarbagian yang harus dipertahankan. Dalam setiap pasangan duplikat badan berikut, kedua salinan mengacu pada file yang sama, dengan ukuran tampilan dan pemotongan Word sama; tidak ada yang lebih jelas dari pasangannya. Usulan adalah menyimpan yang pertama dan menghapus yang kedua **setelah persetujuan**, tetapi tidak ada yang dihapus dalam batch ini. Kotak wafaq dalam pasangan tampak utuh; sebagian judul di atas kotak terpotong pada file lama yang sama. Untuk halaman 260 gambar lama juga memuat sebagian teks di luar kotak; keduanya sama.
+
+| Word / PDF | Gambar duplikat di badan | Gambar lain di badan | Tambahan asli pada batch |
+|---|---|---|---|
+| 247 / 247 | Ash-Shu’ara `image36.png` ×2 | Al-Furqan `image35.png` | An-Nur |
+| 248 / 248 | Al-‘Ankabut `image38.png` ×2 | Al-Qasas `image37.png` | An-Naml |
+| 259 / 259 | As-Saff `image63.png` ×2 | Al-Mumtahanah `image62.png` | Al-Hashr |
+| 260 / 260 | At-Taghabun `image65.png` ×2 | Al-Munafiqun `image64.png` | Al-Jumu’ah |
+| 261 / 261 | Al-Mulk `image67.png` ×2 | At-Talaq `image66.png` | At-Tahrim |
+
+Pemeriksaan kualitas di atas membandingkan file dan pengaturan di Word, belum memeriksa tampilan hasil cetak. Gambar baru ditambahkan di badan, bukan di lampiran; kandidat lain belum dicocokkan satu per satu.
