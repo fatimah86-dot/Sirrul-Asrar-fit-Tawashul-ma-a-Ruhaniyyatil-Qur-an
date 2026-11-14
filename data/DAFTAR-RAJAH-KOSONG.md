@@ -233,3 +233,11 @@ Duplikat sama berkas dan ukuran; semua media lama, lampiran, dan revisi 38/41 di
 - **482:** dua gambar badan hanya potongan rajah pertama; diganti crop lengkap. Rajah lima baris dan ilustrasi kunci pada sumber ditambahkan; gambar teks badan lain dipertahankan.
 
 Gambar asal PDF ditinjau terhadap tepi aslinya; simbol yang tidak terbaca tidak ditebak. Duplikat dinilai dari relasi, ukuran dan crop; media dan lampiran lama serta revisi 38/41 tetap.
+
+### Pemeriksaan PDF 483–487
+
+- **483:** rajah pada badan cocok dengan sumber dan dipertahankan.
+- **484:** simbol di bagian atas hilang dan crop sumbernya ditambahkan. Dua gambar badan rajah besar identik dikurangi satu; gambar pertama dipertahankan. [TIDAK JELAS — terpotong di naskah asli] bagian bawah tulisan rajah besar sudah terpotong di sumber, tidak ditebak atau dilengkapi.
+- **485, 486, 487:** tidak ada rajah di aslinya; halaman berisi teks.
+
+Duplikat cocok berkas dan ukuran; media dan lampiran lama dan revisi 38/41 tetap utuh.
