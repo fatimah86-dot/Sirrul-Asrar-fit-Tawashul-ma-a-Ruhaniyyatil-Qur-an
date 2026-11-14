@@ -57,7 +57,7 @@ Bagian revisi pemilik lama 32→38 dan 35→41 sudah memiliki gambar dan tetap d
 
 ## Kandidat duplikasi gambar, perlu pencocokan isi dengan PDF
 
-Pemeriksaan otomatis menemukan gambar badan duplikat di halaman berikut yang mempunyai lebih dari satu crop sumber: **267–276, 285, 429–431, 442–444, 446–447, 451, 457–460, 462–465, 467–468, 470, 473–474, 477–478, 481 dan 484**. Ini kandidat hilang sebagian, bukan konfirmasi final: isi masing-masing gambar masih harus dibandingkan dengan sumber. Nomornya adalah label Word saat ini; nomor PDF harus dipastikan dari isi.
+Pemeriksaan otomatis menemukan gambar badan duplikat di halaman berikut yang mempunyai lebih dari satu crop sumber: **272–276, 285, 429–431, 442–444, 446–447, 451, 457–460, 462–465, 467–468, 470, 473–474, 477–478, 481 dan 484**. Ini kandidat hilang sebagian, bukan konfirmasi final: isi masing-masing gambar masih harus dibandingkan dengan sumber. Nomornya adalah label Word saat ini; nomor PDF harus dipastikan dari isi.
 
 ## Pemeriksaan duplikat satu per satu: halaman 242–246
 
@@ -112,3 +112,15 @@ Isi dan nomor Word dicocokkan dengan PDF halaman yang sama. Semua kurang **sebag
 | 264 / 264 | Al-Qiyamah | Al-Mursalat `image73.png` |
 | 265 / 265 | An-Naba | ‘Abasa `image75.png` |
 | 266 / 266 | At-Takwir | Al-Mutaffifin `image77.png` |
+
+## Batch otonom 267–271
+
+Nomor dan isi dicocokkan dengan PDF; rajah pertama yang hilang sebagian ditambahkan dari PDF. Duplikat badan identik dalam file dan ukuran dipertahankan yang pertama, dihapus yang kedua; lampiran tetap.
+
+| Word / PDF | Rajah ditambahkan | Duplikat badan yang dikurangi |
+|---|---|---|
+| 267 / 267 | Al-Inshiqaq | At-Tariq `image79.png` |
+| 268 / 268 | Al-A’la | Al-Fajr `image81.png` |
+| 269 / 269 | Al-Balad | Al-Layl `image83.png` |
+| 270 / 270 | Ad-Duha | Al-‘Alaq `image85.png` |
+| 271 / 271 | Al-Qadr | Al-Bayyinah `image86.png` |
