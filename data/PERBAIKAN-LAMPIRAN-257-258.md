@@ -1,0 +1,3 @@
+# Penambahan lampiran wafak Hal. 257–258
+
+Naskah sumber memiliki wafak pada halaman ini; sebelumnya lampiran Word tidak memiliki label atau gambar untuk nomor-nomor ini. Ditambahkan label sebelum gambar dan crop sumber yang telah dicocokkan di badan, menurut urutan sumber: 257 An-Najm, Al-Qamar, Ar-Rahman; 258 Al-Waqiah, Al-Hadid, Al-Mujadila. Sumber adalah PDF kitab 516 halaman, bukan lampiran terpisah. Tidak menggambar ulang angka atau simbol. Pengulangan di badan dan lampiran memang untuk menyediakan kedua lokasi, bukan duplikat antarwafak dalam satu kelompok. Tata letak hasil ekspor masih perlu diverifikasi.
