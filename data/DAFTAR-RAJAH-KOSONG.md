@@ -164,3 +164,13 @@ Crop baru diambil langsung dari PDF sumber dan diperiksa terhadap keempat sisi, 
 - **446:** rajah besar yang hilang dan rajah tiga baris yang sebelumnya hanya dua baris ditempel lengkap di akhir bagian. Kedua duplikat badan lama identik dihapus sebagai pengganti crop yang lebih lengkap; lampiran dan media lama tetap.
 
 Sebagian huruf dan simbol pada sumber tidak jelas; lihat gambar, tanpa menebak atau menerjemahkan isi rajah. Pencatatan ini tidak menyatakan halaman lain sudah diperiksa.
+
+### Pemeriksaan PDF 447, 448, 450–452
+
+- **447:** rajah baris atas hilang di badan; crop PDF lengkap ditambahkan setelah teks. Dua salinan badan rajah baris bawah memiliki berkas dan ukuran sama: pertama dipertahankan, kedua dihapus.
+- **448:** rajah badan terpotong pada tulisan di atas dan bawah; diganti crop PDF yang mencakup sisi-sisi tersebut.
+- **450:** dua gambar badan hanya memperlihatkan bagian-bagian tabel dan baris bawah, tanpa gambar timbangan dan tokoh di atas. Diganti satu crop sumber lengkap mencakup gambar dan tanda di sekelilingnya.
+- **451:** rajah atas hilang di badan dan ditambahkan dari PDF. Dua gambar badan rajah bawah identik berkas dan ukuran: pertama dipertahankan, kedua dihapus.
+- **452:** gambar badan cocok dengan rajah pada sumber dan lengkap; dipertahankan tanpa perubahan.
+
+Crop bersumber dari PDF dan dibandingkan dengan halaman asal; bagian tulisan yang kurang jelas tetap bertanda [TIDAK JELAS], lihat gambar. Media lama dan lampiran tetap utuh; bagian revisi pemilik 38 dan 41 tetap identik.
