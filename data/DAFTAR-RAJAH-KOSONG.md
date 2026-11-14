@@ -223,3 +223,13 @@ Duplikat yang dihapus cocok berkas dan ukuran; media lama, lampiran serta revisi
 - **477:** barisan rajah atas hilang dan ditambahkan; duplikat kedua rajah bawah identik dihapus, pertama dipertahankan.
 
 Duplikat sama berkas dan ukuran; semua media lama, lampiran, dan revisi 38/41 dipertahankan. Simbol tidak ditafsirkan; lihat gambar.
+
+### Pemeriksaan PDF 478–482
+
+- **478:** rajah atas yang hilang ditambahkan; duplikat badan kedua rajah bawah identik dihapus, pertama dipertahankan.
+- **479:** gambar badan sosok hanya bagian bawah, diganti crop lengkap; gambar tiga baris lain dipertahankan.
+- **480:** dua salinan identik badan hanya bagian oval rajah pertama; diganti crop PDF lengkap dengan tabel di atasnya. Dua kelompok rajah lain yang hilang ditambahkan.
+- **481:** rajah atas hilang; rajah tengah dan tabel bawah di badan terpotong. Ketiga gambar lengkap dari PDF ditambahkan menggantikan potongan, termasuk dua salinan identik tabel badan.
+- **482:** dua gambar badan hanya potongan rajah pertama; diganti crop lengkap. Rajah lima baris dan ilustrasi kunci pada sumber ditambahkan; gambar teks badan lain dipertahankan.
+
+Gambar asal PDF ditinjau terhadap tepi aslinya; simbol yang tidak terbaca tidak ditebak. Duplikat dinilai dari relasi, ukuran dan crop; media dan lampiran lama serta revisi 38/41 tetap.
