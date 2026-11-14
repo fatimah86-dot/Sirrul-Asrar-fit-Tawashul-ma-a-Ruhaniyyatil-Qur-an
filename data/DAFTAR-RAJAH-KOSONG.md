@@ -259,3 +259,13 @@ Tidak ada gambar yang dipaksakan atau perubahan Word pada lima halaman ini; revi
 - **497:** tidak ada rajah di aslinya; halaman teks.
 
 Tidak ada gambar yang dipaksakan dan Word tidak diubah untuk batch ini; bagian pemilik dan lampiran tetap.
+
+### Pemeriksaan PDF 498–502
+
+- **498:** tidak ada rajah di aslinya; halaman teks.
+- **499:** tidak ada rajah di aslinya; halaman teks.
+- **500:** tidak ada rajah di aslinya; halaman teks.
+- **501:** tidak ada rajah di aslinya; halaman teks.
+- **502:** tidak ada rajah di aslinya; halaman teks.
+
+Tidak ada gambar yang dipaksakan dan Word tidak diubah untuk batch ini; bagian pemilik dan lampiran tetap.
