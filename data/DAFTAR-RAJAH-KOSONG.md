@@ -150,3 +150,5 @@ Nomor dan isi dicocokkan dengan halaman PDF yang sama; foto asli ditambahkan di 
 | 430 / 430 | Rajah atas belum ada; gambar bawah yang ada dua kali terpotong. Kedua potongan badan diganti dengan foto sumber yang lebih lengkap; lampiran tidak diubah. |
 
 Sebagian isi simbol pada 285, 429, dan 430 tidak terbaca pasti dan tidak ditebak. Media lama dan lampiran dipertahankan.
+
+**Pembaruan mode otonom, 239–241:** badan memiliki duplikat identik untuk An-Nisa (239), Al-An'am (240), dan At-Tawbah (241). Masing-masing kemunculan pertama disimpan dan kemunculan kedua dihapus; gambar tambahan dan lampiran tetap.
