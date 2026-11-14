@@ -289,3 +289,12 @@ Tidak ada gambar yang dipaksakan dan Word tidak diubah untuk batch ini; bagian p
 - **512:** tidak ada rajah di aslinya; halaman promosi, penghapusan sebelumnya dipertahankan.
 
 Tidak ada gambar yang dipaksakan dan Word tidak diubah untuk batch ini; bagian pemilik dan lampiran tetap.
+
+### Pemeriksaan PDF 513–516
+
+- **513:** tidak ada rajah di aslinya; halaman teks.
+- **514:** tidak ada rajah di aslinya; halaman teks dan penutup.
+- **515:** tidak ada rajah di aslinya; halaman promosi, penghapusan sebelumnya dipertahankan.
+- **516:** tidak ada rajah di aslinya; halaman promosi, penghapusan sebelumnya dipertahankan. Lampiran yang mengikuti bagian ini di Word bukan rajah halaman 516 dan tetap utuh.
+
+Tidak ada gambar yang dipaksakan dan Word tidak diubah untuk batch terakhir ini. Pemeriksaan di atas mengenai rajah; bukan klaim bahwa seluruh teks semua halaman sudah diverifikasi kata demi kata.
