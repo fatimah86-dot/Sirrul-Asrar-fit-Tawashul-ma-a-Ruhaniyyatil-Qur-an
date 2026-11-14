@@ -6,8 +6,6 @@ Daftar ini mencatat hasil yang sudah dapat dibedakan, bukan klaim bahwa semua 51
 
 | Word lama | PDF sumber | Keterangan di Word sebelum batch | Kekurangan di badan Word |
 |---|---:|---|---|
-| 395 | 395 | `Keterangan wafaq`, `Dan inilah wafaqnya` | Hilang seluruhnya: foto wafaq empat baris belum ditempel; ada uraian teks. |
-| 428 | 428 | `[ADA RAJAH]` dan nama file crop | Hilang seluruhnya: foto wafaq 4×4 belum ada di badan, meski ada uraian dan berkas crop. |
 | 480 | 480 | `[ADA RAJAH]` menyebut tiga crop | Hilang sebagian: badan memuat dua salinan gambar bagian hati; tabel di atas dan dua rangkaian simbol di bawah belum tercakup. Perlu pemeriksaan sebelum perubahan. |
 
 ## Riwayat bagian yang sudah diisi (keadaan sebelum penempelan)
@@ -57,7 +55,7 @@ Bagian revisi pemilik lama 32→38 dan 35→41 sudah memiliki gambar dan tetap d
 
 ## Kandidat duplikasi gambar, perlu pencocokan isi dengan PDF
 
-Pemeriksaan otomatis menemukan gambar badan duplikat di halaman berikut yang mempunyai lebih dari satu crop sumber: **285, 429–431, 442–444, 446–447, 451, 457–460, 462–465, 467–468, 470, 473–474, 477–478, 481 dan 484**. Ini kandidat hilang sebagian, bukan konfirmasi final: isi masing-masing gambar masih harus dibandingkan dengan sumber. Nomornya adalah label Word saat ini; nomor PDF harus dipastikan dari isi.
+Pemeriksaan otomatis menemukan gambar badan duplikat di halaman berikut yang mempunyai lebih dari satu crop sumber: **431, 442–444, 446–447, 451, 457–460, 462–465, 467–468, 470, 473–474, 477–478, 481 dan 484**. Ini kandidat hilang sebagian, bukan konfirmasi final: isi masing-masing gambar masih harus dibandingkan dengan sumber. Nomornya adalah label Word saat ini; nomor PDF harus dipastikan dari isi.
 
 ## Pemeriksaan duplikat satu per satu: halaman 242–246
 
@@ -138,3 +136,17 @@ Nomor dan isi dicocokkan dengan PDF; rajah pertama yang hilang sebagian ditambah
 | 276 / 276 | Al-Falaq | An-Nas `image97.png` |
 
 **Pembaruan mode otonom:** duplikat badan yang identik pada 247, 248, 259, 260, 261 telah dikurangi satu sesuai aturan baru: kemunculan pertama tetap dan kemunculan kedua dihapus. Lampiran tetap utuh.
+
+## Batch otonom 285, 395, 428–430
+
+Nomor dan isi dicocokkan dengan halaman PDF yang sama; foto asli ditambahkan di akhir bagian.
+
+| Word / PDF | Hasil |
+|---|---|
+| 285 / 285 | Rajah atas hilang sebagian; foto rajah atas ditambahkan. Duplikat gambar bawah identik dikurangi satu. |
+| 395 / 395 | Wafaq empat baris belum ada di badan; foto aslinya ditambahkan. |
+| 428 / 428 | Wafaq belum ada di badan; foto aslinya ditambahkan dan label dirujukkan ke gambar. |
+| 429 / 429 | Rajah atas hilang sebagian; foto aslinya ditambahkan. Duplikat gambar bawah identik dikurangi satu. |
+| 430 / 430 | Rajah atas belum ada; gambar bawah yang ada dua kali terpotong. Kedua potongan badan diganti dengan foto sumber yang lebih lengkap; lampiran tidak diubah. |
+
+Sebagian isi simbol pada 285, 429, dan 430 tidak terbaca pasti dan tidak ditebak. Media lama dan lampiran dipertahankan.
