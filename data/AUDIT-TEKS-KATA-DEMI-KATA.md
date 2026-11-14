@@ -28,3 +28,8 @@ Sumber: PDF asli Drive `1Y89Q4KV42Xp8AUip_YMbwA4zDcUNdvnT`. Audit berlangsung pe
 ## Hal. 4–5
 
 Keduanya berupa daftar promosi karya pada PDF; penanda penghapusan promosi dalam Word dipertahankan sesuai instruksi sebelumnya.
+
+## Hal. 6–10 — pemeriksaan berlangsung
+
+- Hal. 8, terjemahan: `memegang/منekan lenganku` / `mencubit lenganku`, sesuai `فَغَمَزَ ذِرَاعِي`; memperbaiki typo campuran huruf dan arti.
+- Pencocokan halaman: bagian awal teks sumber Hal. 8 (lanjutan Al-Mu'awwidzatain sampai paragraf sebelum hadis) tercantum dalam blok Word Hal. 7. Tidak dipindahkan secara otomatis; kesesuaian teks dan batas halaman masih perlu dituntaskan sebelum batch dinyatakan lengkap.
