@@ -213,3 +213,13 @@ Duplikat disebut identik setelah cocok berkas dan ukuran. Crop dari PDF, bagian 
 - **472:** gambar badan cocok dengan sumber, dipertahankan; detail buram pada sumber tidak ditebak.
 
 Duplikat yang dihapus cocok berkas dan ukuran; media lama, lampiran serta revisi pemilik 38/41 tetap utuh. Simbol tidak diterjemahkan, lihat gambar.
+
+### Pemeriksaan PDF 473–477
+
+- **473:** rajah dan baris atas hilang, ditambahkan dari PDF; kedua gambar badan tabel identik dikurangi satu, pertama dipertahankan.
+- **474:** rajah tabel dan segitiga atas hilang, ditambahkan; kedua gambar badan rajah bawah identik dikurangi satu.
+- **475:** rajah badan dipertahankan. [TIDAK JELAS — terpotong di naskah asli] tulisan lingkar di bawah terpotong pada sumber; tidak digambar ulang.
+- **476:** gambar badan barisan rajah dipertahankan. [TIDAK JELAS — terpotong di naskah asli] tabel tercetak atas sisi kanan terpotong pada sumber; tidak ditempel, tidak ditebak.
+- **477:** barisan rajah atas hilang dan ditambahkan; duplikat kedua rajah bawah identik dihapus, pertama dipertahankan.
+
+Duplikat sama berkas dan ukuran; semua media lama, lampiran, dan revisi 38/41 dipertahankan. Simbol tidak ditafsirkan; lihat gambar.
