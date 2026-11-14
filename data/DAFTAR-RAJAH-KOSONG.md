@@ -57,7 +57,7 @@ Bagian revisi pemilik lama 32→38 dan 35→41 sudah memiliki gambar dan tetap d
 
 ## Kandidat duplikasi gambar, perlu pencocokan isi dengan PDF
 
-Pemeriksaan otomatis menemukan gambar badan duplikat di halaman berikut yang mempunyai lebih dari satu crop sumber: **272–276, 285, 429–431, 442–444, 446–447, 451, 457–460, 462–465, 467–468, 470, 473–474, 477–478, 481 dan 484**. Ini kandidat hilang sebagian, bukan konfirmasi final: isi masing-masing gambar masih harus dibandingkan dengan sumber. Nomornya adalah label Word saat ini; nomor PDF harus dipastikan dari isi.
+Pemeriksaan otomatis menemukan gambar badan duplikat di halaman berikut yang mempunyai lebih dari satu crop sumber: **285, 429–431, 442–444, 446–447, 451, 457–460, 462–465, 467–468, 470, 473–474, 477–478, 481 dan 484**. Ini kandidat hilang sebagian, bukan konfirmasi final: isi masing-masing gambar masih harus dibandingkan dengan sumber. Nomornya adalah label Word saat ini; nomor PDF harus dipastikan dari isi.
 
 ## Pemeriksaan duplikat satu per satu: halaman 242–246
 
@@ -124,3 +124,15 @@ Nomor dan isi dicocokkan dengan PDF; rajah pertama yang hilang sebagian ditambah
 | 269 / 269 | Al-Balad | Al-Layl `image83.png` |
 | 270 / 270 | Ad-Duha | Al-‘Alaq `image85.png` |
 | 271 / 271 | Al-Qadr | Al-Bayyinah `image86.png` |
+
+## Batch otonom 272–276
+
+Nomor dan isi dicocokkan dengan PDF; rajah pertama yang hilang sebagian ditambahkan dari PDF. Duplikat badan identik dalam file dan ukuran dipertahankan yang pertama, dihapus yang kedua; lampiran tetap.
+
+| Word / PDF | Rajah ditambahkan | Duplikat badan yang dikurangi |
+|---|---|---|
+| 272 / 272 | Az-Zalzalah | Al-Qari‘ah `image88.png` |
+| 273 / 273 | At-Takathur | Al-Fil `image91.png` |
+| 274 / 274 | Quraysh | Al-Kawthar `image93.png` |
+| 275 / 275 | Al-Kafirun | Al-Ikhlas `image96.png` |
+| 276 / 276 | Al-Falaq | An-Nas `image97.png` |
