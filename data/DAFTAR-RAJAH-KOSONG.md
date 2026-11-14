@@ -193,3 +193,13 @@ Seluruh media lama dan lampiran tetap; revisi pemilik 38 dan 41 identik. Simbol 
 - **462:** rajah atas **[TIDAK JELAS — terpotong di naskah asli]**, sisi kanan tertutup/terpotong pada sumber; tidak ditempel dan tidak ditebak. Rajah bawah pada badan terpotong bagian bawah; dua salinan identik diganti crop yang lebih lengkap.
 
 Gambar tambahan berasal dari PDF, tanpa menggambar ulang; simbol yang tidak terbaca tidak ditebak, lihat gambar. Media lama, lampiran dan revisi pemilik 38/41 tetap utuh.
+
+### Pemeriksaan PDF 463–467
+
+- **463:** tabel pertama dan dua baris rajah tengah belum ada di badan; keduanya ditambahkan. Duplikat kedua rajah bawah identik dihapus, pertama dipertahankan; tabel kedua dipertahankan.
+- **464:** dua baris awal rajah pertama ditambahkan; rajah kedua sebelumnya hanya bagian atas, kedua duplikat identiknya diganti crop lengkap. Gambar badan bagian lain dipertahankan.
+- **465:** kelompok tanda dan huruf bagian atas yang hilang ditambahkan; duplikat kedua gambar badan kotak identik dihapus, pertama dipertahankan.
+- **466:** gambar badan sesuai rajah pada PDF, dipertahankan.
+- **467:** badan hanya memuat tiga kotak dan terduplikasi; kedua potongan diganti crop tujuh kotak lengkap. Rajah dua baris di bawah ditambahkan.
+
+Duplikat disebut identik setelah cocok berkas dan ukuran. Crop dari PDF, bagian kurang jelas tidak ditebak, lihat gambar; media dan lampiran lama serta revisi pemilik 38 dan 41 tetap utuh.
