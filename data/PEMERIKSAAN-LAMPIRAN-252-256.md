@@ -1,0 +1,3 @@
+# Pemeriksaan wafak Hal. 252–256
+
+Dibandingkan visual terhadap PDF sumber: gambar badan Hal. 252 dua tabel (Az-Zumar, Ghafir); 253 tiga (Fussilat, Ash-Shura, Az-Zukhruf); 254 tiga (Ad-Dukhan, Al-Jathiyah, Al-Ahqaf); 255 tiga (Muhammad, Al-Fath, Al-Hujurat); 256 tiga (Qaf, Adh-Dhariyat, At-Tur). Masing-masing terlihat sesuai tabel sumber, berbeda dan urut; gambar berada setelah paragraf teks pada bagian halaman bersangkutan. Tidak ditemukan label gambar lampiran untuk Hal. 252–256, sehingga tidak ada gambar lampiran kelompok ini yang dapat dibandingkan; tidak disimpulkan bahwa lampiran lengkap. Tidak ada perubahan gambar. Ini bukan audit teks atau verifikasi tampilan hasil ekspor.
