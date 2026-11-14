@@ -152,3 +152,15 @@ Nomor dan isi dicocokkan dengan halaman PDF yang sama; foto asli ditambahkan di 
 Sebagian isi simbol pada 285, 429, dan 430 tidak terbaca pasti dan tidak ditebak. Media lama dan lampiran dipertahankan.
 
 **Pembaruan mode otonom, 239–241:** badan memiliki duplikat identik untuk An-Nisa (239), Al-An'am (240), dan At-Tawbah (241). Masing-masing kemunculan pertama disimpan dan kemunculan kedua dihapus; gambar tambahan dan lampiran tetap.
+
+### Pemeriksaan ulang PDF 431, 442–444, 446
+
+Crop baru diambil langsung dari PDF sumber dan diperiksa terhadap keempat sisi, bukan dari crop lama. Media lama dan lampiran tetap disimpan; revisi pemilik pada bagian 38 dan 41 tidak berubah.
+
+- **431:** susunan 12 kotak yang hilang ditempel lengkap di akhir bagian. Rajah tiga baris di bawahnya: **[TIDAK JELAS — crop terpotong]** bagian bawah di naskah asli sudah terpotong; crop tersebut tidak ditempel dan menunggu foto lebih lengkap. Dua gambar badan yang identik (berkas dan ukuran) dikurangi satu; gambar pertama dipertahankan.
+- **442:** tabel atas **[TIDAK JELAS — crop terpotong]** sisi kiri dan bawah di naskah asli sudah terpotong; tidak ditempel, menunggu foto lebih lengkap. Rajah bawah pada badan sebelumnya terpotong bagian bawah lingkarannya; diganti dengan crop lengkap dari PDF di akhir bagian, kedua duplikat badan lama dihapus.
+- **443:** dua rajah awal yang hilang ditempel lengkap di akhir bagian. Dua gambar badan terakhir identik (berkas dan ukuran) dikurangi satu; gambar pertama dan gambar badan lainnya dipertahankan.
+- **444:** rajah pertama yang hilang ditempel lengkap di akhir bagian. Dua gambar badan terakhir identik (berkas dan ukuran) dikurangi satu; gambar pertama dan gambar badan lainnya dipertahankan.
+- **446:** rajah besar yang hilang dan rajah tiga baris yang sebelumnya hanya dua baris ditempel lengkap di akhir bagian. Kedua duplikat badan lama identik dihapus sebagai pengganti crop yang lebih lengkap; lampiran dan media lama tetap.
+
+Sebagian huruf dan simbol pada sumber tidak jelas; lihat gambar, tanpa menebak atau menerjemahkan isi rajah. Pencatatan ini tidak menyatakan halaman lain sudah diperiksa.
