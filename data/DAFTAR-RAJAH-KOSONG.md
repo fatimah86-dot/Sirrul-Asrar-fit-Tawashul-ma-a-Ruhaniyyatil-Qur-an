@@ -249,3 +249,13 @@ Duplikat cocok berkas dan ukuran; media dan lampiran lama dan revisi 38/41 tetap
 - **491 dan 492:** tidak ada rajah di aslinya; halaman teks.
 
 Tidak ada gambar yang dipaksakan atau perubahan Word pada lima halaman ini; revisi pemilik 38 dan 41 serta lampiran tetap utuh.
+
+### Pemeriksaan PDF 493–497
+
+- **493:** tidak ada rajah di aslinya; halaman teks.
+- **494:** tidak ada rajah di aslinya; halaman teks.
+- **495:** tidak ada rajah di aslinya; halaman teks.
+- **496:** tidak ada rajah di aslinya; halaman teks.
+- **497:** tidak ada rajah di aslinya; halaman teks.
+
+Tidak ada gambar yang dipaksakan dan Word tidak diubah untuk batch ini; bagian pemilik dan lampiran tetap.
