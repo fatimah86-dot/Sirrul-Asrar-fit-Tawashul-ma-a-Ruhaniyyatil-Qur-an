@@ -269,3 +269,13 @@ Tidak ada gambar yang dipaksakan dan Word tidak diubah untuk batch ini; bagian p
 - **502:** tidak ada rajah di aslinya; halaman teks.
 
 Tidak ada gambar yang dipaksakan dan Word tidak diubah untuk batch ini; bagian pemilik dan lampiran tetap.
+
+### Pemeriksaan PDF 503–507
+
+- **503:** tidak ada rajah di aslinya; halaman teks.
+- **504:** tidak ada rajah di aslinya; halaman teks.
+- **505:** tidak ada rajah di aslinya; halaman teks.
+- **506:** tidak ada rajah di aslinya; halaman teks.
+- **507:** tidak ada rajah di aslinya; halaman teks.
+
+Tidak ada gambar yang dipaksakan dan Word tidak diubah untuk batch ini; bagian pemilik dan lampiran tetap.
