@@ -136,3 +136,5 @@ Nomor dan isi dicocokkan dengan PDF; rajah pertama yang hilang sebagian ditambah
 | 274 / 274 | Quraysh | Al-Kawthar `image93.png` |
 | 275 / 275 | Al-Kafirun | Al-Ikhlas `image96.png` |
 | 276 / 276 | Al-Falaq | An-Nas `image97.png` |
+
+**Pembaruan mode otonom:** duplikat badan yang identik pada 247, 248, 259, 260, 261 telah dikurangi satu sesuai aturan baru: kemunculan pertama tetap dan kemunculan kedua dihapus. Lampiran tetap utuh.
