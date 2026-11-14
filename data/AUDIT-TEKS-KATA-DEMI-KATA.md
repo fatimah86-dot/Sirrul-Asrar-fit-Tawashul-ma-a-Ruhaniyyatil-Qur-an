@@ -1,30 +1,29 @@
 # Audit teks kata demi kata
 
-Sumber: PDF asli Drive `1Y89Q4KV42Xp8AUip_YMbwA4zDcUNdvnT`. Audit masih berlangsung; belum ada kelompok lima halaman yang selesai diperiksa.
+Sumber: PDF asli Drive `1Y89Q4KV42Xp8AUip_YMbwA4zDcUNdvnT`. Audit berlangsung per lima halaman. Halaman 1–5 telah dibandingkan dengan sumber; halaman promosi tetap dihapus sesuai instruksi pemilik.
 
-## Hal. 1 — temuan sementara
+## Hal. 1
 
 - Arab: `الرُّوحَانِينِ` → `الرُّوحَانِيِّينَ` (sumber: الروحانيين; huruf ي yang hilang dipulihkan).
 - Transliterasi: `Syaikhir-Ruhanina` → `Syaikhir-Ruhaniyyin`, sesuai شيخ الروحانيين.
-- Pemeriksaan keseluruhan halaman dan terjemahannya belum selesai.
 
-## Hal. 3 — temuan sementara
+## Hal. 3
 
 - Arab: `وَيَتَجَاوَزْ عَنْ قَبِيحِ` → `وَتَجَاوَزْ عَنْ قَبِيحِ` (naskah: وتجاوز عن قبيح); transliterasi `wa yatajawaz` → `wa tajawaz`.
 - Arab: `وَأَكْمِلْ نَوَاظِرَنَا` → `وَاكْحُلْ نَوَاظِرَنَا` (naskah: واكحل نواظرنا); transliterasi `wa akmil` → `wak-hul`, dan terjemahan `sempurnakanlah pandangan mata kami dengan memandang kepadanya` → `celakilah mata kami dengan pandangan kami kepadanya`.
-- Pemeriksaan keseluruhan halaman belum selesai.
 
-## Hal. 2 — temuan sementara
+## Hal. 2
 
 - Urutan Arab, transliterasi, dan terjemahan: hadis qudsi tercantum sebelum kalimat `مَنْ يَتَّخِذِ اللهَ وَلِيًّا…` / seharusnya kalimat tersebut mendahului hadis dalam sumber.
-- Arab: akhir kalimat `دُونَ أَنْ يَشْعُرُو فِي` dan awal berikutnya `حَدِيثٌ قُدْسِيٌّ` / seharusnya `دُونَ أَنْ يَشْعُرُو` lalu `وَفِي حَدِيثٍ قُدْسِيٍّ`, sesuai sambungan `وفي حديث قدسي` di sumber. Transliterasi dan terjemahan ikut disesuaikan.
+- Arab: akhir kalimat `دُونَ أَنْ يَشْعُرُو فِي` dan awal berikutnya `حَدِيثٌ قُدْسِيٌّ` / seharusnya `دُونَ أَنْ يَشْعُرَ` lalu `وَفِي حَدِيثٍ قُدْسِيٍّ`, sesuai pemisahan `يشعروفي حديث قدسي` dalam sumber. Transliterasi `yasy'uru fi` / `yasy'ura; wa fi` dan terjemahan `tanpa mereka sadari` / `tanpa disadarinya` ikut disesuaikan.
 - Transliterasi: `wa tahanan` / `wa tahannan` untuk `وَتَحَنَّنْ`.
 - Terjemahan: `Ia telah disentuh (kerasukan cahaya) manusia` / `Ia telah disentuh manusia`; tambahan “kerasukan cahaya” tidak tertulis pada Arab `مَسَّهُ إِنْسَانٌ`.
-- Pemeriksaan keseluruhan halaman belum dinyatakan selesai.
+- Terjemahan: `burung-burung bertengger di atas dahan-dahan pepohonan` / `burung-burung bergerak di atas dahan-dahan dan berdiam di sana`, sesuai `وَالطَّيْرُ تَجْرِي عَلَى الْأَغْصَانِ عَاكِفَةً`.
+- Terjemahan: `penunjuk jalannya` / `perantara penjualannya`, sesuai `دَلَّالُهَا`.
 
-## Hal. 3 — temuan tambahan sementara
+## Hal. 3 — koreksi catatan sebelumnya
 
-- Arab: `طَرِيقِ مَحَجَّتِهِ` / `طَرِيقِ حُجَّتِهِ` (sumber: طريق حجته). Transliterasi `thariqi mahajjatihi` / `thariqi hujjatihi`; terjemahan `jalan lurusnya yang terang` / `jalan hujahnya`.
+- Perubahan `طَرِيقِ مَحَجَّتِهِ` menjadi `طَرِيقِ حُجَّتِهِ` dan transliterasi serta terjemahan terkait ditarik kembali setelah peninjauan gambar diperbesar; teks sebelumnya dipulihkan. Jangan mengganti bacaan berdasarkan dugaan.
 
 ## Hal. 4–5
 
