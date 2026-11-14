@@ -174,3 +174,12 @@ Sebagian huruf dan simbol pada sumber tidak jelas; lihat gambar, tanpa menebak a
 - **452:** gambar badan cocok dengan rajah pada sumber dan lengkap; dipertahankan tanpa perubahan.
 
 Crop bersumber dari PDF dan dibandingkan dengan halaman asal; bagian tulisan yang kurang jelas tetap bertanda [TIDAK JELAS], lihat gambar. Media lama dan lampiran tetap utuh; bagian revisi pemilik 38 dan 41 tetap identik.
+
+### Pemeriksaan PDF 453–457
+
+- **453:** gambar badan kehilangan bagian atas dari tanda di atas sosok; diganti dengan crop lebih lengkap dari PDF, ditempel sesudah teks. Beberapa tanda kecil tidak jelas: lihat gambar.
+- **454 dan 455:** tidak ada rajah di aslinya; halaman daftar promosi sesuai penanda penghapusan yang sudah ada, tidak dikembalikan.
+- **456:** gambar badan cocok dengan rajah yang terlihat di PDF; dipertahankan.
+- **457:** gambar badan memuat bagian kedua rajah atas dan gambar wajah, tetapi bagian pertama rajah atas hilang; crop lengkap bagian pertama ditambahkan. Duplikat kedua gambar wajah identik berkas dan ukuran dihapus, pertama dipertahankan.
+
+Seluruh media lama dan lampiran tetap; revisi pemilik 38 dan 41 identik. Simbol yang kurang jelas tidak ditebak, lihat gambar.
